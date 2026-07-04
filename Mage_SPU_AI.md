@@ -1,8 +1,85 @@
 # Mage: The Ascension — Storypath Ultra Edition
 
-> **AI/Agent Reference File** — generated from source JS modules
-> Markdown spec for LLM/agent ingestion. All rules, examples, and tables are present.
-> Structure: `#` = Chapter/Appendix &nbsp; `##` = Section &nbsp; `###` = Subsection
+
+---
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+# Contents
+
+::: {custom-style="IndexEntry"}
+
+Chapter One: Introduction`<w:r><w:tab/></w:r>`{=openxml}2
+
+Chapter Two: Core Mechanics — Storypath Ultra`<w:r><w:tab/></w:r>`{=openxml}5
+
+Chapter Three: Character Creation`<w:r><w:tab/></w:r>`{=openxml}15
+
+Chapter Four: Magic — The Tapestry of Reality`<w:r><w:tab/></w:r>`{=openxml}31
+
+Chapter Five: Paradox — The Price of Power`<w:r><w:tab/></w:r>`{=openxml}50
+
+Chapter Six: The Nine Spheres`<w:r><w:tab/></w:r>`{=openxml}56
+
+Chapter Seven: Combat — Violence in the World of Mage`<w:r><w:tab/></w:r>`{=openxml}99
+
+Chapter Eight: Factions — The Ascension War`<w:r><w:tab/></w:r>`{=openxml}162
+
+Chapter Nine: Storyguide`<w:r><w:tab/></w:r>`{=openxml}175
+
+Appendix A: Avatars`<w:r><w:tab/></w:r>`{=openxml}178
+
+Appendix B: Paradigm, Practice & Instruments`<w:r><w:tab/></w:r>`{=openxml}180
+
+Appendix C: Avatar Essences — The Shape of the Soul`<w:r><w:tab/></w:r>`{=openxml}185
+
+Appendix D: Entities and Antagonists`<w:r><w:tab/></w:r>`{=openxml}204
+
+Appendix E: Chantries — Sanctums of the Awakened`<w:r><w:tab/></w:r>`{=openxml}265
+
+Appendix F: The Nine Traditions — Deep Lore`<w:r><w:tab/></w:r>`{=openxml}284
+
+Appendix G: The Technocratic Union — Deep Operations`<w:r><w:tab/></w:r>`{=openxml}298
+
+Appendix H: The Phase Initiative System`<w:r><w:tab/></w:r>`{=openxml}329
+
+Appendix I: The Armor System`<w:r><w:tab/></w:r>`{=openxml}355
+
+Appendix J: Tags Reference`<w:r><w:tab/></w:r>`{=openxml}364
+
+Appendix K: Sanity — The Fraying Edge of the Awakened Mind`<w:r><w:tab/></w:r>`{=openxml}379
+
+Appendix L: Bringing It All Together — A Complete Example of Play`<w:r><w:tab/></w:r>`{=openxml}392
+
+Appendix M: The Cosmos — The Tellurian and Its Otherworlds`<w:r><w:tab/></w:r>`{=openxml}406
+
+Appendix N: Master Rotes — Recorded Workings of the Awakened`<w:r><w:tab/></w:r>`{=openxml}419
+
+Appendix O: Quick Reference — One-Page Cheat Sheets`<w:r><w:tab/></w:r>`{=openxml}573
+
+Appendix P: Character Sheet`<w:r><w:tab/></w:r>`{=openxml}578
+
+Appendix Q: Quick Reference Card`<w:r><w:tab/></w:r>`{=openxml}578
+
+Appendix R: Items and Gear`<w:r><w:tab/></w:r>`{=openxml}578
+
+Appendix S: Crafting`<w:r><w:tab/></w:r>`{=openxml}594
+
+Appendix T: Vehicles`<w:r><w:tab/></w:r>`{=openxml}615
+
+Appendix U: The Nephandi — Descent, the Caul, and the Fallen`<w:r><w:tab/></w:r>`{=openxml}632
+
+Appendix V: Merits, Flaws, and Wonders`<w:r><w:tab/></w:r>`{=openxml}643
+
+Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights`<w:r><w:tab/></w:r>`{=openxml}724
+
+Appendix X: Disparate Crafts — Fractured Traditions`<w:r><w:tab/></w:r>`{=openxml}730
+
+Index`<w:r><w:tab/></w:r>`{=openxml}758
+
+:::
 
 ---
 
@@ -81,6 +158,8 @@ Appendix U: The Nephandi — Descent, the Caul, and the Fallen — The three Pat
 Appendix V: Merits, Flaws, and Wonders — The complete Merit and Flaw catalogue (Physical, Mental, Social, Supernatural) plus Selected Wonders, Wonder Crafting reference tables, and the full Backgrounds list.
 
 Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights — Optional tools for running fights with large numbers of non-named NPCs without a large bookkeeping count: the Speed Tier initiative system (a small set of colored dice replaces individual Initiative Pools for mooks, scaled to the fastest thing in the fight rather than headcount) and formal Group Rules for resolving mob attacks as a single Volley. For positioning and movement, see Appendix H.
+
+Appendix X: Disparate Crafts — Fractured Traditions — The Crafts of the Disparate Alliance converted to Storypath Ultra: the Ngoma, Templars, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans — each with affinity Spheres, a signature Craft Tag, Concepts, Merits, Flaws, and rotes — plus a step-by-step toolkit for building your own Craft, Tradition, or Convention.
 
 Index — A full alphabetical index of game terms, subsystems, rules concepts, and setting elements, with live hyperlinks to each relevant section.
 
@@ -462,6 +541,22 @@ Before touching a single number, decide on a character concept in a single sente
 > "Kaito is a Technocratic NWO agent who believes that a unified global surveillance network will end all suffering, and who is slowly realizing that the Conventions may be the ones causing it."
 > "Rosamund is a Verbena hedge-witch from rural Wales who heals the sick with blood and bone and cannot understand why the Traditions fear her methods."
 > "Vikram is a Virtual Adept who cracked reality's source code at sixteen and has been high on possibility ever since — the Consensual reality is a bug, not a feature."
+
+### Optional: Wealth and Power Archetypes
+
+Some players like to anchor a concept to a driving disposition. The following archetypes — drawn from the world of wealthy and powerful mages — each pair a virtue with the vice that shadows it, and each names the circumstance under which the character **recovers a point of Willpower** (Storyguides may instead award a point of Momentum for a table that prefers it). They are entirely optional flavor.
+
+- **Archivist** (Diligence / Obsession) — an obsessive collector and categorizer of knowledge. *Recover Willpower when previously-gathered information proves instrumental to answering a colleague's question or advancing their goal.*
+- **Bravo** (Self-Assured / Arrogance) — a professional thrill-seeker who takes risks on others' behalf. *Recover Willpower when praised or rewarded for completing a significantly risky task for someone else.*
+- **Consolidator** (Appreciation / Tyranny) — believes in the power of the unified whole, acquiring and integrating people, businesses, and ideas. *Recover Willpower when you strengthen a long-term project by acquiring an asset or ally, or by dismantling a failing one.*
+- **Consumer** (Fascination / Hunger) — driven to acquire and enjoy new possessions; the material counterpart of the Bon Vivant. *Recover Willpower when purchasing and using a new possession brings exceptional joy.*
+- **Entrepreneur** (Ambition / Recklessness) — gambles wealth, time, and reputation on new ventures, magickal ones included. *Recover Willpower when a venture you invested in yields a substantial victory or payoff.*
+- **Hoarder** (Self-Reliance / Compulsion) — stockpiles resources against future threats. *Recover Willpower when you overcome a significant challenge using your own stockpiled assets.*
+- **Machiavelli** (Cunning / Paranoia) — wields power as illusion, deceit, and intimidation; better to be feared. *Recover Willpower when a lie about your true capabilities thwarts an enemy's plans.*
+- **Mediator** (Sympathy / Indecision) — heals rifts by finding common ground. *Recover Willpower when you resolve a conflict by bringing opposing figures to a compromise.*
+- **Mogul** (Ambition / Jealousy) — the front-runner of an industry, commanding Fame, Influence, and Resources. *Recover Willpower when your achievement, or a subordinate's, earns professional acclaim or reaches the Sleeping world.*
+- **Nepotist** (Pride / Frustration) — devotes power to elevating family and close friends. *Recover Willpower when someone close succeeds at a duty you entrusted to them.*
+- **Steward** (Dedication / Self-Sublimation) — a custodian who protects and expands another's home, business, or legacy. *Recover Willpower when you defend a substantial entrusted asset from attack, or significantly expand one on another's behalf.*
 
 ## Step Two — Paths (The Storypath Ultra Framework)
 
@@ -5745,6 +5840,8 @@ The Disparates are mages who never joined the Traditions, either by choice or by
 | Solificati | Alchemists; Matter and Prime. They were once part of the Order of Hermes and left in a doctrinal dispute. Their gold transmutation actually works. |
 | Taftâni | Fire-mages of the Middle East; Forces and Prime. They walk through flame and read the future in smoke. |
 
+For the full Disparate Alliance — eleven Crafts converted to Storypath Ultra (Ngoma, Knights of the Temple of Solomon, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans), each with affinity Spheres, a signature Craft Tag, Concepts, Merits, Flaws, and rotes — and for a step-by-step toolkit on building your own Craft, Tradition, or Convention, see Appendix X: Disparate Crafts — Fractured Traditions.
+
 ## The Ascension War in Play
 
 The Ascension War is not primarily a military conflict. It is a propaganda war, an ideological war, a war for the souls of uncommitted Sleepers and undecided Awakened alike. At the table, this means:
@@ -6221,6 +6318,15 @@ The Paradigm has no direct mechanical effect. Instead, it defines what a mage ca
 > 
 > This creates interesting pressure: Rosamund could learn to heal this way, but it would require first updating her Paradigm, which is a character arc.
 
+### Additional Paradigms — Wealth as Worldview
+
+The following belief-sets, drawn from the traditions of wealthy willworkers, are ready-made Paradigms for money-minded mages of any faction:
+
+- **Everything Has Value.** Every thing and person carries an inherent, perceivable, manipulable value beyond mere currency, and magic works by manipulating that value — strengthening a body raises its worth, a summoning is a business negotiation, teleportation is "buying your way in." (Mages disagree over whether that base value is created by society or imbued by a higher force.)
+- **More Is More.** The accumulation of resources is power, and holding a greater total than others is inherently powerful; loss is weakness. Workings revolve around scarcity — warding oneself against it, inflicting it on rivals — and every effect murmurs *I have more than you.*
+- **Philanthropy in All Things.** Those who have more are obligated to help those who have less, and genuine personal sacrifice is inherently magickal. Unlike mere charity, philanthropy aims to eliminate an ill entirely, so its workings tend to be large and dramatic — reviving a dying town by restoring its Node.
+- **Power Trickles Down.** Magic is the cosmic expression of social mobility: the wealthy spending freely lifts the quality of life of those below and, eventually, sparks Awakenings. It works subtly and gradually — seeding magickal practices into Sleeper lifestyles, quietly rebalancing one person's fortunes.
+
 ## Practice
 
 The Practice is the general method the mage uses to channel their will into reality. It defines the style and ritual structure of their magic.
@@ -6236,6 +6342,10 @@ The Practice is the general method the mage uses to channel their will into real
 | Meditation | The stilling of the mind until the signal comes through clearly. Instruments are breath, posture, visualization. |
 | Shamanism | Negotiation with spirits and ancestors. Instruments are sacred objects, offerings, the mage's own will. |
 | Witchcraft | Personal, intuitive, body-based magic. Instruments are herbs, blood, personal objects, the body itself. |
+| Appropriation | Taking others' wealth and assets as the working itself — "this is mine now": claiming Nodes, seizing items, stealing rotes, sometimes with token compensation. Instruments are Contacts, Sacred Ground, Social Domination, Precious Metals. |
+| Charity | Giving as magickal work, always ultimately to the mage's own benefit (doubling a harvest to buy peace; a donation that tracks a community's leaders). Instruments are Blessings and Curses, Governments, Money and Wealth, Physical Media. |
+| Investment | Bending will to change or improve a person, place, or thing to reap a later return; it embraces risk where the Syndicate's Primal Utility plays safe. Instruments are Contracts, Markets, Money and Wealth. |
+| Media Control | Reshaping consensual reality through newspapers, television, novels, and social media — hiding sigils, siphoning lifeforce, easing future Paradox. Instruments are Mass Media, Social Media, Physical Media, Artwork. |
 
 Mechanically, Practice determines which Instruments are automatically available to the mage, and which require effort. A mage who uses High Ritual magic can always use their Instruments if they have time to set up a circle. Without that circle, they may be working at a disadvantage.
 
@@ -6263,6 +6373,16 @@ Examples of Instruments:
 | Science | Chemicals, measurements, laboratory equipment |
 | Symbols | Geometric forms, sigils, runes, mandala |
 | Time and Space | Stars, lunar phases, specific locations, compass directions |
+| Artifacts and Antiques | Age and history confer authority the mage channels to overcome Paradox, or sacrifices for a burst of power |
+| Contracts | The finality of a signed pact makes them ideal for hanging spells and multi-Sphere effects, and a superb sympathetic target |
+| Cryptocurrency | Weak for sympathy, but blockchains bind computers worldwide, aiding spells cast over the internet or in the Digital Web |
+| Employees | Financially dependent workers who look the other way, unknowingly gathering components or setting up spells |
+| Governments | Achieve large, permanent solutions no private actor can — redrawing a city's roads into an exorcising glyph |
+| Markets | "Consensual reality in miniature"; their bull-and-bear flux serves as a timing element like the phase of the moon |
+| Physical Media | Books, discs, and records that store grimoires or trigger spells on play, and serve as sympathetic keys or Gate-keys |
+| Precious Metals | Gold, silver, titanium — alchemically enhanced into protective alloys, consumed for beauty, or forged into familiars |
+| Sacred Ground | Places of power the wealthy can simply buy, closing them to the public and raising Sanctums and Chantries upon them |
+| Social Media | A platform's userbase is a wide, thin sympathetic net and a Digital Web gateway; misinformation seeds spells across many minds |
 
 A mage typically begins with 3–5 Instruments chosen from the list above or invented in consultation with the Storyguide, consistent with their Paradigm and Practice.
 
@@ -12935,6 +13055,30 @@ Environmental and Situational Tags describe conditions of the scene rather than 
 
 Magical Tags describe properties of spells, magical effects, magical items, and the characters who wield them. They govern the Consensus's response to magic, the relationship between mages and their Resonance, and the specific nature of supernatural effects. Most Magical Tags interact directly with the Paradox system.
 
+## Craft Tags — Factional Signature Tags
+
+Introduced in Appendix X (Disparate Crafts — Fractured Traditions), each of these is a Magical Tag carried by members of a specific Craft. Full invoke/compel text lives in that appendix; the list below is a quick reference. In every case, *invoke* to add Enhancement (or lower Difficulty) on the noted workings, and *compel* when the noted obligation, rivalry, or flaw bites.
+
+- **Held by the Ancestors** (Ngoma) — invoke on Spirit/Prime invocation, remembrance, and ancestor-bargaining; compel when honoring the dead demands the slow, costly path.
+- **Sworn of the Temple** (Knights of the Temple of Solomon) — invoke on faith-framed protection and smiting and on oaths of duty; compel when the Order's articles forbid the easy path.
+- **Unafraid of the Backlash** (Taftâni) — invoke when working openly and truthfully; compel when fearlessness turns reckless. Carries the Craft's Paradox-mitigation rule and the optional Weaver's Die.
+- **Lingering Resonance** (Taftâni) — compel-only: the Weaver's Resonance lingers where they worked vulgar magic, easing pursuit.
+- **Everything Sucks and Then You Die** (Hollow Ones) — invoke on emotion-powered magic and subcultural blending; compel when nihilism talks them out of trying.
+- **Reverse-Engineered Enlightened Science** (Hollow Ones) — invoke when the mage's magic wears a Technocratic mask and the right gear is on hand.
+- **All Things Are One** (Ahl-i-Batin) — invoke on Correspondence/Mind/Time connection and on genuine cooperation; compel when unity blinds the Batini to a real conflict of interest.
+- **Selective Obscurity** (Ahl-i-Batin) — invoke to be forgotten; compel when the mage needs to be remembered and cannot be.
+- **Keeper of Mana** (Kahu) — invoke on reverent mana-work and on sheltering one's ohana; compel through kapu.
+- **Kapu** (Kahu) — compel-only ancestral prohibition (see the Kapu flaw options in Appendix X).
+- **Daughter of the Hunt** (Sisters of Hippolyta) — invoke on Life/Spirit/Mind protection, healing, and the hunt for a predator; compel when sisterhood or the Verbena rivalry complicates the moment.
+- **Reader of the Hidden Order** (Wu Lung) — invoke on geomancy, astrology, medicine, and god-channeling, and on reading a situation's structure; compel along the Yellow/Azure sect fault-line.
+- **Seven Made One** (Bata'a) — invoke on Clan-Sphere workings and Ring Shout rites; compel through les Mystères' demands and a Chwal's divided will.
+- **The Great Work** (Solificati) — invoke on transmutation, refinement, and laboratory work; compel when the pursuit of the Work pulls the alchemist from the crisis at hand.
+- **Streetwise Survivor** (Orphans) — invoke on disguised coincidental magic and low-profile survival; compel when isolation or an untrained gap shows.
+- **It's Just an App** (Orphans) — invoke to reframe a working as ordinary technology (halving botch Paradox per the Technomancer merit).
+- **The Map Is the Territory**, **Living Map**, **Ward Anchor** (the example Cartographers' Compact) — sample Tags from Appendix X's "build your own Craft" worked example.
+
+New **wonder and weapon Tags** referenced across Appendices X, V, and R — [Bane Weapon: Undead & Shapechangers], [Bane Weapon: Supernatural], [Bound Spirit: Djinni], [Nigh-Indestructible], [Autonomous], [Mana Reservoir], [Sèvitè: +N Clan Sphere], and [Conjure-Staff] — are priced by the tag-value hierarchy in "Tag Design and Pricing" (below) and built through the crafting rules in Appendix S.
+
 ## Phase Initiative System Tags
 
 These Tags are specific to the Phase Initiative System described in Appendix F. They modify how a character interacts with the Phase structure and are applied through abilities, circumstances, or armor properties.
@@ -14976,6 +15120,38 @@ Examples: With 4 hits, a hostile mage confronting the caster in a coffee shop va
 Coincidental when applied subtly in crowds where distraction is already present. Vulgar when witnesses are looking directly at the target during the displacement, or when the spatial fold is dramatic enough to create visible distortion.
 
 
+---
+
+### Point of Sale
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Correspondence 2, Entropy 1. Casting Attribute: Wits. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: Correspondence. Tags: [Sensory], [Subtle].
+
+When the mage forms a clear desire to buy or acquire something, the Correspondence component reveals the nearest place to obtain it and the Entropy component confirms whether it is actually available. One hit pinpoints the closest source and the route to it; further hits add the seller's asking price and any dangers attached. At Correspondence 3 or higher the mage perceives several sources and likely outcomes at once.
+
+Coincidental in all circumstances — it reads as a shrewd shopper's instinct.
+
+---
+
+### My Summer Home
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Correspondence 3. Casting Attribute: Intellect. SF: 2. Difficulty: 3 (Rote). Tags: [Transport], [Reaching], [Lasting].
+
+The mage inscribes doorways and other transitional spaces in buildings they own; tapping an inscription opens a gate to the nearest identically inscribed building, across any distance. A single hit suffices, as with a short teleport within immediate perception. At Correspondence 4 the gates become permanent, opening automatically whenever tapped.
+
+Vulgar when a Sleeper witnesses the impossible transit, or knows the distance could not have been crossed.
+
+---
+
+### Corporate Oversight
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Correspondence 4, Life 3, Mind 1. Casting Attribute: Resolve. SF: 3. Difficulty: 4 (Rote). Sig. Sphere: Correspondence. Tags: [Reaching], [Sensory], [Sustained].
+
+The mage exists in several places at once (Correspondence 4), each instance a perfect living body (Life 3), with every sensory stream processed as a single mind (Mind 1). Each hit grants one location beyond the mage's current one — doubled to two locations per hit if every site is property the mage directly owns. The magnate who can attend every board meeting simultaneously is very hard to out-maneuver.
+
+Always Vulgar.
+
+---
+
 ## Entropy — Rotes of Fate, Decay, and Probability
 
 Entropy magic touches the hidden currents of fate, the fraying edges of patterns, and the statistical heartbeat of probability. Practitioners range from Euthanatos mages who ride the river of death and rebirth to Verbena witches who charm the luck of the harvest. All Entropy workings share a quality of riding what already exists — nudging probability rather than overriding it.
@@ -15198,6 +15374,38 @@ Examples: With 3 hits, the curse is set on a Sleeper witness who intends to repo
 
 Coincidental when applied through ritual prior to the target's action. Vulgar when applied in direct view of witnesses, or when the botch itself is so improbable that observers who know probability theory begin to suspect interference.
 
+
+---
+
+### Ground's Bounty
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Entropy 1, Matter 1. Casting Attribute: Wits. SF: 1. Difficulty: 1 (Rote). Sig. Sphere: Entropy. Tags: [Sensory], [Subtle].
+
+The mage touches the ground and focuses on a target substance; Entropy reads the natural processes of decay and formation while Matter identifies the material. One hit confirms whether the substance is present in the immediate environment; each further hit reveals a detail such as purity or depth. Prospectors, developers, and resource magnates swear by it.
+
+Coincidental in all circumstances.
+
+---
+
+### Bribing Fate
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Entropy 3. Casting Attribute: Resolve. SF: 2. Difficulty: 3 (Rote). Tags: [Fate], [Sustained].
+
+The mage physically destroys something of real value — burning currency, slashing a Monet, scuttling a yacht. Until the end of the story their Resources are treated as one dot lower, and the sacrificed item cannot be repaired, even by magic. Each hit banks into a temporary pool; after a failed roll, the mage may spend one banked hit to turn their next action into a guaranteed success (this does not ward off the immediate physical or social consequences of the failure). The pool empties at the end of the story.
+
+Coincidental, unless the guaranteed success would otherwise be flatly impossible.
+
+---
+
+### Black Swan
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Entropy 5, Mind 4. Casting Attribute: Manipulation. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Entropy. Tags: [Fate], [Mental], [Ritual].
+
+A Great Work that engineers a world-shifting "impossible" event. Entropy 5 rewrites the fates of everyone involved while Mind 4 molds the victims and stuns the witnesses; Forces, Matter, or Life may be added for a more physical Black Swan. The ritual requires 10 hits accumulated as an extended task, each roll representing five hours of work, and the player must name at least two established Storyguide characters caught up in it. The event arrives the following chapter.
+
+Always Vulgar.
+
+---
 
 ## Forces — Rotes of Energy and Physical Law
 
@@ -15512,6 +15720,38 @@ Examples: With 4 hits, the mage cloaks themselves for forty minutes of active mo
 
 Coincidental in all circumstances — to observers, the cloaked target simply is not present. The absence of something is not, itself, detectable.
 
+
+---
+
+### Unrestricted Gossip
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Forces 1. Casting Attribute: Wits. SF: 1. Difficulty: 1 (Rote). Tags: [Sensory], [Subtle].
+
+The mage heightens their hearing to pick out every conversation in a space, at any volume, through walls and over background noise. One hit covers the immediate surroundings; each further hit extends coverage by another room or roughly twenty feet. Indispensable at a gala where the real deals are struck in the corners.
+
+Coincidental at all times.
+
+---
+
+### Aura of Superiority
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Forces 3, Mind 3. Casting Attribute: Presence. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Forces. Tags: [Protective], [Knockback], [Area].
+
+An invisible telekinetic field boils out three feet around the mage. Each round, anyone in the field rolls Strength + Athletics against the casting result or is hurled back and knocked prone. The field also swats away ranged attacks: each degree of the mage's success raises the difficulty of incoming ranged attacks, to a maximum of +3.
+
+Always Vulgar.
+
+---
+
+### The Sky's Ruler
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Forces 5, Entropy 4. Casting Attribute: Resolve. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Forces. Tags: [Environmental], [Ritual].
+
+Standing within the affected region, the mage conjures or dismisses the weather itself (Forces 5) and reassembles the region's atmospheric pattern so the change holds (Entropy 4). The ritual requires 15 hits as an extended task, each roll representing an hour of work.
+
+Always Vulgar.
+
+---
 
 ## Life — Rotes of Living Patterns
 
@@ -15860,6 +16100,84 @@ Examples: With 15 hits in a 3-hour ritual, a mage recently killed in combat is r
 Vulgar in all circumstances. The resurrection of the dead is among the most profound violations of the Consensus. This working generates significant Paradox regardless of preparation, and is typically only attempted in private by practitioners who have the Quintessence reserves and Paradox management capability to survive the attempt.
 
 
+---
+
+### Stress Detector
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Life 1. Casting Attribute: Composure. SF: 1. Difficulty: 1 (Rote). Tags: [Sensory], [Subtle].
+
+Life 1 lets the mage see whether a target is under financial (or comparable) stress and where it is manifesting in their body, though not why. Each degree of success reveals one additional person's stress level beyond the initial target. A negotiator who can read the room's anxiety holds every card.
+
+Coincidental in all circumstances.
+
+---
+
+### Wondrous Fertilizer
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Life 3. Casting Attribute: Intellect. SF: 2. Difficulty: 3 (Rote). Tags: [Life], [Lasting].
+
+Life 3 alters a plant's structure from within the seed to encourage growth, or triggers a second, out-of-season harvest on a mature plant. One hit yields a bountiful crop from one large plant or a square meter of small ones, at twice the natural yield; further hits double the yield exponentially. Coincidental when cast on planted seeds or sprouts with real fertilizer present (or across a field with genuine farming infrastructure). Vulgar when forced on a fully grown plant with nothing to explain the surge.
+
+---
+
+### Bet Your Life on It
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Life 5, Entropy 3, Matter 2. Casting Attribute: Manipulation. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Life. Tags: [Life], [Damage], [Sustained].
+
+A wager made flesh: Life 5 drives the theft of lifeforce, Entropy 3 ensures the contest is fair, and Matter 2 carries the transfer through the touched stakes. Winner and loser are decided by an opposed roll appropriate to the contest (Charisma + Etiquette, Intellect + Enigmas, and so on). If the caster wins, they heal Lethal damage equal to their degree of success (or gain an equivalent resistance to poison and disease for the story), the loser takes that much Lethal, and once per story the caster gains an Attribute specialty matching their opponent for the chapter. Against mages and Night-Folk, the winner also siphons points (blood, Rage, Quintessence, and the like) equal to the degrees of success, one-for-one, temporarily exceeding their normal maximum. If the caster loses, the opponent regains any Willpower they spent.
+
+---
+
+---
+
+### Heal Self
+
+Traditions: Verbena, Celestial Chorus, and healers of every faction (Enlightened Grimoire). Spheres: Life 2. Casting Attribute: Stamina. SF: 1. Difficulty: 2 (Rote). Tags: [Life], [Healing].
+
+The mage knits their own wounds, healing one health level per hit; healing Aggravated damage requires spending Quintessence. Coincidental for minor, plausible recovery; Vulgar when a serious injury visibly closes in seconds.
+
+---
+
+### Waters of the Well of Life
+
+Traditions: Verbena (Enlightened Grimoire). Spheres: Life 5. Casting Attribute: Stamina. SF: 4. Difficulty: 5 (Rote). Tags: [Life], [Healing], [Lasting].
+
+The Master of Life resurrects someone dead for fewer hours than the mage's Enlightenment rating, on 4 or more hits; the restored person returns with a single health level and heals normally thereafter. Always Vulgar.
+
+---
+
+### Distill the Azoth Elixir
+
+Traditions: Order of Hermes, Solificati (Enlightened Grimoire). Spheres: Life 5, Prime 3, Matter 2. Casting Attribute: Intellect. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Life. Tags: [Life], [Healing], [Lasting].
+
+The alchemist distills Azoth, the quintessential elixir of life (1 Quintessence + 1 hit per dram). Each dose heals 3 levels of Aggravated damage, and ten doses can restore the recently dead — though only as a mindless husk. Storable for up to a week. Coincidental as medicine; Vulgar when it raises the dead.
+
+---
+
+### Persephone's Nectar
+
+Traditions: Euthanatos, Verbena (Enlightened Grimoire). Spheres: Life 3, Correspondence 3, Matter 2. Casting Attribute: Intellect. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Life. Tags: [Life], [Poison], [Subtle].
+
+The mage turns any ordinary liquid into a poison keyed by Correspondence to a single target's Pattern, so it harms no one else who drinks it. Variants can age, sedate, or kill. Coincidental.
+
+---
+
+### Rubbing of Bones
+
+Traditions: Akashayana, Euthanatos (Enlightened Grimoire). Spheres: Prime 2. Casting Attribute: Resolve. SF: 1. Difficulty: 2 (Rote). Tags: [Prime], [Pain].
+
+The mage ripples the Quintessence within a target's Pattern to cause incapacitating pain — the victim may spend Willpower to act through it — without inflicting any permanent harm. Vulgar.
+
+---
+
+### Gift of Prana
+
+Traditions: Akashayana, Dreamspeakers (Enlightened Grimoire). Spheres: Life 2 (Life 3 to aid another), Prime 3. Casting Attribute: Composure. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Life. Tags: [Life], [Healing]. Costs 1 Quintessence.
+
+Each hit grants an ally two temporary health levels, a buffer of borrowed vitality that fades when the working ends. Coincidental.
+
+---
+
 ## Matter — Rotes of Substance and Form
 
 Matter magic governs non-living physical substance — metals, stone, wood, glass, chemicals, and manufactured materials. It can analyze, reshape, transmute, create, and destroy inanimate material. Matter practitioners are often the most practical mages in the field: they can fix engines, open locks, dissolve barriers, and forge weapons without needing to explain anything to anyone.
@@ -15987,6 +16305,92 @@ Example — 5 hits, Matter ●●● + Prime ●●: The appendages emerge from 
 
 Vulgar in all circumstances. Always generates Paradox with witnesses.
 
+
+---
+
+---
+
+### Seal of Quality
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Matter 1. Casting Attribute: Intellect. SF: 1. Difficulty: 1 (Rote). Tags: [Sensory], [Subtle].
+
+Holding an object, the mage separates its components in their perception to see hidden or microscopic flaws and damage. One hit reveals the flaws; further hits distinguish inherent defects from introduced ones, or reveal whether pressure will break the piece. The appraiser's unfair advantage.
+
+Coincidental in all circumstances.
+
+---
+
+### To Personal Specifications
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Matter 3. Casting Attribute: Dexterity. SF: 2. Difficulty: 3 (Rote). Tags: [Transmutation], [Sustained].
+
+Matter 3 makes an object briefly moldable, and the mage reshapes it by hand. Each degree of success is one way the mage transforms an aspect of the object into something more beautiful, sturdier, or higher in quality; the change lasts until the scene ends. Usually Coincidental, so long as the alterations are not obviously out of place.
+
+---
+
+### Money Printer
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Matter 5, Prime 2. Casting Attribute: Intellect. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Matter. Tags: [Transmutation], [Lasting].
+
+The mage dedicates an object — an inkjet or a 3D printer is traditional — to produce currency or high-value goods. Matter 5 expands its output regardless of the device's size, and Prime 2 conjures the raw material from nothing. Each hit raises the mage's Resources by 1 (to a maximum of Resources 10) for the rest of the chapter; once that wealth is spent, it is gone. Usually Coincidental for currency or valuables a mage of the character's apparent class would be expected to have; Vulgar for goods that class should not possess, or amounts beyond their perceived wealth.
+
+---
+
+---
+
+### Alter Weight
+
+Traditions: Order of Hermes, Sons of Ether (Enlightened Grimoire). Spheres: Matter 5. Casting Attribute: Intellect. SF: 4. Difficulty: 5 (Rote). Tags: [Transmutation].
+
+The Master of Matter increases or decreases an object's weight while leaving every other property untouched — a feather-light anvil, an immovable coin. Coincidental in modest degree; Vulgar when the discrepancy is obvious.
+
+---
+
+### Guncotton's Blessing
+
+Traditions: Sons of Ether, Order of Hermes (Enlightened Grimoire). Spheres: Matter 3. Casting Attribute: Intellect. SF: 2. Difficulty: 3 (Rote). Tags: [Transmutation], [Volatile].
+
+The mage transmutes any organic substance into a potent explosive. Vulgar.
+
+---
+
+### Exotic Matter: Antimatter
+
+Traditions: Sons of Ether, Void Engineers (Enlightened Grimoire). Spheres: Matter 5. Casting Attribute: Intellect. SF: 4. Difficulty: 5 (Rote). Tags: [Transmutation], [Damage], [Aggravated], [Area].
+
+Creating antimatter requires at least 20 hits; on contact with normal matter it detonates for three dice of Aggravated damage per hit within a 100-yard radius. Emphatically Vulgar.
+
+---
+
+### The Aura Adamantium
+
+Traditions: Order of Hermes (Enlightened Grimoire). Spheres: Matter 3 (or 5). Casting Attribute: Intellect. SF: 2. Difficulty: 3 (Rote). Tags: [Transmutation], [Protective].
+
+The mage hardens an object: at Matter 3 it becomes extremely difficult to break; at Matter 5 it can be destroyed only by magical effects. Coincidental to modest degree; Vulgar at the indestructible extreme.
+
+---
+
+### Straw into Gold
+
+Traditions: Solificati, Order of Hermes (Enlightened Grimoire). Spheres: Matter 2. Casting Attribute: Intellect. SF: 1. Difficulty: 2 (Rote). Tags: [Transmutation].
+
+A minor transmutation of a cheap substance into a valuable one — straw into gold, tears into diamonds. Usually Vulgar if the change is examined, Coincidental if it can pass unremarked.
+
+---
+
+### Watchdog
+
+Traditions: Order of Hermes, Verbena (Enlightened Grimoire). Spheres: Matter 3, Prime 2. Casting Attribute: Intellect. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Matter. Tags: [Enchanted], [Sustained].
+
+The mage imbues an object to perform a single action upon a stated trigger — standing stones that topple onto whoever tries to move them, a door that bars itself against a named intruder. Coincidental.
+
+---
+
+### Perpetual Motion
+
+Traditions: Sons of Ether (Enlightened Grimoire). Spheres: Forces 5, Prime 2. Casting Attribute: Intellect. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Forces. Tags: [Enchanted], [Lasting].
+
+The Etherite alters or creates Forces so that an object moves without fuel; five or more hits make the motion permanent. Vulgar.
 
 ---
 
@@ -16559,6 +16963,32 @@ Examples: With 3 hits in a threshold state, entering the hayimn of two sleeping 
 Coincidental in all circumstances — the mage is asleep or near-sleep, the technique produces no visible external sign, and the targets experience nothing more than a vivid dream. Vulgar only if the mage's physical state during the hayimn becomes alarming to Sleeper observers, or if the targets wake disturbed and attribute their dream disturbance to something other than ordinary sleep experience.
 
 
+---
+
+### Market Research
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Mind 2. Casting Attribute: Manipulation. SF: 1. Difficulty: 2 (Rote). Tags: [Mental], [Subtle].
+
+Meeting a target's eyes, the mage finds the deepest desires that could be satisfied right now. Three hits identify those desires and reduce the difficulty of any social manipulation against the target by 2. Each further degree of success learns one additional person's desires, with the same benefit against each. Often Coincidental — unless the mage plays on a secret the target never revealed, and knows it.
+
+---
+
+### FOMO
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Mind 4. Casting Attribute: Manipulation. SF: 3. Difficulty: 4 (Rote). Tags: [Mental], [Sustained].
+
+Through eye contact and conversation, Mind 4 forces the target to obsess over a mentioned opportunity or event, ratcheting up their anxiety. Four hits reduce, by 3, the difficulty of all social rolls to convince the target to chase the opportunity for the scene; alternatively, the mage may instead reduce the target's own social dice pools by the degree of success (to a maximum of −5) for the scene. Coincidental when the dangled opportunity is within the target's usual interests.
+
+---
+
+### Invincible Mindset
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Mind 5 (optional Matter 2). Casting Attribute: Resolve. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Mind. Tags: [Mental], [Sustained], [Ritual].
+
+The mage dons an alternate, idealized mindset for the rest of the scene — the unflappable magnate, the fearless negotiator; with Matter 2, a touched object reshapes to look the part. Creating the mindset is a ritual requiring 4 hits (each roll a half-hour of preparation); once established, future rolls to put it on or take it off need only 1 hit. Coincidental so long as the assumed mindset is not wildly out of line with the person's real beliefs.
+
+---
+
 ## Prime — Rotes of Quintessence and Magical Force
 
 Prime magic interacts with Quintessence — the fundamental energy that underlies all magical activity, flows through Nodes, and sustains the patterns of living and non-living matter. It is the Sphere most concerned with the nature of magic itself: detecting it, channeling it, storing it, and unmaking it. Virtually every Tradition has Prime rotes, because working with Quintessence is a basic survival skill for an Awakened mage.
@@ -16770,6 +17200,38 @@ Examples: With 6 hits on the initial casting, the ward is established. In the fo
 
 Vulgar in circumstances where the absorption of visible magical attacks is observed by Sleepers. Coincidental when used defensively in private settings where the ward's operation cannot be distinguished from the attacker's magic simply failing.
 
+
+---
+
+### Bank Run
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Prime 1. Casting Attribute: Intellect. SF: 1. Difficulty: 1 (Rote). Tags: [Sensory], [Subtle].
+
+Prime 1 reveals the flow of primal energy through financial and industrial institutions. If the mage holds a genuine connection to such a place, they may treat banks, markets, and factories as Nodes (per the Primal Ventures rules). One hit makes the primal current visible; drawing on these institutions as Nodes requires the appropriate connection. The Syndicate's favorite trick, and a neat wealth-to-Quintessence pipeline.
+
+Coincidental in all circumstances.
+
+---
+
+### Value Beyond Vision
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Prime 3, Matter 2 (optional Correspondence 3). Casting Attribute: Resolve. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Prime. Tags: [Prime], [Subtle].
+
+The mage draws Quintessence out of money and assets they personally own (Prime 3), pulling it through the asset itself (Matter 2); with Correspondence 3, it can be channeled from any owned asset at any distance rather than by touch. One hit channels Quintessence equal to the mage's Prime rating into a physical object (thereafter usable as Tass by anyone with Prime); two hits channel Quintessence equal to the mage's Resources Background; each further degree of success adds +1 Quintessence.
+
+Coincidental in all circumstances.
+
+---
+
+### Company in a Box
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Prime 5, Life 3, Matter 3, Mind 3. Casting Attribute: Resolve. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Prime. Tags: [Prime], [Ritual], [Lasting], [Dangerous].
+
+A Great Work that conjures an entire functioning company from will and seed capital: Prime 5 binds it into being, Life 3 grows its workforce, Mind 3 gives those employees intelligence, and Matter 3 raises its physical headquarters. The ritual requires 20 hits as an extended task (each roll five hours). On completion the player names the company; the character gains Rank (Company) 5 and 15 dots to distribute among Allies, Contacts, Resources, and Retainers. This is where the wealth-magic paradigm meets the Paradox system of Chapter Five in its most distinctive form: beyond the Paradox from casting, the mage takes 1 point of *permanent* Paradox on completion, and 1 more permanent Paradox at the start of every subsequent story the company remains active (its own employees do not count as witnesses). Once per story, quietly integrating the company deeper into society may remove at least 1 of these permanent points at the Storyguide's discretion; removing the last one fully weaves the company into the Consensus, at which point it stops generating Paradox and its employees become free people.
+
+Always Vulgar.
+
+---
 
 ## Spirit — Rotes of the Invisible World
 
@@ -17069,6 +17531,36 @@ Examples: With 6 hits on behalf of an advanced Euthanatos initiate who has prepa
 Vulgar in all circumstances — forcing another person's soul temporarily from their body is impossible to frame as anything but highly anomalous, and the catatonic body presents unmistakable signs to any observer who knows what the technique involves.
 
 
+---
+
+### Spirit of Capitalism
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Spirit 2. Casting Attribute: Composure. SF: 1. Difficulty: 2 (Rote). Tags: [Spirit], [Subtle].
+
+The mage performs an appeasing act — a purchase, a signed contract, an investment, an exchange of money — and Spirit 2 rouses the spirit of a business or a market. Each degree of success buys one question answered clearly and truthfully, with no strings attached. Afterward the mage may keep talking, but the spirit is free to demand a favor or drift back to sleep.
+
+Coincidental in all circumstances.
+
+---
+
+### Plain Old Bribery
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Spirit 3, Prime 3, Matter 2. Casting Attribute: Manipulation. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Spirit. Tags: [Spirit], [Subtle].
+
+Spirit 3 wakes a spirit while Prime 3 and Matter 2 rewrite a physical asset into pure Essence to tempt it. The working demands a sacrifice of at least 2 Resource dots (up to 8 at the Storyguide's discretion); each degree of success reduces the required sacrifice by 1, to a minimum of 1 dot. The bribed spirit then follows the mage's orders for the rest of the story. Coincidental, unless the task demanded of the spirit is truly outlandish.
+
+---
+
+### Leaving a Legacy
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Spirit 5, Entropy 5. Casting Attribute: Resolve. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Spirit. Tags: [Spirit], [Fate], [Ritual], [Lasting].
+
+A Great Work: Spirit 5 creates a new spirit and Entropy 5 binds it to the fate of the mage and their descendants. The extended ritual requires 20 hits (each roll five hours). On completion the player names the spirit and divides the accumulated hits among its Willpower, Rage, and Gnosis; it begins existence with 20 Essence. A dynasty's guardian, or its curse.
+
+Always Vulgar.
+
+---
+
 ## Time — Rotes of Temporal Perception and Manipulation
 
 Time magic is among the rarest and most disquieting of the Spheres. At lower ratings it allows perception of the past and glimpses of probable futures — uncanny but passive. At higher ratings it allows direct manipulation of temporal flow: acceleration, deceleration, and the erasure of recent events. The Cult of Ecstasy are its most celebrated practitioners, reaching temporal awareness through altered states of consciousness; the Order of Hermes approaches it through mathematical models of temporal geometry.
@@ -17342,6 +17834,38 @@ Examples: With 5 hits — a hostile mage in active combat is trapped in a twelve
 Vulgar in all circumstances. The working generates significant Paradox and should be considered among the most ethically unambiguous violations available within the Time Sphere. Its legitimate use cases are correspondingly narrow.
 
 
+---
+
+### Storied History
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Time 2. Casting Attribute: Wits. SF: 1. Difficulty: 2 (Rote). Tags: [Sensory], [Mental], [Subtle].
+
+Meeting a target's eyes, Time 2 combs through their past. Each degree of success surfaces one relevant fact about their history — true, but seen from the target's own perspective and therefore possibly incomplete. The dinner-party guest who somehow knows exactly which old wound to press.
+
+Coincidental in all circumstances.
+
+---
+
+### Insider Trading
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Time 3, Entropy 3, Mind 1. Casting Attribute: Wits. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Time. Tags: [Fate], [Sensory].
+
+Time 3 dilates time, Entropy 3 works out the methods to dodge an unwanted outcome, and Mind 1 transmits the warning back to the mage's own mind from as much as a week ago. When danger looms, the player declares how far back the warning travels and rolls; each degree of success grants one course of action that heads off the circumstance, and play proceeds as if the precaution had always been in place.
+
+Vulgar.
+
+---
+
+### Future Proof
+
+Traditions: Wealthy mages of any faction (esp. the Syndicate). Spheres: Time 5, Matter 5, Entropy 3. Casting Attribute: Resolve. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Time. Tags: [Protective], [Lasting].
+
+Time 5 cocoons an object outside the flow of aging, Matter 5 reshapes it as needed, and Entropy 3 forbids wear. Two hits preserve an object the mage can hold in two hands; three hits cover objects up to seven feet; four hits cover vehicles; larger targets follow the Feats of Time Magick scale. If the preserved object later demands a different Skill to use, the mage may substitute the original Skill if it is higher.
+
+Vulgar.
+
+---
+
 ## Cross-Sphere Rotes — Combined Workings
 
 The following rotes combine multiple Spheres in ways that produce effects neither could achieve alone. They are listed here rather than under a single Sphere because neither component is clearly "primary."
@@ -17516,6 +18040,46 @@ Coincidental when the object could plausibly have been retrieved from a bag. Vul
 
 ---
 
+**Rotes from the Enlightened Grimoire.**
+
+### Better Body
+
+Spheres: Life 3. SF: 2. Difficulty: 3 (Rote). Casting pool: Life Skill + Stamina.
+
+The mage significantly rewrites their own living Pattern — raising a Physical Attribute, sharpening their appearance, or growing claws, gills, or natural armor. Subtle, plausible changes are Coincidental; overt inhuman features are Vulgar.
+
+### Perfect Metamorphosis
+
+Spheres: Life 5. SF: 4. Difficulty: 5 (Rote). Casting pool: Life Skill + Stamina.
+
+The Master of Life becomes any animal of any size, retaining their mind — none of the risk of losing oneself that lesser shapechanging carries. Vulgar.
+
+### Circe's Enchantment
+
+Spheres: Life 5. SF: 4. Difficulty: 5 (Rote). Casting pool: Life Skill + Manipulation.
+
+The mage transforms another human into an animal — five hits for a full transformation, fewer for a partial one, with extra hits spent on additional targets or duration. Vulgar.
+
+### Iron Avatar
+
+Spheres: Life 3 / Matter 3 / Mind 2 / Prime 2. SF: 2. Difficulty: 3 (Rote). Casting pool: Life Skill + Resolve. Costs 3 Quintessence.
+
+The caster becomes a ten-foot, iron-skinned, four-armed killing machine: Strength rises to 6, each hit grants soak dice against lethal and aggravated, the extra arms add +4 dice to unarmed and Melee attacks, and a supernatural fear aura forces onlookers to resist (Willpower, difficulty 6, minimum 3 hits). Grossly Vulgar.
+
+### Warp-Spasm
+
+Spheres: Forces 3 / Life 4 / Prime 3. SF: 3. Difficulty: 4 (Rote). Casting pool: Life Skill + Might.
+
+The body twists into a fury-filled warrior form: +1 to all Physical Attributes per two hits and +2 damage dice in melee from radiated heat. Sustaining it past a scene costs Willpower per extra increment, or the warrior degenerates into a mindless berserker. Vulgar.
+
+### Talons
+
+Spheres: Life 3 (optional Matter 2 / Prime 2). SF: 2. Difficulty: 3 (Rote). Casting pool: Life Skill + Dexterity.
+
+The mage grows steel-hard claws dealing Strength +2 Aggravated, lasting two turns per hit; each strike that lands costs one Quintessence. Vulgar.
+
+---
+
 ## Elemental Mastery
 
 Forces and Matter combine with Prime and other Spheres to allow mages mastery over the raw elements — fire, water, earth, air, electricity, and the more exotic energies of the modern age.
@@ -17567,6 +18131,46 @@ Spheres: Forces 5 / Matter 5 / Life 5 / Mind 5 / Spirit 3 minimum; actual requir
 The mage creates a new Horizon Realm — a pocket dimension with its own environment, physics, and inhabitants. Crafting the basic structure of a habitable Realm requires 100 or more hits in an extended ritual over days or weeks. Personalised Realms with complex ecosystems and self-sustaining physical laws may require 500 or more hits — typically a Great Work undertaken by a council of Masters. A Realm requires at least one associated Node for its energy source.
 
 Inherently Vulgar by ordinary standards, but performed outside normal Paradox considerations once the Realm is established, since no Sleepers are present.
+
+---
+
+**Rotes from the Enlightened Grimoire.**
+
+### Ignis
+
+Spheres: Forces 3 / Prime 2. SF: 2. Difficulty: 3 (Rote). Casting pool: Forces Skill + Dexterity.
+
+The mage conjures flame from nothing and hurls it at a target — the signature aggression of House Flambeau. Vulgar.
+
+### Dragonstorm
+
+Spheres: Forces 4–5 / Prime 4–5. SF: 4. Difficulty: 5 (Rote). Casting pool: Forces Skill + Might.
+
+Refined Greek fire. At Prime 4 it deals (hits × 3) Aggravated; at Prime 5, (hits × 4) and it can overwhelm even a creature's flame resistance. Forces 5 doubles the blast radius. Vulgar.
+
+### Call Lightning
+
+Spheres: Forces 3. SF: 2. Difficulty: 3 (Rote). Casting pool: Forces Skill + Dexterity.
+
+During a thunderstorm, the mage routes a bolt from the clouds down onto a target. Vulgar (though a storm gives cover for the framing).
+
+### Arc
+
+Spheres: Correspondence 2 / Forces 2. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: Forces. Casting pool: Forces Skill + Dexterity.
+
+The mage draws electricity out of the power grid and lashes a target with an arc of current. Vulgar.
+
+### Tempest in a Teapot
+
+Spheres: Forces 5. SF: 4. Difficulty: 5 (Rote). Casting pool: Forces Skill + Resolve.
+
+The mage conjures a storm from clear sky; more hits mean a more violent tempest. (Its lesser cousin, Weather Working at Forces 4, only manipulates weather that already exists.) Vulgar.
+
+### Ball of Abysmal Flames ("The Nuke")
+
+Spheres: Forces 5 / Prime 5 / Time 4 / Matter 3. SF: 4. Difficulty: 5 (Rote). Casting pool: Forces Skill + Resolve.
+
+The mage leeches Quintessence and ignites the air itself into a growing firestorm: Prime 5 draws fuel from living beings, Matter compresses it into a throwable ball, and Time delays detonation long enough to flee. Catastrophically Vulgar.
 
 ---
 
@@ -17624,6 +18228,46 @@ Coincidental at all times.
 
 ---
 
+**Rotes from the Enlightened Grimoire.**
+
+### Parma Magica
+
+Spheres: Prime 3. SF: 2. Difficulty: 3 (Rote). Casting pool: Prime Skill + Resolve.
+
+The mage banks up to 2 points of Quintessence per hit that can be spent only on countermagick and unweaving others' effects. These points sit outside the mage's normal maximum, limited only by what they can carry. Coincidental.
+
+### Node Raider
+
+Spheres: Prime 3. SF: 2. Difficulty: 3 (Rote). Casting pool: Prime Skill + Cunning.
+
+The mage roughly wrenches Quintessence from a Node — one point per hit, redirectable into a Periapt. The abused Node yields nothing for a number of days equal to the hits, loses a level of rating per ten hits taken, and is destroyed if drained to zero. Vulgar.
+
+### Delay Paradox
+
+Spheres: Prime 3 / Spirit 3 / Time 3. SF: 2. Difficulty: 3 (Rote). Casting pool: Prime Skill + Composure.
+
+The mage spreads an incoming Paradox backlash across time so it lands at no more than one point per day (the days between points equal the hits), turning a lethal spike into a survivable trickle. Coincidental.
+
+### Paradox Ward
+
+Spheres: Prime 5. SF: 4. Difficulty: 5 (Rote). Casting pool: Prime Skill + Resolve.
+
+The Master invests Quintessence into an object that smooths the local weave of reality, cancelling Paradox the mage has already accrued or will accrue while it lasts. Coincidental.
+
+### Heart's Blood (Self-Sacrifice)
+
+Spheres: Prime 1. SF: 1. Difficulty: 1 (Rote). Casting pool: Prime Skill + Stamina.
+
+The mage spends their own vitality for power — gaining one point of Quintessence per level of Bashing damage taken (two per level of Lethal). Coincidental, and grim.
+
+### Flames of Purification
+
+Spheres: Prime 4. SF: 3. Difficulty: 4 (Rote). Casting pool: Prime Skill + Resolve.
+
+The mage attacks a target's very Pattern, dissolving it back into raw Quintessence — some of which the caster may capture. Vulgar.
+
+---
+
 ## Enhanced Perceptions
 
 ### Basic Sphere Perceptions
@@ -17649,6 +18293,46 @@ Spheres: Time 1 (immediate probability, one turn ahead); Time 2 (minutes to hour
 The mage perceives events that have not yet occurred or occurred before she was present. Time 1 gives an instinctive sense of immediate probabilities. Time 2 extends this to vague visions of the near future. Time 3 allows clear hindsight of events that have occurred in a location the mage can touch or perceive. Time 4 reaches into deeper history without requiring physical connection. Visions show the most probable outcome of current trends, not certainties. The Storyguide rolls a die secretly; on a 1, the vision is misleading. Each hit adds detail or extends the temporal range.
 
 Coincidental when the mage meditates privately. Vulgar when visions manifest visibly or the mage accurately predicts specific future events in front of observers.
+
+---
+
+**Rotes from the Enlightened Grimoire.**
+
+### The Gutter View
+
+Spheres: any single Sphere at 1. SF: 1. Difficulty: 1 (Rote). Casting pool: Sphere Skill + Awareness.
+
+The survival-magic of the self-taught: a single dot in any Sphere grants that Sphere's characteristic sense — Correspondence feels the shape of the surrounding area, Entropy spots the weak point, Forces sees across the spectrum, Life senses living things, Mind reads auras and surface feeling, Matter finds what is hidden, Spirit sees ghosts, Time notices tampering. Coincidental.
+
+### Divinations
+
+Spheres: Time 2. SF: 1. Difficulty: 2 (Rote). Casting pool: Time Skill + Wits.
+
+The mage looks into the past or the future, splitting hits between the vision's duration and how far it reaches through time — the further away the moment, the less reliable the glimpse. Coincidental.
+
+### Psychometry
+
+Spheres: Time 2 / Matter 1. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: Time. Casting pool: Time Skill + Wits.
+
+By touching an object the mage reads its history — where it has been and the significant events that unfolded near it. Coincidental.
+
+### Filter All-Space
+
+Spheres: Correspondence 3 (optional Mind 1). SF: 2. Difficulty: 3 (Rote). Casting pool: Correspondence Skill + Intellect.
+
+The mage searches the entire universe at once for a specific object or creature. Without the Mind component the flood of simultaneous perception is hard to interpret. Coincidental.
+
+### Read the Soul
+
+Spheres: Mind 1 (or Spirit 1). SF: 1. Difficulty: 1 (Rote). Casting pool: Mind or Spirit Skill + Empathy.
+
+The mage reads a target's aura — its colors, its steadiness, the shadows of its Resonance. Coincidental.
+
+### Sense Connection
+
+Spheres: Correspondence 1. SF: 1. Difficulty: 1 (Rote). Casting pool: Correspondence Skill + Awareness.
+
+The mage determines whether an object is being remotely manipulated, or whether two Patterns share a sympathetic connection. Coincidental.
 
 ---
 
@@ -17714,6 +18398,46 @@ Coincidental at all times — mental communication leaves no visible trace.
 
 ---
 
+**Rotes from the Enlightened Grimoire.**
+
+### Arrest the Flight of Arrows
+
+Spheres: Forces 2. SF: 1. Difficulty: 2 (Rote). Casting pool: Forces Skill + Dexterity.
+
+The mage leeches the kinetic energy from incoming missile weapons — each hit is subtracted directly from a ranged attack's roll against them. Coincidental.
+
+### Bullet Catch
+
+Spheres: Forces 2 / Life 2 / Time 2. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: Forces. Casting pool: Do (Athletics) + Dexterity. Requires the Do art.
+
+Only through the enlightened art of Do can a martial artist pluck bullets from the air. Vulgar.
+
+### Dragon Fist
+
+Spheres: Life 3 / Prime 2 (optional Forces 3). SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Life. Casting pool: Do (Close Combat) + Might. Costs 1 Quintessence per attack.
+
+The Akashic's strikes rupture organs from within, dealing Aggravated damage; the Forces version wreathes the fists in flame as well. Vulgar.
+
+### Wearing the Bear Shirt (Berserking)
+
+Spheres: Life 3 / Mind 1 / Spirit 4. SF: 3. Difficulty: 4 (Rote). Sig. Sphere: Spirit. Casting pool: Spirit Skill + Might.
+
+Channeling the spirit of the bear, each hit adds a dot of Strength or Stamina, or ignores a level of wound penalties for the scene — even to legendary heights — at the cost of permanent Paradox accrued during the working. Vulgar.
+
+### The Final Blow
+
+Spheres: Entropy 4 / Life 3 / Mind 5 / Prime 3. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Mind. Casting pool: Do (Close Combat) + Resolve.
+
+The Akashic refuses to fall: each hit, plus a spent Willpower point, grants an extra health level to keep fighting past the moment of death, with further hits extending how long they endure. Vulgar.
+
+### Death Ray
+
+Spheres: Forces 3 (or Entropy 4) / Prime 2 (optional Time 3). SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Forces. Casting pool: Forces Skill + Dexterity (Firearms to aim).
+
+A laser or a Pattern-dissolving disintegration beam, either dealing Aggravated damage on a Dexterity + Firearms roll; Time 3 makes it fire as an automatic weapon. Vulgar.
+
+---
+
 ## Mystic Travel
 
 ### Speed — Accelerated Movement
@@ -17750,6 +18474,52 @@ Vulgar in virtually all circumstances.
 
 ---
 
+**Rotes from the Enlightened Grimoire.**
+
+### The Seven-League Stride
+
+Spheres: Correspondence 3. SF: 2. Difficulty: 3 (Rote). Casting pool: Correspondence Skill + Dexterity.
+
+The mage steps from one place to another nearly instantly, sometimes blurring across the intervening distance, sometimes simply vanishing and reappearing. Vulgar when the transit is witnessed.
+
+### Hermes Portal
+
+Spheres: Correspondence 4. SF: 3. Difficulty: 4 (Rote). Casting pool: Correspondence Skill + Intellect.
+
+The mage opens a free-standing, stable portal between two locations that anyone may walk through. Vulgar.
+
+### Astral Projection
+
+Spheres: Mind 4. SF: 3. Difficulty: 4 (Rote). Casting pool: Mind Skill + Resolve.
+
+The mage releases their mind to enter the Astral Umbra and drift, insubstantial, through the material world. Coincidental (the body appears merely entranced).
+
+### Stepping Sideways
+
+Spheres: Spirit 3. SF: 2. Difficulty: 3 (Rote). Casting pool: Spirit Skill + Resolve.
+
+The mage crosses the Gauntlet into the Near Umbra. Vulgar.
+
+### Breach the Gauntlet
+
+Spheres: Spirit 4. SF: 3. Difficulty: 4 (Rote). Casting pool: Spirit Skill + Resolve.
+
+The mage tears a gateway into the Umbra wide enough for others to use as well. Vulgar.
+
+### Telepathy
+
+Spheres: Mind 3. SF: 2. Difficulty: 3 (Rote). Casting pool: Mind Skill + Composure.
+
+The mage speaks mind-to-mind with a target, wordless and direct. Coincidental.
+
+### Wings of Icarus
+
+Spheres: Forces 4. SF: 3. Difficulty: 4 (Rote). Casting pool: Forces Skill + Dexterity.
+
+The mage conjures wings of wax and feather for clumsy, exhilarating flight; a strong wind makes the working easier. Vulgar.
+
+---
+
 ## Necromancy — The Arts of the Dead
 
 ### The Vidare Mortem — Seeing the Road to Death
@@ -17767,6 +18537,52 @@ Spheres: Entropy 4 / Life 4 / Spirit 3 / Prime 2. SF: 3. Difficulty: 2 (Rote). C
 The necromancer grafts spiritual essence, Quintessential energy, and animated biological matter into a self-sustaining undead construct with genuine autonomy — it thinks, learns, and develops over time. The process requires weeks of extended-roll work (target: 20 or more hits), the willing or captured spirit of a deceased person or creature, a suitable physical form, and substantial Quintessential investment. The resulting construct has its own Willpower and Resonance; it is loyal to its creator by default but not unconditionally so. Mages pursuing lichedom (merging their own spirit with a constructed undead body) follow this same path, requiring additional Prime and Mind effects.
 
 Vulgar in all circumstances.
+
+---
+
+**Rotes from the Enlightened Grimoire.**
+
+### Fetter Ball
+
+Spheres: Prime 2 / Spirit 4. SF: 3. Difficulty: 4 (Rote). Sig. Sphere: Spirit. Casting pool: Spirit Skill + Intellect.
+
+The necromancer crafts a one-point Fetter for a willing Wraith, sealed inside a ball of wax (often around a crumpled contract). The Wraith cannot affect the object, making it a potent, portable anchor for further necromancy. Coincidental.
+
+### Voice Across the Void
+
+Spheres: Correspondence 2 / Mind 3 / Spirit 3. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Spirit. Casting pool: Spirit Skill + Composure.
+
+Using a Fetter Ball as a focus, the mage holds a two-way conversation with its Wraith across any distance, needing only a single hit. Coincidental.
+
+### Reanimation
+
+Spheres: Spirit 2 (or Forces 2) / Matter 2 / Prime 2. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: Spirit. Casting pool: Spirit Skill + Intellect.
+
+The mage animates a corpse into a mobile skeleton or shambling body. Vulgar.
+
+### Song of Orpheus
+
+Spheres: Life 5 / Matter 2 / Prime 2 / Time 2 / Spirit 5. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Life (tie — first listed). Casting pool: Life Skill + Resolve, extended Great Work.
+
+The mage restores the dead to true life — Pattern Spheres and Prime rebuild the body, Time verifies its former Pattern, and Spirit summons the soul and avatar home. This is explicitly a multi-session undertaking, never a quick resurrection. Vulgar.
+
+### Lichedom
+
+Spheres: Entropy 4 / Life 4 / Matter 4 / Spirit 4 / Prime 3 / Mind 1. SF: 3. Difficulty: 4 (Rote). Sig. Sphere: Spirit. Casting pool: Spirit Skill + Resolve, extended Great Work.
+
+The forbidden path to undeath: the mage severs their own avatar from their body and freezes themselves at the instant of death — the one route to immortality that needs no Master to bestow it, and the one most likely to damn the one who walks it. Vulgar.
+
+### Gilgul
+
+Spheres: Spirit 5 / Entropy 5 / Mind 5 / Prime 5 (optional Life 3–5, Forces 3, Correspondence 5). SF: 4. Difficulty: 5 (Rote); the floor never drops below 7. Casting pool: Spirit Skill + Resolve, extended Great Work.
+
+The Traditions' ultimate punishment: the total annihilation of an offender — the avatar destroyed, the bond between avatar and mind severed, the energy dispelled. Conscientious participants risk a week of existential depression afterward (Willpower roll, difficulty 10). Vulgar.
+
+### Dukhamarana Moksa (Release of Agonizing Death)
+
+Spheres: Entropy 4 / Life 3. SF: 3. Difficulty: 4 (Rote). Sig. Sphere: Entropy. Casting pool: Entropy Skill + Resolve.
+
+The Euthanatos death-rote inflicts unsoakable Aggravated damage whose wounds will not heal without mystical intervention; the slain crumble to dust and cannot be recreated. Vulgar.
 
 ---
 
@@ -17830,6 +18646,46 @@ Vulgar when the binding is overtly supernatural. Coincidental only in a ritual c
 
 ---
 
+**Rotes from the Enlightened Grimoire.**
+
+### Circle of Binding
+
+Spheres: Spirit 4 / Prime 4 / Correspondence 4. SF: 3. Difficulty: 4 (Rote). Sig. Sphere: Spirit. Casting pool: Spirit Skill + Intellect.
+
+The classic Hermetic technique: the mage summons a spirit and traps it within warding circles (keeping it *in*, not out), while accumulated Prime hits stand ready to resist any power the spirit tries to use from inside. Vulgar.
+
+### Ward
+
+Spheres: Correspondence 4. SF: 3. Difficulty: 4 (Rote). Casting pool: Correspondence Skill + Intellect.
+
+The mage prevents others from forming sympathetic connections to a protected location; conjunctional Spheres filter exactly who or what may pass and set the consequences for crossing. Coincidental when subtle.
+
+### Spirit Warding
+
+Spheres: Spirit 2 (or 4) / Prime 2. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: Spirit. Casting pool: Spirit Skill + Resolve.
+
+At Spirit 2 the mage raises the local Gauntlet by one per hit (to a maximum of 10); at Spirit 4 they raise a shield that stops spirits from materializing at all; the Prime component damages any spirit that tries to force its way through. Coincidental.
+
+### Bottle of Djinn
+
+Spheres: Spirit 4 / Matter 3 / Prime 2. SF: 3. Difficulty: 4 (Rote). Sig. Sphere: Spirit. Casting pool: Spirit Skill + Manipulation.
+
+The mage draws a djinn into a prepared container keyed to a trigger phrase, with three turns to seal the vessel before the spirit can wrench free. Vulgar.
+
+### Conjure the Beast
+
+Spheres: Correspondence 4 / Spirit 2–3 (optional Mind 2). SF: 3. Difficulty: 4 (Rote). Sig. Sphere: Correspondence. Casting pool: Correspondence Skill + Presence.
+
+The mage opens a portal across the Gauntlet to summon a horror from beyond — most beings need Spirit 3, the mightiest Spirit 4, and the Mind component helps keep the summoned thing on the caster's side. Lose control and it runs loose until banished. Vulgar.
+
+### Spirit Slaying and Spirit Eating
+
+Spheres: Spirit 2 / Prime 2 (Eating: add Mind 3 / Prime 3). SF: 1. Difficulty: 2 (Rote). Sig. Sphere: Spirit. Casting pool: Spirit Skill + Might.
+
+The mage infuses a weapon to strike spirits through the Gauntlet; the Eating variant siphons the wounded spirit — each level of damage yields a Quintessence point, reduces its Power, and (with enough hits) devours its memories. Vulgar.
+
+---
+
 ## Time Distortion and Travel
 
 ### Rewinding Time — Local Temporal Reversal
@@ -17847,6 +18703,52 @@ Spheres: Time 4 / Entropy 3. SF: 3. Difficulty: 3 (Rote). Casting pool: Time Ski
 The mage steps partially outside the flow of time, becoming immune to the effects of magical time manipulation, Entropic acceleration of aging, or temporal distortion Effects that target her specifically. While this Effect is active, time-based attacks against the mage must exceed the mage's hit count to affect her. The mage herself continues to age and act normally; this immunity applies only to externally imposed temporal effects.
 
 Coincidental at all times — a purely internal effect invisible to observation.
+
+---
+
+**Rotes from the Enlightened Grimoire.**
+
+### Distort Time
+
+Spheres: Time 3. SF: 2. Difficulty: 3 (Rote). Casting pool: Time Skill + Resolve.
+
+The mage generates a bubble of accelerated or decelerated time: every two hits shifts the rate by one factor (two hits doubles, four hits triples). Vulgar.
+
+### Sidestep Time
+
+Spheres: Time 5. SF: 4. Difficulty: 5 (Rote). Casting pool: Time Skill + Resolve.
+
+The Master of Time steps outside the flow entirely, freezing the whole world from their own perspective. Vulgar.
+
+### Time Travel
+
+Spheres: Time 5. SF: 4. Difficulty: 5 (Rote). Casting pool: Time Skill + Resolve.
+
+The mage disappears and reappears in a different time; an anchor point allows a return trip, otherwise the journey is one-way. It generates massive Paradox and is extraordinarily dangerous. Vulgar.
+
+### Co-Location
+
+Spheres: Correspondence 5. SF: 4. Difficulty: 5 (Rote). Casting pool: Correspondence Skill + Intellect.
+
+The mage causes two distinct locations to overlap and interact directly. Once separated, the same two objects can never be superimposed again. Vulgar.
+
+### Polyappearance
+
+Spheres: Correspondence 4. SF: 3. Difficulty: 4 (Rote). Casting pool: Correspondence Skill + Composure.
+
+The mage exists in several places at once; observers see and interact with every instance, but the mage cannot act independently in each without added Mind, Life, and Prime. Vulgar.
+
+### Bubble of Reality
+
+Spheres: Correspondence 4. SF: 3. Difficulty: 4 (Rote). Casting pool: Correspondence Skill + Resolve.
+
+The mage folds a pocket dimension around an object or being, trapping it outside of ordinary space. Vulgar.
+
+### Daedalean Labyrinth
+
+Spheres: Correspondence 5. SF: 4. Difficulty: 5 (Rote). Casting pool: Correspondence Skill + Intellect.
+
+The mage warps a space into a maze; anyone caught within becomes hopelessly lost unless they beat the designer's hits on a Willpower roll, and even then they need Correspondence of their own to find the way out. Vulgar.
 
 ---
 
@@ -17919,6 +18821,77 @@ Coincidental when the doubt appears to arise naturally from events. Vulgar when 
 ---
 
 These rotes represent named and mechanically specified techniques drawn from How Do You DO That?'s comprehensive treatment of Sphere magick. Additional applications — extended ranges, enhanced effects, combinatorial workings — follow the same underlying mechanics. The Storyguide has final authority over SF costs, Paradox generation, and Coincidental and Vulgar determinations for any application not specified above.
+
+**Rotes from the Enlightened Grimoire.**
+
+### Ultimate Argument
+
+Spheres: Mind 3. SF: 2. Difficulty: 3 (Rote). Casting pool: Mind Skill + Manipulation.
+
+The mage can talk almost anyone into almost anything; against an unsuspecting target, hits equal to or exceeding their temporary Willpower simply win the argument, while a wary target resists with a Willpower roll. Coincidental.
+
+### Empathic Projection
+
+Spheres: Mind 2. SF: 1. Difficulty: 2 (Rote). Casting pool: Mind Skill + Presence.
+
+The mage projects a chosen emotion into a target, its intensity scaling with hits. Coincidental.
+
+### Possession
+
+Spheres: Mind 4. SF: 3. Difficulty: 4 (Rote). Casting pool: Mind Skill + Resolve.
+
+The mage seizes direct control of a target, forcing their body to act according to the caster's will. Vulgar.
+
+### Willful Binding
+
+Spheres: Mind 4. SF: 3. Difficulty: 4 (Rote). Casting pool: Mind Skill + Manipulation.
+
+The mage lays a command the target cannot violate — broad or specific — though the victim may spend Willpower to defy it for a single round. Coincidental (the compulsion is invisible).
+
+### Veil of Invisibility
+
+Spheres: Forces 2 / Life 3. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Life. Casting pool: Life Skill + Dexterity.
+
+The mage alters their body so it no longer interacts with light — one hit blurs them, three or more render them wholly invisible. Vulgar.
+
+### Sjonhverfing (Deceiving of the Sight)
+
+Spheres: Mind 2 (or 4), or Entropy 5, or Forces 2. SF: 1. Difficulty: 2 (Rote). Casting pool: Mind Skill + Manipulation.
+
+The Norse art of clouding minds: instill fear (basic), implant full illusions (advanced), or with Entropy strip a target's sense of up and down or summon a blinding mist. The illusion is dispelled if the mage is blindfolded. Coincidental.
+
+### Beginner's Luck
+
+Spheres: Entropy 2. SF: 1. Difficulty: 2 (Rote). Casting pool: Entropy Skill + Composure.
+
+The first time the mage attempts a given feat, they gain automatic successes on the ability roll equal to the hits on this working. Coincidental.
+
+### Threefold Return
+
+Spheres: Entropy 4 / Time 4. SF: 3. Difficulty: 4 (Rote). Sig. Sphere: Entropy. Casting pool: Entropy Skill + Composure.
+
+A worn charm — often a small mirror — that, when expended, returns proportional benefit or harm to whoever last acted toward the mage. Coincidental.
+
+---
+
+## Sphere Effect Thresholds — A Grimoire Reference
+
+The *Enlightened Grimoire* is, above all, a catalogue of which Sphere at which rating accomplishes a given class of effect. The table below distills its guidance into a Storyguide's quick reference for adjudicating freeform magic and new rotes. These are the dot ratings at which an effect *becomes possible*; the SPU Difficulty of the working equals the highest Sphere dot required, exactly as elsewhere in this appendix.
+
+- **Perception (any Sphere ●):** a single dot in any Sphere grants that Sphere's characteristic sense — Correspondence feels the surrounding area, Entropy the weak point, Forces the full spectrum, Life nearby life, Matter hidden things, Mind auras and surface emotion, Spirit ghosts across the Gauntlet, Time temporal tampering.
+- **Correspondence:** remote viewing/scrying ●●; universe-wide search or perceiving several places at once ●●●; a teleporting step ●●●; a stable walk-through portal ●●●●; warding a place against connection ●●●●; overlapping two locations (co-location) ●●●●●.
+- **Time:** viewing past or future ●●; accelerating/slowing time or locally rewinding it ●●●; stepping outside time's flow or true time travel ●●●●●.
+- **Mind:** reading auras and surface feeling ●; telepathy ●●●; astral projection, possession, or editing memory ●●●●; rebuilding a mind wholesale ●●●●●.
+- **Spirit:** seeing across the Gauntlet ●; calling or materializing a spirit ●●; stepping into the Near Umbra ●●●; breaching the Gauntlet for others, binding a spirit, shielding against materialization, or creating a Fetish ●●●●; reaching the Deep Umbra ●●●●●.
+- **Prime:** countermagick and sensing/storing Quintessence ●–●●●; enchanting a weapon or consecrating a living familiar ●●; permanently binding magic into a Talisman or Artifact ●●●●; creating from pure Quintessence or forging a Node ●●●●●.
+- **Life:** healing oneself ●●; healing or harming others and self-shapeshifting ●●●; transforming others or growing a body ●●●●; resurrection ●●●●●.
+- **Matter:** analysis and minor transmutation ●–●●; reshaping or hardening ●●●; exotic matter such as Primium or antimatter ●●●●●.
+- **Warding:** raising the local Gauntlet (one step per hit, max 10) Spirit ●●; a shield against spirit materialization Spirit ●●●●; a ward against sympathetic connection Correspondence ●●●●; a ward excluding one category of thing Prime ●● plus the relevant Sphere at ●●.
+- **Sacrifice yields Quintessence** at fixed rates: harming oneself gives one point per Bashing health level (two per Lethal); sacrificing a Sleeper gives one per level (~14 total); an Aztec-style heart sacrifice gives three per hit. **Healing Aggravated damage always costs Quintessence**, and many attack rotes scale raw damage by hits.
+
+> OPTIONAL — THE ROTE-POINT SYSTEM. The *Enlightened Grimoire* offers an alternative economy for learning rotes that a Storyguide may layer over this book's Rote advantage. A character has a pool of **rote points** (5 rote points = 1 experience; start with 10; 3 rote points per freebie). A rote's base cost equals the **total Sphere dots** it involves; learning it lets the mage roll their Sphere Skill *plus* the primary Sphere rating (a larger pool) and never suffer the fast-casting penalty. Extra refinements — Improved Casting (−1 Difficulty), Backlash Resistance, Penetration, an automatic success, and so on — can each be bought up to three times at escalating cost. A mage may only learn a rote that overlaps their own Paradigm, Practice, or Instruments; overlap only at the Paradigm level triples the cost, only at the Practice level doubles it. A handful of the most extreme effects — **Lichedom, Gilgul, Holy Union, Iron Avatar** — are Rote-Only and cost double to codify. Use this system if your table wants rote acquisition to feel like a tangible, budgeted craft; ignore it otherwise, and use the standard Rote advantage described at the head of this appendix.
+
+---
 
 # Appendix O: Quick Reference — One-Page Cheat Sheets
 
@@ -20671,6 +21644,10 @@ When spending Willpower to gain automatic hits, you gain 2 automatic hits instea
 
 ---
 
+### Dilettante (1 or 3 pt. Mental Merit)
+
+You have dabbled in a little of everything. For 1 point, your untrained Skill rolls no longer suffer the +1 difficulty penalty for lacking the Skill. For 3 points, you additionally gain one automatic success on a complementary roll or an untrained Skill roll.
+
 ## Mental Flaws
 
 ### Compulsion (1–3 pt. Flaw)
@@ -20927,6 +21904,14 @@ You have a profound and reciprocated bond with another person. Once per session,
 
 ---
 
+### Fail Upwards (2 pt. Social Merit)
+
+Once per story, when you botch a Social roll in public, you may turn the roll into a single success instead. The blunder is not erased and the immediate target still feels slighted, but public opinion spins it in your favor — read as candor, or "telling it like it is."
+
+### Screw the Rules (4 pt. Social Merit)
+
+Once per story arc, you can fast-track a purchase so that the paperwork clears and the item is in your hands within hours. Fast-tracking costs an additional dot of Resources, and rare or illegal goods may demand substantially higher Resources (Storyguide's discretion). The item must actually be for sale — you cannot force an unwilling seller, though the Storyguide may permit illegal acquisition such as organized theft — and hurried efforts risk leaving an incriminating evidence trail.
+
 ## Social Flaws
 
 ### Blacklisted (1–5 pt. Flaw)
@@ -21123,6 +22108,14 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 **Invoke:** [Uncanny] when your unsettling nature causes people to recoil or remain at arm's length — use it when you need to clear a space or unsettle someone.
 
 **Compel:** [Uncanny] when people shut down, become hostile, or simply refuse to engage because something about you sets off their instincts. The Storyguide may compel this freely in social situations where naturalness and human warmth are the currency.
+
+### Eccentric (1 or 2 pt. Social Flaw)
+
+An unsettling habit or belief inflicts a +2 penalty on Social rolls to make a positive first impression. At 1 point it is a personal hindrance you can suppress for short periods; at 2 points it is a belief or compulsion that colors your public life and is almost impossible to hide.
+
+### Financial Partner (2–4 pt. Social Flaw)
+
+*Prerequisite: Resources •••• or higher.* One or more individuals monitor and limit your Resources. At 2 points (3 points if your Resources are 7 or higher), the Partner can temporarily reduce your Resources Background by the Flaw's value once per story arc. At 3 points (4 points if Resources 7+), the Partner can scrutinize and cap your access outright: you must justify major expenditures, and they can block any that run against their interests. Repeatedly evading them may provoke a hostile takeover — anything from litigation to assassination.
 
 ## Supernatural Merits
 
@@ -22943,6 +23936,471 @@ A New World Order product, available through Syndicate social channels to operat
 
 ---
 
+### The Rich Bastard's Treasures
+
+The Wonders below are drawn from the traditions of wealthy willworkers. They share an economic quirk absent from most Wonders: each carries a **Resources prerequisite** representing the cost of acquiring it, and the largest carry an ongoing **Upkeep** in Resources. If a mage's Resources fall below an item's Upkeep, they keep the Wonder but face additional Storyguide-imposed tasks to maintain it — a yacht still needs a crew. This is a wealth-gated acquisition model that sits alongside the standard point-buy in Appendix S.
+
+#### Doissetep's Treasures
+
+```
+The Crucible of Thig
+--------------------
+Type: Device (•••• rating)
+Arete: 4
+Background Cost: 12 pts.
+Resources Prerequisite: 6
+Effect: lets a mage craft a Wonder as if they had 2 more dots in a
+Sphere than they possess (must already have at least 1 dot in it)
+```
+
+A foot-tall ceramic crucible that lends the crafter reach beyond their grasp — invaluable for producing Wonders a mage could not otherwise attempt.
+
+---
+
+```
+Delano Super-Car
+----------------
+Type: Device / Fetish (••• rating)
+Arete: 3
+Background Cost: 12 pts.
+Resources Prerequisite: 7 (Upkeep: Resources 3)
+Stats: Safe Speed 100 / Max 300 mph / Maneuver 10 / Crew 1 (+1 passenger)
+       Durability 10 / Structure 15 / Weapons I
+```
+
+A black-polymer 1980s muscle car, possibly haunted by a dead Jhonisset. It reaches 300 mph, grants +3 dice in Drive (Mind 3), and is protected by four dots of Primium countermeasures woven into a Primium roll cage.
+
+---
+
+```
+Elemental Cage
+--------------
+Type: Fetish (•••• rating)
+Arete: 4
+Background Cost: 10 pts.
+Resources Prerequisite: 4
+Effect: Spirit 4 captures any slumbering Elemental nearby; once bound,
+the owner may command it to use one appropriate spirit Charm
+```
+
+---
+
+```
+Golden Tass
+-----------
+Type: Periapt (••• rating)
+Quintessence Capacity: 15
+Background Cost: 7 pts.
+Resources Prerequisite: 6 (Wonder 5)
+Effect: quarter-sized shards of a destroyed golden gateway; each holds
+5 Quintessence, regenerated every 24 hours; remoldable via Matter 2 / Prime 4
+```
+
+---
+
+```
+Grimoire of Porthos Fitz-Empress
+--------------------------------
+Type: Talisman (•••• rating)
+Arete: 4
+Background Cost: 12 pts.
+Resources Prerequisite: 8
+Effect: a unique personal instrument for Forces, reducing Forces Arete
+difficulty by 2; once per story, consult it for Porthos's opinions,
+Chantry-entrance locations, or secrets; grants Lore specialties
+(Traditions and Order of Reason) plus one further specialty of choice
+```
+
+---
+
+```
+Heli-Sanctum
+------------
+Type: Device (••••• rating)
+Arete: 5
+Background Cost: 15 pts.
+Resources Prerequisite: 9 (Upkeep: Resources 5)
+Stats: Safe Speed 125 / Max 200 / Maneuver 5 / Crew 3 (50 passengers)
+       Durability 10 / Structure 12 / Weapons I
+```
+
+A 100-foot luxury helicopter, Quintessence-powered and able to stay aloft indefinitely, clad in Primium armor and mounting weapons that generate Forces 3 effects. Crafted by the Czarina Anastasia.
+
+---
+
+```
+Unliving Mask
+-------------
+Type: Trinket (••• rating)
+Arete: 3
+Background Cost: 8 pts.
+Resources Prerequisite: 6
+Effect: spend 1 Quintessence to appear indistinguishable from a vampire
+(no heartbeat or breath; powers read as undead); vampires need Auspex 7+
+to see through it. Cost: the user loses 1 Arete per night activated,
+recovered at 1 point per week of non-use
+```
+
+#### Works of Art
+
+```
+Autochthonic Output
+-------------------
+Type: Talisman (•••• rating)
+Arete: 4
+Quintessence Capacity: 20
+Background Cost: 12 pts.
+Resources Prerequisite: 7+
+Effect: reading it whole is a Great Work (Correspondence/Data 3, Mind 3,
+Time 3, Computer 5; base difficulty 8; 15 hits minimum). Beginning imposes
+the Addiction Flaw, +1 per day of reading (max 3); completion raises the
+reader's Computer Ability to 6 and removes the Flaw
+```
+
+---
+
+```
+Brooch of Hollow Essence
+------------------------
+Type: Trinket (••• rating)
+Arete: 2
+Quintessence Capacity: 15
+Background Cost: 7 pts.
+Resources Prerequisite: 5
+Effect: +2 to all social interactions where visible; while near the wearer,
+a vampire's Self-Control/Courage or a Garou's Rage roll is at +1 difficulty
+```
+
+---
+
+```
+The Collage
+-----------
+Type: Talisman (••••• rating)
+Arete: 4
+Quintessence Capacity: 25
+Background Cost: 15 pts.
+Resources Prerequisite: 7+
+Effect: a painting cut from ten famous works (~$3B in materials). Displaying
+it openly marks the owner as a target. Staring at it for more than a few
+minutes may cause minor permanent changes to Genius (taking on aspects of
+the constituent works); not all Enlightened viewers are affected
+```
+
+---
+
+```
+The Finger
+----------
+Type: Talisman (•••• rating)
+Arete: 4
+Quintessence Capacity: 20
+Background Cost: 12 pts.
+Resources Prerequisite: 7+
+Effect: a 10-ft marble middle-finger sculpture (oldest Technocratic art).
+Mind 3 distracts Hermetics/Traditionalists: Tradition mages' Social rolls
+near it are at +1 difficulty (+2 for Order of Hermes). Displaying it openly
+imposes a 1-pt Enemy Flaw with the Order of Hermes (or +1 to an existing one)
+```
+
+---
+
+```
+Head of Marcus Antonius Piscus
+------------------------------
+Type: Trinket (•• rating)
+Quintessence Capacity: 10
+Background Cost: 6 pts.
+Resources Prerequisite: 5
+Effect: once per story, rub prepared herbs on it to ask one question the
+Storyguide answers truthfully; also a unique instrument for any appropriate
+Sphere effect at -1 difficulty
+```
+
+---
+
+```
+The Meeting of the Silent Knives
+--------------------------------
+Type: Trinket (••• rating)
+Arete: 3
+Quintessence Capacity: 15
+Background Cost: 12 pts.
+Resources Prerequisite: 5
+Effect: a 1500s painting; hung in a room, it blocks any effect that would
+see, hear, or scry into that room. Breaking through requires a Sphere of 4+
+```
+
+---
+
+```
+The Necromancers' Tarot
+-----------------------
+Type: Talisman (••• rating)
+Arete: 3
+Background Cost: 7 pts.
+Resources Prerequisite: 6
+Effect: imitates an Entropy 2 / Time 2 effect giving insight into a target's
+past and future; the owner may designate a card for a target and use it as a
+personalized instrument in spells involving that target
+```
+
+#### Designer Drugs
+
+```
+Masterpiece Cocaine
+-------------------
+Type: Trinket (•• rating)
+Quintessence: 10 (each dose is Tass = 1 Quintessence)
+Background Cost: 6 pts.
+Resources Prerequisite: 5+
+Effect: acts like cocaine (extra actions at reduced pools) but costs only 1
+health level of Bashing. Non-absorbers gain +2 dice for Expression rolls
+while high. Botching the stimulant Stamina roll deals 5 levels of Lethal
+(heavy metals)
+```
+
+---
+
+```
+Masterpiece Infusers
+--------------------
+Type: Trinket (•• rating)
+Quintessence: 10
+Background Cost: 4 pts.
+Resources Prerequisite: 5+
+Effect: tea/coffee infusers cut from Collage canvas; the beverage grants
++1 die for any Mental roll for the hour after drinking
+```
+
+---
+
+```
+Perfect Bliss
+-------------
+Type: Trinket (••• rating)
+Quintessence: 15
+Background Cost: 7 pts.
+Resources Prerequisite: 6
+Effect: a lotus/opium hybrid; +2 Awareness and -1 Stamina for 12 hours, and
++1 Mind Sphere until the end of the story (may exceed the Arete limit).
+Daily use for 12 days imposes the Bizarre Hunger Flaw at 5 points
+```
+
+#### New Devices and Wonders
+
+```
+The Cloud
+---------
+Type: Device (••••• rating)
+Arete: 5
+Quintessence Capacity: 25
+Background Cost: 15 pts.
+Resources Prerequisite: 8 (Upkeep: Resources 4)
+Stats: Safe Speed 50 / Max 150 / Maneuver 6 / Crew 1 (100 passengers)
+       Durability 6 / Structure 6
+Weapons: Lightning (Diff 6, Damage 10 electricity, Range 2,000 yds, 10 shots);
+         Tornado (Diff 6, Damage 10, Range 10,000, 10 shots)
+```
+
+A controllable cubic-kilometer cloud of nanites and water vapor (a Matter 4 / Forces 5 Procedure), solar- and static-powered with no fuel. It can make 10 attacks per day; an 11th crashes it. Flying is coincidental; firing its weapons is usually vulgar.
+
+---
+
+```
+The Eye & The Prize
+-------------------
+Type: Device (••• rating)
+Arete: 2
+Background Cost: 8 pts.
+Resources Prerequisite: 6+
+Effect: profiles targets, then fabricates a compelling distraction. Targets
+roll Wits + Alertness vs. a pool of 9 (difficulty 6); failures are preoccupied
+for the next round. Datamining is resisted by a pool of 7 (difficulty 6)
+```
+
+---
+
+```
+Genius Retrieval and Storage
+----------------------------
+Type: Device (•••• rating)
+Arete: 3
+Background Cost: 8 pts.
+Resources Prerequisite: 6 (Backing 6)
+Effect: a spine-mounted store of memory and Genius (Mind 4 / Entropy 3 /
+Correspondence 2) allowing a perfect clone with no loss of memory or personality
+```
+
+---
+
+```
+Megalith Moving Crane
+---------------------
+Type: Device (•• rating)
+Background Cost: 5 pts.
+Resources Prerequisite: 5
+Effect: folds to lawnmower size on command; lifts stones 100x its own weight
+on a nearly unbreakable Prime-infused steel rope
+```
+
+---
+
+```
+Mechanical Sifu
+---------------
+Type: Device (••• rating)
+Arete: 3
+Background Cost: 8 pts.
+Resources Prerequisite: 6+ (Do 2)
+Effect: a brass clockwork sparring partner (Akashayana, 500s China); a scene
+of sparring counts as training with a Do practitioner and grants +2 bonus dice
+on combat rolls for the rest of the session
+```
+
+---
+
+```
+X-50 Aetheric Security System
+-----------------------------
+Type: Device (•••• rating)
+Arete: 4
+Background Cost: 10 pts.
+Resources Prerequisite: 7 (Chantry/Construct 2+)
+Effect: understands 50+ languages; uses Forces, Life, Mind, Prime, and Spirit
+effects to detect disturbances, and a 2-dot Backup crew responds to alarms.
+Requires weeks of engineer customization
+```
+
+#### "We Have People for That" — Hireable Assets
+
+The wealthy do not do their own dirty work. Each of the following can be engaged **once per story** and represents an organization or crafted asset rather than a carried Wonder:
+
+- **Company Gray** (Security Consultants; *Resources 6+*) — a Syndicate subsidiary providing secure facilities and bodyguards (rarely Enlightened) with bleeding-edge gear.
+- **Financial Beard** (*Influence 5+, Resources 7+*) — a decoy who "owns" the mage's billions on paper; any successful roll to track the mage instead locates the Beard (for those who don't already know of them), who also holds convincing replicas of the mage's known unique items.
+- **Manticora Acquisitions and Trainers** (*Resources 7+*) — rescues and trains Bygones; their care, Quintessence diet, and the danger of Sleeper Unbelief are the buyer's problem.
+- **New Hire** (*Resources 7+, Enlightenment 5*) — a room-sized personnel AI (Data 3 / Entropy 2 / Life 3 / Matter 3 / Mind 3) that erases and replaces employee identities with nanotech-mask disguises equal to a four-dot Alternate Identity; creating an ID is coincidental.
+- **Replika** (*Resources 7+*) — an AI-controlled human clone grown by ritual (Correspondence or Data 5 / Life 5 / Matter 5 / Mind 5 / Prime 2 / Time 3); soulless and, in effect, an enslaved person. Stats: all Attributes 3; Alertness/Brawl/Melee 4, all other abilities 4; it throttles its own pools to avoid outshining the owner.
+- **Tech Support** (*Resources 6+*) — a full-fledged AI, indistinguishable from a human, living in the owner's phone; it does anything an above-average human could accomplish by phone or internet, and grovels convincingly.
+
+#### Places
+
+**Personal Town** (•, •••, or ••••• — *Resources 6+/7+/8+ and Influence 4+/5+/6+*) — a town the mage effectively controls: its police, mayor, traffic, inspections, and press. The three tiers scale with the listed Resources and Influence prerequisites, from quiet influence over a small town to outright ownership of a small city.
+
+---
+
+### Wonders from the Enlightened Grimoire
+
+A selection of crafted wonders drawn from the *Enlightened Grimoire*. Unlike the wealth-gated treasures above, these are built through the ordinary Wonder-crafting process (Appendix S); the Sphere requirements note what must be woven into each during creation.
+
+```
+Primium Weapon or Plate
+-----------------------
+Type: Artifact / Talisman
+Sphere Requirements: Matter 5 / Prime 3 (to smelt; 15 successes + 1 Quintessence each)
+Effect: the near-perfect alchemical gold-silver alloy of the Technocracy
+```
+
+A weapon or armor of Primium deals Aggravated damage and radiates permanent countermagick — two dice per crafting hit (maximum ten dice) rolled against any magical effect within roughly two yards. The Templars' Orichalcum (Appendix X) follows identical rules.
+
+---
+
+```
+Gorningstakkr (Wound-Proof Shirt)
+---------------------------------
+Type: Talisman
+Sphere Requirements: Matter 5 / Prime 2 (one common variant)
+Effect: worn protection that does not hinder movement
+```
+
+The enchanted shirt grants four soak dice and downgrades stabbing and cutting weapons to Bashing damage. Other variants instead heal the wearer over time or lash out at those who strike them.
+
+---
+
+```
+Soulgem
+-------
+Type: Periapt
+Sphere Requirements: Prime 4 (to craft)
+Effect: a Quintessence reservoir of a specific Resonance, attuned to one avatar
+```
+
+A specialized Periapt that stores Quintessence of a particular Resonance and is bound to its maker's avatar — only they can draw upon it.
+
+---
+
+```
+Soul-Forged Object
+------------------
+Type: Device + Fetish (hybrid)
+Sphere Requirements: Spirit 4 or 5 / Matter 3 / Prime 3
+Effect: an item that is simultaneously a Wonder and a Fetish
+```
+
+By merging a spirit — or a stolen living soul — into a material during its forging, the crafter produces an object that is at once a Device or Talisman and a Fetish. The bound consciousness experiences the whole of its existence as part of the item. The process can shape non-metals as readily as steel, down to the thread of a tapestry.
+
+---
+
+```
+Book of Whispers
+----------------
+Type: Talisman
+Sphere Requirements: Mind 2 / Matter 3 / Time 3
+Effect: records a bound person's surface thoughts
+```
+
+A blank book keyed to a specific person; whenever they are near it, its pages fill with their surface thoughts. It can be disguised among ordinary volumes on a shelf.
+
+---
+
+```
+Orgone Accumulator
+------------------
+Type: Device (Sons of Ether)
+Sphere Requirements: Prime 3 (or Prime 5)
+Effect: invests an Etherite device with Resonance ("Odyllic Force")
+```
+
+The Etherite's answer to Resonance-charging: at Prime 3 it holds two Resonance traits per hit; at Prime 5 it also confers the benefits of a minor Node (a Fount of Paradise).
+
+---
+
+```
+Jaguar Cloak
+------------
+Type: Fetish
+Sphere Requirements: Life 5 / Matter 3 / Prime 3 / Spirit 2
+Effect: lets the attuned wearer become a jaguar
+```
+
+An enchanted jaguar skin bound to one wearer, who may transform into the great cat (a strong will allows partial, controlled shifts). The cloak recharges its power as the wearer slays their enemies.
+
+---
+
+```
+Viasilicos
+----------
+Type: Device (Order of Reason / Technocracy)
+Sphere Requirements: Correspondence 2 / Mind 1
+Effect: transmits messages to a paired crystal
+```
+
+A geometrically perfect crystal that sends a message to another Viasilicos — one sentence past the usual distance limits, scaling up to a full two-way conversation at three hits.
+
+---
+
+```
+The Seven Golden Swords of the Tiger
+------------------------------------
+Type: Talisman (Wu Lung alchemy)
+Sphere Requirements: Matter 3 / Spirit 3 / Correspondence 4 / Forces 2 / Prime 2
+Effect: a circle of blades or an impassable barrier
+```
+
+Seven alchemically forged golden swords that arrange themselves into a defensive circle around their master, or raise an ultra-sharp barrier that blocks people, spirits, and even Correspondence connections from entering.
+
+---
+
 ## Wonder Crafting Reference
 
 A condensed reference for the three-step Wonder creation process:
@@ -23595,6 +25053,921 @@ MOVEMENT AND POSITIONING: See Appendix H's "Movement in Combat" section for
 
 ---
 
+# Appendix X: Disparate Crafts — Fractured Traditions
+
+The Nine Traditions are not the only mages who never bowed to the Technocracy, and the Technocracy is not the only faction that organizes the Awakened into disciplined bodies. Between and beneath the great powers of the Ascension War live the **Disparate Crafts** — metaphysical societies that survived on their own terms, nurtured their own people, and, until very recently, wanted nothing to do with a war for the future of Reality. Some are older than the Order of Hermes. Some are younger than the internet. Together, in the twenty-first century, a fragile and quarrelsome number of them have formed the **Disparate Alliance**: not a faction that seeks to remake the world, but a mutual-aid pact of the overlooked, agreeing to protect their own and, where it costs them nothing, each other.
+
+This appendix converts the Crafts of the Disparate Alliance to Storypath Ultra and supplies a complete toolkit for building new ones. It draws on the M20 sourcebook *Forbidden and Forgotten Orders* for lore, Concepts, Merits, Flaws, and signature magic, and renders all of it in the mechanics of this book: Sphere ratings, the Casting Roll, the Paradox Pool, and — above all — Tags. Where *Forbidden and Forgotten Orders* wrote a static point-buy Merit, this appendix generally offers a **Craft Tag** you can invoke and the Storyguide can compel, because that is how properties attach to characters in Storypath Ultra. The old numbers are preserved in the text so returning players recognize their toys; the new Tags are what you actually bring to the table.
+
+The eleven entries below are grouped exactly as the source groups them, by their commitment to the Alliance: the **Forerunners** who need it to work, the **Middlers** giving it a fair shake, and the **Outsiders** standing awkwardly by the punchbowl. A twelfth entry — the **Orphans** — closes the appendix, because the self-taught Awakened are emphatically *not* a Craft, and the reasons they refuse the label are the best possible lesson in what a Craft actually is. That lesson feeds directly into the final section: **Building Your Own Craft, Tradition, or Convention**, a step-by-step method with a fully worked example.
+
+Cross-reference this appendix with Chapter Eight (the Disparate Crafts overview and the Ascension War), Appendix B (Paradigm, Practice & Instruments), Appendix F (the Nine Traditions, whose entry format this appendix mirrors), Appendix J (Tags), and Appendix N (Master Rotes, whose entry template every rote below follows).
+
+## The Disparate Alliance — How It Works
+
+The Alliance is young, small, and internally contradictory, and it survives on one blunt principle: **"Don't start none, won't be none."** It has no supreme leader, no shared paradigm, and no ambition to guide humanity. It has arbitration, enforcement against those who break the peace, and a strict hands-off custom when one member offends another. Four ideas hold it together.
+
+**Equality.** No Craft outranks any other. When emissaries gather, a grungy Hollow One teenager is afforded exactly the status of an elder Dragon Wizard. What a Craft does internally is its own business; between Crafts, equality is non-negotiable, because so many of these people were ground down by outside cultures that ranked them and found them wanting. At the table, this means an Alliance scene has no obvious authority figure to appeal to — status is earned meeting by meeting, and a player character's reputation is a live, mutable thing.
+
+**Protectorates.** Each Craft claims **protectorates** — specific communities, cultures, or populations declared off-limits to every other Craft's mages. The Traditions and the Technocracy both want to steward *humanity*; the Alliance explicitly refuses that imperial reflex. Each sect protects its own and leaves everyone else alone. This is why the Alliance is barely an Ascension-War faction at all: they defend their people rather than fight to rewrite the Consensus. In play, a protectorate is a superb source of scenes and of Tags — a neighborhood, a diaspora, a congregation, a scene — that the cabal is honor-bound to defend and forbidden to exploit.
+
+**Allies Among Allies.** Some Crafts have far more in common than others. A Hollow One and a Sister of Hippolyta will both turn up at a Solificati rave; a Templar Knight and a Wu Lung elder will not. Old animosities persist between opposed groups and genuine kinship grows between similar ones — and, increasingly, individual friendships override the cultural lines entirely. Encourage players to map their character's personal web of Alliance relationships rather than assuming a uniform "we're all friends now."
+
+**Cooperation (in theory).** On paper the Alliance is a strategic cooperative for mutual prosperity and defense. In practice, members mostly leave one another alone unless a threat endangers everyone, so friction tends to get swept under the rug rather than resolved. The **Adjudication protocols** — a body of custom for hearing grievances between Crafts — are the only reason it hasn't already collapsed. This is deliberately fertile ground for a chronicle: the Alliance is always one bad incident away from breaking, and the player cabal is often the only party willing to actually adjudicate.
+
+### The Three Tiers of Commitment
+
+| Tier | Stance | Crafts |
+| --- | --- | --- |
+| **Forerunners** | Their eggs are in the Disparate basket; they need this to work, and they push the Alliance toward taking a real stance. | Ngoma, Knights of the Temple of Solomon, Taftâni, Hollow Ones |
+| **Middlers** | Present and willing to give it a fair shake, but on the fence and uncommitted. | Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung |
+| **Outsiders** | Invited, in attendance, but carrying old mistrust and worse history. | Bata'a, Solificati, and (adjacent, not members) the Orphans |
+
+Among the Forerunners, some Crafts carry a "lofty mantle" — to be Ngoma or a Templar is to be publicly accountable for your Craft's triumphs and its sins alike. Status among the Awakened is, in the end, a name that others recognize and either revere or fear.
+
+### The Craft Roster at a Glance
+
+| Craft | Tier | Affinity Spheres (SPU) | Signature |
+| --- | --- | --- | --- |
+| Ngoma | Forerunner | Spirit, Prime | Ancestor-bargaining African willworkers; drum, chant, and dance |
+| Knights of the Temple of Solomon | Forerunner | Prime, Forces (faith) | Awakened Christian warrior-order; Orichalcum arms and miracles |
+| Taftâni | Forerunner | Forces, Matter, Prime | Middle Eastern weavers of Truth who fear no Paradox; djinn-binders |
+| Hollow Ones | Forerunner | Entropy, Correspondence, Time | Gothic chaos-magicians; "everything sucks and then you die" |
+| Ahl-i-Batin | Middler | Correspondence, Mind, Time | The Subtle Ones; unity, secrecy, and the Web of Faith |
+| Kahu (formerly Kopa Loei) | Middler | any (mana-based) | Polynesian mana-workers bound by kapu; song, dance, voyaging |
+| Sisters of Hippolyta | Middler | Life, Spirit, Mind | All-women Amazon Craft devoted to Artemis |
+| Wu Lung | Middler | Correspondence, Prime, Spirit | Chinese Dragon Wizards; geomancy, astrology, god-channeling |
+| Bata'a | Outsider | one per Clan (see entry) | Afro-diasporic servants of les Mystères; the Ring Shout |
+| Solificati | Outsider | Matter, Prime, Life (varies) | Alchemists of the Great Work; consciousness over matter |
+| Orphans | *not a Craft* | none (improvised) | Self-taught, tradition-less Awakened; survival over victory |
+
+### Metaplot: Where Did the Alliance Come From?
+
+The source leaves the Alliance's origin deliberately open, and so does this appendix. Pick the version that serves your chronicle: it coalesced from the ashes of Concordia; it was forged in the shared trauma of a Technocratic genocide; it began as an act of treachery, ambition, or corruption dressed up as solidarity; or it is a beautiful delusion that has not yet failed. One ready-made trilogy hook: an archmage claiming to be the reincarnation of the Solificati traitor-hero **Heylel Teomim** rallies the Disparates toward an assault on a Horizon Realm — and the cabal must decide whether that is liberation or the next catastrophe. None of these are canonized here; the Storyguide chooses.
+
+## How to Read a Craft Entry
+
+Each Craft below follows the format of Appendix F. **Identity** gives the lore and the feel. **Paradigm** states the belief that governs what is Coincidental for that Craft. **Practice & Instruments** lists how they work magic and with what (and, where the culture demands it, what is **taboo** to use). **Affinity Spheres** names the Spheres the Craft favors — treated exactly like the Sphere Affinity line in the Tradition Path Tables of Chapter Eight. **SPU Mechanics** defines the Craft's signature **Tag** (invoke/compel, per Appendix J) and any faction-wide rule. **Concepts** offers ready archetypes. **Merits, Flaws & Backgrounds** converts the source's traits. **Signature Rotes** uses the Appendix N template. **Wonders & Items** covers unique gear.
+
+A note on converting old traits: where *Forbidden and Forgotten Orders* granted a flat bonus ("+2 dice," "−1 difficulty"), this appendix keeps the number but frames it as **Enhancement** (bonus dice, capped as normal), a **Difficulty** reduction, or an invocable **Tag**, whichever fits Storypath Ultra best. Point costs in parentheses are the original M20 values, retained for players porting existing characters; in SPU, a Craft Tag is acquired like any other Tag at character creation or through play.
+
+---
+
+## Forerunners
+
+The Forerunners have the most to gain and the most to lose from the Alliance. They are also, not coincidentally, among the most visible Crafts — the ones outsiders have heard of, blamed, and hunted. They lead because they must.
+
+## Ngoma
+
+The **Ngoma** are willworkers of the African continent — Central, Southern, Western, and above all North-Eastern — who trace their lineage to the First Ancestor **Ta-Ur** and her Spirit **Amunet-Ka**, back through **Ki Khanga** (the continent itself) to ancient Khermit and Kush. They call themselves the *kartek*, "those who hold the spark." Their magic is oral and communal: drumming, chant, and dance that call upon the Ancestors and the Old Ones of the Unseen Worlds for favor, protection, healing, and aid. They are scholars and warriors both, and they style themselves the natural leaders of the Alliance — a claim the Order of Hermes finds galling, since the Order insists on filing the Ngoma away as a mere "House Ngoma" sub-sect. Relations with the Dreamspeakers (Kha'vadi) are warm, and warming further with the Verbena.
+
+### Paradigm
+
+*"The dead are not gone. They are behind us, before us, and beside us, and they remember what we forget. Magic is remembering, aloud, in company."* The Ngoma paradigm is ancestral and relational: power is not seized from reality but *asked for* from the Ancestors and the Old Ones, and granted in proportion to how well the mage honors the compact between the living and the dead. Effects framed as remembrance, invocation, and reciprocity come easily; effects that treat power as the mage's private property strain against the belief.
+
+### Practice & Instruments
+
+Practice is **Shamanism** shading into **Faith** — negotiation with ancestral spirits through ritualized remembrance. Core Instruments are the drum, rhythm, chant, and dance; sacred gestures of remembrance; and the griot's spoken lore (stories told aloud and never fully committed to paper). A griot's memory *is* a library, and reciting a lineage is itself a working.
+
+### Affinity Spheres
+
+**Spirit** and **Prime.** Spirit governs the traffic with Ancestors and Old Ones; Prime governs the quintessential blessings they bestow.
+
+### SPU Mechanics
+
+**Craft Tag: HELD BY THE ANCESTORS.** A Ngoma who carries this Tag walks with the dead at their shoulder. *Invoke* it to add Enhancement on any Spirit or Prime working framed as invocation, remembrance, or bargaining with the honored dead, and on social rolls with those who respect lineage and eldership. *Compel* it when the Ancestors' expectations conflict with expedience — when honoring the dead means the slow, correct, costly path rather than the fast one, or when a slighted Ancestor withholds aid at the worst moment.
+
+Faction rule — **Spirit Bargaining.** When a Ngoma explicitly folds a request for aid into a summoning or bargaining ritual, an Ancestor manifests to negotiate on their behalf, reducing the Difficulty of the Spirit Bargaining roll by 2 (see *Aid From the Ancestors*, below). This stacks with the *Honor and Thanks* ritual for a further −1.
+
+### Concepts
+
+**The Warrior-Scholar** — brains, political skill, and the combat arts of Ki Khanga in one person; the Ngoma sent when a situation needs both force and diplomacy. **The Librarian** — an academic genius and ritualist who hunts stolen artifacts and lost rituals, and bids on texts at clandestine auctions in this world and the Unseen ones. **The Griot** — a raconteur and living archive of myth, legend, folklore, and Ancestral wisdom, whose recitations open doors that no key can.
+
+### Merits, Flaws & Backgrounds
+
+### Aid From the Ancestors (3 pt. Supernatural Merit)
+
+At least one Ancestor appears to aid the mage whenever they summon or bargain with an Otherworldly entity or wraith, negotiating on the mage's behalf. As long as the request for aid is an explicit part of the ritual, **reduce the Difficulty of Spirit Bargaining rolls by 2.** Combined with the *Honor and Thanks* ritual (see Wonders & Items), the reduction improves by a further 1. In SPU terms, this Merit is expressed by carrying the **Held by the Ancestors** Tag with a bargaining specialty; a mage without the Merit may still invoke the Tag for Enhancement but does not receive the flat Difficulty reduction.
+
+### Wonders & Items
+
+**Honor and Thanks (personal ritual focus).** Every Ngoma keeps a private, ritualized gesture of thanks to the Ancestors — a poured libation, a drummed phrase, a name spoken to the four directions. As a quick immediate action it lowers the Difficulty of any Spirit or Prime working by 1. Performed at length, as a formal ceremony before high-stakes negotiation, it secures Ancestral goodwill in advance; the Storyguide sets the reward (typically a scene-long invocation of *Held by the Ancestors* at no Momentum cost, or a single automatic hit banked toward the coming bargain).
+
+## Knights of the Temple of Solomon
+
+The **Knights of the Temple of Solomon** — the Templars — are an Awakened Christian warrior-order descending from the historical Knights Templar, founded in 1119 by the first Grand Master Hugh de Payens as the Poor Fellow-Soldiers of Christ. They are bound by the six hundred articles of St. Bernard of Clairvaux, and they understand their magic not as manipulation of reality but as **miracle**: reality is a world of gods and monsters, and the faithful knight is God's instrument against the monstrous. The modern order is far more diverse than "soldiers of Christ" suggests — it admits women and non-gender-conforming knights, and the once-lateral rank of **Dove Knight** (historically for knights who were not men) is sometimes proudly reclaimed. They are sworn enemies of the Technocracy and the Nephandi. Their hierarchy runs from Aspirant through **Knight-Magus** (the title for any Awakened Templar), Marshal, and the nine **Seneschals** who advise the **Grand Master**.
+
+### Paradigm
+
+*"The world is a battlefield between the Host and the Fallen, and I have taken a side. What I do is not magic. It is faith made visible."* Templar magic is faith-based miracle. Their besetting temptation is the paradigm *Might Is Right*, which the source names as their historic downfall; the healthiest modern knights lean instead on *It's All Good — Have Faith* and the sober *One-Way Trip to Oblivion* (the willingness to spend one's life). Effects framed as protection, judgment, sanctification, and righteous force come easily; cruelty and self-dealing curdle the miracle into something the knight will have to confess.
+
+### Practice & Instruments
+
+Practice is **Faith**, expressed through **Dominion** (the knight decrees, and reality obeys as scripture). Instruments are portable clergy — bibles, hymnals, crosses, a thurible or monstrance — and, above all, the **sword**, especially one forged of Orichalcum. Prayer is an Instrument; so is the liturgy.
+
+### Affinity Spheres
+
+Not doctrinally fixed, but in practice **Prime** (channeling divine Quintessence into blades, blessings, and wards) and **Forces** (the smiting kind), with **Life** for the laying-on of hands. Treat a Templar's affinity as "the Spheres their faith expresses" rather than a rigid list.
+
+### SPU Mechanics
+
+**Craft Tag: SWORN OF THE TEMPLE.** *Invoke* to add Enhancement on faith-framed workings — protection, exorcism, smiting the undead and the Fallen — and on social rolls of oath, duty, and command among those who respect the Order. *Compel* when the six hundred articles bind the knight's hand: an oath that forbids the easy lie, a vow of protection that forbids abandoning the weak, a rule of engagement that forbids the ambush. Faith is a leash as much as a lance.
+
+### Concepts
+
+**A Perfect Knight** — a woman knight proving both what a knight can be and who is permitted to be one, uniting old courage with modern combat savvy. **The Money** — a Templar banker whose sword is a list of numbered accounts and whose shield is a lattice of shell corporations, and who still keeps combat prayers and dragon's-breath shells close. **A Light in the Dark** — a ministering diplomat and confessor who keeps the Alliance's frayed tempers from igniting, wielding morale and faith as the light against the dark.
+
+### Merits, Flaws & Backgrounds
+
+### Orichalcum Blade (1–5 pt. Background)
+
+Arms and armor of surpassing workmanship, smelted by the Order from **Orichalcum** ("True Gold") — the Templar equivalent of Primium, mechanically identical to it. Orichalcum weapons deal **Aggravated damage to shapechangers and the undead** and can host further enchantments. The rating measures quality and enchantment capacity. Like any Background of borrowed materiel it can be lost, lent to a comrade, or left behind, and the Order will want it back. Dormant Orichalcum wears a silver-gold sheen; in a faithful hand it wakes with crimson veins the knights call Christ's Blood. As a Wonder Tag, model this as **[Bane Weapon: Undead & Shapechangers]** plus one open enchantment slot per two Background dots.
+
+### Vatican Connections (1–5 pt. Background)
+
+Like Contacts, but specialized to the Holy See. Each dot calls on the Vatican's reach — a dot might mean local diocesan administrative help; five dots might summon a Society of Leopold strike team. Every favor carries strings, and failing to reciprocate has repercussions, sharply so if a Knight-Magus is careless enough to reveal supernatural ability to the wrong monsignor.
+
+### Knight-Captain (1–5 pt. Background)
+
+You command a squad of unAwakened Retainers — up to **one soldier per dot**, each kitted for a single mission profile (assault, security, surveillance, and so on). For each squad member you pay **two dots** rather than one, that member possesses **True Faith**, and is correspondingly more dangerous to the Fallen and the undead.
+
+### Solomon Codes (1–2 pt. Resources Merit)
+
+Access to the Order's offshore and digital wealth. **Every dot grants two dots of Resources at the liquidation level, in hard currency** — money that can be moved and spent fast. These funds are for Templar missions only; self-serving use invites withdrawal of access and discipline up to and including expulsion.
+
+### Wonders & Items
+
+**Orichalcum arms and armor** (see the Background above) are the Order's signature Wonder — a magical alloy the Templars have tinkered with since the fourteenth century, born of faith and a debt of Ahl-i-Batin alchemy. Templar lore also whispers of the **Grail** and the treasures of Montsalvat; the Storyguide may seed one as a Legendary Item (Appendix R) at the heart of a chronicle.
+
+## Taftâni
+
+The **Taftâni** are the Weavers — ancient willworkers of the Middle East and Mesopotamia who spin **Asha**, Truth, into their words and their works, shaping reality "the way a potter coaxes form from clay." They were viziers and seers to the first civilizations, from Sargon of Akkad to Zenobia of Palmyra, and they command spirits and **djinn** by the Solomonic Code. Their defining trait sets them apart from nearly every other mage alive: **they do not fear Paradox.** They work vulgar magic openly, in front of Sleepers, precisely to prove that magick is real — because to hide Truth is to serve *Druj*, the falsehood that is Asha's enemy and, not coincidentally, the essence of the Technocracy. Their strongholds are places like Petra and Yazd; a **bagha** is a gathering, a **Kahin** a seer, a **Zaotar** a fighter-priest.
+
+### Paradigm
+
+*"Reality is a lie told by cowards. I weave the Truth back in, and if it burns, let it burn where Sleepers can see."* The Taftâni paradigm is the open declaration of Asha. This is the rare paradigm under which *vulgar* magic is the point rather than the risk — see the faction rule below. Effects that reveal, create, transform, and bear witness come easily; concealment and deception fit poorly, and a Taftâni who lies with their magic is fraying their own foundation.
+
+### Practice & Instruments
+
+Practice is **Craftwork** and **Dominion** — Truth woven into a physical thing (loom, clay, forge, metalwork) or spoken as binding sentence. Instruments include the weaver's and potter's tools, the smith's fire, the Solomonic seal for commanding djinn, and the divinatory reading of smoke and flame. The **djinn bottle** (below) is the most guarded Instrument of all.
+
+### Affinity Spheres
+
+**Forces, Matter, and Prime** for the creation and transmutation that is their glory, with **Entropy, Life, and Mind** for the word-magic of naming and truth-telling.
+
+### SPU Mechanics — and a Note on Paradox
+
+**Craft Tag: UNAFRAID OF THE BACKLASH.** *Invoke* when working openly, vulgarly, and truthfully — the Taftâni's certainty steadies the pool. *Compel* when that same fearlessness makes them reckless: the working that should have been hidden, the demonstration that draws exactly the wrong witness, the Backlash they were sure they could ride.
+
+Faction rule — **Paradox Mitigation.** This is the heart of the Craft, and it is where this conversion leans hard into the Paradox system of Chapter Five. A Taftâni with this Merit (3 pt. Supernatural) enjoys two benefits:
+
+- The **first vulgar working each scene generates no Paradox** — no dice are added to the Paradox Pool for it. The Weaver simply declares the Truth once, freely, per scene.
+- On every subsequent vulgar working, the Taftâni adds Paradox Dice as normal, **but reads the Backlash one step gentler.** When the Paradox Dice come up as a Complication, resolve it as the *next-milder* result on the Paradox Backlash table (Chapter Five): a Catastrophe becomes a Backlash Wound, a Backlash Wound becomes a Sensory Bleed, a Sensory Bleed becomes mere Bad Press. The Weaver still courts Paradox constantly — they just take the hit better than anyone alive.
+
+> DESIGNER'S NOTE — CREATIVE PARADOX FOR TAFTÂNI. The Taftâni are the ideal table to showcase the "extra Paradox dice, worse things on certain faces" ethos this book uses elsewhere. A fun optional rule: when a Taftâni deliberately works vulgar magic *to be witnessed by Sleepers* (their sacred purpose), they may **add one extra Paradox Die of a distinct color — the Weaver's Die.** If it lands on a Complication face, the Truth lands *too* hard: reality briefly agrees with them in front of everyone, and the scene gains an Environmental Tag like **Reality Visibly Frayed** that Sleepers cannot un-see, seeding a future Quiet or Consensus consequence even as the immediate working succeeds. Glorious, and dangerous, exactly as a Weaver would want it.
+
+### Concepts
+
+**Zaotar Fighter** — a fighter-priest and protector of the vulnerable, a bodyguard and human shield who carries glass bottles at the waist and uncorks their contents when violence comes. **Kahin Sage** — a desert seer who commanded spirits and djinn far from Sleeper eyes and has now emerged to spread Truth and mentor the young. **Star of the Socials** — a prodigy who bested their master at nineteen and posts impossible footage online, staying one hop ahead of the NWO's takedown notices.
+
+### Merits, Flaws & Backgrounds
+
+### Paradox Mitigation (3 pt. Supernatural Merit)
+
+The full faction rule above. In SPU it is bought as the *Unafraid of the Backlash* Tag with the Paradox-mitigation benefit attached; without the Merit, a character may carry the Tag for Enhancement but does not get the free vulgar working or the softened Backlash.
+
+### Djinn Expertise (3 pt. Supernatural Merit)
+
+When dealing with a djinni, add **1 die (Enhancement +1)** to any Manipulation- or Perception-based roll. As guidance: a lower-ranking djinni tends to follow the mage's stated intent; a higher-ranking one will hunt for loopholes in the exact words used, so precision of language is itself a defense.
+
+### Obvious Resonance (2 pt. Supernatural Flaw)
+
+The price of open magic. Whenever the character works a vulgar effect, their Resonance lingers in the area for a number of days equal to their Enlightenment rating, and the Difficulty of rolls to track them there is reduced by 1. As a Tag, this is **[Lingering Resonance]**, compelled by anyone hunting the Weaver.
+
+### Signature Rotes
+
+### Devouring Gullet of Flame
+
+Traditions: Taftâni. Spheres: Forces ●●●●, Prime ●●. Casting Attribute: Might or Presence. SF: 3. Difficulty: 4 (Rote). Sig. Sphere: Forces. Tags: [Damage], [Aggravated], [Area], [Environmental].
+Effect: A thrown ring of flame becomes a spinning tunnel of fire that drags victims inward and burns them.
+Notes: Vulgar in essentially all circumstances.
+
+The Weaver hurls a burning hoop that blooms into a roaring vortex. A caught target may attempt **Dexterity + Athletics against Difficulty 7** (opposed by the Weaver's hits) to escape the pull before the flame takes hold; failure means they are drawn to the heart of the gullet and take Aggravated fire damage scaled to the Weaver's hits. This is a signature Zaotar working: terrifying, unmistakable, and exactly the sort of open miracle the Craft exists to perform.
+
+> Example: Nasrin, a Zaotar (Forces 4, Prime 2, Might 3, Athletics 2), corners two NWO cleaners in a parking garage. She rolls Might + Forces + Rote Enhancement = 3 + 4 + 1 = 8 dice, scoring 5 hits. The lead cleaner rolls Dexterity + Athletics (5 dice) vs. Difficulty 7 and manages only 2 hits — not enough to beat her 5 — and is hauled into the vortex for 5 dice of Aggravated damage. Because this is her first vulgar working of the scene, *Paradox Mitigation* means it adds nothing to her Paradox Pool. She wanted them to see. Now they have.
+
+### Groundswell
+
+Traditions: Taftâni. Spheres: Forces ●●●, Matter ●●●. Casting Attribute: Might. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: tie — first listed, Forces. Tags: [Damage], [Knockdown], [Environmental], [Area].
+Effect: The ground opens beneath a target, or rock and structure erupt upward to strike them.
+Notes: Vulgar.
+
+The Weaver commands the earth to betray its stillness. Depending on the framing, a chasm yawns (falling damage plus the [Restrained] condition for the trapped) or a fist of stone erupts (ramming damage plus [Knockdown]). Scale the effect by hits; with 5 hits a Weaver can drop a small building's footing.
+
+### Imbue Item
+
+Traditions: Taftâni. Spheres: Matter ●●, Prime ●●●. Casting Attribute: Intellect. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Prime. Tags: [Enchanted], [Autonomous], [Sustained].
+Effect: A self-made item is granted autonomous movement and will follow simple standing commands.
+Notes: Usually vulgar; increasingly Coincidental in an age of robot vacuums and delivery drones.
+
+The Weaver breathes purposeful motion into something they crafted. Simple standing orders work — *"Attack anyone who enters this room," "Sweep this floor until dawn."* Complex conditional orders do not — *"Find John Courage and kill him, but only if he draws first"* is beyond it. The item acts on its instruction until the effect lapses.
+
+### Sha'ir's Sentence
+
+Traditions: Taftâni. Spheres: Entropy ●●●, Life ●●●, Mind ●●●. Casting Attribute: Presence. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Mind. Tags: [Mental], [Sustained], [Truename].
+Effect: A composed verse bestows a nickname that becomes literally true.
+Notes: Coincidental — it is only a poem, after all.
+
+The Weaver composes a short poem and gives the subject a nickname. The player picks an Attribute the nickname fits; while the Sentence holds, rolls using that Attribute gain **1 die** (a flattering name) or lose **1 die** (a cutting one). The Sentence lasts a number of rolls equal to the Weaver's Enlightenment, or until the end of the Chapter, whichever comes first. "The Unshakable" walks taller; "the Butterfingers" fumbles the latch at the worst moment.
+
+### Wonders & Items
+
+**Djinn Bottle.** The most closely guarded Taftâni craft, often bestowed only at the end of training — a magically reinforced vessel (bottle, ring, amulet, or lamp) nearly impossible to destroy, on which the Solomonic seal is worked to bind a djinni into service. The bound spirit must obey the vessel's owner. As a Wonder, model it with **[Bound Spirit: Djinni]**, **[Nigh-Indestructible]**, and a command-and-control clause the Storyguide adjudicates by the djinni's rank and the exact wording of each order.
+
+## Hollow Ones
+
+The **Hollow Ones** — the Darklings — are the decentralized Goth Craft, once tolerated around the edges of the Council of Nine as an unofficial "Tenth Tradition" and never once made welcome. There is no proto-Hollow lineage; they are the castoffs and misfits of every other tradition, united not by descent but by an aesthetic and an attitude: *everything sucks, and then you die.* The fatalism is a costume worn over a stubborn, hidden spark of hope. They organize in cliques and sanctums linked by traveling **Riders**, and their working method is Chaos Magick — if it evokes a genuine feeling, it is a valid tool.
+
+### Paradigm
+
+*"It's all a mistake, a beautiful ruin, and the only honest response is to make something gorgeous out of the wreckage before the lights go out."* Hollow One magic runs on evoked emotion — the deeper the feeling (grief, awe, black humor, defiance), the truer the working. Most Hollows all but embody *Everything is Chaos, an Illusion, or a Mistake*; the fallen ones slide into *One-Way Trip to Oblivion*; and the real ones secretly harbor *Bring Back the Golden Age* and *Have Faith* beneath the eyeliner.
+
+### Practice & Instruments
+
+Practice is **Chaos Magick** (treat as a variant of Witchcraft and High Ritual, chosen scene by scene). Instruments are whatever fits the moment and moves the heart: Gothic clothing and trinkets, the cameo of a dead lover, a favorite song, a poem, an anime frame, a photograph. "The play's the thing" — the ritual is theater, and the audience that must be moved is sometimes only the mage themselves.
+
+### Affinity Spheres
+
+**Entropy** (their native register), with **Correspondence** and **Time** for the Rider's Railroad. In practice a Hollow One's affinity drifts toward whatever Sphere their current obsession demands, which is very on-brand.
+
+### SPU Mechanics
+
+**Craft Tag: EVERYTHING SUCKS AND THEN YOU DIE.** *Invoke* to add Enhancement on any working powered by raw evoked emotion, on rolls to blend into a subculture, and on Integrity/Composure rolls to stare down horror the polished factions flinch from. *Compel* when the pose becomes the trap — nihilism that talks the mage out of trying, an aesthetic choice made over a safe one, the reflex to burn a bridge because the flames look good.
+
+### Concepts
+
+**Byronic Knight** — Awakened in the middle of the Ascension War, anti-Technocracy to the bone, out to free kids from being filed into good little conformists. **The Harlem Connection** — works for the common good and for people of color especially: on the barricades by day, quietly redistributing stolen opportunity by night. **Media Royalty** — a Soundwave Master whose rituals run through filters and hashtags, casting from a smartphone to an audience of thousands.
+
+### Merits, Flaws & Backgrounds
+
+### Divergent Protocols (2 pt. Supernatural Merit)
+
+A knack for Technocratic **Protocol-style magick**. Given the right equipment, the Hollow One accesses those abilities at no special penalty. Availability of the gear is up to the Storyguide and may require raiding a Convention facility; beginning cybernetics need Storyguide approval and carry their own risks. As a Tag: **[Reverse-Engineered Enlightened Science]**, invoked when the mage's magic wears a Technocratic mask.
+
+### Anarchist Braggart (1 pt. Social Flaw)
+
+You cannot keep your mouth shut; you will talk trash about everyone's cherished beliefs. Whenever an opportunity to run your mouth presents itself, roll **Wits + Empathy**: success means you (barely) hold your tongue; failure means you say the antagonistic thing and roleplay the fallout. Only spending a point of **Willpower** can override a failure. This is for provocation, not persuasion — it can never be used to land a well-argued point.
+
+### Signature Rotes
+
+### Riding the Rails
+
+Traditions: Hollow Ones. Spheres: Correspondence ●●●, Time ●●●. Casting Attribute: Composure. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Correspondence. Tags: [Transport], [Reaching], [Subtle].
+Effect: An initiated Rider steps through the Railroad — a network of interdimensional shortcuts linking Hollow One sanctum doors.
+Notes: Coincidental only because it must begin and end at a Chantry or Sanctum door; a single hit suffices to travel.
+
+Touching a sanctum door, a Rider senses every destination on the Railroad and its present condition. Selecting one is a free action, and the Rider may attach loose arrival conditions — *"when I'm expected," "when the room is empty," "at the next nightfall."* The Railroad carries only the Rider and what they can personally carry; no passengers, no cargo beyond their own arms. It is the closest thing the scattered Hollow Ones have to a nervous system.
+
+> Example: Wisp needs to get from a Seattle sanctum to a Prague one before dawn. She touches the door (Composure 3 + Correspondence 3 + Rote +1 = 7 dice), needs only 1 hit, and gets 4 — more than enough to also specify "arrive when no one's awake." Because both ends are sanctum doors, it reads as her simply walking out one door and, off-screen, in another: Coincidental, no Paradox worth the name.
+
+---
+
+## Middlers
+
+The Middlers turned up, sat down, and are willing to hear the Alliance out — but they have not signed anything in blood. They have their own protectorates, their own long memories, and their own reasons to keep one foot near the exit.
+
+## Ahl-i-Batin
+
+The **Ahl-i-Batin** — the Subtle Ones, the Batini — are Middle Eastern and Arab mystics devoted to **tawhid**, the doctrine of Unity: all things and all people are parts of a single indivisible whole. Every member is a **Muwahhid** (plural *Muwahhidun*), "one who holds to Unity." They are scholars and quiet builders who work behind the scenes and abhor the spotlight. They maintain the **Web of Faith**, a network of Nodes and conduits binding the Awakened world together, and they once held the Horizon Realm of **Mount Qaf** — now abandoned, and believed by some to underlie the Digital Web itself. Their discipline is the **Tariqa**, "the Way."
+
+### Paradigm
+
+*"There is no separation. The distance between two points is an illusion I have agreed to stop believing. So is the distance between two minds."* Unity governs everything. Effects that connect, share, unite, and reveal the hidden oneness of things come easily; effects of division, dissolution, and severance fight the paradigm — which is why the Batini famously **abhor Entropy**.
+
+### Practice & Instruments
+
+Practice is **Meditation** and **High Ritual** in service of communion. Instruments are quiet and cerebral: scholarship and text, sympathetic connections, the disciplines of attention. Cooperation itself is a practice — two Batini working together are, doctrinally, one.
+
+### Affinity Spheres
+
+**Correspondence** and **Mind** above all — they are, in the source's words, "specialists in magics that manipulate space and thought" — with **Time** for the processing of information across moments. They shun **Entropy** (see the recommended *Sphere Inept* Flaw).
+
+### SPU Mechanics
+
+**Craft Tag: ALL THINGS ARE ONE.** *Invoke* to add Enhancement on Correspondence, Mind, and Time workings framed as connection or communion, and on any roll made while genuinely cooperating with another mage. *Compel* when Unity blinds the Batini to a genuine conflict of interest, when secrecy costs them a needed ally, or when their refusal to sever a connection lets something harmful spread through the Web.
+
+### Concepts
+
+**The Media Monitor** — a third-generation French-Algerian advocate for media literacy and transparency, on tense but occasionally cooperative terms with the Technocracy's media branches. **The Global Citizen** — heir to a vast fortune who tends the Nodes of the Web of Faith, slowly rebuilding it and guarding it against infiltration. **The Self-Reliant Disciple** — a Syrian refugee who reached the Divine through faith alone, untrained, and can now spread their senses across the world.
+
+### Merits, Flaws & Backgrounds
+
+### Occultation (3 pt. Supernatural Merit)
+
+A master of the Arcane background, the Batini may **choose when Arcane applies and when it does not** — letting an acquaintance remember a message with perfect clarity, or letting a trusted friend follow them when they would otherwise slip from everyone's memory. As a Tag, **[Selective Obscurity]**, invoked to be forgotten or compelled when the mage needs to be remembered and cannot be.
+
+### Unity of Purpose (2 pt. Social Merit)
+
+When cooperating with a mage who shares the Batini's paradigm or practice, reduce the Difficulty of the shared endeavor by 1; when cooperating with another Ahl-i-Batin, reduce it by 2. This is the mechanical face of *All Things Are One*.
+
+### Web of Faith (1–5 pt. Supernatural Merit)
+
+You keep and defend a Node or conduit of the Web. **Once per session you may convert this Merit into an equal number of points of the Chantry, Dream, Destiny, or Node Background** for a single scene, as the Web lends you what you need. The rating is a measure of responsibility, not just power: 1 is occasional support; 2 is regular support; 3 is the upkeep and defense of a few conduits; 4 makes you responsible for one or more Nodes (and thus a target); 5 means the network is your waking life, leaving little time for your own pursuits.
+
+### Exposed (1 or 3 pt. Social Flaw)
+
+A faction you deal with regularly would rather not work with you; their help takes real persuasion and heavy promises. At **1 point** it is a minor group — local journalists, a city council, low-influence mages; at **3 points** it is a group who could have been powerful allies.
+
+### Sphere Inept: Entropy (Flaw)
+
+Thoroughly appropriate for a Craft that believes dissolution is the enemy of Unity. Use the standard *Sphere Inept* Flaw applied to Entropy.
+
+### Signature Rotes (the Tariqa)
+
+### Communion
+
+Traditions: Ahl-i-Batin. Spheres: Mind ●●●, Time ●●● (optional Correspondence ●●). Casting Attribute: Composure. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Mind. Tags: [Mental], [Sensory], [Subtle].
+Effect: Two individuals achieve momentary one-ness, sharing thoughts and acting on them in perfect concert.
+Notes: Coincidental. Add Correspondence ●● to commune across distance.
+
+The two minds meet without words. More hits mean richer, faster communication — from a shared flash of intent up to a full silent conversation across a single glance. With the Correspondence option the partners need not be in the same place. Batini cabals use this to fight and negotiate as a single organism, which is unnerving to face.
+
+### Fana
+
+Traditions: Ahl-i-Batin. Spheres: Correspondence ●●●, Mind ●●● (optional Forces ●●). Casting Attribute: Composure. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: tie — first listed, Correspondence. Tags: [Sensory], [Subtle], [Sustained].
+Effect: The mage sublimates the self, co-locating with another entity to share its senses and gently guide its actions.
+Notes: Usually Coincidental. With Forces ●●, the mage can project their own voice through the host's mouth.
+
+*Fana* means "ceasing to exist." The Batini dissolves their sense of separateness and rides along inside another's experience — seeing what they see, nudging what they do. It is the intimate, unsettling core of the Tariqa, and its ethics are a chronicle in themselves.
+
+### Out of Harm's Way
+
+Traditions: Ahl-i-Batin. Spheres: Correspondence ●●●. Casting Attribute: Dexterity. SF: 2. Difficulty: 3 (Rote). Tags: [Protective], [Subtle].
+Effect: A person is set slightly out of sync with the world, so that everything aimed at them arrives just out of true.
+Notes: Requires 4 hits, plus more for duration or to protect another. Coincidental as a moment's clumsiness on the attacker's part; usually Vulgar if sustained beyond a single round.
+
+Blows miss by a hair, grasping hands close on empty air, the bullet finds the space where the target just wasn't. A brief flicker reads as luck; a sustained ward reads as impossible and courts Paradox accordingly.
+
+### Patterning
+
+Traditions: Ahl-i-Batin. Spheres: Mind ●●. Casting Attribute: Manipulation. SF: 1. Difficulty: 2 (Rote). Tags: [Mental], [Sustained], [Subtle].
+Effect: Repetition reinforces a subtle behavioral nudge in a subject, keyed to a set trigger.
+Notes: Coincidental. Cannot be made permanent; must be reinforced within its active window, at a cost of further hits.
+
+The Batini programs a single small prompting — *"when this door opens, glance away"; "when asked for money, give a little."* Hits beyond those needed to plant and maintain the nudge become a **dice pool that fires when the trigger occurs.** A tiny nudge (lend a few dollars) needs few hits; a large one (step in front of a bullet) needs many, and even then reads to the subject as their own idea.
+
+### The Slopes of Mount Qaf
+
+Traditions: Ahl-i-Batin. Spheres: Correspondence ●●●●●, Mind ●●●, Forces ●●. Casting Attribute: Resolve. SF: 4. Difficulty: 5 (Rote). Sig. Sphere: Correspondence. Tags: [Transport], [Sensory], [Reaching], [Sustained].
+Effect: The mage co-locates in the Digital Web and the material world at once.
+Notes: Almost always Vulgar; occasionally Coincidental where AR technology gives cover.
+
+The Batini stands in two worlds. Split the working's hits between sensing and physical presence: **two each** allows normal interaction in both; putting only **one** into either leaves that side clumsy or dulled (+1 Difficulty to Strength/Dexterity actions, or to Perception, on the shortchanged side). This is the closest a living mage comes to walking the lost slopes of Mount Qaf, and it is exactly as dangerous as it sounds.
+
+### Wonders & Items
+
+The Batini's true "Wonder" is infrastructural: the **Web of Faith** itself, a lattice of Nodes and conduits (handled through the Node and Chantry Backgrounds and the *Web of Faith* Merit), and the legend of **Mount Qaf**, a Horizon Realm the Storyguide may resurrect as a destination or a MacGuffin.
+
+## Kahu (formerly the Kopa Loei)
+
+The **Kahu** are Polynesian and Hawaiian willworkers who work **mana** — the life-force and power that resides in objects, people, and the natural world. They are priest-like (a *kahuna* is a priest or priestess), descended from the Wayfarers who navigated the open Pacific by star and swell. They honor the gods — Laka, Pakaʻa the wind-god, Wākea the Sky Father, Kanaloa — and their **aumakua**, the ancestral gods and guardian spirits of a family line. They are bound by **kapu**, the system of sacred prohibition, and centered on *ohana* — family and community — and on the land, tradition, and the long memory of voyaging. (This appendix uses the corrected name **Kahu**; the old "Kopa Loei" is retired.)
+
+### Paradigm
+
+*"Everything holds mana. The stone, the wave, the song, the ancestor. My work is to move it rightly, and to never take what I have not been given."* The Kahu do not think in Spheres at all — they think in mana, and in the proper, reverent channels for moving it. Effects framed as honoring, healing, guiding, and voyaging come easily; effects that seize mana without leave, or violate kapu, invite disaster (see the *Kapu* Flaw).
+
+### Practice & Instruments
+
+Practice is **Shamanism** braided with performance — song, dance, chant, and story are not decoration but the working itself. Instruments are mana-bearing objects: family heirlooms, black-and-white beach stones, driftwood, shells, feathers, whale ivory. **Taboo Instruments** (never to be used): **lava rock, human bones, and sand** — to work mana through these without divine leave is a grave violation.
+
+### Affinity Spheres
+
+**Any.** The Kahu explicitly reject the Sphere framework; a high priest was believed skilled in all magic. Choose signature Spheres to fit the character's practice: a surfer might favor **Entropy, Forces, and Time**; a carver imbuing heirlooms might favor **Prime, Forces, and Matter**. This makes the Kahu the single best in-book model for the "choose Spheres from practice, not from a list" method in the final section.
+
+### SPU Mechanics
+
+**Craft Tag: KEEPER OF MANA.** *Invoke* to add Enhancement on any working framed as the reverent movement of mana — healing, blessing, guiding a vessel, reading the sea and sky — and on rolls to lead or shelter one's *ohana*. *Compel* through **kapu**: the prohibition that forbids the obvious action, the taboo Instrument that must not be touched, the obligation to community that outweighs the mission.
+
+### Concepts
+
+**Activist** — a Buddhist-schooled believer in balance who fights the overdevelopment and homelessness swallowing Oahu, using the Awakening to heal mental scars and lead the displaced home. **Performer** — a dancer, musician, and singer who ties practice to bodily storytelling and shares the culture online (with a Virtual Adept friend to help). **Voyager** — heir to a Wayfarer lineage and a great-grandfather's aumakua, questing after the vanished lands and the source of mana, laptop and koa-nut rosary both in the pack.
+
+### Merits, Flaws & Backgrounds
+
+### Aumakua (7 pt. Supernatural Merit)
+
+A powerful ancestor or nature spirit guides your family line, functioning as **both an Avatar Companion and a Spirit Mentor.** It can teach Abilities and Rotes and offer insight and counsel — **but it cannot teach Spheres.** It is a Storyguide-run character with its own agenda; stray from your path and it may deceive you, withhold aid, or punish you outright. In SPU, bundle this as a high-value Ally/Mentor with the **[Aumakua's Regard]** relationship Tag, invoked for guidance and compelled when the spirit's expectations bind you.
+
+### Kapu (4–5 pt. Psychological Flaw)
+
+You have taken on an ancestral prohibition that interferes with working mana. Pick one:
+
+- **(4 pt.)** You cannot take lava rock without the gods' permission; do so without consent and you are struck **mute until you atone.**
+- **(4 pt.)** You cannot eat in the presence of a different gender; violation brings a migraine that imposes **−1 die on all casting and Skill rolls until you atone.**
+- **(5 pt.)** You cannot touch or defile a dead body except to prepare it for burial; violation leaves you **unable to spend Quintessence until you atone.**
+
+As a Tag this is simply the character's **[Kapu]**, which the Storyguide compels whenever the prohibition and the moment collide.
+
+**Re-skinned traits.** The source notes many existing Merits and Flaws suit the Kahu with small cultural adjustments — *Stormwarden* (if the Avatar Storm features in your chronicle), *Fae Blood*, *Shapeshifter Kin*, or *Supernatural Companion* (favoring Menehune, Rokea, or other Changing Breeds), and Flaws such as *Haunted*, *Bound*, or *Bedeviled*.
+
+### Signature Rotes
+
+Treat these like Traveler's Tricks — small, elegant, deeply Coincidental.
+
+### Pule Pale
+
+Traditions: Kahu. Spheres: Entropy ●●. Casting Attribute: Composure. SF: 1. Difficulty: 2 (Rote). Tags: [Protective], [Fate], [Subtle].
+Effect: A chant to Laka wards a person before a journey or task.
+Notes: Coincidental.
+
+The Kahu may spend the working's hits to warn the target of coming harm, to help them avoid harm, or to heap misfortune on someone trying to harm them (adding Complication chances to the aggressor's rolls). It is the blessing a Kahu speaks over anyone they love before they walk out the door.
+
+### Accelerate the Current
+
+Traditions: Kahu. Spheres: Forces ●●●. Casting Attribute: Presence. SF: 2. Difficulty: 3 (Rote). Tags: [Movement], [Environmental].
+Effect: Invoking the wind-god Pakaʻa, the Kahu speeds a vessel or vehicle.
+Notes: Coincidental — a lucky, sudden favorable wind.
+
+While the effect holds, the vessel **ignores the Difficulty penalties for exceeding its safe speed.** The Wayfarers crossed an ocean on workings like this one.
+
+### Searching for the Lost Path
+
+Traditions: Kahu. Spheres: Correspondence ●●, Time ●●. Casting Attribute: Intellect. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: tie — first listed, Correspondence. Tags: [Sensory], [Reaching], [Fate].
+Effect: Calling on Wākea, the Kahu perceives a route another has already traveled and follows it.
+Notes: Coincidental.
+
+The Kahu "rewinds" their perception to see a target's path, then follows that thread — like a bird tracing a wake. The hits required and the duration granted scale by how long ago the quarry passed, whether the Kahu stands at a point on the journey, and whether they hold a personal belonging of the traveler (roughly: an hour ago, 1 hit; two years ago, 6+ hits; duration ranging from six hours to a month depending on the anchoring object or place).
+
+### Wonders & Items
+
+The Kahu carry no single signature fetish; their power lives in mana-imbued heirlooms and the mana-bearing Instruments listed above. A treasured aumakua-blessed object can be statted as a minor Wonder with the **[Mana Reservoir]** Tag at the Storyguide's discretion.
+
+## Sisters of Hippolyta
+
+The **Sisters of Hippolyta** — the Hippolytae — are an all-women Craft (inclusive of trans women) who trace their descent, mythically, to the Amazons of Themiscyra and Queen Hippolyta, and who worship **Artemis**, goddess of the hunt. They prize diversity, sisterhood, compassion, courage, and justice, and they guard above all a person's freedom to *choose*. The fall of Themiscyra left them wary of the Ascension War, and they are governed in part by the **epitropi**, a council of seven. Their long, complicated rivalry with the Verbena colors every room the two share. Their magic is shamanistic and ritual-heavy, laced with craftwork and martial art.
+
+### Paradigm
+
+*"Creation is alive and it is ours to defend, not to master. Every person has the right to choose their own path — and I will hunt anyone who takes that right away."* The Hippolytae paradigm centers on the sacredness of living things and the inviolability of choice. Effects that protect, heal, bind sisters together, and hunt oppressors come easily; effects that dominate or strip agency fit poorly and feel, to a Sister, like a small betrayal of Artemis.
+
+### Practice & Instruments
+
+Practice blends **Shamanism**, **Witchcraft**, and **Craftwork** with martial discipline. Instruments are visceral and old: blood and body fluids, sex and sensuality, bones and remains, thought-forms, symbols, weapons, brews and potions, offerings, herbs, and plants. Regional traditions vary — French-born Tunisian Sisters lean to elementalism; Greek Sisters favor god-bonding and invigoration. Two festivals matter mechanically: **Elaphebolia** (Feb 26 — feasting and gifts; daughters born that day carry Artemis' blessing, and the **Golden Hind** spirit may be consulted where the Gauntlet thins) and **Amarysia** (Apr 1 — games, contests, and sanctioned pranking of one's elders).
+
+### Affinity Spheres
+
+**Life, Spirit, and Mind** — stated plainly in the source.
+
+### SPU Mechanics
+
+**Craft Tag: DAUGHTER OF THE HUNT.** *Invoke* to add Enhancement on Life, Spirit, and Mind workings framed as protection, healing, or the hunt for a predator, and on rolls made in defense of someone's freedom to choose. *Compel* when sisterhood's obligations override the mission, when the Verbena rivalry flares, or when a Sister's fierce protectiveness makes her predictable to an enemy who threatens an innocent.
+
+### Concepts
+
+**Social Justice Witch** — a daughter of immigrants in a campus neo-pagan feminist collective, for whom magick is simply activism by other means. **Mother of the House** — a trans woman of color running a ballroom House that shelters LGBTQ+ youth, whose protective and healing magic is instinctive. **Technical Improvements** — a Sister who guards humanity's ability to choose against the Technocracy's tidy certainties. **Amazon Next Door** — a prodigy social worker and NGO consultant with an enormous network, Awakened and not, who treats magick as one more useful skill.
+
+### Merits, Flaws & Backgrounds
+
+### Legacy (2 pt. Social Merit)
+
+You were born into a long matriline of Sisters. Reduce the Difficulty of Social interactions **within your Craft by 2**, or Social interactions with **other Awakened by 1** — as long as you remain in your family's good graces.
+
+### Blessing of Artemis (3 pt. Physical Merit)
+
+You were born on Elaphebolia (Feb 26). You may call on Artemis for **+2 dice (Enhancement +2) on all Dexterity rolls for the rest of the scene**; once used, it cannot be used again until the following **moonrise.** Displease or anger the goddess and the blessing is withdrawn until you make amends through roleplay or a quest.
+
+### Vessel of Themis (2 or 4 pt. Supernatural Flaw)
+
+You bear a birthmark like a sword or a set of scales, and you are attuned to the suffering of other women. At **2 points**, nightmares of unfamiliar women's ordeals leave you rattled and disoriented; at **4 points**, you also manifest physical proof — bruises, wounds — of what you dreamed. *(This trait can touch on real trauma; agree on limits with the table before it comes into play.)*
+
+### Signature Rotes
+
+### Mark of the Huntress
+
+Traditions: Sisters of Hippolyta. Spheres: Life ●●●, Mind ●●, Prime ●●. Casting Attribute: Presence. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Life. Tags: [Mental], [Fate], [Subtle].
+Effect: A target is marked, through Artemis, as dangerous — a predator to be shunned.
+Notes: Coincidental.
+
+The Awakened see a bronze hoof-print glowing on the marked one's forehead. The unAwakened see nothing, but feel it: they are instinctively repelled, edging away, declining to serve, finding reasons to be elsewhere. It is how a Sister makes a room turn its back on a monster without anyone quite knowing why.
+
+### Break the Bonds
+
+Traditions: Sisters of Hippolyta. Spheres: Spirit ●●●. Casting Attribute: Composure. SF: 2. Difficulty: 3 (Rote). Tags: [Reaching], [Protective], [Lasting].
+Effect: Invoking ancient contracts with nymphs, the Sister undoes captivity.
+Notes: Coincidental or Vulgar depending on the task.
+
+Ropes turn slick with moss and slither loose; iron bars rust to powder; a lock forgets its purpose. As an absolute last resort, the nymphs may grant a merciful death so that a Sister never has to surrender herself to a captor. The nymphs cannot affect creatures of the material world — only the bonds — except for the summoning Sister herself.
+
+### One for All
+
+Traditions: Sisters of Hippolyta. Spheres: Correspondence ●●, Life ●●●, Prime ●●. Casting Attribute: Stamina. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Life. Tags: [Protective], [Sustained], [Ritual].
+Effect: A shared rite divides pain and injury among all participants, so no Sister suffers alone.
+Notes: Vulgar.
+
+The Sisters bleed into a bowl, bake the blood into bread, and share it — every crumb consumed, nothing wasted. Performed before battle or childbirth, it means that when one Sister is wounded, the hurt is parceled out across all who partook, so that no single woman is broken and none suffers in isolation. It is the mechanical and spiritual heart of what sisterhood means to them.
+
+### Wonders & Items
+
+The **Golden Hind** — the spirit of a giant doe with golden antlers and bronze hooves — is consulted during Elaphebolia where the Gauntlet weakens, and may serve a chronicle as a Spirit patron or oracle. The Sisters keep no single standard fetish; their crafted weapons, brews, and offerings function as Instruments and, when invested with magic, as Wonders.
+
+## Wu Lung
+
+The **Wu Lung** — the Dragon Wizards — are Chinese sorcerers (*xi*, the male shamans; *wu*, the female) with roots deep in Imperial China and a history braided through every Chinese revolution and the Hong Kong democracy movements. Today they are split. The reformist, socially conscious **Yellow Dragon sect** — young mages who seized the leadership and threw their weight behind pro-democracy causes — stands against the establishment **Azure Dragon sect**, aligned with the wealthy, the triads, and government officials. Their magic is built on ancient sciences: geomancy (feng shui), astrology, traditional medicine, alchemy, and faith-based channeling of the gods.
+
+### Paradigm
+
+*"There is an order beneath everything — the flow of qi through the land, the turning of the stars, the will of the gods — and the wise sorcerer reads it and aligns with it."* The Wu Lung paradigm is one of hidden cosmic order made legible through the ancient sciences. Effects framed as reading, aligning with, and channeling that order come easily; crude, order-defying force fits poorly.
+
+### Practice & Instruments
+
+Practice is **High Ritual** and **Craftwork** grounded in the classical Chinese sciences. Instruments include books and charts of geomancy and astrology; the **luopan** (the geomancer's compass); potions and brews of traditional medicine and alchemy; writing and language (for crafting **Fu** talismans); and offerings of incense and food.
+
+### Affinity Spheres
+
+Those who focus on the ancient sciences — astrology, geomancy, "the primal energy binding all things" — favor **Correspondence and Prime**. Those who emphasize bonds to the gods and faith-based magic use **Spirit** as their gateway.
+
+### SPU Mechanics
+
+**Craft Tag: READER OF THE HIDDEN ORDER.** *Invoke* to add Enhancement on workings of geomancy, astrology, medicine, and god-channeling, and on rolls to read a situation's underlying structure. *Compel* along the sect fault-line — the pull of family and the Azure establishment against conscience, or the reformist zeal of the Yellow Dragons against prudence — and whenever the proper ritual order cannot be observed in time.
+
+### Concepts
+
+**Po Po (Grandma)** — born in wartime Guangdong, a refugee who spent decades defying the corrupt old leadership to serve the poor, now a beloved elder backing the young. **Young Dragon** — a Catholic-schooled Hong Konger with ADHD who found Chinese mysticism again at university, a quick study who now mentors others. **Wayward Son** — child of Azure Dragon council mages, torn between family loyalty and sympathy for the Yellow Dragons.
+
+### Merits, Flaws & Backgrounds
+
+These derive from Chinese star-signs in *Zi Wei Dou Shu*, the Purple Star (Polaris) astrology.
+
+### Wenqu (2 pt. Social Merit)
+
+The star Megrez. **+2 dice (Enhancement +2)** on Expression rolls involving poetry, fiction, or the spoken word, and on artistic Crafts rolls.
+
+### Wuqu (2 pt. Resources Merit)
+
+The star Mizar, of metal and gold. Your investments prosper: **once per story, treat your Resources as if two dots higher, or spend Resources without losing any dots.**
+
+### Zuofu (2 pt. Social Merit)
+
+The star Alcor, of social luck. **Once per session** (when not among hostiles), the Storyguide introduces a character you can win over with bribery or social rolls. Their aid is neither guaranteed nor always free — but the door opens.
+
+### Dijie (2 pt. Resources Flaw)
+
+The star of calamity, opposite to Wuqu. **Your Resources can never rise above 1.**
+
+### Qingyang (1 pt. Social Flaw)
+
+The raised goat, a bad omen, opposite to Zuofu. **−2 dice** on Social rolls to make a good first impression.
+
+### Signature Rotes
+
+### Godly Possession: Hua Tuo
+
+Traditions: Wu Lung. Spheres: Spirit ●●. Casting Attribute: Composure. SF: 1. Difficulty: 2 (Rote). Tags: [Enhancement], [Sustained].
+Effect: The sorcerer channels the god of medicine.
+Notes: Coincidental.
+
+For one roll, the channeled god lends his hand: **+2 to the sorcerer's effective Medicine** for that action. The patient may never know they were treated by a god.
+
+### Godly Possession: Guan Yu
+
+Traditions: Wu Lung. Spheres: Spirit ●●●. Casting Attribute: Might. SF: 2. Difficulty: 3 (Rote). Tags: [Damage], [Aggravated].
+Effect: The sorcerer channels the martial god for a single strike.
+Notes: Vulgar.
+
+For one unarmed or melee attack, the god's presence **escalates the damage a step** — Bashing becomes Lethal, Lethal becomes Aggravated. When Guan Yu rides a sorcerer into a fight, mundane opposition learns fear.
+
+### Qimen Dunjia
+
+Traditions: Wu Lung. Spheres: Correspondence ●●●. Casting Attribute: Intellect. SF: 2. Difficulty: 3 (Rote). Tags: [Environmental], [Sustained].
+Effect: Combining the five elements (wuxing) and eight signs (bagua) to master a battlefield.
+Notes: Coincidental. Lasts one scene.
+
+Used **offensively**, the sorcerer finds the perfect position: **−1 Difficulty to their own combat rolls.** Used **defensively**, they herd enemies into bad ground: **+1 Difficulty to opponents' combat rolls.** A Dragon Wizard who has read a room's feng shui fights as though the walls themselves were on their side.
+
+### Wonders & Items
+
+**Peachwood Sword.** An ordinary wooden shortsword that wards off evil — it deals Bashing damage to mortals, but against a supernatural foe the mage may **spend 1 Willpower to make its damage Aggravated for the scene.** Model it as a Wonder with **[Bane Weapon: Supernatural]** on a Willpower trigger.
+
+**Fu.** Rectangular yellow paper (yellow sticky-notes will do in a pinch) inscribed with a spell — most often a ward or seal against evil spirits. A Fu can be burned and its ash mixed with water and drunk to take the spell's effect into the body.
+
+**Tan.** A makeshift altar — a yellow-clothed table set with Fu, incense, magical flags, and offerings. Before a ritual, the sorcerer chooses **one** benefit: all rolls at **−1 Difficulty**; or **begin an extended ritual with 2 hits already banked**; or the right to **reroll a single Complication (botch).**
+
+---
+
+## Outsiders
+
+The Outsiders were invited, and they came, but they stand near the door with their coats on. Old betrayals, old contempt, and old grief keep them at arm's length — and the Alliance, for all its talk of equality, has not fully earned their trust.
+
+## Bata'a
+
+The **Bata'a** are mages of the African diaspora — "Seven Clans Made One" — rooted in the peoples taken from Africa: Kongo, Igbo, Akan, Mande, Fon, Ewe, and Yoruba. Their magic is syncretic and devotional, serving **les Mystères** (the Loa, the Orisha, and the Ancestors), and it aims at one thing above all: the **Liberation** of the oppressed from the Oppressor. Members are mostly children of the diaspora, with growing First Nations and Latinx numbers. Their central rite is the **Ring Shout**; a **Chwal** ("Horse") is one who is ridden by les Mystères. Their teaching turns on four movements: Know the Self, care for the Body, rest the Soul, embrace the Clan.
+
+### Paradigm
+
+*"The spirits are real, they are owed, and they ride those who serve. Magic is service — to les Mystères, to the Ancestors, and to the liberation of our people."* The Bata'a paradigm is devotional and communal. Effects framed as service, possession, and liberation come easily; effects worked for private power without the spirits' sanction fit poorly and may simply be refused by les Mystères.
+
+### Practice & Instruments
+
+Practice is **Faith** and **Shamanism** enacted through the **Ring Shout** — drums, songs, and dance in a moving circle. Instruments are clan-specific (below), plus goofer dust, offerings and "drank," and botanica ingredients.
+
+### Affinity Spheres — One per Clan
+
+The Bata'a are the great in-book example of **Sphere by role**. Each of the seven Clans owns a signature Sphere and Instrument:
+
+| Clan | Affinity Sphere | Clan Instrument & Role |
+| --- | --- | --- |
+| Kongo | Prime | Astrology; astrologers — "keep your head to the sky" |
+| Igbo | Entropy | Augury; interpreters of omens, tricksters |
+| Akan | Forces | Cleromancy (dice, cowrie shells); gamblers and hustlers |
+| Mande | Life | Rootwork; healers and rootworkers (and, when needed, poisoners) |
+| Fon | Correspondence | Transmission; messengers who possess *konesans*, the Gift of Eyes |
+| Ewe | Mind | Clairvoyance; keepers of the Books of Moses, the Bata'a's knowledge |
+| Yoruba | Spirit | Possession; warriors and Chwal who wield the Sèvitè |
+
+### SPU Mechanics
+
+**Craft Tag: SEVEN MADE ONE.** *Invoke* to add Enhancement on workings in the character's Clan Sphere, on Ring Shout rituals worked with other Bata'a, and on rolls to shelter or liberate their community. *Compel* through the demands of les Mystères — a spirit's price, a taboo, an obligation of service — and through the tension between a Chwal's own will and the will of the one who rides them.
+
+### Concepts
+
+**The Grand Dame (Mande Traditionalist)** — an ageless, deeply respected Bata'a woman of the Baptiste Creyente, over a century old (an experienced character; discuss extra starting experience with the Storyguide). **The Choir of One Voice (Ewe Caregiver)** — a Grammy-winning musician whose father, an Ewe who died by suicide under spiritual overload, now guides them as an Ancestor while they guard the Books of Moses and let les Mystères speak through their voice. **The Fist of Thunder (Yoruba Judge)** — a South Side Chicago ex-con who Awakened in a prison riot, possessed by **Shango**, Orisha of lightning and justice: a Chwal who wields a Sèvitè and rules her block.
+
+### Signature Rotes & Rites
+
+### Monter a Chwal (Riding the Horse)
+
+Traditions: Bata'a. Spheres: Spirit ●●●●● (with the Clan's participation). Casting Attribute: Composure. SF: 4. Difficulty: 5 (Rite). Tags: [Ritual], [Possession], [Lasting], [Dangerous].
+Effect: The initiate becomes the physical vessel of les Mystères.
+Notes: The greatest and most dangerous Bata'a magic; performed only within a Ring Shout with the Seven Made One present to keep wild spirits at bay.
+
+Les Mystères enter the Chwal and **displace one half of the initiate's *gwo bon anj*** — one half of the soul — sharing their power and forging an unbreakable bond. It is usually reserved for the Yoruba, though the Ewe or Kongo may undertake it in emergencies. This is a character-defining rite, not a combat trick; run it as a set-piece with real and lasting consequences.
+
+### Loco's Palm
+
+Traditions: Bata'a (Mande Clan only). Spheres: Life ●●●●. Casting Attribute: Stamina. SF: 3. Difficulty: 4 (Rote). Tags: [Healing], [Sacrifice].
+Effect: Emergency healing of another by sacrificing one's own vitality.
+Notes: Coincidental as desperate first aid; the Mande can never use it on themselves.
+
+The Mande cuts their own palm, pours the preferred "drank" and goofer dust into the wound, and shares life-energy directly. **Heal 2 points of damage of any severity for each 1 point of Stamina sacrificed**, healing and sacrificing as many as the healer chooses to pay. The spent Stamina returns after a good night's rest. It is a healer's covenant written in their own blood.
+
+### Wonders, Items & Backgrounds
+
+### Sèvitè (7 pt. Background; requires Enlightenment 5)
+
+A conjure-staff signifying the bond between les Mystères and the Chwal — carved with clan runes and symbols, stained with the Chwal's goofer dust, les Mystères' "drank," and the Chwal's own blood. It must be completed within three days of the bonding rite, or the Chwal perishes. The Sèvitè **adds +3 dice (Enhancement +3, dedicated) to rolls in the Chwal's affinity Sphere**, and as a weapon **grants +4 dice on attack rolls.** Model it as a personalized Wonder with **[Sèvitè: +3 Clan Sphere]** and **[Conjure-Staff: +4 Attack]**.
+
+### Mojo Bag (1 pt. Background; requires Enlightenment 1)
+
+A bag of amulets, tokens, coins, and clan-specific ingredients — goofer dust with real snakeskin, the spirit of Damballah, and more. It must be "fed" as its clan demands. It **grants +1 die on rolls in the bearer's Clan affinity Sphere.**
+
+## Solificati
+
+The **Solificati** — the Crown'd Ones, the Children of Knowledge — are alchemists, specifically the malcontent branch that never settled into the staid Hermetic House Solificati. They tend to be young, vivid, and intense (their apparent youth is deceptive — delayed aging is a beginner's alchemical trick). They hold that **everything is symbolic** and that **consciousness is the true reality**, so the real Great Work is the elevation of consciousness toward nonphysical immortality; turning lead into gold is a parlor trick they use to fund it. They have joined and been thrown out of both the Traditions and the Technocracy more than once. Their tradition is haunted by the archmage **Heylel Teomim**, the great traitor-hero known as the Solificatus.
+
+### Paradigm
+
+*"Matter is a metaphor. The transmutation of lead to gold is a rehearsal for the transmutation of the soul. I make gold to prove I can change what everyone swears is fixed — and then I change something that matters."* The Solificati paradigm is symbolic and transformational. Effects framed as transmutation, refinement, and the perfecting of a substance or a self come easily; brute effects with no symbolic through-line fit poorly.
+
+### Practice & Instruments
+
+All Solificati use the **Alchemy** practice, frequently augmented by the Art of Desire, Craftwork, Dominion, Elementalism, Invigoration, Medicine-work, and Weird Science — and, among the tech-entranced, Hypertech, Witchcraft, and Yoga. Common Instruments: artwork and symbolic texts, books, brews and concoctions, cups and vessels, drugs and poisons, the classical elements, energy, food and drink, formulae and mathematics, gems and stones, herbs and plants, labs and gear, and sacred languages (Latin, Arabic, Hebrew, Mandarin, Greek, Ancient Egyptian). Taoist and Tantric alchemists add eye contact, prayer, sacred iconography, and sex; rave-scene alchemists add computers, dance, devices, fashion, group rites, music, ordeals, nanotech, and brain–computer interfaces.
+
+> RULES FOR TOOLS. A refined tool becomes a **standard** or **personalized** Instrument (see Appendix B). An Instrument holds no innate power — it only focuses the alchemist's own will. A substance invested with magic of its very own is not an Instrument but a **Wonder** (see Appendix S). This distinction is the whole difference between a Solificati's lab-kit and a Solificati's masterwork.
+
+### Affinity Spheres
+
+Not a fixed list — it follows the alchemical lineage. **Euro-Arabian alchemy** (material transmutation as a metaphor for transcendence) emphasizes **Matter, Life, and Prime**. **Asian alchemy** (Taoist and energetic transmutation) emphasizes **Prime, Forces, and Spirit**. Both draw on **Mind** (for emotional influence) and **Entropy** (for permanence and decay).
+
+### SPU Mechanics
+
+**Craft Tag: THE GREAT WORK.** *Invoke* to add Enhancement on any transmutation, refinement, or symbol-driven working, and on Science, Occult, or Crafts rolls in the laboratory. *Compel* when the pursuit of the Work pulls the alchemist away from the immediate crisis, when a transmutation demands a Sanctum and time they do not have, or when the intoxicating certainty that *everything can be changed* leads them to meddle with something that should have been left alone.
+
+### Concepts
+
+**Neon Trickster** — a rave-scene alchemist who keeps the party going with truth and beauty rather than deception, and only ever punches up. **Occult Surrealist** — a near-mute artist who expresses Creation's enigmas in paint and pixels that shimmer with Quintessence. **Street-Level Philanthropist** — grew up poor, quietly turns lead to gold, and floods the proceeds into charity through the market.
+
+### Signature Rotes — Alchemical Effects
+
+### Transmutation (Base, Complex, and Sublime)
+
+Traditions: Solificati. Spheres: Matter ●●+ (with other Spheres for complex work; add Prime ●● to create from nothing). Casting Attribute: Intellect. SF: highest Sphere dot −1. Difficulty: highest Sphere dot (Rote). Tags: [Transmutation], [Lasting].
+Effect: Shifts a material's properties into something new — and, at the high end, something precious.
+Notes: Usually Vulgar, and usually done privately in a Sanctum or Chantry.
+
+Matter 2 turns one simple material into another; higher Matter plus supporting Spheres enacts complex or radical transmutation; with **Prime 2** the alchemist crafts substance from thin air. The more precious and sophisticated the target material, the more hits it demands. Lead to gold is the classic — and, to a Solificati, the least interesting — case.
+
+### The White Queen's Kiss
+
+Traditions: Solificati. Spheres: Mind ●● (or ●●●●) / Life ●●● (or ●●●●). Casting Attribute: Manipulation. SF: varies. Difficulty: highest Sphere dot (Rote). Sig. Sphere: the higher of the two used. Tags: [Mental] or [Life], [Subtle], [Sleep].
+Effect: A powder or drink that induces sleep, leaving no trace on any toxicology screen.
+Notes: Coincidental.
+
+At **Mind 2** or **Life 3**, it plants a sleepy impulse resistible with a **Willpower roll (Difficulty 6)**, taking hold over 2–5 turns. At **Mind 4** it becomes a "Sleep Right Now" command (resisted with Willpower Difficulty 6 only if the target realizes they are under attack); at **Life 4**, instant and unresisted sleep. Basic variants wake normally; strong ones last the effect's Duration. It works on any living creature; Night-Folk resist, and the truly bloodless — vampires, robots, ghosts — are immune.
+
+### Elixir of Youth
+
+Traditions: Solificati. Spheres: Life ●●● (or ●●●●), optionally Time ●●●. Casting Attribute: Intellect. SF: 2–3. Difficulty: highest Sphere dot (Rote). Sig. Sphere: Life. Tags: [Life], [Lasting].
+Effect: Slows aging.
+Notes: Usually a Coincidental plot-device rather than a combat effect.
+
+**Life 3** slows the alchemist's own aging; **Life 4** slows another's; **Time 3** halts cellular deterioration outright. With **5 or more hits** it effectively confers the Unaging Merit. It does nothing for injury or disease — an ageless alchemist can still be shot.
+
+### Wake the Red Lion
+
+Traditions: Solificati. Spheres: Life ●●● (self) or ●●●● (other). Casting Attribute: Stamina. SF: 2–3. Difficulty: highest Sphere dot (Rote). Tags: [Life], [Enhancement], [Sustained].
+Effect: A vitality-boosting pill, potion, or energy drink that temporarily raises an Attribute.
+Notes: Subtle applications Coincidental; instant bulging muscles are Vulgar.
+
+The alchemist chooses the Attribute (Strength, Dexterity, Stamina, or a Social or Mental one); **each hit raises the chosen Trait by one dot** for the Duration. Elaborate, patient workings can even make the change permanent (a full Great Work in miniature).
+
+### Wonders & Items
+
+The Solificati Wonder is the invested substance — the elixir, powder, or potion that carries its own magic and works in anyone's hand, as distinct from the Instrument that only works in the alchemist's. A named personalized Instrument from the source is the **Changing Stone**, kept for Transmutations. Build elixir-Wonders through the crafting rules of Appendix S, tagging each with its effect and its Duration.
+
+---
+
+## The Orphans — Not a Craft At All
+
+The **Orphans** are self-taught, isolated Awakened who came into their power with no teacher and no tradition. "Orphan" is a name outsiders hung on them; they mostly answer to it with a shrug. They are **not** a Craft, and they are **not** members of the Alliance — as one of them puts it, *"we're not a Craft."* They interact with the Disparates, warily, as "halfway decent allies," and they define themselves by three habits: **survival over victory**, keep a low profile, and always know your exits. They favor technomancy, partly because most traditions won't touch it and partly because it keeps them off the Technocracy's radar.
+
+They close this appendix on purpose. Everything a Craft *is* — a shared paradigm, an affinity, a lineage of Instruments, a name that others recognize — is precisely what the Orphans lack, and understanding *why they get by without it* is the perfect bridge to building one of your own.
+
+### Paradigm
+
+*"Nobody taught me the rules, so I don't owe them anything. Reality bends if you don't make a big deal of it. Keep your head down and you keep your head."* The Orphan paradigm is improvised, coincidence-hugging, and allergic to spectacle. Their magic hides inside technology, apps, drugs, music, and crystals — whatever lets an effect pass for something ordinary. Their governing value is **freedom over safety and over power**: you picked freedom, and freedom means never being anyone's asset.
+
+### Affinity Spheres
+
+None — there is no Orphan curriculum. In practice their improvised workings lean on **Correspondence, Mind, and Life**, with **Matter, Prime, and Spirit** folded in as needed.
+
+### SPU Mechanics
+
+**Craft Tag: STREETWISE SURVIVOR.** *Invoke* to add Enhancement on coincidental magic disguised as mundane tech or habit, on rolls to keep a low profile or find an exit, and on the street-smart improvisation that keeps an untrained mage alive. *Compel* when isolation leaves the Orphan without backup, when a lack of formal training shows in a gap they never learned to cover, or when the instinct to run undercuts a moment that needed them to stand.
+
+### Concepts
+
+**The Wild Talent** — Awakened by an apartment fire; sees and moves colors between electronics and hears whispers, and has told no one for fear of being locked away. **The Wintershiner** — an overworked parent who sees ghosts and plant-spirits and has healing and precognitive knacks, desperate to find others who can help them manage it. **The App Developer** — a wheelchair-using coder whose telekinesis "app" talks to them, mentored by the mysterious Maddy who revealed the internet as a literal Web.
+
+### Merits, Flaws & Backgrounds
+
+### Technomancer / There's an App for That (2–4 pt. Supernatural Merit)
+
+Your magick skirts the technological consensus, presented as bleeding-edge science or a clever app. For **2 dots**, when you botch a vulgar effect **without witnesses**, halve (round up) the Paradox you gain from your highest Sphere. For **4 dots**, the same halving applies even **with witnesses**. As a Tag, **[It's Just an App]**, invoked to reframe a working as ordinary tech. *(The source header reads "2–3 pt." while its body describes 2-dot and 4-dot tiers; this appendix uses the body's 2/4 split and flags the discrepancy for Storyguides porting old sheets.)*
+
+### Signature Rotes
+
+The Orphan repertoire is a set of small, deniable, deeply Coincidental tricks — the magic of getting by.
+
+### Subway Map of the Supernatural
+
+Traditions: Orphans. Spheres: Correspondence ●●, Prime ● (often with Spirit ●, Life ●, or Matter ●). Casting Attribute: Wits. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: Correspondence. Tags: [Sensory], [Reaching], [Subtle].
+Effect: A city map plus a dowsing device locates supernatural beings in the area by their Resonance.
+Notes: Coincidental. Works if the quarry is present long enough and unopposed.
+
+By default everything supernatural just pings as "supernatural." Add a Sphere to tell types apart: **Matter ●** flags vampires and Hit Marks; **Life ●** flags werewolves and changelings; **Spirit ●** flags wraiths. It is how an untrained mage learns what's sharing their neighborhood before it finds them.
+
+### Grapevine
+
+Traditions: Orphans. Spheres: Correspondence ●●, Mind ●● (optional Time ●●). Casting Attribute: Manipulation. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: tie — first listed, Correspondence. Tags: [Sensory], [Mental], [Subtle].
+Effect: Ask the Storyguide general questions about the city and its people, beyond your ordinary network.
+Notes: Coincidental. Time ●● lets you ask about later today or tomorrow.
+
+Where people avoid, where to score, which streetlamps are dead — the city tells you, in a hunch you can't quite source. It won't surrender actively hidden information; it just knows what a city knows about itself.
+
+### I'm Good
+
+Traditions: Orphans. Spheres: Life ●● (or ●●●). Casting Attribute: Stamina. SF: 1. Difficulty: 2 (Rote). Tags: [Life], [Subtle].
+Effect: Shake off any high, low, or physical illness.
+Notes: Coincidental. At Life ●●● it extends to friends.
+
+The Orphan cure for a bad night, a spiked drink, or a rising fever — quiet, quick, and easily mistaken for a strong constitution.
+
+### Fool's Gold (Bum a Meal)
+
+Traditions: Orphans. Spheres: Mind ●●●. Casting Attribute: Manipulation. SF: 2. Difficulty: 3 (Rote). Tags: [Mental], [Subtle].
+Effect: Make a cashier or barista believe you handed them money.
+Notes: Coincidental. Works only on unAwakened mortals — and beware the person in line behind you who saw nothing change hands.
+
+It began as a way to cadge cigarettes and meals, and it is exactly as petty and as useful as that sounds.
+
+### Not Me
+
+Traditions: Orphans. Spheres: Mind ●●● (optional Correspondence ●●●). Casting Attribute: Composure. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Mind. Tags: [Mental], [Protective], [Subtle].
+Effect: You're just a nobody — even a Deviancy Detector reads you green.
+Notes: Coincidental. Without Correspondence ●●● it does not fool remote observers such as traffic cameras or CCTV.
+
+It works directly on minds, so it beats a Technocratic scan that relies on a human operator — but a camera is not a mind, and film remembers what people forget.
+
+### Don't Touch My Shit
+
+Traditions: Orphans. Spheres: Life ●●● or Mind ●●●, Matter ●● (optional Matter ●●● or Spirit ●●●). Casting Attribute: Resolve. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: the higher Sphere used. Tags: [Protective], [Sustained], [Subtle].
+Effect: A ward on a door, a bag, or a stash.
+Notes: Coincidental.
+
+With the **Mind** build, people simply overlook your belongings; with the **Life** build, an intruder gets crippling dizziness or a nasty "static" shock. The Life version works on living things (werewolves and changelings included); it needs **Spirit ●●●** to affect ghosts and **Matter ●●●** to affect vampires and Hit Marks.
+
+### Revelation
+
+Traditions: Orphans. Spheres: Life ●●● or Mind ●●●. Casting Attribute: Presence. SF: 2. Difficulty: 3 (Rote). Tags: [Mental], [Sensory].
+Effect: Briefly force someone — through drugs, music, or crystals — to experience reality's malleability as an Awakened does.
+Notes: Coincidental, but a club full of people livestreaming their epiphany draws exactly the attention an Orphan avoids.
+
+It grants no magic, only the *knowing* — the felt certainty that reality can be otherwise. It relies on an already-open mind nearby, and it is the closest an Orphan comes to evangelism.
+
+---
+
+## Building Your Own Craft, Tradition, or Convention
+
+The eleven entries above were not written to a secret template — the source book invents each Craft from its culture outward. But read enough of them and a repeatable method emerges. This section turns that method into a step-by-step tool for the Storyguide (or an ambitious player) who wants to build a new Craft, revive a historical order, splinter a Tradition, or design a fresh Technocratic Methodology — and, crucially, to do it in **Storypath Ultra terms**, where the deliverable is a small package of **Tags, Spheres, Instruments, and rotes**, not a wall of static point-buy traits.
+
+Work the seven steps in order. Each ends with a concrete output. A running worked example — the **Cartographers' Compact**, an invented Craft of magical mapmakers — is built alongside the steps.
+
+### Step 1 — Identity and Paradigm
+
+Before any mechanics, answer three questions in a sentence each: **Who are these people? What do they believe magic is? What are they for?** The paradigm is the single most important output of this step, because in this system the paradigm is what decides whether a given working is Coincidental or Vulgar for a member (see Appendix B and Chapter Four). Write the paradigm as one to three short belief-statements, in the members' own voice.
+
+> **Worked example — Cartographers' Compact.** *Who:* a guild of surveyors, cartographers, and urban explorers, descended from portolan-chart makers and colonial-era surveyors who came to believe the map is not a record of the world but a draft of it. *Belief:* "To name and draw a place is to have authority over it. The territory obeys an accurate map." *For:* they map the hidden geographies — ley lines, Umbral shallows, the routes the powerful would rather no one charted — and they give those maps to the people the map was used against.
+
+Deliverable: a name, a one-line identity, and a 1–3 sentence paradigm.
+
+### Step 2 — Affinity Spheres from Practice, Not from a List
+
+Do not start with "which Spheres are cool." Start with what the Craft actually *does*, and let the Spheres fall out of it — this is exactly how the Kahu (who reject Spheres entirely and pick to fit the character) and the Wu Lung (Spheres derived from geomancy vs. god-bonding) are handled, and how the Bata'a assign one Sphere per Clan role. Pick **two or three affinity Spheres** for a focused Craft, or, for a deliberately diverse one, define **sub-groups** each with their own Sphere (the Bata'a model).
+
+Ask: what does their signature magic manipulate? Space and connection → Correspondence. Fate, decay, luck → Entropy. Energy and physical law → Forces. Living things → Life. Substance → Matter. Thought → Mind. Quintessence and magic itself → Prime. Spirits → Spirit. Time → Time.
+
+> **Worked example.** Mapmaking is about *space and connection* first (**Correspondence**), *reading and imposing pattern on a place* second (**Mind**), and *the raw stuff that ley lines carry* third (**Prime**). Affinity Spheres: **Correspondence, Mind, Prime.** (Note how close this is to the Ahl-i-Batin — a deliberate cousin, and a good in-world rivalry hook.)
+
+Deliverable: 2–3 affinity Spheres, or a per-sub-group Sphere table.
+
+### Step 3 — Instruments, Practice, and Taboos
+
+Choose a **Practice** from Appendix B (Craftwork, Dominion, Faith, High Ritual, Shamanism, Witchcraft, and so on) — or name a new one if the culture demands it, as the Hollow Ones do with Chaos Magick. Then list **culturally grounded Instruments**: the specific, evocative objects and acts through which members focus will. Every Craft above ties its Instruments tightly to its culture; do the same. Finally — and this is the step new designers skip — consider a **taboo**: an Instrument or action that is *forbidden*, the way the Kahu must never work through lava rock, human bone, or sand. A taboo is free flavor that pays for itself as a compellable Tag.
+
+Remember the Solificati "Rules for Tools" distinction: an **Instrument** holds no power of its own (it focuses the mage); a thing invested with its own magic is a **Wonder** (Appendix S). Keep the two straight when you write the Craft's gear.
+
+> **Worked example.** Practice: **Craftwork** (the drafting of a map *is* the working) with a **High Ritual** streak for large surveys. Instruments: surveyor's theodolite and total station, drafting pens and ink, GPS units and drones, old portolan charts, the act of walking a boundary ("beating the bounds"), true place-names. **Taboo:** a Cartographer may never knowingly draw a *deliberate falsehood* onto a working map — to lie on the map is to lie to the territory, and the territory answers such lies with Paradox. That taboo becomes the Craft's signature Flaw and its best compel.
+
+Deliverable: one Practice, 4–6 Instruments, and (recommended) one taboo.
+
+### Step 4 — Two or Three Character Concepts
+
+Every Craft above ships **two to four Concepts** — thumbnail archetypes a player can grab and run. Write them as a role plus a hook, spanning different Attributes and social positions so the Craft doesn't feel like one character wearing three hats. Concepts are also where you show the Craft's internal diversity and its politics (the Wu Lung Concepts each sit somewhere on the Yellow/Azure fault-line; write yours to surface your Craft's central tension).
+
+> **Worked example.** *The Boundary-Walker* — a field surveyor who literally walks contested edges (evictions, border walls, redlined neighborhoods) and redraws them truer. *The Archivist* — a map-library conservator who guards charts the powerful want burned. *The Drone Kid* — a young UAV pilot mapping from above, one loud crash away from a Technocratic flag.
+
+Deliverable: 2–4 Concepts, each a role plus a hook.
+
+### Step 5 — The Craft Tag (Convert, Don't Accumulate)
+
+This is the heart of the SPU conversion and the step where old-edition instincts most need retraining. In M20 you would now write a stack of point-buy Merits. In Storypath Ultra, the Craft's identity is carried first and foremost by **one signature Craft Tag** — a short evocative phrase with a defined **invoke** (when it adds Enhancement or lowers Difficulty) and a defined **compel** (when it complicates the member's life for a Momentum reward). Every Craft above has exactly one. Write yours the same way, and make the compel *bite* — a Tag you can only invoke is a boring Tag.
+
+**Converting old traits to Tags — a cheat sheet.** When you port existing M20 material into this system:
+
+- A Merit that grants a **flat dice bonus** ("+2 dice to X") → an invoke of the Craft Tag (or a narrow specialty Tag) worth **Enhancement +1 or +2** on X.
+- A Merit that **lowers difficulty** ("−1 difficulty to Y") → a **−1 Difficulty** invoke, or fold it into the faction rule.
+- A Flaw that imposes a **penalty or obligation** → a **compel** on the Craft Tag, or a standalone **[Flaw Tag]** that can *only* be compelled (never invoked), exactly as item Flaws work in Appendix S.
+- A **Background** that grants access, materiel, or allies (Vatican Connections, Web of Faith, Sèvitè) → keep it a Background, but give any wielded object a Wonder **Tag** so it behaves consistently in play.
+- A **paradox-facing** trait (Taftâni *Paradox Mitigation*, Orphan *Technomancer*) → express it against the Paradox Pool of Chapter Five: a free vulgar working, a softened Backlash step, or halved Paradox on a botch. This is where a Craft can be genuinely distinctive — see the Taftâni entry and its Weaver's Die optional rule.
+
+> **Worked example.** **Craft Tag: THE MAP IS THE TERRITORY.** *Invoke* to add Enhancement on Correspondence, Mind, or Prime workings that involve an accurate map or survey of the place in question, and on any navigation, tracking, or "know the ground" roll. *Compel* through the taboo (a false line on the map recoils on its maker), through the guild's obligation to hand its maps to the wronged rather than the powerful, and whenever the Cartographer has *not* had time to survey and must work a place blind.
+
+Deliverable: one Craft Tag with invoke and compel; optionally 1–2 narrow specialty or Flaw Tags.
+
+### Step 6 — A Handful of Signature Rotes
+
+Give the Craft **three to six signature rotes**, written on the Appendix N template (Spheres with dots, Casting Attribute, SF = highest Sphere dot − 1, Difficulty = highest Sphere dot, bracketed Tags, one-line Effect, Coincidental/Vulgar note, then flavor and — for at least one — a worked example). Rotes are where a Craft's paradigm becomes playable; make each one something *only this Craft* would think to do. Cover a spread of dot levels so a starting member and a veteran both have something to reach for.
+
+> **Worked example — one rote.**
+>
+> **Beat the Bounds.** Traditions: Cartographers' Compact. Spheres: Correspondence ●●●, Prime ●●. Casting Attribute: Resolve. SF: 2. Difficulty: 3 (Rote). Sig. Sphere: Correspondence. Tags: [Protective], [Environmental], [Lasting]. Effect: By walking and drawing a boundary, the Cartographer makes it real — a warded edge that resists unwanted crossing and unwanted change. Notes: Coincidental as a survey; Vulgar if the boundary visibly manifests. — *The Cartographer walks the perimeter of a block, a building, or a grove, drafting it as they go; for (hits) days the mapped edge gains a Tag the guild can invoke against trespass, tracking, and Correspondence intrusion, and the enclosed ground is warded against being redrawn by another's magic.*
+
+Deliverable: 3–6 rotes in Appendix N format.
+
+### Step 7 — Wonders, Backgrounds, and Table Integration
+
+Finally, give the Craft any **unique Wonders** (invested items — build them in Appendix S, tag them in Appendix J), any **unique Backgrounds** (access, materiel, or spirit-allies the way the Templars, Batini, and Bata'a have them), and a short note on **how the Craft sits at the table**: its protectorate, its place in (or out of) the Alliance, its rivals and cousins among the existing factions, and the one story tension it exists to dramatize.
+
+> **Worked example.** Wonder: the **True Chart**, a personalized map-Instrument elevated to a Wonder, carrying **[Living Map]** (it updates itself as the mapped territory changes) and **[Ward Anchor]** (it stores one *Beat the Bounds* working for later release). Background: **Survey Rights** (1–5) — legal, guild, or clandestine access to survey a given territory, from a single building to a national mapping agency. Table note: the Compact's protectorate is *the dispossessed of the map* — the redlined, the erased, the borderland. Their cousins are the Ahl-i-Batin (both work Correspondence and secrecy) and their rivals are any faction that maps to control rather than to liberate — which, sooner or later, means the Technocracy. Central tension: **a true map is a weapon, and weapons get taken.**
+
+## Adapting the Method for Traditions and Conventions
+
+The same seven steps build a splinter **Tradition** or a new Technocratic **Convention/Methodology** — with two adjustments. For a **Tradition**, also produce a full **Path package** (a Major Path and two Minor Paths) using the Tradition Path Tables format in Chapter Eight, so the new group is character-creation-ready. For a **Convention or Methodology**, swap "paradigm" for a **procedure-based worldview** (Enlightened Science rather than magic), reskin Instruments as **devices and protocols**, express the Craft Tag as an Enlightenment specialty, and remember that Technocrats generate Paradox as *Disbelief and Deviation* — their "vulgar" is any procedure that outruns the current consensus of their peers.
+
+## A Note for the Storyguide: The Orphans' Lessons
+
+The Orphans refuse to be a Craft, and their survival wisdom doubles as design guidance and as excellent player advice. Fold these into any new Craft's culture and any Disparate chronicle:
+
+- **Cast a big shadow.** Often you only need people to *think* you have an ace up your sleeve — but expect the bluff to get called eventually.
+- **Pick your battles.** Pulling out the big guns turns survivors into enemies, announces your presence, and reveals your capabilities. Sometimes the wise move is to take the hit.
+- **Survival over victory.** Don't fight the big powers even when you could win; winning draws attention, and a low profile wins the long game. Self-sacrifice is not the point.
+- **Always know your exits.** Map every exit *before* you enter — blueprints, 3-D social-media walkthroughs — and carry a backup plan for the backup plan.
+- **Know your frenemies.** The **Trads** (Nine Traditions) are self-important and hold grudges, but don't burn the bridge. The **Suits** (Technocracy) are capitalists gobbling up magick — agree with them, then run. The **Fallen** (rumored Nephandi infiltrators) prey on the vulnerable; trust nothing. And the **Disparates** are neither family nor friends, but decent allies — keep your bargains, and find them through the graffiti tags and the marginalized communities where they live.
+
+---
+
+---
+
 # Index
 This index covers the primary game terms, subsystems, rules concepts, and setting elements found in this book. Each entry is on its own line; the entry and its page number are connected by a leader line. Entries with sub-entries list specific sub-topics for that term, indented beneath the main entry.
 
@@ -23602,81 +25975,81 @@ This index covers the primary game terms, subsystems, rules concepts, and settin
 
 ::: {custom-style="IndexEntry"}
 
-Action Dice (Phase Initiative)`<w:r><w:tab/></w:r>`{=openxml}382
+Action Dice (Phase Initiative)`<w:r><w:tab/></w:r>`{=openxml}330
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Face value = Phase number (no hits check)`<w:r><w:tab/></w:r>`{=openxml}382
+Face value = Phase number (no hits check)`<w:r><w:tab/></w:r>`{=openxml}330
 
-Trick Initiative (10 = any Phase)`<w:r><w:tab/></w:r>`{=openxml}382
+Trick Initiative (10 = any Phase)`<w:r><w:tab/></w:r>`{=openxml}103
 
-Consumed by window, not by count`<w:r><w:tab/></w:r>`{=openxml}386
+Consumed by window, not by count`<w:r><w:tab/></w:r>`{=openxml}330
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Advancement`<w:r><w:tab/></w:r>`{=openxml}37
+Advancement`<w:r><w:tab/></w:r>`{=openxml}27
 
-Aiding Magic (Sympathy & Tools)`<w:r><w:tab/></w:r>`{=openxml}57
+Aiding Magic (Sympathy & Tools)`<w:r><w:tab/></w:r>`{=openxml}31
 
-Armor`<w:r><w:tab/></w:r>`{=openxml}22
+Armor`<w:r><w:tab/></w:r>`{=openxml}118
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Armor System (full rules)`<w:r><w:tab/></w:r>`{=openxml}405
+Armor System (full rules)`<w:r><w:tab/></w:r>`{=openxml}355
 
-Armor in Combat`<w:r><w:tab/></w:r>`{=openxml}22
+Armor in Combat`<w:r><w:tab/></w:r>`{=openxml}99
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Arete (Traditions)`<w:r><w:tab/></w:r>`{=openxml}29
+Arete (Traditions)`<w:r><w:tab/></w:r>`{=openxml}13
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-vs. Enlightenment (Technocracy)`<w:r><w:tab/></w:r>`{=openxml}29
+vs. Enlightenment (Technocracy)`<w:r><w:tab/></w:r>`{=openxml}13
 
-Sphere skill cap`<w:r><w:tab/></w:r>`{=openxml}71
+Sphere skill cap`<w:r><w:tab/></w:r>`{=openxml}13
 
-Quintessence channeling cap`<w:r><w:tab/></w:r>`{=openxml}44
+Quintessence channeling cap`<w:r><w:tab/></w:r>`{=openxml}13
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Ascension War`<w:r><w:tab/></w:r>`{=openxml}195
+Ascension War`<w:r><w:tab/></w:r>`{=openxml}170
 
-Attacks`<w:r><w:tab/></w:r>`{=openxml}130
+Attacks`<w:r><w:tab/></w:r>`{=openxml}110
 
-Attributes and Skills`<w:r><w:tab/></w:r>`{=openxml}33
+Attributes and Skills`<w:r><w:tab/></w:r>`{=openxml}23
 
-Avatar`<w:r><w:tab/></w:r>`{=openxml}205
+Avatar`<w:r><w:tab/></w:r>`{=openxml}178
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-What Is the Avatar?`<w:r><w:tab/></w:r>`{=openxml}205
+What Is the Avatar?`<w:r><w:tab/></w:r>`{=openxml}178
 
-Avatar Essences (full rules)`<w:r><w:tab/></w:r>`{=openxml}212
+Avatar Essences (full rules)`<w:r><w:tab/></w:r>`{=openxml}185
 
-Avatar Rating`<w:r><w:tab/></w:r>`{=openxml}205
+Avatar Rating`<w:r><w:tab/></w:r>`{=openxml}22
 
-Seekings`<w:r><w:tab/></w:r>`{=openxml}206
+Seekings`<w:r><w:tab/></w:r>`{=openxml}22
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Awakened Template`<w:r><w:tab/></w:r>`{=openxml}29
+Awakened Template`<w:r><w:tab/></w:r>`{=openxml}15
 
 :::
 
@@ -23684,9 +26057,11 @@ Awakened Template`<w:r><w:tab/></w:r>`{=openxml}29
 
 ::: {custom-style="IndexEntry"}
 
-Backlash, Paradox`<w:r><w:tab/></w:r>`{=openxml}67
+Backlash, Paradox`<w:r><w:tab/></w:r>`{=openxml}50
 
-Building a Dice Pool`<w:r><w:tab/></w:r>`{=openxml}16
+Building a Dice Pool`<w:r><w:tab/></w:r>`{=openxml}7
+
+Building Your Own Craft, Tradition, or Convention (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}755
 
 :::
 
@@ -23694,55 +26069,59 @@ Building a Dice Pool`<w:r><w:tab/></w:r>`{=openxml}16
 
 ::: {custom-style="IndexEntry"}
 
-Casting Roll`<w:r><w:tab/></w:r>`{=openxml}44
+Casting Roll`<w:r><w:tab/></w:r>`{=openxml}32
 
-Chantry`<w:r><w:tab/></w:r>`{=openxml}309
-
-:::
-
-::: {custom-style="IndexSubEntry"}
-
-Establishing a Chantry`<w:r><w:tab/></w:r>`{=openxml}310
-
-Chantry Traits`<w:r><w:tab/></w:r>`{=openxml}311
-
-Chantry Merits`<w:r><w:tab/></w:r>`{=openxml}314
-
-Technocratic Constructs`<w:r><w:tab/></w:r>`{=openxml}320
-
-:::
-
-::: {custom-style="IndexEntry"}
-
-Character Creation`<w:r><w:tab/></w:r>`{=openxml}25
-
-Coincidental vs. Vulgar Magic`<w:r><w:tab/></w:r>`{=openxml}46
-
-Combat`<w:r><w:tab/></w:r>`{=openxml}117
+Chantry`<w:r><w:tab/></w:r>`{=openxml}265
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Combat Examples`<w:r><w:tab/></w:r>`{=openxml}165
+Establishing a Chantry`<w:r><w:tab/></w:r>`{=openxml}266
 
-Magical Combat`<w:r><w:tab/></w:r>`{=openxml}150
+Chantry Traits`<w:r><w:tab/></w:r>`{=openxml}267
 
-Scene Structure`<w:r><w:tab/></w:r>`{=openxml}120
+Chantry Merits`<w:r><w:tab/></w:r>`{=openxml}271
+
+Technocratic Constructs`<w:r><w:tab/></w:r>`{=openxml}277
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Complications`<w:r><w:tab/></w:r>`{=openxml}19
+Character Creation`<w:r><w:tab/></w:r>`{=openxml}15
 
-Concept (Step One)`<w:r><w:tab/></w:r>`{=openxml}25
+Coincidental vs. Vulgar Magic`<w:r><w:tab/></w:r>`{=openxml}33
 
-Consensus`<w:r><w:tab/></w:r>`{=openxml}187
+Combat`<w:r><w:tab/></w:r>`{=openxml}99
 
-Correspondence (Sphere)`<w:r><w:tab/></w:r>`{=openxml}71
+:::
 
-Counter-Magic`<w:r><w:tab/></w:r>`{=openxml}58
+::: {custom-style="IndexSubEntry"}
+
+Combat Examples`<w:r><w:tab/></w:r>`{=openxml}147
+
+Magical Combat`<w:r><w:tab/></w:r>`{=openxml}132
+
+Scene Structure`<w:r><w:tab/></w:r>`{=openxml}102
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Complications`<w:r><w:tab/></w:r>`{=openxml}10
+
+Concept (Step One)`<w:r><w:tab/></w:r>`{=openxml}15
+
+Consensus`<w:r><w:tab/></w:r>`{=openxml}162
+
+Correspondence (Sphere)`<w:r><w:tab/></w:r>`{=openxml}56
+
+Counter-Magic`<w:r><w:tab/></w:r>`{=openxml}31
+
+Craft creation toolkit (Appendix X)
+
+Craft Tags — factional signature Tags (Appendix J; Appendix X)`<w:r><w:tab/></w:r>`{=openxml}365
 
 :::
 
@@ -23750,19 +26129,29 @@ Counter-Magic`<w:r><w:tab/></w:r>`{=openxml}58
 
 ::: {custom-style="IndexEntry"}
 
-Damage Types`<w:r><w:tab/></w:r>`{=openxml}134
+Damage Types`<w:r><w:tab/></w:r>`{=openxml}114
 
-Death and Incapacitation`<w:r><w:tab/></w:r>`{=openxml}164
+Death and Incapacitation`<w:r><w:tab/></w:r>`{=openxml}146
 
-Defense`<w:r><w:tab/></w:r>`{=openxml}132
+Defense`<w:r><w:tab/></w:r>`{=openxml}112
 
-Dice Pools`<w:r><w:tab/></w:r>`{=openxml}15
+Dice Pools`<w:r><w:tab/></w:r>`{=openxml}5
 
-Difficulty`<w:r><w:tab/></w:r>`{=openxml}19
+Difficulty`<w:r><w:tab/></w:r>`{=openxml}9
 
-Disparate Crafts`<w:r><w:tab/></w:r>`{=openxml}194
+Disparate Crafts`<w:r><w:tab/></w:r>`{=openxml}169
 
-Dynamic Essence`<w:r><w:tab/></w:r>`{=openxml}213
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Disparate Alliance & the eleven Crafts — Fractured Traditions (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}169
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Dynamic Essence`<w:r><w:tab/></w:r>`{=openxml}187
 
 :::
 
@@ -23770,45 +26159,47 @@ Dynamic Essence`<w:r><w:tab/></w:r>`{=openxml}213
 
 ::: {custom-style="IndexEntry"}
 
-Enlightenment (Technocracy)`<w:r><w:tab/></w:r>`{=openxml}29
+Enlightenment (Technocracy)`<w:r><w:tab/></w:r>`{=openxml}19
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-vs. Arete (Traditions)`<w:r><w:tab/></w:r>`{=openxml}29
+vs. Arete (Traditions)`<w:r><w:tab/></w:r>`{=openxml}19
 
-Sphere skill cap`<w:r><w:tab/></w:r>`{=openxml}71
+Sphere skill cap`<w:r><w:tab/></w:r>`{=openxml}19
 
-Quintessence channeling cap`<w:r><w:tab/></w:r>`{=openxml}44
+Quintessence channeling cap`<w:r><w:tab/></w:r>`{=openxml}19
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Entities and Antagonists`<w:r><w:tab/></w:r>`{=openxml}234
+Enlightened Grimoire rotes (Extended Rotes, Appendix N)`<w:r><w:tab/></w:r>`{=openxml}550
 
-Entropy (Sphere)`<w:r><w:tab/></w:r>`{=openxml}76
+Entities and Antagonists`<w:r><w:tab/></w:r>`{=openxml}204
 
-Essence (Avatar)`<w:r><w:tab/></w:r>`{=openxml}212
+Entropy (Sphere)`<w:r><w:tab/></w:r>`{=openxml}61
+
+Essence (Avatar)`<w:r><w:tab/></w:r>`{=openxml}179
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Dynamic Essence`<w:r><w:tab/></w:r>`{=openxml}213
+Dynamic Essence`<w:r><w:tab/></w:r>`{=openxml}187
 
-Pattern Essence`<w:r><w:tab/></w:r>`{=openxml}217
+Pattern Essence`<w:r><w:tab/></w:r>`{=openxml}190
 
-Primordial Essence`<w:r><w:tab/></w:r>`{=openxml}221
+Primordial Essence`<w:r><w:tab/></w:r>`{=openxml}193
 
-Questing Essence`<w:r><w:tab/></w:r>`{=openxml}225
+Questing Essence`<w:r><w:tab/></w:r>`{=openxml}196
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Extended Tasks`<w:r><w:tab/></w:r>`{=openxml}23
+Extended Tasks`<w:r><w:tab/></w:r>`{=openxml}14
 
 :::
 
@@ -23816,11 +26207,11 @@ Extended Tasks`<w:r><w:tab/></w:r>`{=openxml}23
 
 ::: {custom-style="IndexEntry"}
 
-Factions`<w:r><w:tab/></w:r>`{=openxml}187
+Factions`<w:r><w:tab/></w:r>`{=openxml}162
 
-Forces (Sphere)`<w:r><w:tab/></w:r>`{=openxml}81
+Forces (Sphere)`<w:r><w:tab/></w:r>`{=openxml}65
 
-Freeform Magic`<w:r><w:tab/></w:r>`{=openxml}47
+Freeform Magic`<w:r><w:tab/></w:r>`{=openxml}34
 
 :::
 
@@ -23828,9 +26219,9 @@ Freeform Magic`<w:r><w:tab/></w:r>`{=openxml}47
 
 ::: {custom-style="IndexEntry"}
 
-Gauntlet`<w:r><w:tab/></w:r>`{=openxml}106
+Gauntlet`<w:r><w:tab/></w:r>`{=openxml}89
 
-Gauntlet (Cosmos)`<w:r><w:tab/></w:r>`{=openxml}478
+Gauntlet (Cosmos)`<w:r><w:tab/></w:r>`{=openxml}89
 
 Group Rules — the Volley, mob attack resolution (Appendix W)
 
@@ -23840,13 +26231,13 @@ Group Rules — the Volley, mob attack resolution (Appendix W)
 
 ::: {custom-style="IndexEntry"}
 
-Health Track`<w:r><w:tab/></w:r>`{=openxml}136
+Health Track`<w:r><w:tab/></w:r>`{=openxml}116
 
-Healing`<w:r><w:tab/></w:r>`{=openxml}148
+Healing`<w:r><w:tab/></w:r>`{=openxml}130
 
-Hits`<w:r><w:tab/></w:r>`{=openxml}16
+Hits`<w:r><w:tab/></w:r>`{=openxml}7
 
-Horizon (Umbra)`<w:r><w:tab/></w:r>`{=openxml}483
+Horizon (Umbra)`<w:r><w:tab/></w:r>`{=openxml}413
 
 :::
 
@@ -23854,25 +26245,25 @@ Horizon (Umbra)`<w:r><w:tab/></w:r>`{=openxml}483
 
 ::: {custom-style="IndexEntry"}
 
-Initiative`<w:r><w:tab/></w:r>`{=openxml}121
+Initiative`<w:r><w:tab/></w:r>`{=openxml}103
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Phase Initiative System (full)`<w:r><w:tab/></w:r>`{=openxml}381
+Phase Initiative System (full)`<w:r><w:tab/></w:r>`{=openxml}329
 
-Spotlight System`<w:r><w:tab/></w:r>`{=openxml}21
+Spotlight System`<w:r><w:tab/></w:r>`{=openxml}12
 
-Action Dice (face value = phase)`<w:r><w:tab/></w:r>`{=openxml}382
+Action Dice (face value = phase)`<w:r><w:tab/></w:r>`{=openxml}330
 
-Trick Initiative (rolling a 10)`<w:r><w:tab/></w:r>`{=openxml}382
+Trick Initiative (rolling a 10)`<w:r><w:tab/></w:r>`{=openxml}103
 
-No hits check on initiative roll`<w:r><w:tab/></w:r>`{=openxml}382
+No hits check on initiative roll`<w:r><w:tab/></w:r>`{=openxml}103
 
-Enhancement on initiative`<w:r><w:tab/></w:r>`{=openxml}384
+Enhancement on initiative`<w:r><w:tab/></w:r>`{=openxml}332
 
-Held Die`<w:r><w:tab/></w:r>`{=openxml}385
+Held Die`<w:r><w:tab/></w:r>`{=openxml}333
 
 :::
 
@@ -23880,7 +26271,7 @@ Held Die`<w:r><w:tab/></w:r>`{=openxml}385
 
 ::: {custom-style="IndexEntry"}
 
-Life (Sphere)`<w:r><w:tab/></w:r>`{=openxml}87
+Life (Sphere)`<w:r><w:tab/></w:r>`{=openxml}71
 
 :::
 
@@ -23888,49 +26279,51 @@ Life (Sphere)`<w:r><w:tab/></w:r>`{=openxml}87
 
 ::: {custom-style="IndexEntry"}
 
-Magic`<w:r><w:tab/></w:r>`{=openxml}44
+Magic`<w:r><w:tab/></w:r>`{=openxml}31
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Casting Roll`<w:r><w:tab/></w:r>`{=openxml}44
+Casting Roll`<w:r><w:tab/></w:r>`{=openxml}32
 
-Freeform Magic`<w:r><w:tab/></w:r>`{=openxml}47
+Freeform Magic`<w:r><w:tab/></w:r>`{=openxml}34
 
-Magical Combat`<w:r><w:tab/></w:r>`{=openxml}150
+Magical Combat`<w:r><w:tab/></w:r>`{=openxml}132
 
-Magical Defenses`<w:r><w:tab/></w:r>`{=openxml}161
+Magical Defenses`<w:r><w:tab/></w:r>`{=openxml}142
 
-Rotes`<w:r><w:tab/></w:r>`{=openxml}47
+Rotes`<w:r><w:tab/></w:r>`{=openxml}35
 
-Sphere Tricks`<w:r><w:tab/></w:r>`{=openxml}53
+Sphere Tricks`<w:r><w:tab/></w:r>`{=openxml}39
 
-Spell Parameter Scaling`<w:r><w:tab/></w:r>`{=openxml}53
+Spell Parameter Scaling`<w:r><w:tab/></w:r>`{=openxml}39
 
-Range Bands (spell targeting — same table as combat positioning, Appendix H)`<w:r><w:tab/></w:r>`{=openxml}53
+Range Bands (spell targeting — same table as combat positioning, Appendix H)`<w:r><w:tab/></w:r>`{=openxml}39
 
-Area Bands`<w:r><w:tab/></w:r>`{=openxml}53
+Area Bands`<w:r><w:tab/></w:r>`{=openxml}41
 
-Duration Bands`<w:r><w:tab/></w:r>`{=openxml}53
+Duration Bands`<w:r><w:tab/></w:r>`{=openxml}42
 
-Time Reach Bands (Time Sphere)`<w:r><w:tab/></w:r>`{=openxml}53
+Time Reach Bands (Time Sphere)`<w:r><w:tab/></w:r>`{=openxml}94
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Marauders`<w:r><w:tab/></w:r>`{=openxml}194
+Marauders`<w:r><w:tab/></w:r>`{=openxml}168
 
-Matter (Sphere)`<w:r><w:tab/></w:r>`{=openxml}92
+Matter (Sphere)`<w:r><w:tab/></w:r>`{=openxml}75
 
-Mind (Sphere)`<w:r><w:tab/></w:r>`{=openxml}96
+Mind (Sphere)`<w:r><w:tab/></w:r>`{=openxml}79
 
 Mobs and Speed Tiers (Appendix W)
 
-Momentum`<w:r><w:tab/></w:r>`{=openxml}19
+Momentum`<w:r><w:tab/></w:r>`{=openxml}10
 
-Movement in Combat (Range Bands, Reflexive Step, Standard Move, Sprint, Rush, Cover) (Appendix H)`<w:r><w:tab/></w:r>`{=openxml}381
+Monetary Magick — wealth rotes by Sphere (Rich Bastard's Guide, Appendix N)
+
+Movement in Combat (Range Bands, Reflexive Step, Standard Move, Sprint, Rush, Cover) (Appendix H)`<w:r><w:tab/></w:r>`{=openxml}343
 
 :::
 
@@ -23938,11 +26331,11 @@ Movement in Combat (Range Bands, Reflexive Step, Standard Move, Sprint, Rush, Co
 
 ::: {custom-style="IndexEntry"}
 
-Near Umbra`<w:r><w:tab/></w:r>`{=openxml}479
+Near Umbra`<w:r><w:tab/></w:r>`{=openxml}409
 
-Nephandi`<w:r><w:tab/></w:r>`{=openxml}193
+Nephandi`<w:r><w:tab/></w:r>`{=openxml}168
 
-NPCs and the Awakened World`<w:r><w:tab/></w:r>`{=openxml}203
+NPCs and the Awakened World`<w:r><w:tab/></w:r>`{=openxml}177
 
 :::
 
@@ -23950,7 +26343,7 @@ NPCs and the Awakened World`<w:r><w:tab/></w:r>`{=openxml}203
 
 ::: {custom-style="IndexEntry"}
 
-Opposed Rolls`<w:r><w:tab/></w:r>`{=openxml}24
+Opposed Rolls`<w:r><w:tab/></w:r>`{=openxml}15
 
 :::
 
@@ -23958,41 +26351,41 @@ Opposed Rolls`<w:r><w:tab/></w:r>`{=openxml}24
 
 ::: {custom-style="IndexEntry"}
 
-Paradigm, Practices, and Instruments`<w:r><w:tab/></w:r>`{=openxml}208
+Paradigm, Practices, and Instruments`<w:r><w:tab/></w:r>`{=openxml}182
 
-Paradox`<w:r><w:tab/></w:r>`{=openxml}63
+Paradox`<w:r><w:tab/></w:r>`{=openxml}50
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Backlash Table`<w:r><w:tab/></w:r>`{=openxml}67
+Backlash Table`<w:r><w:tab/></w:r>`{=openxml}53
 
-Paradox Pool`<w:r><w:tab/></w:r>`{=openxml}63
+Paradox Pool`<w:r><w:tab/></w:r>`{=openxml}50
 
 Paradox and Botch threshold`<w:r><w:tab/></w:r>`{=openxml}50
 
-Paradox Spirits`<w:r><w:tab/></w:r>`{=openxml}68
+Paradox Spirits`<w:r><w:tab/></w:r>`{=openxml}54
 
-Quiet and Paradox`<w:r><w:tab/></w:r>`{=openxml}66
+Quiet and Paradox`<w:r><w:tab/></w:r>`{=openxml}50
 
-When Paradox Triggers`<w:r><w:tab/></w:r>`{=openxml}65
+When Paradox Triggers`<w:r><w:tab/></w:r>`{=openxml}52
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Paths (SPU Framework)`<w:r><w:tab/></w:r>`{=openxml}25
+Paths (SPU Framework)`<w:r><w:tab/></w:r>`{=openxml}17
 
-Pattern Essence`<w:r><w:tab/></w:r>`{=openxml}217
+Pattern Essence`<w:r><w:tab/></w:r>`{=openxml}190
 
-Penumbra`<w:r><w:tab/></w:r>`{=openxml}477
+Penumbra`<w:r><w:tab/></w:r>`{=openxml}407
 
-Phase Initiative System`<w:r><w:tab/></w:r>`{=openxml}381
+Phase Initiative System`<w:r><w:tab/></w:r>`{=openxml}329
 
-Prime (Sphere)`<w:r><w:tab/></w:r>`{=openxml}101
+Prime (Sphere)`<w:r><w:tab/></w:r>`{=openxml}84
 
-Primordial Essence`<w:r><w:tab/></w:r>`{=openxml}221
+Primordial Essence`<w:r><w:tab/></w:r>`{=openxml}193
 
 :::
 
@@ -24000,15 +26393,15 @@ Primordial Essence`<w:r><w:tab/></w:r>`{=openxml}221
 
 ::: {custom-style="IndexEntry"}
 
-Questing Essence`<w:r><w:tab/></w:r>`{=openxml}225
+Questing Essence`<w:r><w:tab/></w:r>`{=openxml}196
 
-Quiet`<w:r><w:tab/></w:r>`{=openxml}66
+Quiet`<w:r><w:tab/></w:r>`{=openxml}53
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Managing Quiet (SG advice)`<w:r><w:tab/></w:r>`{=openxml}203
+Managing Quiet (SG advice)`<w:r><w:tab/></w:r>`{=openxml}177
 
 :::
 
@@ -24016,29 +26409,33 @@ Managing Quiet (SG advice)`<w:r><w:tab/></w:r>`{=openxml}203
 
 ::: {custom-style="IndexEntry"}
 
-Range Bands (unified table for combat positioning and spell targeting: Close/Short/Medium/Long/Extreme) (Appendix H, 381; also Chapter Four, 53)
+Range Bands (unified table for combat positioning and spell targeting: Close/Short/Medium/Long/Extreme) (Appendix H, 381; also Chapter Four, 53)`<w:r><w:tab/></w:r>`{=openxml}39
 
-Reflexive Step (Appendix H, movement)
+Reflexive Step (Appendix H, movement)`<w:r><w:tab/></w:r>`{=openxml}345
 
-Rotes`<w:r><w:tab/></w:r>`{=openxml}47
+Rotes`<w:r><w:tab/></w:r>`{=openxml}35
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Master Rotes List (Appendix N)`<w:r><w:tab/></w:r>`{=openxml}492
+Master Rotes List (Appendix N)`<w:r><w:tab/></w:r>`{=openxml}35
 
-Quick Reference Sheets (Appendix O)`<w:r><w:tab/></w:r>`{=openxml}544
+Monetary Magick rotes (Rich Bastard's Guide, Appendix N)`<w:r><w:tab/></w:r>`{=openxml}435
 
-Rote SF advantage`<w:r><w:tab/></w:r>`{=openxml}61
+Enlightened Grimoire library (Extended Rotes, Appendix N)`<w:r><w:tab/></w:r>`{=openxml}550
+
+Quick Reference Sheets (Appendix O)`<w:r><w:tab/></w:r>`{=openxml}573
+
+Rote SF advantage`<w:r><w:tab/></w:r>`{=openxml}13
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Running Mage (Storyguide chapter)`<w:r><w:tab/></w:r>`{=openxml}201
+Running Mage (Storyguide chapter)`<w:r><w:tab/></w:r>`{=openxml}175
 
-Rush (movement/attack action) (Appendix H)
+Rush (movement/attack action) (Appendix H)`<w:r><w:tab/></w:r>`{=openxml}33
 
 :::
 
@@ -24046,95 +26443,95 @@ Rush (movement/attack action) (Appendix H)
 
 ::: {custom-style="IndexEntry"}
 
-Sanity`<w:r><w:tab/></w:r>`{=openxml}445
+Sanity`<w:r><w:tab/></w:r>`{=openxml}379
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Paradox Insulation`<w:r><w:tab/></w:r>`{=openxml}450
+Paradox Insulation`<w:r><w:tab/></w:r>`{=openxml}50
 
-Quiet and Marauder Threshold`<w:r><w:tab/></w:r>`{=openxml}455
+Quiet and Marauder Threshold`<w:r><w:tab/></w:r>`{=openxml}390
 
-Recovering Sanity`<w:r><w:tab/></w:r>`{=openxml}452
+Recovering Sanity`<w:r><w:tab/></w:r>`{=openxml}379
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Sanity Tags`<w:r><w:tab/></w:r>`{=openxml}424
+Sanity Tags`<w:r><w:tab/></w:r>`{=openxml}11
 
-Scenes`<w:r><w:tab/></w:r>`{=openxml}201
+Scenes`<w:r><w:tab/></w:r>`{=openxml}10
 
-Speed Factor (SF)`<w:r><w:tab/></w:r>`{=openxml}386
+Speed Factor (SF)`<w:r><w:tab/></w:r>`{=openxml}334
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Commitment Window (declaration to declaration+SF)`<w:r><w:tab/></w:r>`{=openxml}386
+Commitment Window (declaration to declaration+SF)`<w:r><w:tab/></w:r>`{=openxml}335
 
-Dice consumed = dice in window, not fixed count`<w:r><w:tab/></w:r>`{=openxml}386
+Dice consumed = dice in window, not fixed count`<w:r><w:tab/></w:r>`{=openxml}334
 
-Cross-Round Actions`<w:r><w:tab/></w:r>`{=openxml}387
+Cross-Round Actions`<w:r><w:tab/></w:r>`{=openxml}335
 
-Abort`<w:r><w:tab/></w:r>`{=openxml}388
+Abort`<w:r><w:tab/></w:r>`{=openxml}135
 
-Spell SF = total dots (improvised)`<w:r><w:tab/></w:r>`{=openxml}386
+Spell SF = total dots (improvised)`<w:r><w:tab/></w:r>`{=openxml}334
 
-Spell SF = highest sphere (Rote)`<w:r><w:tab/></w:r>`{=openxml}386
+Spell SF = highest sphere (Rote)`<w:r><w:tab/></w:r>`{=openxml}334
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Speed Tiers, colored-dice initiative for NPCs (Appendix W)
+Speed Tiers, colored-dice initiative for NPCs (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}103
 
-Streamlining Combat (Appendix W)
+Streamlining Combat (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}724
 
-Seekings`<w:r><w:tab/></w:r>`{=openxml}206
+Seekings`<w:r><w:tab/></w:r>`{=openxml}22
 
-Shard Realms and Shade Realms`<w:r><w:tab/></w:r>`{=openxml}484
+Shard Realms and Shade Realms`<w:r><w:tab/></w:r>`{=openxml}414
 
-Sympathetic magic (Difficulty reduction)`<w:r><w:tab/></w:r>`{=openxml}57
+Sympathetic magic (Difficulty reduction)`<w:r><w:tab/></w:r>`{=openxml}31
 
-Sympathetic range (Correspondence ●●●+ exception to Range Bands) (Chapter Four, 53; Correspondence Sphere, 71)
+Sympathetic range (Correspondence ●●●+ exception to Range Bands) (Chapter Four, 53; Correspondence Sphere, 71)`<w:r><w:tab/></w:r>`{=openxml}40
 
-Spheres`<w:r><w:tab/></w:r>`{=openxml}71
+Spheres`<w:r><w:tab/></w:r>`{=openxml}56
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Correspondence`<w:r><w:tab/></w:r>`{=openxml}71
+Correspondence`<w:r><w:tab/></w:r>`{=openxml}56
 
-Entropy`<w:r><w:tab/></w:r>`{=openxml}76
+Entropy`<w:r><w:tab/></w:r>`{=openxml}61
 
-Forces`<w:r><w:tab/></w:r>`{=openxml}81
+Forces`<w:r><w:tab/></w:r>`{=openxml}65
 
-Life`<w:r><w:tab/></w:r>`{=openxml}87
+Life`<w:r><w:tab/></w:r>`{=openxml}71
 
-Matter`<w:r><w:tab/></w:r>`{=openxml}92
+Matter`<w:r><w:tab/></w:r>`{=openxml}75
 
-Mind`<w:r><w:tab/></w:r>`{=openxml}96
+Mind`<w:r><w:tab/></w:r>`{=openxml}79
 
-Prime`<w:r><w:tab/></w:r>`{=openxml}101
+Prime`<w:r><w:tab/></w:r>`{=openxml}84
 
-Spirit`<w:r><w:tab/></w:r>`{=openxml}106
+Spirit`<w:r><w:tab/></w:r>`{=openxml}89
 
-Time`<w:r><w:tab/></w:r>`{=openxml}111
+Time`<w:r><w:tab/></w:r>`{=openxml}94
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Spirit (Sphere)`<w:r><w:tab/></w:r>`{=openxml}106
+Spirit (Sphere)`<w:r><w:tab/></w:r>`{=openxml}89
 
-Status Conditions`<w:r><w:tab/></w:r>`{=openxml}143
+Status Conditions`<w:r><w:tab/></w:r>`{=openxml}125
 
-Status Effects`<w:r><w:tab/></w:r>`{=openxml}23
+Status Effects`<w:r><w:tab/></w:r>`{=openxml}13
 
-Storyguide Chapter`<w:r><w:tab/></w:r>`{=openxml}201
+Storyguide Chapter`<w:r><w:tab/></w:r>`{=openxml}175
 
 :::
 
@@ -24142,61 +26539,63 @@ Storyguide Chapter`<w:r><w:tab/></w:r>`{=openxml}201
 
 ::: {custom-style="IndexEntry"}
 
-Tags`<w:r><w:tab/></w:r>`{=openxml}20
+Tags`<w:r><w:tab/></w:r>`{=openxml}11
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Tags Reference (full)`<w:r><w:tab/></w:r>`{=openxml}417
+Tags Reference (full)`<w:r><w:tab/></w:r>`{=openxml}364
 
-Armor Tags`<w:r><w:tab/></w:r>`{=openxml}420
+Armor Tags`<w:r><w:tab/></w:r>`{=openxml}364
 
-Combat Tags`<w:r><w:tab/></w:r>`{=openxml}417
+Combat Tags`<w:r><w:tab/></w:r>`{=openxml}11
 
-Magical Tags`<w:r><w:tab/></w:r>`{=openxml}427
+Craft Tags (factional signature Tags)`<w:r><w:tab/></w:r>`{=openxml}365
 
-Sanity Tags`<w:r><w:tab/></w:r>`{=openxml}424
+Magical Tags`<w:r><w:tab/></w:r>`{=openxml}365
 
-Weapon Tags`<w:r><w:tab/></w:r>`{=openxml}419
+Sanity Tags`<w:r><w:tab/></w:r>`{=openxml}11
+
+Weapon Tags`<w:r><w:tab/></w:r>`{=openxml}364
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Technocracy`<w:r><w:tab/></w:r>`{=openxml}191
+Technocracy`<w:r><w:tab/></w:r>`{=openxml}259
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Technocracy Deep Dive`<w:r><w:tab/></w:r>`{=openxml}345
+Technocracy Deep Dive`<w:r><w:tab/></w:r>`{=openxml}259
 
-Technocratic Constructs`<w:r><w:tab/></w:r>`{=openxml}320
+Technocratic Constructs`<w:r><w:tab/></w:r>`{=openxml}277
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Time (Sphere)`<w:r><w:tab/></w:r>`{=openxml}111
+Time (Sphere)`<w:r><w:tab/></w:r>`{=openxml}94
 
 [Touch] requirement Tag (Close range + physical contact) (Chapter Four, 53)
 
-Traditions`<w:r><w:tab/></w:r>`{=openxml}187
+Traditions`<w:r><w:tab/></w:r>`{=openxml}163
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Traditions Deep Dive`<w:r><w:tab/></w:r>`{=openxml}330
+Traditions Deep Dive`<w:r><w:tab/></w:r>`{=openxml}163
 
-Tradition Perspectives on Cosmos`<w:r><w:tab/></w:r>`{=openxml}488
+Tradition Perspectives on Cosmos`<w:r><w:tab/></w:r>`{=openxml}406
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Tricks`<w:r><w:tab/></w:r>`{=openxml}20
+Tricks`<w:r><w:tab/></w:r>`{=openxml}11
 
 :::
 
@@ -24204,25 +26603,25 @@ Tricks`<w:r><w:tab/></w:r>`{=openxml}20
 
 ::: {custom-style="IndexEntry"}
 
-Umbra / The Cosmos`<w:r><w:tab/></w:r>`{=openxml}475
+Umbra / The Cosmos`<w:r><w:tab/></w:r>`{=openxml}406
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Deep Umbra`<w:r><w:tab/></w:r>`{=openxml}484
+Deep Umbra`<w:r><w:tab/></w:r>`{=openxml}413
 
-Gauntlet`<w:r><w:tab/></w:r>`{=openxml}478
+Gauntlet`<w:r><w:tab/></w:r>`{=openxml}89
 
-Horizon`<w:r><w:tab/></w:r>`{=openxml}483
+Horizon`<w:r><w:tab/></w:r>`{=openxml}413
 
-Near Umbra`<w:r><w:tab/></w:r>`{=openxml}479
+Near Umbra`<w:r><w:tab/></w:r>`{=openxml}409
 
-Penumbra`<w:r><w:tab/></w:r>`{=openxml}477
+Penumbra`<w:r><w:tab/></w:r>`{=openxml}407
 
-Traveling the Otherworlds`<w:r><w:tab/></w:r>`{=openxml}486
+Traveling the Otherworlds`<w:r><w:tab/></w:r>`{=openxml}416
 
-Umbrood`<w:r><w:tab/></w:r>`{=openxml}485
+Umbrood`<w:r><w:tab/></w:r>`{=openxml}290
 
 :::
 
@@ -24230,9 +26629,9 @@ Umbrood`<w:r><w:tab/></w:r>`{=openxml}485
 
 ::: {custom-style="IndexEntry"}
 
-Volley (Group Rules, mob attack resolution) (Appendix W)
+Volley (Group Rules, mob attack resolution) (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}250
 
-Vulgar Magic`<w:r><w:tab/></w:r>`{=openxml}46
+Vulgar Magic`<w:r><w:tab/></w:r>`{=openxml}31
 
 :::
 
@@ -24240,23 +26639,46 @@ Vulgar Magic`<w:r><w:tab/></w:r>`{=openxml}46
 
 ::: {custom-style="IndexEntry"}
 
-Weapons`<w:r><w:tab/></w:r>`{=openxml}139
+Wealth and Power Archetypes (Chapter Three)`<w:r><w:tab/></w:r>`{=openxml}15
 
-Wonders in Combat`<w:r><w:tab/></w:r>`{=openxml}160
+Weapons`<w:r><w:tab/></w:r>`{=openxml}119
 
-Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights
+Wonders in Combat`<w:r><w:tab/></w:r>`{=openxml}141
 
-Worked Examples`<w:r><w:tab/></w:r>`{=openxml}69
+Wonders — Rich Bastard's Treasures & Enlightened Grimoire wonders (Appendix V)`<w:r><w:tab/></w:r>`{=openxml}708
+
+Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights`<w:r><w:tab/></w:r>`{=openxml}724
+
+Worked Examples`<w:r><w:tab/></w:r>`{=openxml}37
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Combat Examples`<w:r><w:tab/></w:r>`{=openxml}165
+Combat Examples`<w:r><w:tab/></w:r>`{=openxml}147
 
-Full Example of Play (Appendix L)`<w:r><w:tab/></w:r>`{=openxml}458
+Full Example of Play (Appendix L)`<w:r><w:tab/></w:r>`{=openxml}37
 
-Paradox Sequence`<w:r><w:tab/></w:r>`{=openxml}69
+Paradox Sequence`<w:r><w:tab/></w:r>`{=openxml}50
 
 :::
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+### X
+
+::: {custom-style="IndexEntry"}
+
+Disparate Crafts — Fractured Traditions (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}169
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Ngoma, Knights of the Temple of Solomon, Taftâni, Hollow Ones (Forerunners) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}733
+
+Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung (Middlers) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}740
+
+Bata'a, Solificati, Orphans (Outsiders) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}752
+
+Building Your Own Craft, Tradition, or Convention (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}755
+
+:::
