@@ -50,7 +50,7 @@ Appendix F: The Nine Traditions — Deep Lore — Extended history, internal pol
 
 Appendix G: The Technocratic Union — Deep Operations — The Union from the inside: the five Conventions, their paradigms, their Constructs, their relationship to the Consensus, and the moral complexity that makes the best Technocracy stories genuinely ambiguous.
 
-Appendix H: The Phase Initiative System — The full Phase-and-Action-Dice combat timing engine, with detailed examples of how spellcasting, Rotes, and mundane violence interact across a multi-participant round.
+Appendix H: The Phase Initiative System — The full Phase-and-Action-Dice combat timing engine, including Movement in Combat and the Range Band system (Close/Short/Medium/Long/Extreme) used for both physical positioning and spell targeting, with detailed examples of how spellcasting, Rotes, and mundane violence interact across a multi-participant round.
 
 Appendix I: The Armor System — Complete rules for armor as a mechanical system: Soak values, Sturdy ratings, the Condition Track, armor construction, and fully worked armor examples from street leather to combat exoskeleton.
 
@@ -79,6 +79,8 @@ Appendix T: Vehicles — Vehicle stat blocks, chase and pursuit rules, vehicle c
 Appendix U: The Nephandi — Descent, the Caul, and the Fallen — The three Paths of Falling, the Descent Track, Nephandic Paradigms and Practices, key Fallen Rotes, and the mechanical and narrative tools for running Nephandi as antagonists or player characters.
 
 Appendix V: Merits, Flaws, and Wonders — The complete Merit and Flaw catalogue (Physical, Mental, Social, Supernatural) plus Selected Wonders, Wonder Crafting reference tables, and the full Backgrounds list.
+
+Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights — Optional tools for running fights with large numbers of non-named NPCs without a large bookkeeping count: the Speed Tier initiative system (a small set of colored dice replaces individual Initiative Pools for mooks, scaled to the fastest thing in the fight rather than headcount) and formal Group Rules for resolving mob attacks as a single Volley. For positioning and movement, see Appendix H.
 
 Index — A full alphabetical index of game terms, subsystems, rules concepts, and setting elements, with live hyperlinks to each relevant section.
 
@@ -146,16 +148,19 @@ Attributes are grouped into three categories of three. Each Attribute is rated 1
 - Intellect — Raw reasoning power, memory, academic acuity. Used for analysis, research, and most Science-based pools.
 - Cunning — Lateral thinking, pattern recognition, improvisation under pressure. Used for deception, quick plans, and traps.
 - Resolve — Mental endurance, willpower, resisting mental intrusion. Used to maintain concentration, push through fatigue, and resist Mind magic.
+
 **Physical Attributes**
 
 - Might — Raw physical strength. Used for lifting, breaking, and dealing extra damage in close combat.
 - Dexterity — Speed, coordination, fine motor control. Used for ranged attacks, piloting, and dodging.
 - Stamina — Toughness and endurance. Used for soaking damage, resisting poison and disease, and long physical exertion.
+
 **Social Attributes**
 
 - Presence — Commanding attention; personal magnetism. Used for first impressions, intimidation, and leadership.
 - Manipulation — Subtle influence, misdirection, reading and exploiting others' desires.
 - Composure — Emotional control, grace under pressure, hiding feelings. Used to resist social attacks and maintain a facade.
+
 ## Building a Pool
 
 When you want to do something, you and the Storyguide agree on a Skill and an Attribute. You add the two ratings together; that is your pool size. Roll that many d10s.
@@ -295,6 +300,7 @@ Players spend Momentum on:
 - Add 1 hit to a completed roll (after seeing dice): 2 Momentum.
 - Activate a Trick that requires Momentum: cost varies.
 - Introduce a beneficial fact into the scene: 1-2 Momentum (Storyguide approval).
+
 ### Storyguide Momentum
 
 The Storyguide has a separate pool starting at the session's recommended amount (usually 3-5). They spend it to:
@@ -302,6 +308,7 @@ The Storyguide has a separate pool starting at the session's recommended amount 
 - Add Complications to a scene.
 - Activate NPC Tricks.
 - Represent environmental hazards escalating.
+
 ## Tricks
 
 Tricks are specific bonus effects purchased with Trick Hits (hits in excess of Difficulty). Each Trick lists its hit cost and what it does. Tricks are presented throughout this book for each type of action. Sphere Tricks — the magical analogs — appear in Part Two.
@@ -469,6 +476,7 @@ Your Major Path is the defining identity that shapes your character most deeply.
 - 3 Contacts (named NPCs with tags defining their specialty and relationship to you).
 - A Bond rated at 2 (a deep personal connection — a person, place, or ideal — that can be invoked for Momentum bonuses and tested in dramatic scenes).
 - 1 Special Ability (a unique Trick, immunity, or passive power tied to the Path's nature).
+
 ### Minor Paths
 
 Each Minor Path is a secondary facet of identity — a past career, a subculture, a formative relationship. Each provides:
@@ -477,6 +485,7 @@ Each Minor Path is a secondary facet of identity — a past career, a subculture
 - 4 attribute dots (freely distributed among path-associated attributes).
 - 1 Contact.
 - A Bond rated at 1.
+
 ### Major Paths by Faction
 
 Each Awakened faction — Tradition, Convention, or Disparate Craft — offers one or more Major Paths. These are listed in full in the Factions chapter. Below is a summary of the template:
@@ -574,6 +583,7 @@ When building a suite of Paths — a full Tradition's or Convention's canonical 
 - Special Ability scope: Major Path specials should feel distinctive without being broadly overpowered. Use the following as a rough guide: a passive, always-on awareness (no roll needed to sense X) is worth one use of "once per scene." An active triggered ability that replaces a roll is worth one Momentum spend. If an ability would work in the majority of scenes a character participates in, scale it back.
 - Contacts: Path contacts are useful acquaintances, not powerful patrons. Keep suggested Contact types evocative of the Path's world. "University librarian" is useful; "archmage with access to all Tradition resources" is not a Contact — it is a story problem.
 - Untethered builds (optional): The SPU core manual allows Storyguides to untether Attribute dots from specific Arenas, giving a flat pool of 10 (Major) or 4 (Minor) dots for the player to place anywhere. This suits highly flexible character concepts. For most Mage characters, keeping Attributes tethered to Arenas reinforces Path identity and reduces the choice paralysis of a blank-slate allocation.
+
 ## Step Three — The Awakened Template
 
 On top of the Path framework, mages receive the Awakened Template: a set of additional ratings that define their magical capabilities.
@@ -807,6 +817,7 @@ Calculate the following:
 - Speed: Dexterity + Athletics + 3. This is measured in meters per action on foot.
 - Initiative Dice: Athletics + Cunning.
 - Defense: The relevant contested roll for dodging; no fixed number — this is always an active roll.
+
 ### Starting Gear and Tags
 
 Work with the Storyguide to establish starting gear. Each piece of significant equipment should have 1–3 tags. Standard items need only a name. Items that provide mechanical advantage need tags. At minimum, a starting mage should have:
@@ -814,6 +825,7 @@ Work with the Storyguide to establish starting gear. Each piece of significant e
 - One weapon or defensive tool appropriate to their tradition (unarmed, a knife, a wand, a sidearm).
 - One focus object appropriate to their paradigm (see Appendix B).
 - Situational gear appropriate to their concept.
+
 ### Starting Rotes
 
 Every newly Awakened mage begins play with three Rotes already in their repertoire. Rotes are not abilities improvised in the moment; they are the specific magical procedures a mage has rehearsed until they are instinctive — the core toolkit of their magical identity. At character creation, three Rotes are established for free, representing the foundational workings developed during apprenticeship, initiation, and early practice. They have no XP cost at creation. Additional Rotes beyond the starting three cost 3 XP each during advancement.
@@ -1225,6 +1237,7 @@ A Rote is a carefully practiced magical procedure — a formula, a ritual sequen
 - Enhancement +1 on the casting roll (the practice and preparation pay off).
 - Coincidental threshold is slightly more generous — effects that would normally border on Vulgar may be ruled Coincidental if the Rote is beautifully executed.
 - The mage can cast the Rote faster — under normal circumstances, a Rote can be invoked as a Minor Action instead of a Major Action for small effects.
+
 ### Starting Rotes
 
 Every newly Awakened mage begins play with three Rotes already in their repertoire. These represent the fundamental workings the mage learned during their apprenticeship, initiation, or early post-Awakening experimentation — the magical vocabulary they have practiced enough to trust under pressure. Starting Rotes are not improvised on the fly; they are well-worn grooves in the mage's paradigm, as instinctive as a musician's scales.
@@ -1400,35 +1413,43 @@ Every magical effect has three spatial-temporal parameters: Range (how far away 
 
 A spell's default parameter values are set by the Sphere dot level used. Higher dot ratings grant longer range, larger area, and greater duration at no extra cost. Spending free hits on parameters is an alternative to spending them on Sphere Tricks — you are trading precision or special effects for raw scope.
 
-The Storyguide always has final say on whether a requested parameter increase is narratively coherent. You cannot extend a Forces fireball to Extreme range (1 km) and then claim it is coincidental because no one can see you casting.
+The Storyguide always has final say on whether a requested parameter increase is narratively coherent. You cannot extend a Forces fireball to Extreme range (1,000+ meters) and then claim it is coincidental because no one can see you casting.
 
 ### Range Bands
 
-Range governs the maximum distance between the caster and the target or point of effect. Range is measured from the caster's current position, not from an intermediary target. Correspondence can override range limits (see Sphere chapter), but all other Spheres use this table by default.
+Range governs the maximum distance between the caster and the target or point of effect. Range is measured from the caster's current position, not from an intermediary target.
 
-| Range Band | Distance / Description |
-| --- | --- |
-| Touch | Physical contact required. The caster must be able to touch the target with their body or a held object. Cannot be used at distance. |
-| Near | Up to 3 meters — across a small room, arm's reach plus a step. Still requires line of sight. |
-| Short | Up to 10 meters — across a typical room, short hallway, close-quarters combat distance. |
-| Medium | Up to 30 meters — across a street, a large room, standard outdoor combat engagement range. |
-| Long | Up to 100 meters — a city block, a field, a warehouse floor. |
-| Extreme | Up to 1 kilometer — rooftop to rooftop, hilltop sniping distance, visible horizon in clear terrain. |
-| Sympathetic | Any distance, if the caster holds a strong sympathetic link (personal object, blood, name-binding). Requires Correspondence ●●●+ to access reliably. Not blocked by physical barriers. |
+This project's standing rule is that a genuine conflict between a house rule and an actual Storypath Ultra core mechanic is resolved in favor of the SPU core mechanic. Storypath Ultra already provides a fully worked-out positional abstraction — Range Bands — and Appendix H's "Movement in Combat" section defines exactly one such table for tracking where combatants physically stand relative to each other. Spellcasting range uses that same table. There are not two separate band systems to reconcile in play; a mage's sense of "how far away is that target" does not change depending on whether their next move is a punch or a Forces bolt.
 
-Default range by Sphere dot level: ● = Touch; ●● = Short; ●●● = Medium; ●●●● = Long; ●●●●● = Extreme. Each free hit spent on Range moves the effect up one band. Spending two hits on Range moves it two bands, and so on.
+| Range Band | Distance | Description |
+| --- | --- | --- |
+| Close | 0–2 meters | Arm's reach, grappling distance, point-blank. |
+| Short | 3–20 meters | Across a small room, a short hallway, close-quarters combat distance. |
+| Medium | 21–60 meters | Across a street, a large room, standard outdoor engagement range. |
+| Long | 61–1,000 meters | A city block, a field, a warehouse floor, rooftop to rooftop. |
+| Extreme | 1,000+ meters | Hilltop sniping distance, the visible horizon in clear terrain — situational, and only reachable at all by effects built or extended to reach that far. |
+
+Default range by Sphere dot level: ● = Close; ●● = Short; ●●● = Medium; ●●●● = Long; ●●●●● = Extreme. Each free hit spent on Range moves the effect up one band — the identical "1 hit = 1 band" conversion used for mundane weapons and movement in Appendix H. Spending two hits on Range moves it two bands, and so on.
+
+**Touch — a requirement Tag, not a band.** Some effects are not merely short-ranged, they demand actual physical contact: pressing a hand to a wound to knit it shut, gripping a target's temples to walk through their thoughts, laying a palm flat against a wall to feel its history through Life's residue in the stone. These effects carry a **[Touch]** Tag rather than occupying their own Range Band. [Touch] requires two things simultaneously: the caster must be at Close range with the target, *and* the Storyguide must be satisfied that actual physical contact is fictionally possible and being attempted (a target braced against a wall with a weapon leveled at the caster is at Close range but may not be reachable for a [Touch] effect without first winning a grapple or forcing an opening). Being at Close range is necessary for a [Touch] effect but is not automatically sufficient — it is the tighter of the two conditions, layered on top of the Close band rather than replacing it. Most Life healing/harming Tricks, several Mind Tricks that read or alter a specific mind directly, and any effect explicitly described as requiring the caster's hands on the target carry this Tag; see each Sphere's Trick list in Chapters Six through Fourteen for which of their Tricks are tagged [Touch].
+
+**Sympathetic range — a Correspondence exception, not a sixth band.** A mage with Correspondence ●●●+ who holds a genuine sympathetic link to a target (a lock of hair, a drop of blood, a true name spoken in binding, a possession of deep personal significance) can ignore the Range Band track entirely for effects targeting that specific person or object, reaching them at any distance the link can plausibly span. This is not a band on the ladder that anyone can reach by spending enough hits — it is a Correspondence-specific capability, gated behind the dot rating and requiring an actual link to exist in the fiction, not merely being declared. A Forces ●●●●● mage with no Correspondence training cannot buy their way to unlimited range no matter how many hits they spend; Extreme (1,000+ meters, and only situationally reachable even there) is the hard ceiling for every Sphere except Correspondence's sympathetic-link exception. See the Correspondence Sphere chapter for the full Sympathetic Range Trick and its Paradox implications — reaching across an unlimited gap on a thread of hair is powerful, and vulgar, magic.
 
 > RANGE SCALING EXAMPLE — THE FORCES ●●● FIREBALL
 > 
-> Devorah (Forces ●●●) hurls a fire bolt. Default range: Medium (30m). She rolls 5 hits vs. Difficulty 3 — two free hits.
+> Devorah (Forces ●●●) hurls a fire bolt. Default range: Medium (21–60m). She rolls 5 hits vs. Difficulty 3 — two free hits.
 > 
-> Option A: She spends both free hits on Range. Medium → Long (1 hit) → Extreme (2 hits). The fireball travels up to 1 km. This is extremely Vulgar at that range.
+> Option A: She spends both free hits on Range. Medium → Long (1 hit) → Extreme (2 hits). The fireball can now reach a target more than a kilometer distant. This is extremely Vulgar at that range.
 > 
-> Option B: She spends 1 hit on Range (Medium → Long) and 1 hit on the Shaped Charge Trick (spares her allies). The bolt travels 100m and burns selectively.
+> Option B: She spends 1 hit on Range (Medium → Long) and 1 hit on the Shaped Charge Trick (spares her allies). The bolt reaches Long range and burns selectively.
 > 
-> Option C: She spends both free hits on Area (see below). The fireball's range stays at Medium (30m) but it expands from Single Target to Group (up to 10 people / 5m radius). Useful in a crowd.
+> Option C: She spends both free hits on Area (see below). The fireball's range stays at Medium but it expands from Single Target to Group (up to 10 people / 5m radius). Useful in a crowd.
 > 
-> Default (no free hits spent on Range): Range stays at Medium. 30 meters is the baseline for Forces ●●●, no cost required.
+> Default (no free hits spent on Range): Range stays at Medium. That band is the baseline for Forces ●●●, no cost required.
+>
+> Contrast — a [Touch] effect: if Devorah instead cast a Life ●● Trick tagged [Touch] to cauterize her own wound, no amount of hits spent on Range would let her do it from Medium range. [Touch] effects are pinned to Close range plus actual contact regardless of the caster's Sphere rating or free hits; the fix for "I want to heal someone across the room" is to close distance (see Appendix H's Movement in Combat), not to spend hits on this table.
+>
+> Contrast — a sympathetic effect: if Devorah instead had Correspondence ●●●● and a lock of the target's hair, she could reach the target at any distance the link could span — across the city, in principle — without touching this Range Band table at all. That capability comes from Correspondence specifically, not from spending hits on Range.
 
 ### Area Bands
 
@@ -1504,11 +1525,13 @@ This table summarizes the default Range, Area, and Duration granted by each Sphe
 
 | Sphere Rating | Default Range — Default Area — Default Duration |
 | --- | --- |
-| ● (one dot) | Touch — Single Target — Instant (attacks) / Scene (sustained) |
-| ●● (two dots) | Short (10m) — Single Target — Instant / Scene |
-| ●●● (three dots) | Medium (30m) — Single Target — Instant / Scene |
-| ●●●● (four dots) | Long (100m) — Single Target — Instant / Scene. Permanent effects become accessible. |
-| ●●●●● (five dots) | Extreme (1 km) — Small Group (free) — Instant / Scene. Permanent effects are routine. |
+| ● (one dot) | Close (0–2m) — Single Target — Instant (attacks) / Scene (sustained) |
+| ●● (two dots) | Short (3–20m) — Single Target — Instant / Scene |
+| ●●● (three dots) | Medium (21–60m) — Single Target — Instant / Scene |
+| ●●●● (four dots) | Long (61–1,000m) — Single Target — Instant / Scene. Permanent effects become accessible. |
+| ●●●●● (five dots) | Extreme (1,000+m) — Small Group (free) — Instant / Scene. Permanent effects are routine. |
+
+Note: a Sphere dot level's default Range is a starting point on the shared Close/Short/Medium/Long/Extreme table (see Range Bands, above), not a separate scale — this is the same table Appendix H uses for combat positioning. [Touch]-tagged effects are an exception layered on top of Close range (see above) rather than a band of their own, and Correspondence's sympathetic-link capability bypasses this table entirely rather than sitting at the top of it.
 
 At five dots, a mage automatically covers a Small Group with any effect at no hit cost — their mastery of the Sphere is so complete that precision at that scale requires no additional effort. The Storytguide can rule that truly grand masters (Arete ●●●●●●+ in chronicle-scale stories) extend these defaults further, but this is not part of standard play.
 
@@ -1655,6 +1678,7 @@ When casting a Rote:
 - Speed Factor (SF) = highest Sphere dot − 1 (minimum 1). The same Life ●●● Rote has SF 2; it activates in Phase 3 of the initiative order (see Appendix F).
 - Instruments grant +1 Enhancement die to the casting pool when used. Working without Instruments adds +1 Difficulty.
 - Rotes can be cast under duress without the standard +1 Difficulty for stress, unless the Storyguide rules the situation is truly extreme (combat, serious injury, active threat to concentration all remain as possible Storyguide discretion penalties).
+
 ### Creating and Recording Rotes
 
 Starting mages begin with a number of Rotes equal to their Arete rating. These are recorded in the character's Grimoire (a physical or digital record of their magical workings). A Rote in the Grimoire specifies: the effect, the Sphere(s) and dot levels required, the Instruments used, the paradigmatic frame, and the Difficulty and SF.
@@ -1837,6 +1861,7 @@ The pool does not reduce on its own except through triggered results. Mages can 
 - A full week of magical inactivity and mundane living: -1 die from pool.
 - A cleansing ritual with at least one other mage (Prime 2 required): -2 dice from pool per hour-long ritual.
 - Deliberate Paradox Expenditure: A mage may intentionally "burn off" their Paradox Pool by inviting a Backlash — they roll the pool voluntarily, accept all consequences, and reduce the pool to 0. This is dangerous but sometimes necessary.
+
 ## The Quiet Track and Quiet Episodes
 
 Every mage has a Quiet Track with five boxes. Quiet represents the accumulation of metaphysical instability — the growing gap between the mage's personal reality and the Consensus, and between the mage's inner world and their outer perception. Too much Quiet and the mage begins to lose their grip on what is real.
@@ -1865,6 +1890,7 @@ Quiet boxes are removed through:
 - Successfully completing a goal that reconnects the mage to their paradigm: -1-2 boxes.
 - Extended time in normal Consensus reality (a full week of mundane life): -1 box.
 - The Verbena tradition has specific rites for clearing Quiet in others; so do the Celestial Chorus.
+
 ## Paradox Backlash: The Full Table
 
 When a 10 appears in a Paradox roll (Catastrophe), or when the Storyguide invokes a Major Backlash, consult the following for inspiration. These are not random roll results — the Storyguide selects the one most dramatically appropriate for the character and scene. The mage's paradigm should flavor every backlash.
@@ -1902,6 +1928,7 @@ Paradox Spirits are Spirit-world entities (Spirit Sphere to perceive and communi
 - Banishment (Prime 3 or Spirit 3 working, Difficulty 3): Force the Spirit back to its realm. Does not prevent it from returning if the Paradox Pool remains high.
 - Reduce the Paradox Pool: Spirits typically leave on their own when the pool drops below 3 dice.
 - Full Quiet: If the mage enters Full Quiet (5 boxes), Paradox Spirits lose interest — a mage in their own personal reality is no longer a threat to the Consensus. This is cold comfort.
+
 ## Marauder Magic and Paradox
 
 Marauders — mages consumed by Full Quiet — generate no Paradox at all. Their magic is internally consistent with their personal reality, and the Consensus cannot find an angle from which to punish it. However, Marauders cause Paradox in everyone around them: Sleepers caught in a Marauder's presence may begin taking Quiet damage, and other mages find their Paradox Pools growing faster in a Marauder's vicinity (the Storyguide may add 1 extra die per scene of exposure).
@@ -1965,6 +1992,7 @@ The mage can always feel the rough direction and distance of any location they h
 - Sense whether a specific person or object is within a defined area.
 - Detect active portals, gates, or Horizon Realms nearby.
 - Know the rough relative position of a target when given a strong sympathetic link.
+
 #### Sphere Tricks — Correspondence 1
 
 | Trick (Cost) | Effect |
@@ -1982,6 +2010,7 @@ The mage can now project their senses across space. They cannot physically be in
 - Project sight or hearing to a location you have previously visited.
 - Communicate with a willing target anywhere in the world (using their image as a focus or a sympathetic link).
 - Determine the exact location of an object you have a strong sympathetic link to.
+
 #### Sphere Tricks — Correspondence 2
 
 | Trick (Cost) | Effect |
@@ -2008,11 +2037,12 @@ Space bends to the mage's will. They can compress distances, extend them, create
 - Redirect an attack mid-flight (redirect a bullet, a thrown object, a missile) by shifting its path through space.
 - Create a short-duration portal between two locations you have visited.
 - Compress space to make a long journey short (crossing a room-length in a single step).
+
 #### Sphere Tricks — Correspondence 3
 
 | Trick (Cost) | Effect |
 | --- | --- |
-| Blink (1) | You teleport up to Short range (10m) to a location you can see. Vulgar without witnesses; Coincidental if the area is empty. |
+| Blink (1) | You teleport up to Short range (up to 20m) to a location you can see. Vulgar without witnesses; Coincidental if the area is empty. |
 | Redirect (2) | When an attack is made against you, you can spend 2 Trick Hits on a Correspondence casting to make the attack arrive from a different angle — imposing +1 Difficulty on the attacker's next attack. |
 | Pocket Space (2) | You create a small extra-dimensional container (~1 cubic meter) accessible only to you. It exists until you dismiss it or it is dispelled. |
 | Gateway (3) | You open a stable portal between two locations you have visited. The portal lasts for up to one scene; up to 6 people can pass through. |
@@ -2027,6 +2057,7 @@ Distance becomes a concept the mage applies selectively. They can affect anythin
 - Create a permanent portal (requires an extended ritual, Threshold 10).
 - Banish a target to a distant location (Vulgar; opposed by target's Resolve + Stamina).
 - Create a spatial ward that alters the geometry of an area — making a room larger on the inside, hiding a corridor from non-magical perception.
+
 #### Sphere Tricks — Correspondence 4
 
 | Trick (Cost) | Effect |
@@ -2044,6 +2075,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 - Be in two places at once (bilocate) for a scene. Both instances are fully real.
 - Reshape the geography of a building or small region permanently.
 - Create a Horizon Realm (a pocket dimension) — requires an extended ritual, Threshold 20, and Prime 4.
+
 #### Sphere Tricks — Correspondence 5
 
 | Trick (Cost) | Effect |
@@ -2062,7 +2094,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > 
 > Pool: Correspondence ● (1) + Intellect ●●● (3) = 4 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
 > Roll: [8, 6, 3, 1] = 2 hits, 1 net.  Kezia's spatial awareness pings the alley — two figures crouching behind a dumpster, roughly 12m away.
-> Result: Awareness of the location and rough number of living beings within Short range (10m), lasting one turn.
+> Result: Awareness of the location and rough number of living beings within Short range (up to 20m), lasting one turn.
 > COINCIDENTAL — reads as exceptional spatial memory or heightened situational awareness.  A Sleeper bystander would chalk it up to "she seems very alert."
 > 
 > SF 1 means the Storyguide draws only one card.  Even on a weak hand, the effect is subtle enough that Paradox buildup is negligible.
@@ -2073,7 +2105,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > 
 > Pool: Correspondence ●● (2) + Intellect ●●● (3) = 5 dice.  SF: 1 (Rote: highest dot 2 − 1 = 1).  Difficulty: 2.
 > Roll: [9, 8, 6, 4, 1] = 3 hits, 1 net.  Kezia senses the spatial geometry of the building — the courier is hiding in the service corridor behind Exhibit C.
-> Result: Precise location of one known target within Medium range (30m), lasting the scene.
+> Result: Precise location of one known target within Medium range (up to 60m), lasting the scene.
 > COINCIDENTAL — reads as heightened spatial awareness or a mnemonic training technique.
 
 > CORRESPONDENCE ●●● FREEFORM — BLINK STEP
@@ -2082,9 +2114,9 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > 
 > Pool: Correspondence ●●● (3) + Intellect ●●● (3) = 6 dice.  SF: 3 (freeform = sum of Sphere dots).  Difficulty: 3.
 > Roll: [10, 9, 7, 5, 3, 1] = 4 hits (10 = 2), 1 net hit.  She folds the 20m gap and steps through.
-> Result: Teleportation to any visible point within Medium range (30m).  Default range for Correspondence ●●● = Medium.
+> Result: Teleportation to any visible point within Medium range (up to 60m).  Default range for Correspondence ●●● = Medium.
 > VULGAR — the spatial fold is briefly visible as a shimmer in the air.  With no Sleepers present, Paradox risk is minimal.
-> FREE HIT SPEND: Kezia spends her 1 free hit to extend range to Long (100m), reaching the emergency stairwell exit instead.
+> FREE HIT SPEND: Kezia spends her 1 free hit to extend range to Long (up to 1,000m), reaching the emergency stairwell exit instead.
 
 > CORRESPONDENCE ●●●● FREEFORM — REMOTE SENSES
 > 
@@ -2092,7 +2124,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > 
 > Pool: Correspondence ●●●● (4) + Intellect ●●● (3) = 7 dice.  SF: 4 (freeform = sum of Sphere dots used).  Difficulty: 4.
 > Roll: [10, 9, 8, 6, 4, 2, 1] = 5 hits (10 = 2), 1 net hit.  Kezia establishes a stable sensory window inside the boardroom — she can see and hear everything for the scene.
-> Result: Full sight and hearing at any known location within Extreme range (1 km).  Default range for Correspondence ●●●● = Extreme.
+> Result: Full sight and hearing at any known location within Extreme range (1,000+ meters).  Default range for Correspondence ●●●● = Extreme.
 > VULGAR — the boardroom gains a faint spatial distortion visible to Awakened eyes.  With only Sleepers present, Paradox risk is moderate (SF 4).  Kezia keeps her focus shallow and closes the window the moment the meeting ends.
 > 
 > FREE HIT SPEND: She uses her 1 free hit to add a third sense — touch — letting her feel the papers being shuffled so she can deduce what documents are on the table.
@@ -2141,6 +2173,7 @@ The mage can nudge fate. They can tilt the odds of mundane events — a coin fli
 - Cause a mundane system to fail (a lock jams, an engine stutters, a rope frays at a critical moment). Coincidental if subtle.
 - Grant or deny another character a moment of fortune (a stumble at the wrong time, a sudden insight).
 - Accelerate the natural decay of an object (rust, rot, tarnish — over hours rather than years). Coincidental.
+
 #### Sphere Tricks — Entropy 2
 
 | Trick (Cost) | Effect |
@@ -2160,6 +2193,7 @@ Entropy 3 extends the mage's influence to living beings and complex organic syst
 - Curse a target with persistent misfortune: every roll they make has +1 Difficulty for [hits] scenes.
 - Bless a target with uncanny survival: once per scene, they may reroll one failed roll.
 - Sense the exact moment a living being will die if their current trajectory continues (within a margin of hours to days).
+
 #### Sphere Tricks — Entropy 3
 
 | Trick (Cost) | Effect |
@@ -2178,6 +2212,7 @@ At this level, Entropy can disassemble the fundamental patterns of things — un
 - Destroy an object by accelerating its entropy to completion. Vulgar. The object crumbles, rusts, or rots into nothing.
 - Dispel any magical effect by unraveling its pattern (replaces normal dispelling; add +2 to the Dispel roll).
 - Impose a "doom" on a target — a significant guaranteed bad outcome within the next 24 hours. The Storyguide must narratively fulfill this.
+
 #### Sphere Tricks — Entropy 4
 
 | Trick (Cost) | Effect |
@@ -2195,6 +2230,7 @@ At Entropy 5, the mage sees and can manipulate the grand sweep of fate and decay
 - Permanently alter an organization's fate-thread (a company goes bankrupt, a political party splinters, a criminal gang implodes). Requires an extended ritual.
 - Grant a person permanent immunity to a category of misfortune (bullets that always miss, fires that always spare them).
 - Sense all deaths within Extreme range (1km) as they occur.
+
 #### Sphere Tricks — Entropy 5
 
 | Trick (Cost) | Effect |
@@ -2292,12 +2328,13 @@ The mage can now redirect and reshape small energy expressions — turning a tor
 - Generate a brief electrical discharge (1 Bashing, touch range). Coincidental.
 - Control ambient light and heat in a room — dim lights, lower temperature by 10 degrees. Coincidental.
 - Set something flammable alight without apparent cause (a candle, a newspaper). Borderline — Coincidental if there is a nearby ignition source, Vulgar if there is not.
+
 #### Sphere Tricks — Forces 2
 
 | Trick (Cost) | Effect |
 | --- | --- |
 | Deflect (1) | One ranged attack against you is deflected. The attacker rerolls and must accept the new result. Coincidental if framed as air currents or vibration; Vulgar if the deflection is visible. |
-| Surge (1) | All electronics within Short range (10m) experience a power surge — lights blow, computers restart, phones die. Coincidental (power fluctuation). Very useful for disabling surveillance. |
+| Surge (1) | All electronics within Short range (up to 20m) experience a power surge — lights blow, computers restart, phones die. Coincidental (power fluctuation). Very useful for disabling surveillance. |
 | Static Field (2) | You create a localized field that disrupts electronic communications within Short range (15m) for one scene. Coincidental. |
 | Kindle (2) | You ignite a flammable target at Short-to-Medium range (up to 20m). If visible to Sleepers: Vulgar. Otherwise: Coincidental. Damage: 1 Lethal per round while burning. |
 
@@ -2311,13 +2348,14 @@ Now the mage can throw lightning, call fire, reshape gravitational pull locally,
 - Create a wall of force (kinetic field) that blocks passage and attacks. Health 6, Armor 3.
 - Walk through fire unharmed (immunity to mundane flames for one scene).
 - Redirect gravity locally — make one target fall sideways, float, or be pinned to the ceiling.
+
 #### Sphere Tricks — Forces 3
 
 | Trick (Cost) | Effect |
 | --- | --- |
 | Lightning Strike (1) | Your Forces attack deals an additional 1 Lethal damage and stuns the target (loses next Minor Action) if they are wearing or touching metal. |
 | Shaped Charge (1) | You direct your Forces attack to affect a precise area, sparing designated targets within the blast radius. |
-| Gravity Well (2) | One target within Medium range (30m) is pinned to a surface (floor, wall, ceiling) by increased local gravity. Immobilized status. Resist: Might + Stamina, Difficulty 3, as a Major Action. |
+| Gravity Well (2) | One target within Medium range (up to 60m) is pinned to a surface (floor, wall, ceiling) by increased local gravity. Immobilized status. Resist: Might + Stamina, Difficulty 3, as a Major Action. |
 | Barrier (2) | You raise a kinetic force wall. It has Health 8, Armor 4, and lasts until destroyed or you dismiss it. Anyone passing through it takes 2 Bashing. |
 | Ride the Wave (2) | You move at 3x normal Speed for one round, carried on a wave of directed kinetic force. |
 
@@ -2349,13 +2387,14 @@ Gravity, weather patterns, sustained energy fields, and broad kinetic effects be
 - Create a localized storm (Large Group area (50m radius): wind, lightning, hail. 1 Bashing per round to everyone in the area not protected.
 - Destroy a vehicle with a concentrated energy burst. Damage 6 Lethal to the vehicle.
 - Create sustained energy constructs (a ladder of magnetism, a bridge of compressed air) that others can physically use.
+
 #### Sphere Tricks — Forces 4
 
 | Trick (Cost) | Effect |
 | --- | --- |
 | Tempest (2) | You call a localized storm. All targets in a Group area (50m radius) take 1 Bashing per round. Lightning strikes can be directed: +3 Lethal to one target per round as a Minor Action. |
 | Flight (1) | You fly for one scene. Speed 15 in open air. If combined with Correspondence 2, range is unlimited. |
-| EMP (3) | Electromagnetic pulse. All electronics within Long range (100m) are destroyed. Coincidental if framed as a natural surge; Vulgar if visible and instantaneous. |
+| EMP (3) | Electromagnetic pulse. All electronics within Long range (up to 1,000m) are destroyed. Coincidental if framed as a natural surge; Vulgar if visible and instantaneous. |
 
 ### Forces 5 — Command Primal Forces
 
@@ -2366,6 +2405,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 - Create a localized earthquake (Extreme range — 1km radius). Damage 3 Lethal to structures; 2 Lethal to individuals caught in collapse.
 - Create a sustained field of altered gravity, light, or electromagnetic force over a neighborhood.
 - Absorb and redirect any energy attack directed at you or nearby allies as a reflexive action.
+
 #### Sphere Tricks — Forces 5
 
 | Trick (Cost) | Effect |
@@ -2374,7 +2414,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 | Weather Mastery (3) | Completely control the weather in a region up to regional scale (50km across) for one day. Summon or dissipate storms, redirect lightning, freeze or thaw. Paradox +3. |
 | Force Dominion (3) | One type of energy (fire, electricity, gravity, light) does not affect you for one scene. Bullets stop in the air; flames part around you; falls become gentle glides. Paradox +2. |
 | Solar Redirect (5) | Redirect a focused beam of solar radiation at a point. Area effect: 10-meter radius, Aggravated damage to all in the area every round for [hits] rounds. Paradox +5; chronicle-event level. |
-| Primal Stillness (3) | Neutralize all energy in a zone up to Medium range (30m) across — lights go out, fires extinguish, electricity stops, sound cannot propagate, kinetic energy halts. Duration: one scene. Paradox +3. |
+| Primal Stillness (3) | Neutralize all energy in an area up to Medium range (up to 60m) across — lights go out, fires extinguish, electricity stops, sound cannot propagate, kinetic energy halts. Duration: one scene. Paradox +3. |
 
 ### Worked Examples — Forces
 
@@ -2384,7 +2424,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 > 
 > Pool: Forces ● (1) + Resolve ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
 > Roll: [9, 8, 6, 3, 2] = 3 hits, 2 net.  The bolt slides back cleanly.  No sound.  No visible force.
-> Result: Applies precise kinetic force to any small object within Touch range — enough to open a bolt, press a button, or nudge a key.  Cannot harm living targets at ●.
+> Result: Applies precise kinetic force to any small object within Close range and actual physical contact — enough to open a bolt, press a button, or nudge a key. This is a [Touch]-tagged effect: Sasha must be at Close range and actually touching the mechanism. Cannot harm living targets at ●.
 > COINCIDENTAL — reads as a careful mechanical manipulation.  Zero Paradox risk.
 > 
 > At ● Forces, Sasha can nudge the physical world but not strike it.  This is a tool, not a weapon — the sphere's most basic expression: directed force at the smallest scale.
@@ -2414,7 +2454,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 > 
 > Pool: Forces ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4.
 > Roll: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2), 2 net hits.  A focused bolt of electrical force leaps from Elias's outstretched hand.  Base damage: Forces ●●●● = 4 Lethal.  Each net hit adds +1.  Total: 6 Lethal against the lead agent.
-> Result: Ranged electrical attack.  Default range for Forces ●●●● = Extreme (1 km, line of sight).  The bolt cauterizes as it burns — the agent's rappel harness fuses and he can't move his right arm.
+> Result: Ranged electrical attack.  Default range for Forces ●●●● = Long (61–1,000 meters, line of sight).  The bolt cauterizes as it burns — the agent's rappel harness fuses and he can't move his right arm.
 > VULGAR — a lightning bolt from a clear sky at night is not easily explained.  SF 4 means the Storyguide draws four cards; Paradox backlash is possible.  Elias has a Faraday suit prop and three Technocracy-style gadgets on his person; if challenged, he claims directed-energy prototype.
 > 
 > FREE HIT SPEND: 2 free hits.  First hit extends damage to the second agent on the same rope (splash arc — 3 Lethal).  Second hit applies the [Stunned] tag, dropping the lead agent's actions for one turn.
@@ -2451,7 +2491,7 @@ The mage can always tell if a creature is alive and roughly how healthy they are
 | Trick (Cost) | Effect |
 | --- | --- |
 | Diagnose (1) | You instantly know the nature, severity, and probable course of any natural illness or injury affecting a target you touch. No Medicine roll required. |
-| Life Sense (1) | Detect all living beings within Medium range (30m), including through walls. You know their rough size and vitality. |
+| Life Sense (1) | Detect all living beings within Medium range (up to 60m), including through walls. You know their rough size and vitality. |
 | Fertility Sense (2) | Determine the exact reproductive state and health of any plant or animal. Used for agricultural magic, tracking cycles, or identifying supernatural creatures by biology. |
 
 ### Life 2 — Affect Simple Life
@@ -2461,9 +2501,10 @@ The mage can now alter simple life — plants and animals below complex vertebra
 **Active Effects (Freeform):**
 
 - Heal [hits] boxes of Bashing or Lethal damage on a human or animal (Rosamund's core healing). Coincidental.
-- Accelerate plant growth (a vine grows to Short range (10m) in seconds). Vulgar.
+- Accelerate plant growth (a vine grows to Short range (up to 20m) in seconds). Vulgar.
 - Command a small animal to perform a simple task. Coincidental if the animal might plausibly do it anyway.
 - Cause a plant or fungus to release chemical compounds (pollen, toxins). Coincidental.
+
 #### Sphere Tricks — Life 2
 
 | Trick (Cost) | Effect |
@@ -2483,6 +2524,7 @@ The mage can alter the basic form of living creatures: enhancing attributes, gra
 - Heal Aggravated damage. Coincidental if slow; Vulgar if rapid.
 - Cause a target's body to attack itself (anaphylaxis, autoimmune response, cardiac arrhythmia). Vulgar.
 - Transform a simple animal into a different simple animal.
+
 #### Sphere Tricks — Life 3
 
 | Trick (Cost) | Effect |
@@ -2502,6 +2544,7 @@ The mage has full control over any living organism's biology. They can rebuild b
 - Transform yourself or another into any biological creature of similar mass. Vulgar.
 - Command a living creature with complete authority — it obeys as if it were a trained animal, and complex commands can be given. Vulgar.
 - Create new organisms (small, simple ones at this level; complex ones require Life 5).
+
 #### Sphere Tricks — Life 4
 
 | Trick (Cost) | Effect |
@@ -2519,6 +2562,7 @@ The mage is a god of biology. They create life at will, can bring the dead back 
 - Create complex organisms from raw biological material.
 - Permanently transform any living creature into any other.
 - Restore the recently dead (within 1 scene; beyond that is Spirit territory, and then only if the soul cooperates).
+
 #### Sphere Tricks — Life 5
 
 | Trick (Cost) | Effect |
@@ -2528,7 +2572,7 @@ The mage is a god of biology. They create life at will, can bring the dead back 
 | Ecosystem Reshaping (3) | Permanently alter the biology of a local ecosystem — change what plants grow in an area, introduce or remove a species' presence, alter migration patterns. Duration: permanent within the affected zone. |
 | Perfect Body (3) | Permanently alter your own biology to achieve any physical quality: eliminate all disease and toxin susceptibility, achieve biological immortality (aging stops), enhance all physical Attributes by 1. Paradox +2 per permanent alteration. |
 | Plague Mastery (4) | Create or annihilate a disease at the biological-pattern level. You can engineer a pathogen with specific targets (affecting only beings with a specific genetic marker) or completely purge an existing infection from a region. Paradox +3 to create; +1 to purge. |
-| Death Touch (3) | A single touch kills any living organism up to the size of a horse. Larger organisms suffer [hits] levels of Aggravated damage instead. Resisted: Stamina + Fortitude vs. Difficulty 4. Always Vulgar. |
+| Death Touch (3) [Touch] | A single touch kills any living organism up to the size of a horse. Requires Close range and actual physical contact with the target. Larger organisms suffer [hits] levels of Aggravated damage instead. Resisted: Stamina + Fortitude vs. Difficulty 4. Always Vulgar. |
 
 ### Worked Examples — Life
 
@@ -2538,7 +2582,7 @@ The mage is a god of biology. They create life at will, can bring the dead back 
 > 
 > Pool: Life ● (1) + Resolve ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
 > Roll: [9, 8, 6, 2, 1] = 3 hits, 2 net.  Sasha senses three living beings above: two with elevated heart rates (alert, nervous), one calmer and seated.  None are animals — all human-level biological complexity.
-> Result: Detects number, rough size, and emotional state (via biochemistry) of all living beings within Short range (10m).  Cannot identify species beyond "mammal / non-mammal" at ●.
+> Result: Detects number, rough size, and emotional state (via biochemistry) of all living beings within Short range (up to 20m).  Cannot identify species beyond "mammal / non-mammal" at ●.
 > COINCIDENTAL — reads as exceptional situational awareness or a trained meditation technique.  The Akashic tradition teaches this rote as a basic combat-awareness kata.
 
 > LIFE ●● ROTE — IRON SKIN (Akashic Brotherhood)
@@ -2604,7 +2648,7 @@ The mage automatically knows the basic composition of any material they touch. T
 | Trick (Cost) | Effect |
 | --- | --- |
 | Assay (1) | You know the exact chemical composition and structural integrity of any object you touch. |
-| Detect Hidden (1) | You detect hollow spaces, hidden doors, and concealed objects within Near range (3m). No roll required; this is automatic perception. |
+| Detect Hidden (1) | You detect hollow spaces, hidden doors, and concealed objects within Close range (0–2m). No roll required; this is automatic perception. |
 | Appraise (2) | You know the monetary value, age, and provenance of any object you examine. Replaces Culture or Larceny rolls for valuation. |
 
 ### Matter 2 — Alter Properties
@@ -2616,6 +2660,7 @@ The mage can now change the properties of existing materials without changing th
 - Alter a material's hardness, flexibility, conductivity, or transparency. Coincidental if subtle; Vulgar if dramatic.
 - Purify a substance — remove contaminants from water, strip poison from food. Coincidental.
 - Shape soft materials (clay, mud, water, fabric) by will. Coincidental for subtle shaping.
+
 #### Sphere Tricks — Matter 2
 
 | Trick (Cost) | Effect |
@@ -2634,6 +2679,7 @@ The mage can change one substance into another. Lead into gold, wood into steel,
 - Transmute up to 50kg of one substance into another. Vulgar if witnessed.
 - Create a working object from raw material (a functional gun from scrap metal, a key from clay). Requires a Craft narrative justification.
 - Dissolve an object completely into its constituent elements.
+
 #### Sphere Tricks — Matter 3
 
 | Trick (Cost) | Effect |
@@ -2652,6 +2698,7 @@ At this level, the mage can reshape the molecular structure of matter at will, c
 - Reshape up to 500kg of any material into a complex three-dimensional form with tolerances tighter than machine manufacturing. This is Vulgar only if witnessed; shaping that happens "off-screen" is usually Coincidental.
 - Disassemble and reassemble complex mechanisms at the molecular level — extracting a bullet from a sealed gun without opening it, separating alloys back to component metals, removing a specific molecule from a compound.
 - Permanently alter an object's material properties: make steel as light as aluminum, give cloth the tensile strength of Kevlar, make a window bulletproof.
+
 #### Sphere Tricks — Matter 4
 
 | Trick (Cost) | Effect |
@@ -2760,6 +2807,7 @@ The mage can read surface thoughts (what a person is actively thinking), project
 - Read the active thoughts of a target. Opposed: Mage's Mind + Manipulation vs. Target's Resolve + Composure.
 - Project a single impression, emotion, or concept into a target's mind. Coincidental (they think they had the thought themselves) if subtle.
 - Create a mental shield (Armor 2 against all Mind effects) that lasts for one scene.
+
 #### Sphere Tricks — Mind 2
 
 | Trick (Cost) | Effect |
@@ -2779,6 +2827,7 @@ The mage can directly impose specific thoughts, false memories, complex commands
 - Command a target to perform a complex multi-step task. They believe they chose to do it.
 - Erase a specific memory (a face, an event, a skill temporarily).
 - Access unconscious knowledge the target does not know they have.
+
 #### Sphere Tricks — Mind 3
 
 | Trick (Cost) | Effect |
@@ -2798,6 +2847,7 @@ The mage can fully dominate another consciousness, communicate across any distan
 - Mind Bridge: establish a two-way telepathic communication link with any known target, anywhere in the world. No range limit; the connection is instantaneous and private.
 - Shared Mental Space: create a mindscape — a shared interior environment — that you and up to [hits] willing participants can inhabit simultaneously. The mindscape is real to all participants's senses. Duration: one scene.
 - Memory Architecture: restructure a target's mental organization — build hidden compartments, install compulsion loops, erase entire categories of memory. The target cannot consciously detect what has been done.
+
 #### Sphere Tricks — Mind 4
 
 | Trick (Cost) | Effect |
@@ -2828,7 +2878,7 @@ The mage can affect entire groups simultaneously, create entirely new consciousn
 > 
 > Pool: Mind ● (1) + Resolve ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
 > Roll: [9, 7, 5, 3, 2] = 2 hits, 1 net.  Sasha reads the informant's surface emotional state: low-grade fear, not directed at Sasha specifically — at something else.  Guilt, old and buried.  And underneath both: a thin thread of hope.
-> Result: Reads the surface emotional state of any person within Short range (10m).  Does not access thoughts, memories, or intent — only the emotional texture of this moment.
+> Result: Reads the surface emotional state of any person within Short range (up to 20m).  Does not access thoughts, memories, or intent — only the emotional texture of this moment.
 > COINCIDENTAL — reads as exceptional empathy or a trained mediator's intuition.  Akashic tradition teaches this as basic Do awareness: feel what the opponent feels before they act.
 
 > MIND ●● ROTE — MIND'S EYE (Akashic Brotherhood)
@@ -2837,7 +2887,7 @@ The mage can affect entire groups simultaneously, create entirely new consciousn
 > 
 > Pool: Mind ●●● at ●● application (2 dots' worth of effect) + Resolve ●●●● (4) = 6 dice.  SF: 1 (Rote).  Difficulty: 2.
 > Roll: [8, 7, 5, 4, 3, 1] = 3 hits, 1 net.  He senses the mental landscape of the corridor.
-> Result: Sasha detects the number, emotional state, and rough location of all conscious minds within Short range (10m).  He counts three Sleepers and one Awakened.
+> Result: Sasha detects the number, emotional state, and rough location of all conscious minds within Short range (up to 20m).  He counts three Sleepers and one Awakened.
 > COINCIDENTAL — framed as martial awareness and chi-sensitivity.  No Paradox.
 
 > MIND ●●● FREEFORM — SURFACE READ
@@ -2854,8 +2904,8 @@ The mage can affect entire groups simultaneously, create entirely new consciousn
 > 
 > The NWO interrogator has a piece of information Sasha needs — the location of a safehouse.  The interrogator has been conditioned against telepathic probing (he has a basic mental shield, which Sasha must overcome).  Sasha does not have time for subtlety.
 > 
-> Pool: Mind ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4 + 1 (mental shield) = 5 effectively — Storyguide rules the shield adds 2 dice to the SF count.
-> Roll: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2), 2 net hits after the shield absorbs 0 (the shield's rating of 1 subtracts 1 from hits, leaving 1 net hit as the base, but 2 net overcomes fully).  The compulsion takes hold: for the next hour, the interrogator believes he has already given the safehouse location willingly and feels no conflict about it.  He tells Sasha the address without hesitation.
+> Pool: Mind ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (Freeform).  Difficulty: 4 (base, matching Mind ●●●●'s casting scope — this does not change because of the shield; see Opposition, below).  Opposition: the interrogator's Mental Shield (Mind 1, per the Mental Shield Rote above) banked 1 hit on the casting that raised it. Per that Rote's own rule, a Mental Shield never adds to the intruder's Difficulty or SF — Sasha's hits must simply exceed the Shield's 1 banked hit for the intrusion to get through at all; if they don't, the compulsion fails outright and the interrogator immediately senses the attempt.
+> Roll: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2).  Sasha's 6 hits comfortably exceed the Shield's 1 banked hit — the shield fails to stop her.  Per the Mental Shield Rote, the interrogator would only have sensed the attempt if his own shield-casting had scored 3+ hits; his banked 1 hit falls well short of that, so he notices nothing.  Against her own base Difficulty 4, that leaves 2 net hits for the compulsion itself.  The compulsion takes hold: for the next hour, the interrogator believes he has already given the safehouse location willingly and feels no conflict about it.  He tells Sasha the address without hesitation.
 > Result: Implants a single complex belief or command that overrides the target's free will for up to one hour.  The target acts on the compulsion as if it were their own idea.  After the effect ends, they may notice a gap in their memory (Intellect + Awareness, Difficulty 4, to notice).
 > VULGAR against a resisting target.  Even against a willing one, altering conscious thought is not coincidental.  Sasha does not perform this lightly — it leaves psychic fingerprints that a skilled Mind mage can detect.
 > 
@@ -2905,6 +2955,7 @@ The mage can channel Quintessence from Nodes, Wonders, and their own reserves, u
 - Draw Quintessence from a Node to reduce Paradox Pool dice (1 Quintessence = 1 die removed, maximum 3 per scene).
 - Charge an object with Quintessence, making it a Wonder temporarily (see Wonders section).
 - Create Tass — physical Quintessence that others can use.
+
 #### Sphere Tricks — Prime 2
 
 | Trick (Cost) | Effect |
@@ -2924,12 +2975,13 @@ Now the mage can create Quintessence from nothing (very Vulgar) or destroy patte
 - Destroy any magical effect by unraveling its Quintessence pattern (enhanced Dispel: +3 to dispelling rolls).
 - Create Wonders — persistent enchanted objects that work without the mage present.
 - Create a ward that prevents Quintessence from flowing into an area (blocks Nodes from being tapped; prevents magical healing).
+
 #### Sphere Tricks — Prime 3
 
 | Trick (Cost) | Effect |
 | --- | --- |
 | Unravel (2) | Permanently destroy one magical effect or enchanted item. No dispelling roll required for effects of Sphere rating lower than your Prime. |
-| Prime Shield (2) | Create a ward that absorbs the next 3 hits of Paradox backlash that would affect any target within Near range (5m). The shield collapses once spent. |
+| Prime Shield (2) | Create a ward that absorbs the next 3 hits of Paradox backlash that would affect any target within Short range (up to 20m). The shield collapses once spent. |
 | Wonder-Craft (ext.) | Begin an extended ritual (Threshold 10+) to create a Wonder. See Wonder rules below. |
 
 ### Prime 4 — Advanced Quintessence
@@ -2956,7 +3008,7 @@ The mage exists in direct communion with the pattern-nature of reality. They can
 
 | Trick (Cost) | Effect |
 | --- | --- |
-| Rewrite Magic Laws (5) | For one scene, in a zone up to Medium range (30m) across, you redefine how magic works: choose one rule of the Sphere system and invert or alter it (all Vulgar magic becomes Coincidental; all Forces magic costs double; all spells gain +2 hits). Paradox +5. Chronicle-event level. |
+| Rewrite Magic Laws (5) | For one scene, in an area up to Medium range (up to 60m) across, you redefine how magic works: choose one rule of the Sphere system and invert or alter it (all Vulgar magic becomes Coincidental; all Forces magic costs double; all spells gain +2 hits). Paradox +5. Chronicle-event level. |
 | Self-Sustaining System (4) | Create a magical effect that perpetuates itself without ongoing maintenance or Quintessence input. The effect continues until dispelled. Maximum complexity: any Effect you could create in one scene. Paradox +3. |
 | Quintessence Absorption (3) | Permanently convert a Tass object, Node, or free Quintessence zone into personal fuel — siphoning all available Quintessence into your reserves instantly. No casting roll per batch after the first. |
 | Null Zone (4) | In a zone up to Short-to-Medium range (20m) across, all magic is suppressed — no new Effects can be created or sustained, existing Effects are dispelled, and Paradox dice cannot accumulate. Duration: one scene. Paradox +4 (from the paradox of suppressing paradox). |
@@ -2970,7 +3022,7 @@ The mage exists in direct communion with the pattern-nature of reality. They can
 > 
 > Pool: Prime ● (1) + Resolve ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
 > Roll: [9, 8, 6, 4, 2] = 3 hits, 2 net.  Thomas closes his eyes for a moment of quiet prayer.  He senses a faint Node three blocks west — a church garden, small but real.  A Technocracy Reality Anchor is active two streets north, its Quintessence-dampening field humming at the edge of his awareness.
-> Result: Detects all significant Quintessence sources (Nodes, Tass, enchanted objects) and active magical workings within Short range (10m).  Does not reveal the nature of the magic — only its presence and rough power level.
+> Result: Detects all significant Quintessence sources (Nodes, Tass, enchanted objects) and active magical workings within Short range (up to 20m).  Does not reveal the nature of the magic — only its presence and rough power level.
 > COINCIDENTAL — reads as deep spiritual attentiveness, which it is.  No Paradox risk.
 
 > PRIME ●● ROTE — DRAW QUINTESSENCE (Celestial Chorus)
@@ -2995,12 +3047,12 @@ The mage exists in direct communion with the pattern-nature of reality. They can
 > 
 > An enemy mage has crafted a Wonder — a prototype Reality Emitter that passively suppresses coincidental magic in a two-block radius.  The device is protected by a Prime Ward (Prime ●●●).  Brother Thomas must dismantle both the ward and the device's enchantment before the cabal can operate freely.
 > 
-> Pool: Prime ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4 (+ Ward's rating 3 = Difficulty 7 effectively — the Ward actively resists, adding 3 dice to SF and requiring Thomas to exceed its net successes).
-> Opposed Roll: Thomas rolls 8 dice: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2).  Ward resists with its rating 3: [8, 5, 2] = 1 hit.  Thomas achieves 5 net hits against the Ward (6 − 1 = 5).  He then turns 2 net hits against the Wonder itself, stripping 2 Enhancement points permanently.
-> Result: Dismantles active magical workings.  Each net hit removes one Enhancement point or one active enchantment from the target.  Against a Ward, the Ward must be overcome first (opposed roll) before the Wonder beneath can be reached.
+> Pool: Prime ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (Freeform).  Difficulty: 4 (base, matching Prime ●●●●'s casting scope — this does not change because of the Ward; see Opposition, below).  Opposition: the Prime Ward (rating 3) protecting the device.  A Ward never inflates the caster's Difficulty or SF — it contests directly, on its own separate roll of dice equal to its rating, exactly as described under the Prime ●●● Ward Trick above. Thomas's hits must exceed the Ward's hits before any of his hits can affect the Wonder underneath.
+> Opposed Roll: Thomas rolls his full 8-dice pool: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2).  The Ward rolls its rating (3 dice): [8, 5, 2] = 1 hit.  Thomas's hits exceed the Ward's by 5 (6 − 1 = 5) — the Ward collapses.  He turns 2 of those 5 net hits against the Wonder itself, stripping 2 Enhancement points permanently, and holds the remaining 3 in reserve for the Free Hit Spend below.
+> Result: Dismantles active magical workings.  Each net hit removes one Enhancement point or one active enchantment from the target.  Against a Ward, the Ward must be overcome first (a separate opposed roll, never a Difficulty or SF penalty) before the Wonder beneath can be reached.
 > VULGAR — the disenchantment is visible to Awakened sight as Quintessence threads unravelling.  To Sleepers it looks like the device simply powers down.  SF 4 means moderate Paradox risk; Thomas conducts this as a formal prayer-exorcism, which his tradition's Focus allows.
 > 
-> FREE HIT SPEND: 2 remaining net hits strip the device of all Enhancement — the Reality Emitter is now an inert, non-magical piece of electronics that the cabal can safely discard.
+> FREE HIT SPEND: The 3 remaining net hits strip the device of its remaining Enhancement entirely — the Reality Emitter is now an inert, non-magical piece of electronics that the cabal can safely discard.
 
 > PRIME ●●●●● FREEFORM — WEAVE TASS
 > 
@@ -3059,6 +3111,7 @@ The mage can speak to spirits directly, understand their language, and make simp
 - Make a formal Request — ask a spirit to perform a service in exchange for Quintessence, Essence, or a promise. The spirit evaluates the offer by its own values.
 - Channel a spirit's essence: a willing spirit lends you one of its defining abilities (a Jaguar spirit's speed, a River spirit's flow) for one round. Coincidental if subtle.
 - Detect and identify spirits within Medium range (50m): you know their type, rough power level, and current emotional state.
+
 #### Sphere Tricks — Spirit 2
 
 | Trick (Cost) | Effect |
@@ -3076,6 +3129,7 @@ The mage can step sideways into the spirit world and back out, bring companions 
 - Step sideways: Spirit + Composure vs. Gauntlet rating. On success, enter the Penumbra.
 - Bring a willing companion through the Gauntlet (adds +1 Difficulty per additional person).
 - Open a Gauntlet rift for a spirit to enter the material world.
+
 #### Sphere Tricks — Spirit 3
 
 | Trick (Cost) | Effect |
@@ -3092,15 +3146,16 @@ The mage commands spirits with authority. They can compel spirits to action, cre
 
 - Compel a spirit to act against its will — contest Spirit + Composure vs. the spirit's Resistance. On success, the spirit obeys for one scene, though hostile spirits may seek revenge afterward.
 - Begin the Fetish-creation process: bind a willing or defeated spirit into a prepared physical object. The bound spirit's power becomes a usable ability of the object. Extended action; see Fetish rules.
-- Seal the Gauntlet within Medium range (30m): no spirits may cross in either direction for one scene. This affects Paradox Spirits as well — a powerful defensive use when Paradox is approaching.
+- Seal the Gauntlet within Medium range (up to 60m): no spirits may cross in either direction for one scene. This affects Paradox Spirits as well — a powerful defensive use when Paradox is approaching.
 - Destroy a spirit's anchor — the object, concept, or place that ties it to a location. A destroyed anchor causes the spirit to fade back into the Umbra unless it has other anchors.
+
 #### Sphere Tricks — Spirit 4
 
 | Trick (Cost) | Effect |
 | --- | --- |
 | Create Fetish (Extended) | Bind a spirit willingly into an object (Threshold 10). The spirit's power becomes a usable ability of the object. |
 | Banish (2) | Expel a spirit from the material world or from the Penumbra in your vicinity. Opposed: Spirit + Composure vs. Spirit's Resolve. Difficulty = Spirit's rating. |
-| Seal Gauntlet (3) | Prevent all spirits from crossing the Gauntlet within Medium range (30m) for one scene. |
+| Seal Gauntlet (3) | Prevent all spirits from crossing the Gauntlet within Medium range (up to 60m) for one scene. |
 
 ### Spirit 5 — Spirit Mastery
 
@@ -3124,7 +3179,7 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > 
 > Pool: Spirit ● (1) + Resolve ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
 > Roll: [9, 8, 6, 3, 1] = 3 hits, 2 net.  Ahanu senses two spirits in the area: one small and territorial (a place-spirit claiming the alley), one larger and more watchful (a spirit of secrets, recently disturbed).  Neither is hostile — but the spirit of secrets is agitated.
-> Result: Detects the presence, rough power level, and emotional state of any spirits within Short range (10m), including spirits in the Penumbra.  Cannot communicate or interact — only sense.
+> Result: Detects the presence, rough power level, and emotional state of any spirits within Short range (up to 20m), including spirits in the Penumbra.  Cannot communicate or interact — only sense.
 > COINCIDENTAL — reads as spiritual attentiveness or cultural practice.  No Paradox risk.
 
 > SPIRIT ●● ROTE — SPIRIT SIGHT (Dreamspeaker)
@@ -3149,8 +3204,8 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > 
 > Ahanu needs to enter the Penumbra — the spirit reflection of a warehouse where a corrupted Bane spirit has taken up residence.  The Gauntlet here is thick (rating 4) because the area is heavily industrialised.  He must push through it alone.
 > 
-> Pool: Spirit ●●●● (4) + Resolve ●●●● (4) = 8 dice.  Opposed by Gauntlet rating 4 (4 automatic successes the mage must exceed).  SF: 4 (freeform).  Difficulty: 4.
-> Roll: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2).  Gauntlet resists with 4 automatic hits.  Ahanu's net: 2.  He pushes through — the physical world blurs and the Penumbra assembles itself around him.  The warehouse, in spirit-space, is a rusted hulk of grinding gears and poisoned light.
+> Pool: Spirit ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (Freeform).  Difficulty: 4 (= the local Gauntlet rating).  Opposition: none beyond the Difficulty itself — per the Step Sideways Sphere Trick (Spirit 3, above), crossing the Gauntlet is a standard hits-vs-Difficulty roll where Difficulty always equals the Gauntlet's rating at that location. This is not a separate opposed dice pool and not automatic successes subtracted afterward; it is simply this roll's Difficulty, exactly like any other Freeform effect.
+> Roll: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2).  Against Difficulty 4, that leaves 2 net hits.  He pushes through — the physical world blurs and the Penumbra assembles itself around him.  The warehouse, in spirit-space, is a rusted hulk of grinding gears and poisoned light.
 > Result: Crosses the Gauntlet and enters the Penumbra (or returns to the physical world).  The crossing is solo — bringing others requires additional Sphere dots or a prepared crossing point.
 > VULGAR — from the physical world's perspective, Ahanu simply vanishes.  Any Sleeper watching would have no framework for what they just saw.  SF 4 means Paradox risk is meaningful.  Ahanu leaves a bundle of tobacco and cedar at the crossing point — a traditional offering to ease the spirit-road.
 > 
@@ -3160,8 +3215,8 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > 
 > The cabal is under attack from a Bane-possessed hunter who cannot be harmed by physical means.  Ahanu decides to drag the entire confrontation into the Penumbra — he will tear the Gauntlet open wide enough for everyone present (four cabal members, two antagonists) to cross simultaneously.
 > 
-> Pool: Spirit ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  Opposed by Gauntlet rating 3 (the area is near a small natural Node, making the Gauntlet thinner).  SF: 5 (freeform).  Difficulty: 5.
-> Roll: [10, 10, 9, 8, 6, 4, 2, 1, 1] = 7 hits (each 10 = 2).  Gauntlet resists with 3 hits.  Ahanu's net: 4 hits.  The Gauntlet tears open — a ragged aperture roughly 3m wide and 2m tall, edges crackling with spirit-energy.  The Penumbra is visible through it.  Everyone within 10m is drawn into the crossing unless they actively resist (Resolve + Awareness, Difficulty 4).
+> Pool: Spirit ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (Freeform).  Difficulty: 3 (= the local Gauntlet rating — thinner than average here, because the area sits near a small natural Node).  Opposition: none beyond the Difficulty itself, per the same Gauntlet-crossing rule as Umbra Step above: Difficulty always equals the Gauntlet's local rating, with no separate opposed roll or automatic-successes step layered on top.
+> Roll: [10, 10, 9, 8, 6, 4, 2, 1, 1] = 7 hits (each 10 = 2).  Against Difficulty 3, that leaves 4 net hits.  The Gauntlet tears open — a ragged aperture roughly 3m wide and 2m tall, edges crackling with spirit-energy.  The Penumbra is visible through it.  Everyone within 10m is drawn into the crossing unless they actively resist (Resolve + Awareness, Difficulty 4).
 > Result: Opens the Gauntlet for mass crossing.  The tear remains open for [net hits] turns (4 turns here, about 30 seconds).  Anyone who enters the aperture crosses to the Penumbra.  The tear is visible from both sides.
 > HIGHLY VULGAR — a visible hole in reality that pulls people through it is beyond any mundane explanation.  SF 5 in a Gauntlet area means serious Paradox exposure.  Ahanu does not celebrate his own audacity; he knows exactly what this costs him.
 > 
@@ -3200,6 +3255,7 @@ The mage can speed up or slow down time in a small area around themselves or a t
 - Haste: You act twice as fast for one round — gain an additional Minor Action. Coincidental (observers think you're simply quick).
 - Slow: One target acts at half speed — they lose their Minor Action this round. Borderline Vulgar.
 - Freeze a small object in time: it becomes impervious to change for [hits] rounds.
+
 #### Sphere Tricks — Time 2
 
 | Trick (Cost) | Effect |
@@ -3217,6 +3273,7 @@ The mage can view the past or possible futures of a location, object, or person.
 
 - Retrocognition: See the past of an object or location. How far back depends on hits (1 hit = 1 day; 3 hits = 1 month; 5 hits = 1 year; 7 hits = 10 years, etc.).
 - Precognition: See a possible future of an event or choice. The Storyguide shows one probable future based on current trajectories. It is not guaranteed — circumstances can change. Vulgar.
+
 #### Sphere Tricks — Time 3
 
 | Trick (Cost) | Effect |
@@ -3235,6 +3292,7 @@ The mage can send objects or small amounts of information backwards or forwards 
 - Send a small object (up to 1kg) a few hours into the past or future. The receiving-end implications (the object appears somewhere it wasn't) create timeline inconsistencies that the Consensus fights back against. Paradox +3 minimum.
 - Send information backward in time — a simple message (a few words) to yourself at an earlier point in the session. You receive the message as a sudden memory you 'already had.' This cannot be used to prevent your own death, only to pass information.
 - Create a temporal pocket: a zone where time moves at a different rate (twice as fast or half as fast) for [hits] rounds. People inside experience subjective time at the altered rate; from outside, they appear to move in slow or fast motion.
+
 #### Sphere Tricks — Time 4
 
 | Trick (Cost) | Effect |
@@ -3304,8 +3362,8 @@ The mage can travel through time personally, create stable time loops, or alter 
 > 
 > The cabal made a critical error three minutes ago: they triggered an alarm that has now brought Technocracy reinforcements.  Professor Chen proposes the most dangerous thing she has ever done: rewind those three minutes of local time for everyone present, allowing the cabal to act differently.
 > 
-> Pool: Time ●●●●● (5) + Intellect ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
-> Roll: [10, 9, 9, 8, 7, 5, 3, 2, 1] = 7 hits (10 = 2), 2 net hits.  Chen collapses the last three minutes of local time.  The reinforcements have not arrived.  The alarm has not triggered.  The cabal stands where they were three minutes ago — but with their memories of what happened intact.  They know exactly what went wrong and can choose differently.
+> Pool: Time ●●●●● (5) + Intellect ●●●● (4) = 9 dice.  SF: 5 (Freeform).  Difficulty: 5 (base, matching Time ●●●●●'s casting scope — the same pattern used for every other Sphere's top-dot Freeform effect; see Chapter Four).  Opposition: none — Rewind targets local time itself, not a resisting person or ward, so there is nothing to oppose the roll.
+> Roll: [10, 9, 9, 8, 7, 5, 3, 2, 1] = 7 hits (10 = 2), 2 net hits (7 hits − Difficulty 5).  Chen collapses the last three minutes of local time.  The reinforcements have not arrived.  The alarm has not triggered.  The cabal stands where they were three minutes ago — but with their memories of what happened intact.  They know exactly what went wrong and can choose differently.
 > Result: Rewinds local time by up to [net hits × 2] minutes (4 minutes here) for all beings within Short range.  Memory of the rewound events is preserved for the caster only, unless they spend a Quintessence point to share the memory with each additional target.  The timeline branches — the original timeline is sealed off.
 > HIGHLY VULGAR — temporal reversal is one of the most profound violations of the Consensus possible.  SF 5 means the maximum Paradox pressure.  The Storyguide draws five cards.  If even one is a botch card, reality backlashes immediately.  Chen has spent two Tass beforehand as a Paradox buffer, and she is very pale when she finishes.  "We have four minutes," she says quietly.  "Do not make the same mistake."
 > 
@@ -3380,6 +3438,7 @@ The Phase Initiative system was custom-built for groups who want granular action
 - Rotes resolve at Phase 1 + highest Sphere rating (SF). Improvised magic resolves at Phase 1 + total Sphere dots used.
 - Faster actions happen before slower ones — a punch (SF 1) beats a heavy spell (SF 5) every time, unless the spellcaster started first.
 - This system is used in Appendix L (the complete example of play) to demonstrate how the two systems translate to real table play.
+
 ### Which System Is Primary?
 
 The Spotlight System is primary. The Phase Initiative system is a tactical variant. For most sessions — including sessions with significant combat — use Spotlights. Switch to Phase Initiative when:
@@ -3525,6 +3584,7 @@ Advantage is established through narrative and mechanical action. Common ways to
 - Successful Trick Hits: The "Setup" Combat Trick gives your next ally who attacks the target +1 die, effectively creating a partial Advantage.
 - Magical enhancement: Many spells specifically grant Advantage — a Time 2 combat sense, a Mind 1 emotional reading, a Correspondence 2 spatial awareness in a familiar location.
 - Information superiority: Knowing your opponent's capabilities, vulnerabilities, and intentions before the fight begins. Detailed preparation provides a narrative Advantage the Storyguide may ratify mechanically.
+
 ### Losing and Negating Advantage
 
 Advantage is situational and can be lost. If the character who established Advantage through high ground moves away from that position, they lose the Advantage. If a flanking pattern is broken — one of the flankers is forced to reposition — the Advantage ends. Magical Advantages tied to sustained effects end when the effect ends.
@@ -3945,6 +4005,7 @@ Some attacks ignore armor entirely or penetrate it more effectively than standar
 - Life or Matter Direct Attacks: A Life 3 working that directly disrupts biological function (cellular breakdown, neurological seizure) bypasses physical armor — the armor is on the outside; the magic is attacking the inside. Similarly, a Matter 3 attack that restructures the molecular bonds of a target's body bypasses their surface protection.
 - Called Shots to Unarmored Locations: Targeting the gap at the armpit of a tactical vest, the unprotected back of the knee, the face above a ballistic collar. This ignores armor at +2 Difficulty to the attack roll. Specific location chosen before the roll; Storyguide determines which locations are actually exposed given the armor worn.
 - Aggravated Damage Sources: Always bypass standard armor. No exceptions for mundane armor. See magical armor in Appendix I for the limits of enchanted protection.
+
 ### Stacking Armor
 
 Armor sources do not add together freely. Physics and geometry impose limits: two things protecting the same location do not double the protection. The rule is: use the highest applicable rating and add 1 for each additional significant layer of protection covering the same location. A character wearing a tactical vest (Armor 3) and also maintaining Mage Armor (Armor 3) has total effective Armor 4, not 6. A character with Iteration X subdermal plating (Armor 3) and a tactical vest (Armor 3) has effective Armor 4.
@@ -3976,6 +4037,20 @@ Compels should feel like natural consequences of what the Tag describes, not arb
 > INLINE EXAMPLE — Tag invoke: Rosamund's combat knife is tagged [Fast] and [Concealed]. She is in initiative order against a Syndicate enforcer who is drawing a heavy pistol (tagged [Loud] and [Slow Draw]). Rosamund's player says: "I invoke [Fast] — my knife is already in my hand and I'm striking before his draw clears the holster." The Storyguide agrees: +2 dice to Rosamund's attack roll this Spotlight. She rolls Close Combat + Dexterity + 2. The enforcer's gun is halfway out of the holster when the blade finds him.
 
 > INLINE EXAMPLE — Tag compel: Silas fires his elephant gun (tagged [Loud], [Devastating], [Reload 2]) at a Nephandi in an apartment building. He drops the Nephandi. The Storyguide offers a compel on [Loud]: "That shot is going to bring every Sleeper on this floor out of their apartments to investigate. You get 1 Momentum. But you have about fifteen seconds before someone calls the police and you're surrounded by witnesses — which means no more magic, no more gun, and a very complicated conversation." Silas's player accepts, gains the Momentum, and the scene pivots to a frantic exit. The gun solved one problem and created three more. That is a well-constructed compel.
+
+### Edge Cases — Where the Judgment Call Actually Gets Made
+
+The two examples above are the clean cases: an invoke that obviously applies, and a compel that obviously fits. Most tables run into trouble on the messier cases — the moment where a Tag is invoked but doesn't quite fit, or a compel that's technically defensible but feels unfair, or a scene with three Tags all screaming to be invoked at once. Below are worked examples of exactly those moments, because this is where "relies on GM judgment" stops being a throwaway phrase and starts being the actual game being played at the table.
+
+> EDGE CASE — Disputed Invoke, and How to Say No Without Shutting the Player Down: Dex is fighting a Void Engineer technician in a server room. His combat knife is tagged [Fast] and [Concealed]. He's already drawn the knife two Phases ago and is mid-swing. His player says: "I invoke [Fast] for the attack — my knife's just quicker than his reactions." The Storyguide pauses: [Fast]'s actual invoke condition is about *speed being the decisive factor* — beating a slower draw, interrupting an action, seizing initiative advantage — not "my weapon type is generically fast." Dex already has the initiative advantage from the Phase order; nothing about this particular swing is being decided by speed specifically. The Storyguide says: "I don't think [Fast] is doing anything for you here — you're not racing him to anything, you already went first. If he was about to bring his own weapon up and you're beating him to the punch, that's exactly [Fast]. Is that what's happening?" Dex's player reconsiders: "No, he's already down, I'm just finishing him." The Storyguide: "Then it's just a regular attack roll — no Tag needed, and that's fine, not every good moment needs a mechanical bonus attached to it." No Momentum changes hands. The player isn't punished for trying; they're redirected, and the fiction stays honest. This is the failure mode "relies on GM judgment" is actually warning about — a GM who either rubber-stamps every invoke (Tags become free +2 dice on demand, which cheapens them) or who nitpicks every invoke into oblivion (players stop bothering to engage with Tags at all) has broken the subsystem in opposite directions. The fix in both cases is the same habit: ask "what specifically about the fiction right now makes this Tag true," out loud, before ruling.
+
+> EDGE CASE — Refusing a Compel, and What That Costs: Continuing the Silas example above — a session later, Silas fires the elephant gun again, this time inside the Chantry's own warded sanctum during a defensive stand against a Technocracy incursion. The Storyguide offers a compel on [Loud]: "Same deal — the noise draws attention, 1 Momentum." Silas's player looks at the pool: the cabal has zero Momentum banked and is one bad roll from a Nephandi finishing the fight. She decides the Momentum isn't worth the complication this time and spends 1 Momentum to refuse — except she has none to spend. Refusing a compel costs 1 Momentum from the player's own pool; if the pool is empty, the compel cannot be refused, full stop — the Storyguide's offer stands and the complication happens regardless of whether the player "wants" it, though they still take the compensating Momentum if they accept it (which, at zero Momentum, is now clearly the better of two options). This is the mechanical teeth behind Momentum scarcity: a cabal that has been spending Momentum freely all session has less leverage to say no to the Storyguide's complications later in that same session. The lesson for the table: refusing is a resource decision, not a free veto, and a GM should never let a player "just say no" to a compel without spending the Momentum the rule actually requires — otherwise compels stop costing anything and the whole exchange collapses into the GM asking permission before every complication.
+
+> EDGE CASE — Multiple Tags, One Roll, and the Order of Operations: Maya (Order of Hermes) casts a Forces effect through her tagged instrument, a signet ring [Focus: Fire] [Attuned] [Fragile], while standing in a burning building (an environmental Tag the Storyguide has put into play: [Structural Collapse Risk]). Her player wants to invoke [Focus: Fire] (the ring's Focus matches the effect's element) AND [Attuned] (the ring has bonded to her over multiple sessions) on the same casting roll. Two Tags can stack on a single roll as long as each is invoked separately (a separate Momentum spend per Tag, per the "up to the +5 Enhancement cap" rule from Chapter Two) and each is independently justified — the Storyguide should make the player state the justification for each one in turn, not accept "I invoke both" as a single bundled sentence. Here: "[Focus: Fire] — this is a fire effect, that's what the ring is for" (clean, +2 dice, 1 Momentum) and "[Attuned] — the ring and I have been through enough that it responds instantly to what I need" (also clean, +2 dice, 1 Momentum, since Attuned's invoke condition is about the bond itself, not the specific effect type). Total: +4 dice for 2 Momentum. The Storyguide could also compel [Fragile] right back in the same exchange — free-standing, not something the player chose, but a live option given the burning building: "The heat's already stressing the ring's setting. I'm compelling [Fragile] — after this casting, the stone cracks. It still works, but the Focus bonus doesn't apply until you get it repaired. 1 Momentum to you." Multiple Tags in one exchange are normal and expected in an important scene; the discipline is making each one earn its keep individually rather than letting a pile of Tags become a single vague "the vibes are right" bonus.
+
+> EDGE CASE — A Compel That's Too Harsh, and How to Recalibrate Mid-Scene: A newer Storyguide, running the [Autofire] Tag on a PC's SMG, compels it as: "Your gun jams completely and permanently — you can never use it again this chronicle." The player is (understandably) upset — this isn't a complication, it's confiscating a piece of their character sheet with no recourse, and it came out of a Tag that's supposed to produce drama, not attrition. This is a real failure mode worth naming explicitly: a compel should always be *recoverable* within the scene or, at most, the session — a jam that costs a Major Action to clear (per [Autofire]'s actual listed Compel effect, above) is drama; a jam that's permanent is a Difficulty spike disguised as narrative color, and it will make players stop wanting to use tagged gear at all, which defeats the entire point of the Tag system. If a Storyguide realizes mid-scene they've overreached, the correct move is to walk it back openly at the table: "Actually, let me revise that — the gun jams for this scene, clears with a Major Action like the Tag says, I got carried away." This is not a loss of authority; reversing an overcorrected compel in front of the players models exactly the judgment the system asks GMs to exercise, and it costs nothing except a moment's honesty.
+
+> EDGE CASE — Compelling a Character Tag Instead of an Equipment Tag: Character Tags (see above) compel the same way equipment Tags do, but the complications tend to be social or narrative rather than mechanical. Priya has the Character Tag [Wanted by the Technocracy]. She's negotiating with a Syndicate broker in a public café — the broker isn't Technocracy himself, but the Storyguide compels [Wanted by the Technocracy] anyway: "A NWO surveillance drone across the street just ran facial recognition on the café's foot traffic. It got a partial hit on you. You don't know that yet — but in about ten minutes, someone's going to know exactly where you were sitting. 1 Momentum." Nothing about the current roll changed — Priya isn't penalized on her negotiation, and the complication lands as a ticking clock on the scene rather than a dice penalty, which is the normal shape for Character Tag compels: they usually cost future narrative safety rather than present-roll dice, in contrast to equipment Tag compels which more often hit the roll or the gear directly.
 
 ### Tag Reference — Combat Weapons
 
@@ -4180,6 +4255,7 @@ A character can apply first aid to an injured ally as a Major Action during comb
 - First aid cannot heal Aggravated damage under any circumstances. Aggravated is a pattern wound; mundane bandages cannot touch a wound in the soul's blueprint.
 - First aid cannot bring an Incapacitated character back to consciousness. It can prevent their condition from deteriorating. The character remains Incapacitated until they receive more substantial care or significant time passes.
 - First aid can stop the Bleeding condition immediately on any success, before any stabilization occurs.
+
 ### Mundane Healing — After Combat
 
 After the scene ends and characters have time to rest and receive care, healing proceeds at the following rates:
@@ -4414,6 +4490,7 @@ Beyond the standard 1 Quintessence cost, a mage can invest more Quintessence in 
 - Standard (1 Quintessence): Powers the defense as described. Roll [Sphere] + [Casting Attribute]. No modifier.
 - Enhanced Defense (2 Quintessence): Spend 2 Quintessence to treat the defense as a Rote-quality working — you gain Enhancement +1 on the defense roll. This represents pouring an additional surge of raw magical energy into the working, giving it the precision of a prepared formula even though it is improvised. Most useful when the attacker is powerful and a single extra hit on the defense roll could shift from partial to full.
 - Desperate Surge (all remaining Quintessence, maximum +3 extra): Spend all your remaining Quintessence on this one defense. For each Quintessence spent beyond the base 1, add 1 die to the roll (maximum +3 extra dice at 4 total Quintessence spent). This is a last-resort move that leaves the mage magically depleted — no Quintessence for further defenses, no fueling of subsequent spells, no Quintessence-dependent effects. It should feel like the mage pouring everything into one desperate moment.
+
 #### Sphere Defense in the Spotlight System
 
 The Spotlight system does not use stored dice or phase windows, so the triggering mechanism works differently. When an attack lands and the mage is mid-cast (or simply wants to attempt a reactive defense), they may declare a Sphere Defense by spending 1 Willpower in addition to the standard 1 Quintessence. The Willpower replaces the stored-die cost — it represents the sudden surge of focused will that makes the improvised reaction possible.
@@ -4562,6 +4639,7 @@ Wonders can have the same Tags as mundane weapons, plus unique Tags specific to 
 - [Sustained]: The Wonder produces a continuous effect that lasts as long as it is active. Activating is a Minor Action; the effect persists each Round without further rolls. Deactivating is a free action.
 - [Attuned]: The Wonder responds to a specific user or type of user. Others who try to activate it must spend 1 Momentum or make an opposed roll. Attuned Wonders are more reliable in their user's hands and harder for enemies to exploit.
 - [Unstable]: The Wonder has a flaw in its construction. The Storyguide may compel [Unstable] at any point — the Wonder misfires, produces an unintended effect, or temporarily ceases to function. Players who accept this compel gain Momentum.
+
 ### Magic Compatibility
 
 A mage using a Wonder whose paradigm directly contradicts their own may generate friction at the Storyguide's discretion. A deeply nature-oriented Verbena using an Iteration X neural interface designed to filter sensory data through a machine-logic framework is asking her pattern to process something fundamentally alien to its Resonance. Most Wonders are paradigm-flexible enough to be used by anyone with basic magical awareness, but edge cases create interesting roleplay moments. The Storyguide should use this sparingly and for narrative effect, not as a mechanical punishment for creativity.
@@ -5281,28 +5359,33 @@ For fast access during play, this summary distills the chapter's core mechanics 
 - 3. Each Spotlight: one Major Action + Minor Actions as time permits.
 - 4. When all Spotlights complete: new Round begins with same Initiative order.
 - 5. Combat ends when one side is incapacitated, surrenders, flees, or narrative circumstances conclude it.
+
 ### Attack Summary
 
 - Attack roll: Attribute + Skill, versus Difficulty (base 1, modified by situation).
 - Hits at or above Difficulty: attack lands. Excess hits are Trick Hits.
 - Trick Hits: spend on Extra Damage, Disarm, Knockdown, Stagger, Wound, Setup, Pin, Disrupt, Expose.
 - Damage = weapon rating + Extra Damage Tricks. Reduce by target Armor. Mark on Health track.
+
 ### Defense Summary
 
 - Active Dodge (Major Action): Athletics + Dexterity; each hit = +1 Difficulty to all attacks vs. you this Round.
 - Parry (Minor Action, melee only): Close Combat + Dexterity; each hit cancels one incoming hit.
 - Cover (Minor Action, no roll): Partial +1, Heavy +2, Full — no direct attack possible.
+
 ### Damage and Health
 
 - Health track bands: BRUISED (2+Stamina boxes, no penalty) → IMPAIRED (2 boxes, −1 die) → CRITICAL (2 boxes, −2 dice) → INCAPACITATED (1 box). Total = 7+Stamina.
 - Quiet track bands: STATIC (2+Composure boxes, no penalty) → DISTORTION (2 boxes, −1 die Social/Empathy) → FRACTURE (2 boxes, −1 die ALL) → FULL QUIET (1 box, episode). Damage types: Shock(/), Trauma(X), Void(*).
 - Bashing heals in hours. Lethal heals in days. Aggravated heals in weeks.
 - Armor reduces Bashing and Lethal. Armor does NOT reduce Aggravated (unless enchanted).
+
 ### Tag Quick Reference
 
 - Invoke: spend 1 Momentum for +2 dice when Tag is relevant. One invoke per Tag per Spotlight.
 - Compel: SG offers a narrative complication; player gains 1 Momentum (or spends 1 Momentum to refuse).
 - Tags are always active as fiction — even when not formally invoked, [Loud] weapons make noise.
+
 ### Magical Combat Quick Reference
 
 - Casting = Major Action. Full-Round for complex combined effects.
@@ -5966,6 +6049,7 @@ Every Mage chronicle is animated by at least one of three fundamental tensions:
 - Reality vs. Will: The world as it is versus the world as the mages believe it should be. Paradox is the mechanical expression of this tension. Let Paradox be a character, not a punishment. When it triggers, make it interesting, not painful for the sake of pain.
 - Freedom vs. Safety: The Traditions want freedom; the Technocracy wants safety. Neither is entirely wrong. The best stories hold both arguments with equal seriousness.
 - Personal vs. Universal: Every mage has an inner life — a Paradigm, a Bond, a history. The Ascension War is the backdrop; the mages'own stories are the foreground. The war presses on them; they decide how to respond.
+
 ## Structuring Scenes
 
 Storypath Ultra's scene structure works well for Mage. Each scene should have a clear dramatic purpose and at least one meaningful choice for the players. Avoid filler — if a scene doesn't advance the story or reveal character, cut it.
@@ -5974,6 +6058,7 @@ Storypath Ultra's scene structure works well for Mage. Each scene should have a 
 - Complication Escalation: As the session proceeds, add Complications — physical, social, magical — that raise stakes without necessarily requiring combat.
 - Paradox as Plot: Whenever Paradox triggers, make it a scene. Do not resolve it as a number on a sheet. Let it be visible, felt, and narratively relevant.
 - Breathing Room: Not every scene is high-stakes. Let the mages exist between crises — talking to Contacts, researching, crafting Rotes, managing their Chantry.
+
 ## Using the Paradox System as a Storyguide Tool
 
 The Paradox system is your most powerful narrative lever. It rewards subtlety, penalizes recklessness, and provides automatic dramatic escalation as characters grow more powerful. Here is how to use it well:
@@ -6021,6 +6106,7 @@ Quiet is not a punishment. It is a character development resource. When a mage's
 - Ask the player what the Static-level Quiet looks like for their character. What wrongness does Rosamund see in the corners of her vision? What equation does Vikram see in people's faces?
 - Use Quiet as motivation. A mage at Distortion level (2 boxes) is fighting to maintain themselves. That fight is interesting. It creates moments of doubt, connection, and resolution.
 - Full Quiet is an event, not a penalty. When a character hits 5 boxes, make it a session. Their internal world is a place the other characters can try to enter — using Mind magic, Spirit connections, or just sitting with a person in crisis. Bringing someone back from the edge of Quiet is one of the most meaningful things characters can do for each other.
+
 ## NPCs and the Awakened World
 
 Not every NPC needs Sphere ratings. Most Sleepers the characters interact with should be played as fully human beings with goals, fears, and opinions. The magic is in the background; the people are in the foreground.
@@ -6041,6 +6127,7 @@ A good tool: every five sessions, the Storyguide picks one Consequence and one D
 
 - Consequence: Something that changed because of the characters' actions, for good or ill. A Node they protected is now a Chantry. A Technocracy operative they let go returned with backup.
 - Development: Something that changed in the larger world independent of the characters. A major Tradition figure has gone missing. A new NWO program is making Sleepers subtly more resistant to Tradition magic in this city.
+
 # Appendix A: Avatars
 
 This appendix is entirely optional. It adds a layer of spiritual depth to the game: the Avatar, the mage's inner genius, the spiritual entity that drove their Awakening and continues to guide, test, and occasionally torment them.
@@ -6083,6 +6170,7 @@ The Avatar should appear in play in at least one of the following ways each sess
 - A dream or vision that contains information about the current situation, filtered through the Avatar's Essence.
 - A moment of inexplicable certainty: the mage simply knows something, and is right.
 - A test: a situation that challenges the mage to act in accordance with (or against) their Essence.
+
 ### Avatar Damage
 
 An Avatar can be harmed. Nephandi who complete the Cauls have inverted their Avatar. High levels of Quiet damage the connection to the Avatar. And certain Paradox events — particularly Backlash at the Catastrophe level — can temporarily sever the mage from their Avatar.
@@ -9072,6 +9160,7 @@ To establish a basic Chantry, a mage or cabal needs:
 - At least one mage with Prime 2 (to attune the location and anchor the wards).
 - Time: a minimum of one month of active work for a basic establishment, longer for more complex versions.
 - Resources: the cost depends on the Chantry's scale. A small apartment Chantry might require Resources 2 and the Allies of a sympathetic landlord. A mansion requires Resources 4+ or Chantry Background points.
+
 ### The Attunement Ritual
 
 At the core of Chantry establishment is the Attunement Ritual: an extended magical working that establishes the location as a recognized sanctum in the local spirit ecology and in the Umbral reflection of the physical site. This requires Prime 2 and Spirit 1 at minimum, an extended roll (Presence + Occult, Difficulty 2, minimum 5 hits accumulated over multiple sessions), and at minimum three mages (or one mage performing the ritual over three separate nights at specific times).
@@ -9357,6 +9446,7 @@ Every Chantry requires routine upkeep:
 - Magical upkeep: The Wards must be renewed periodically. Standard Wards require refreshing once per season (once every three months). A mage with Prime 2 spends one scene performing the renewal ritual. A Chantry whose Wards are not renewed begins losing Warding dots at the rate of one per missed season.
 - Node maintenance: A Node with guardian spirits requires the cabal to maintain their relationship — regular offerings, respect of the spirits' conditions, and response to the spirits' requests. Failing to maintain this relationship causes the Node Access to degrade toward 0.
 - Social upkeep: Chantry Allies require cultivation. A cabal that goes months without acknowledging their network will find it weakened when they need it.
+
 ### Threats to a Chantry
 
 Chantries attract unwanted attention. As a resource and a base of power, they are targets:
@@ -9366,6 +9456,7 @@ Chantries attract unwanted attention. As a resource and a base of power, they ar
 - Mundane threats — nosy neighbors, building inspectors, law enforcement, fire, flood — are particularly dangerous because the cabal cannot respond to them magically without generating Paradox.
 - Paradox contamination: Heavy magical activity at the Chantry can lead to Paradox buildup in the structure. An untended Paradox Sink that overflows, a massive backlash, or a Paradox Nova within the Chantry walls can permanently damage its Sanctum and Warding ratings.
 - Nephandi corruption: A Chantry can be spiritually corrupted through sustained Nephandic ritual performed within or near it. The process is slow — it takes months of deliberate effort — but the result is devastating. A corrupted Chantry begins actively harming its former inhabitants while attracting entities of decay and entropy.
+
 ### Improving a Chantry
 
 Chantry Traits improve through investment and narrative development:
@@ -10110,6 +10201,7 @@ The five Conventions each have a distinct philosophical relationship to Enlighte
 - The New World Order pursues Enlightenment through the advancement of unified and controlled consciousness — a mind that fully understands the architecture of human thought can reshape reality through pure will.
 - The Syndicate seeks Enlightenment through the mastery of economic and social systems — true power is influence, and influence flows through understanding how value, desire, and fear shape behavior.
 - The Void Engineers seek Enlightenment through curiosity and revelation — the universe is vast and largely unknown, and exploring its frontiers is its own form of transcendence.
+
 ### Procedures vs. Rotes
 
 A Procedure is the Technocracy's term for what the Traditions call a Rote: a pre-planned, repeatable magical working encoded in a specific method. The mechanics are identical — a Procedure is a rote, a rote is a Procedure. The difference is aesthetic and ideological. A Procedure is expressed through a technological or scientific framework: the mage is not casting a spell, they are running an algorithm, administering a compound, engaging an apparatus, or executing a protocol.
@@ -10126,6 +10218,7 @@ The Convention is organized around Methodologies — specialized research and op
 - Macrotechnicians: A newer Methodology focused on large-scale engineering projects — infrastructure, weapons systems, and the massive machines that reshape geography and resource flows.
 - Statisticians: The mathematical heart of Iteration X. Every operation generates data; the Statisticians process it. They run probability projections, model social systems, and predict Reality Deviant behavior. Their calculations provide Iteration X with something approaching genuine prescience — limited, fallible prescience, but prescience nonetheless.
 - Time-Motion Managers: Quality control and process optimization specialists. They study every aspect of an operation and find the inefficiencies, eliminating wasted motion, wasted resources, wasted time.
+
 ### Paradigm and Practice
 
 Iteration X operates from a paradigm that could be summarized as Precision is Power. The universe follows rules; those rules can be known; once known, they can be exploited. What most people call magic is merely applied science that hasn't been explained yet. An Iteration X operative who appears to do the impossible has simply understood a principle that others haven't discovered yet.
@@ -10188,6 +10281,7 @@ Despite their alarming methods, many Progenitors are also the Technocracy's most
 - Genegineers: The pure research arm. They design the genetic modifications, the novel organisms, and the experimental protocols. Their work is decades (sometimes centuries) ahead of what civilian science will acknowledge.
 - Pharmacopeists: Drug designers and biochemical specialists. They develop the compounds that suppress Awareness in Sleepers, the performance-enhancers used by Technocratic field agents, and the treatments that manage the side effects of cybernetic integration and magical exposure.
 - Damage Control: The Progenitors who clean up the messes other Conventions make. When an experimental organism escapes, when a gene therapy goes catastrophically wrong, when biological evidence of Technocratic activity needs to disappear — Damage Control handles it.
+
 ### Paradigm and Practice
 
 Progenitors work from a Medicine Work paradigm supplemented by Hypertech and Weird Science when the biology gets unusual enough. Their instruments are laboratory equipment, genetic sequencers, pharmaceutical compounds, medical procedures, surgical tools, and the organisms they create or modify. Many Progenitors are also skilled at Invigoration — the art of improving performance through biochemical and biological means.
@@ -10219,6 +10313,7 @@ The NWO genuinely believes that carefully managed information — which necessar
 - Ivory Tower: The academic and institutional control arm. They manage curricula, fund research that supports Technocratic paradigms, defund research that doesn't, and ensure that the mainstream scientific consensus reflects what the NWO needs it to reflect.
 - Operative: Field agents. Social manipulation, identity management, surveillance, and targeted intervention. The classic Men in Black are Operative methodology agents.
 - Watchers: Intelligence gathering. They monitor Reality Deviants, track Tradition activities, and maintain dossiers on everyone of significance in the magical world. Their true power is information — they often know what's going to happen before it does.
+
 ### Social Conditioning — The NWO's Signature Technique
 
 Social Conditioning is the NWO's version of Mind magic, but it is not simply Mind control. It is a systematic, multi-session process that reshapes how a subject thinks, what they believe, and what they are capable of believing. It is far more robust than a single Mind effect — harder to detect, harder to reverse, and capable of producing changes that persist even after magical scrutiny.
@@ -10256,6 +10351,7 @@ The Syndicate coined the term "Market Correction" for what the Traditions call P
 - Enforcers: The muscle. Unlike other Conventions' combat operatives, Syndicate Enforcers often operate in legal gray areas — private security, debt collection that goes further than most debt collectors would go.
 - Media Control: The narrative managers. They do not own media directly — they own the people who own media. Content shaping, story suppression, controlled leaks, and strategic information releases.
 - Disbursement: The financial infrastructure of the entire Union. Every other Convention is ultimately funded through Disbursement's management of the Syndicate's vast accumulated wealth.
+
 ### Primal Utility — The Art of Desire
 
 The Syndicate practices a unique approach to Prime manipulation called Primal Utility — the channeling of Quintessence through economic desire, the creation and management of value that carries genuine magical weight. In game terms, Primal Utility Procedures use the Syndicate's understanding of how desire, status, and value function in human psychology as instruments for Prime effects.
@@ -10289,6 +10385,7 @@ This mission has made the Void Engineers the Convention most in tension with the
 - Neutralization Specialist Corps (NSC): Threat assessment and targeted response. They identify specific supernatural entities, research their capabilities, and develop targeted methods for dealing with them — capture when possible, neutralization when necessary.
 - Pan-Dimensional Corps (PDC): Deep exploration and extradimensional research. The most affected by the Dimensional Anomaly (if it occurred in your chronicle) — formerly the most expansive Methodology, now either rebuilding or thriving depending on the timeline you're using.
 - Research and Execution (RAE): Applied dimensional science. They develop the technologies and Procedures that allow Void Engineers to do what they do — Voidcraft navigation systems, dimensional stabilization arrays, extradimensional communication networks.
+
 ### Threat Null
 
 Threat Null is the Void Engineers' designation for something they have discovered that they dare not tell the rest of the Technocracy: a faction or force of extradimensional entities that appears to have adopted Technocratic methods and aesthetics, but whose goals are fundamentally destructive to human existence. They look like Technocrats. They use procedures similar to Technocratic procedures. And they appear to be working toward an outcome that would be catastrophic.
@@ -11364,6 +11461,7 @@ When two or more characters have Action Dice in the same Phase, they must resolv
 
 - Pool size: The character who rolled the larger initiative pool acts first within the Phase. A character who rolled 6 dice acts before one who rolled 4 dice, even if both have a die showing Phase 3. This reflects the edge that superior speed and awareness provide even when two combatants react at nearly the same moment.
 - Simultaneous: If the pool sizes are also equal, both characters act at exactly the same instant. Their actions are declared and resolved concurrently. Both attacks land (or miss) simultaneously. A sword swing that would have killed one fighter still connects even if that fighter's own attack was also killing their opponent — they die together, or both stagger back, or the exchange resolves in whatever dramatically appropriate way the Storyguide sees fit.
+
 ## The Phase Sequence
 
 The round is divided into ten Phases, numbered 1 through 10. The Storyguide calls each Phase in ascending order: "Phase 1... Phase 2... Phase 3..." and so on. When your Phase number is called, you act — or you hold (see The Held Die, below). Phases with no actions simply pass without comment.
@@ -11859,18 +11957,62 @@ Choose any die you spent this round to recover as the Momentum Token; it does no
 
 Movement is an action like any other — it costs Action Dice, has a Speed Factor, and must be declared and resolved within the Phase structure. Characters who choose to move sacrifice the opportunity to attack or cast in that Phase, but gain tactical positioning that may prove decisive in subsequent Phases.
 
-- Standard Move (SF 1): Spend one Action Die to move up to one zone or your Speed value in meters. This is your entire action for that die — you move and do nothing else in that Phase with that die.
-- Sprint (SF 2): Spend your current die and your next die in sequence to move two zones at a run. You cannot simultaneously attack or cast while sprinting, though other free dice before or after the committed sprint are unaffected.
-- Held Movement: You may hold a die explicitly for reactive movement. When you trigger the held die as a movement, you can move in response to something that just happened — diving behind cover the moment a gun turns toward you, closing distance the moment an enemy's back is turned. Held movement triggers between Phases.
-- Moving Target: If you have moved at least one zone during this round, all attacks against you suffer a -1 die penalty. You are harder to hit when you are not standing still. This applies even if you moved in an earlier Phase — the penalty lasts the round.
-- Cover: Moving into a position of cover requires spending an action die. Once in cover, attacks against you suffer an additional penalty based on cover quality: Light cover such as a car door or wooden crate: -1 die. Solid cover such as a concrete barrier or brick wall corner: -2 dice. Near-total cover such as a reinforced doorframe with only your weapon arm exposed: -3 dice.
+Position is tracked using Storypath Ultra's own **Range Bands**, not a battle-grid and not an informally-defined "zone." Range Bands are narrative and relative — "Short range" between two human-scale combatants is a different absolute distance than "Short range" between a mage and a building-sized spirit, and the Storyguide should always frame the fiction first and let the band follow, not the reverse. This same band structure is also used to determine how far a Sphere effect can reach from its caster (see Chapter Four's Spell Parameter Scaling — Range Bands section); combat positioning and spellcasting range are governed by one shared table, not two separate ones, so a mage's sense of "how far away is that target" never has to shift depending on whether they're about to punch it or hex it.
+
+### Range Bands
+
+| Range Band | Typical Distance | What You Can Do From Here |
+| --- | --- | --- |
+| Close | 0–2 meters | Melee weapons, unarmed combat, grappling, most thrown-weapon minimums, and any effect or Tag that requires physical contact (see "Touch," Chapter Four). |
+| Short | 3–20 meters | Thrown weapons, reach weapons, shotguns and SMGs at their best, close-quarters spellcasting. |
+| Medium | 21–60 meters | Standard firearms range, most Forces/Life/Mind combat spells at their default casting parameters. |
+| Long | 61–1,000 meters | Rifles with optics, sniping, heavy weapons, Correspondence-assisted targeting. |
+| Extreme | 1,000+ meters, situational | Only specialized weapons, vehicles, or Sphere effects can act at this range — and only after paying to extend, in both the combat and spellcasting versions of this table. |
+| Out of Range | Beyond any relevant weapon or effect's reach | No action can target something Out of Range without first closing distance — through movement, through magic, or by waiting for the target to come closer. This is a statement about a specific weapon or effect's reach, not a sixth band on the ladder above Extreme. |
+
+Track Range Band per relevant relationship, not as a single global position. In a simple fight (a cabal against one cluster of enemies in an open room), it is usually enough to track a single shared band between "the party" and "the enemy group." In a complex fight with multiple fronts (defenders spread through a building, a flanking maneuver, a chase that spills into a firefight), track Range Band between whichever specific pairs of combatants actually matter to the scene — you do not need a full distance matrix between every combatant and every other combatant, only the ones the fiction is asking questions about. Each free hit on an attack or casting roll can be spent to extend that action's effective Range Band by one step (Close to Short, Short to Medium, and so on) — this "1 hit = 1 band" conversion is identical whether the hit is paying for a mundane weapon to reach further or a Sphere effect to reach further; see Chapter Four for how this applies to specific Spheres and effects.
+
+### Movement Actions
+
+**Reflexive Step — Free.** As part of any other action you take on one of your Phases (attacking, casting, defending), you may shift one Range Band — but only between the two pairs of bands Storypath Ultra allows this for reflexively: Close↔Short, or Short↔Medium. This costs no Action Die and represents the ordinary positioning that happens as part of doing anything at all in a fight — stepping back half a pace as you swing, closing the last couple of meters as you level a pistol. You may take one Reflexive Step per Phase in which you act; it does not stack with itself within a single Phase.
+
+**Standard Move (SF 1).** Spend one Action Die to shift one Range Band in any direction relative to a chosen reference point — including the Medium↔Long and Long↔Extreme steps that a Reflexive Step cannot cover. This is your entire action for that die — you move and do nothing else in that Phase with that die.
+
+**Sprint (SF 2).** Spend your current die and your next die in sequence to shift two Range Bands at a dead run (Medium to Close in one committed action, for instance). You cannot attack or cast on either committed die, though other free dice before or after the committed sprint are unaffected.
+
+**Rush (SF equal to your attack's SF — no separate movement cost).** Adapted directly from the Storypath Ultra core Rush action: as part of declaring a melee attack, you may close one Range Band toward your target in the same motion — Medium to Close, or Short to Close. The attack suffers a Complication (+1 Difficulty) unless the target has spent a Bank Token this scene specifically to brace against exactly this (the Storyguide may rule a defender's declared Parry stance or a relevant Tag, such as [Sidestep] or [Braced], negates the Complication). You cannot Rush if you are already at Close range with your target — there is nothing left to close.
+
+**Held Movement.** You may hold a die explicitly for reactive movement. When you trigger the held die as a movement, you can move in response to something that just happened — diving behind cover the moment a gun turns toward you, closing distance the moment an enemy's back is turned. Held movement triggers between Phases.
+
+**Moving Target.** If you have shifted at least one Range Band during this round (by any of the above means), all attacks against you suffer a −1 die penalty for the rest of the round. You are harder to hit when you are not standing still. This applies even if you moved in an earlier Phase — the penalty lasts the round.
+
+**Cover.** Moving into a position of cover requires spending an Action Die (folded into a Standard Move if the cover is one Range Band away, or as its own committed action if you are already at the right band and simply need to duck behind something present at your current position). Once in cover, attacks against you suffer an additional penalty based on cover quality: Light cover such as a car door or wooden crate: −1 die. Solid cover such as a concrete barrier or brick wall corner: −2 dice. Near-total cover such as a reinforced doorframe with only your weapon arm exposed: −3 dice.
+
 Declaring movement as your action does not prevent you from making other actions with different dice in the same round. You might sprint in Phase 3 (spending Phases 3 and 5), then attack in Phase 7 with your remaining die. The sprint and the attack are separate actions on separate dice.
+
+```
+MOVEMENT — QUICK REFERENCE
+---------------------------
+REFLEXIVE STEP: Free. Close<->Short or Short<->Medium only. Once per Phase you act in.
+STANDARD MOVE (SF1): 1 die. Shift 1 Range Band, any adjacent pair, any direction.
+SPRINT (SF2): 2 dice (current + next). Shift 2 Range Bands. No attack/cast on committed dice.
+RUSH (SF = attack's SF): Close 1 Range Band as part of a melee attack. +1 Difficulty unless defender braced.
+HELD MOVEMENT: Hold a die, spend it later in the round for reactive repositioning.
+MOVING TARGET: Shifted >=1 Range Band this round -> all incoming attacks at -1 die, rest of round.
+COVER: Costs an Action Die to enter. Light -1, Solid -2, Near-total -3 to attackers.
+```
+
+> EXAMPLE — RANGE BANDS IN A FIREFIGHT
+>
+> Dex is at Medium range from a Syndicate gunman across a parking garage. On his Phase, he spends a Standard Move (SF 1) to shift to Short range, ducking behind a support pillar in the same action (the pillar counts as his destination, so this single die pays for both the move and entering cover). He is now at Short range, benefiting from Solid cover (−2 dice to the gunman's attacks) and the Moving Target penalty (−1 die, since he shifted a Range Band this round) — the gunman's shotgun (effective at Short) still threatens him, but at a combined −3 dice penalty. Two Phases later, Dex spends a Rush as part of his own attack, closing from Short to Close and tackling the gunman directly, accepting the Rush's +1 Difficulty Complication because he judges ending the fight in a grapple is worth it.
+
+For running many identical, non-named NPCs moving and acting together without tracking each one's Range Band individually, see Appendix W's Speed Tier System and Group Rules — those tools apply on top of the positioning rules above, they do not replace them.
 
 ## Rates of Fire
 
 Firearms and similar ranged weapons vary dramatically in how quickly they can be fired and sustained. The Speed Factor system handles this naturally — faster weapons have lower SF, slower weapons have higher SF — but the following table provides specific detail on how different firing modes affect both SF and the attack roll itself.
 
-Full auto attacks that target a zone affect every target in that zone simultaneously. Each target defends separately against the same attack roll result. Targets who are prone, in cover, or moving may apply appropriate penalties to the attacking roll or bonuses to their defense at Storyguide discretion. Full auto burns through ammunition at a prodigious rate — it is presumed that characters using this mode have sufficient ammunition for one burst; a second full auto in the same combat may require checking remaining ammunition.
+Full auto attacks that target a Range Band affect every target within that band simultaneously. Each target defends separately against the same attack roll result. Targets who are prone, in cover, or moving may apply appropriate penalties to the attacking roll or bonuses to their defense at Storyguide discretion. Full auto burns through ammunition at a prodigious rate — it is presumed that characters using this mode have sufficient ammunition for one burst; a second full auto in the same combat may require checking remaining ammunition.
 
 Reloading a weapon is its own action, with its own Speed Factor. A standard magazine firearm reloads in SF 1 with the right preparation (speed loaders, pre-loaded magazines). A revolver reloads in SF 2 without a speed loader. A crossbow reloads in SF 3. These times assume combat conditions; a character taking their time outside of combat reloads in negligible time.
 
@@ -12416,6 +12558,7 @@ AP is not a fragile resource. In normal combat, ordinary attacks do not reduce A
 - Attacks with the Devastating Tag that are also Enhanced strip 2 AP instead of 1.
 - Magical attacks (those with the Magical Tag targeting physical matter, such as Forces or Prime effects used directly against the armor) strip 1 AP per hit regardless of Enhancement. Note: a magical attack that targets the wearer rather than the armor specifically does not strip AP.
 - End-of-combat wear: if five or more non-Enhanced attacks exceeded Soak during a single combat encounter, strip 1 AP from the armor when the encounter ends. This represents the slow grinding punishment of sustained ordinary combat. A non-Enhanced attack that equals Soak exactly (zero damage to the wearer) does not count toward this tally — the armor absorbed it cleanly.
+
 ## The Condition Track
 
 As AP is depleted, the armor passes through condition thresholds that apply negative Tags and reduce Soak. These thresholds are calculated as fractions of the armor's starting Sturdy rating. The exact AP values for each threshold are determined when the armor is built or purchased; they appear on the armor's stat block for easy reference during play.
@@ -12432,6 +12575,7 @@ Armor can be repaired between combats, given the right tools, skills, and time. 
 - Workshop repair (proper facilities, Crafts roll, one day of work): Restore the armor to full AP. All condition Tags are removed. The armor is as good as it was before damage.
 - Enchanted or supernatural armor may require magical repair. Life magic can repair Verbena natural-material armor. Forces or Matter magic (depending on the tradition) can restore enchanted metal. Iteration X technicians use specialized fabrication equipment. In each case, the roll uses the appropriate casting pool (Sphere Skill + Casting Attribute) rather than Crafts, using the same result thresholds as above.
 - Destroyed armor cannot be repaired — only rebuilt from scratch, which is treated as crafting a new piece of armor.
+
 ## Building Armor
 
 Every armor is defined by its Soak value, its Sturdy (AP) rating, and its set of descriptive Tags. When designing or acquiring armor, assign these values based on the armor's real-world (or fictional) properties and the level of protection it would realistically provide. The following guidelines establish the rating scale:
@@ -13367,6 +13511,7 @@ The following events deal 1 Shock to the Quiet Track unless the character passes
 - A Paradox Cascade result during a casting attempt
 - Witnessing a Quiet episode (Static or Distortion band) in another mage
 - Receiving significant Aggravated damage to the Health track — the body's pattern being torn is experienced psychologically as well as physically
+
 ### Trauma Triggers
 
 The following events deal 1 Trauma directly, with no roll to resist. The mage experienced them; the damage is done. Extraordinary Composure or magical intervention may reduce subsequent boxes, but the first box cannot be rolled away. These events are categorically beyond what ordinary resilience can simply absorb in the moment.
@@ -13379,6 +13524,7 @@ The following events deal 1 Trauma directly, with no roll to resist. The mage ex
 - Time inside a Paradox Realm (plus the 1 Void per day; the initial entry also deals 1 Trauma from the disorientation of arrival)
 - Surviving an encounter with a supernatural entity at the scale of a Umbrood Incarna or higher — the category of "too large for the mind" begins here
 - A Seeking that reveals a personal truth the mage was fundamentally not ready to confront
+
 ### Void Triggers
 
 Void damage is exceptional. It is not triggered by ordinary chronicle events. It occurs at the boundary of what mortal minds can survive as functional human beings. Void triggers are always Storyguide-called and should be used sparingly precisely because they are the hardest category of damage to recover from.
@@ -13390,6 +13536,7 @@ Void damage is exceptional. It is not triggered by ordinary chronicle events. It
 - Witnessing a Convergence — multiple Paradox storms colliding, producing a reality rupture of catastrophic scale
 - A Seeking that goes catastrophically wrong and shatters rather than illuminates — the Avatar turns on the mage
 - Surviving Full Quiet and returning without intervention — some part of the experience remains, permanently
+
 ## Recovering from Quiet Track Damage
 
 Recovery from Quiet Track damage is deliberate, slow, and categorically different by damage type. The architecture of recovery reflects the architecture of the wound: Shock heals because the mind was built to eventually integrate ordinary horrors; Trauma heals with active engagement and human connection; Void barely heals, because it represents structural changes that the ordinary processes of psychological recovery were not designed to address.
@@ -13772,9 +13919,14 @@ BOTCH RULE (Chapter 2 & 4):
   Example: 6 casting + 3 Paradox = 9 total dice. Botch threshold: 5+ ones across all 9.
 
 SPELL PARAMETER SCALING (Chapter 4):
-  Default range = highest Sphere dot: ●=Touch, ●●=Short(10m), ●●●=Medium(30m), ●●●●=Long(100m).
+  Range uses the same Close/Short/Medium/Long/Extreme bands as combat positioning
+  (Appendix H). Default range = highest Sphere dot: ●=Close, ●●=Short(up to 20m),
+  ●●●=Medium(up to 60m), ●●●●=Long(up to 1,000m), ●●●●●=Extreme(1,000m+).
   Extra free hits shift Range, Area, or Duration up one band each.
-  Forces ●●● fireball: default Medium range (30m). +1 hit = Long (100m). +2 = Extreme (1km).
+  [Touch]-tagged effects require Close range plus actual physical contact,
+  regardless of hits spent. Sympathetic range (Correspondence ●●●+ with a real
+  link) ignores this table entirely.
+  Forces ●●● fireball: default Medium range (up to 60m). +1 hit = Long (up to 1,000m). +2 = Extreme (1,000+m).
 
 These rules apply throughout this encounter. Watch for Mechanical Notes that reference them.
 ```
@@ -18792,6 +18944,7 @@ Each milestone is a crafting action requiring an Attribute + Ability roll at a s
 - Milestone 1 — Foundation: Establishing the physical and conceptual basis of the Wonder. The Storyguide sets Difficulty 1–2. Success allows the mage to allocate initial tags and Enhancement. Each hit above the Difficulty can also be spent on Tricks: Duplicate (produces multiple copies of one-use items), or Efficient Process (advance immediately to the next milestone without waiting).
 - Milestone 2 — Infusion: The actual Sphere magic flows into the object. Difficulty equals the highest Sphere rating being embedded. Each hit can add an Effect (Sphere power the Wonder can produce), reduce embedded Sphere costs, or purchase Quick Fix (remove one Flaw from the project). Failure here introduces a Flaw.
 - Milestone 3 — Completion: Binding the work into stable form. Difficulty 2 for Mundane rank, 3 for Cutting-Edge, 4 for Groundbreaking. Each hit can add one final tag, confirm an Effect, or purchase Multi-Purpose (add one additional Effect or Edge above the normal maximum — once per project). Failure at this stage introduces a Flaw that cannot be removed after completion.
+
 ### Milestone Outcomes — Failure, Partial Success, and Exceptional Success
 
 Not every milestone roll succeeds cleanly. The outcome of each milestone roll determines both whether the project advances and whether it accrues damage in the form of Flaws. Understanding these outcomes prevents confusion about when Flaws appear and what the crafter can do about them.
@@ -18857,6 +19010,7 @@ Fetish Binding has its own three-step process (Step 1: Vessel Preparation, Step 
 - Step 1 Botch: The vessel is spiritually shattered. It cannot hold a spirit and must be replaced. Any Quintessence spent in the preparation is lost. The spirit is unaffected — it simply was not bound.
 - Step 2 Botch: The binding fails catastrophically. The spirit tears free of any containment and is immediately hostile. Depending on the spirit's power, this may result in possession, attack, or simple flight — but it will not be willing to re-enter negotiations for at least a season. Paradox Pool gains 2 dice.
 - Step 3 Botch: The binding seal fails. The spirit is trapped but furious — it gains the Rebellion Condition immediately (see Spirit Rebellion) and begins at Major Rebellion severity. The Fetish technically exists but is already in open revolt. Paradox Pool gains 1 die.
+
 ### Sphere Requirements for Wonders
 
 The type of Wonder determines what Sphere rating is required to create it. The embedded Effects match the Wonder type. A mage cannot embed a Sphere Effect into a Wonder if their rating in that Sphere is insufficient to produce the Effect normally.
@@ -19175,6 +19329,7 @@ Working within a Node provides three distinct crafting benefits:
 - Quintessence Supply: The Node provides free Quintessence for enchanting. Each scene spent crafting within a Node of appropriate strength provides 1–5 Quintessence (Storyguide determines based on Node's dot rating) that can be spent directly on crafting costs without drawing from the mage's personal pool. This makes extended Talisman and Artifact creation dramatically more practical.
 - Difficulty Reduction: For Milestone 2 (Infusion), crafting within a Node whose Resonance is compatible with the intended Wonder reduces Difficulty by 1. A Life-aspected Node reduces Difficulty for Life-magic enchantments. An Entropy-aspected Node reduces Difficulty for Entropy-infused work. Incompatible Resonance has no effect (it neither helps nor hurts).
 - Resonance Bonding: Items created or completed within a Node absorb some of that Node's Resonance. This manifests as a free additional Tag representing the Node's nature. A knife completed in a Node of ancient violence gains the Brutal tag without a hit cost. An amulet completed in a healing spring's Node gains Self-Repairing. The Resonance Tag is an opportunity, not always an advantage — the Storyguide may sometimes compel it.
+
 ### Node Dot Ratings and Crafting Effects
 
 | Node Rating | Quintessence per Crafting Scene  \|  Difficulty Reduction  \|  Resonance Tag Quality |
@@ -19332,6 +19487,7 @@ Every vehicle has the following traits:
 - Handling: The base Complication that applies to all control rolls. A negative number is a bonus; a positive number is a penalty. Sports cars handle well; 18-wheelers handle poorly.
 - Injury Boxes: (Size + 1) base. Damaged by successful attacks. Each injury box lost represents vehicle damage. At 0 injury boxes, the vehicle is disabled.
 - Tags: Each vehicle can have up to its Size in tags (iconic vehicles can have more). Tags modify capability in specific ways.
+
 ### Vehicle Control Actions
 
 Operating a vehicle requires a Dexterity + Drive (or Pilot) action when the situation is challenging — high-speed maneuvers, evasion, off-road driving, combat driving. The vehicle's Handling adds to or reduces the Difficulty of these rolls. In non-challenging situations (normal road driving, taxiing an aircraft), no roll is required.
@@ -19685,6 +19841,7 @@ Some vehicles in the Mage setting transcend the category of transportation entir
 - The Sailing Chantry: A full-rigged sailing vessel (Size 4) whose hull is Enchanted wood grown from trees in a Life-aspected Node. The ship navigates the Horizon beyond the Gauntlet as easily as it sails physical water. Interior expanded through Correspondence to contain a library, ritual space, and workshop. The ship has an Awakened Tag — it is old enough to have absorbed the Resonance of fifty years of use.
 - The Iron Golem-Cycle: An Iteration X creation — a motorcycle (Size 1) built around an awakened machine-spirit. The spirit can operate the cycle independently, can interface with digital systems within 100 yards, and is fanatically loyal to its designated operator. Tags include Awakened, Technological, Fast, Maneuverable, Anti-Theft, and Worn (the spirit refuses to accept another operator without a formal transfer protocol).
 - The Dimensional Crawler: A vehicle that exists in multiple physical and metaphysical states simultaneously. A Sons of Ether custom-built crawler — visually resembling a oversized Victorian steam locomotive — that can navigate the Deep Umbra under its own power. Correspondence ●●●●● and Dimensional Science ●●●●● integrated. Tags include Enchanted, Awakened, Submersible (metaphysically — can submerge into the Umbra), Self-Sustaining, and Stealthy in Umbral space. If it is destroyed in the physical world, it rebuilds itself over the course of a year in the Umbra.
+
 ## Vehicle Combat and Chase Sequences
 
 Vehicles transform combat in several ways: they move faster than people, they provide cover, they can be weaponized directly (ramming), and they introduce terrain in a dynamic way. Chase sequences specifically pit two or more vehicles against each other in a test of speed, skill, and resource management.
@@ -23219,244 +23376,887 @@ Can exceed 5 dots through pooling or extraordinary story circumstances.
 Personal employees, servants, or loyal assistants who work for your character on a long-term basis.
 
 ```
-Retainers Dot Rati
+Retainers Dot Ratings
+---------------------
+X   No retainers of note.
+•   One loyal helper of modest skill (an apprentice, a driver, a housekeeper).
+••  A small, capable staff (two or three retainers, or one genuinely skilled specialist).
+••• A well-rounded household or team (four to six retainers covering multiple needs).
+•••• A substantial staff or private security detail (skilled, some armed or trained).
+••••• A small private organization loyal to you personally (bodyguards, researchers, agents).
+```
+
+Retainers can be lost through death, betrayal, or simply quitting if treated poorly — a Storyguide is within their rights to erode this Background over the course of a chronicle if the character neglects the relationship. Retainers are not combat-ready by default; a Retainer dot buys competence at the retainer's actual job, not a personal bodyguard's worth of Close Combat unless the character specifically built for that with the dots spent.
+
+---
+
+# Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights
+
+## Why This Appendix Exists
+
+Appendix H gives every combatant a full Initiative Pool, a fistful of Action Dice, and a Phase-by-Phase presence in the round. This is exactly right for the fights that matter most — a cabal against three named rivals, a duel on a rooftop, a desperate stand against a single powerful Extra. It is exactly wrong for the fights that are numerous but not individually important: the dozen Man-in-Black-style operatives storming a Chantry, the swarm of Paradox-spawned horrors pouring out of a tear in the Gauntlet, the mob of panicked, Consensus-addled Sleepers a mage has to get past without a Vulgar incident. Rolling a full Athletics + Cunning pool for each of fourteen identical security guards, tracking fourteen separate sets of Action Dice across ten Phases, and resolving fourteen individual Dodge-or-not decisions is not tactically rich. It is homework.
+
+This appendix gives the Storyguide two stackable tools to fix that, both aimed at the exact same problem: running a fight with a large body count without a large bookkeeping count.
+
+- **The Speed Tier System** replaces individual Initiative Pool rolls for non-player, non-named combatants with a small shared set of colored dice, sized to how fast the fastest thing in the fight actually is — not to how many bodies are in it. A mob of twenty identical guards and a mob of two cost the same number of dice. A single fast outlier added to that mob costs only the *difference* in speed, not a whole new pool.
+- **Group Rules (the Volley)** lets clusters of identical mooks who share a Phase resolve their attack as a single combined roll instead of a firing line of separate ones. This is the formal version of the "Group Rules" note already scattered through Appendix D's antagonist write-ups (see the Hardcase entry, among others) — a promise this appendix now keeps.
+
+None of this is mandatory. A Storyguide running a four-person fight with two named antagonists never needs to open this appendix — Appendix H handles that fight perfectly on its own, and using the tools below on a small, dramatically important fight would flatten it rather than help it. These tools exist for the moments when the *number* of combatants is the problem, not their individual importance. Use them there, and only there. (For how combatants move around the battlefield — Range Bands, Reflexive Steps, Rushes, and the like — see Appendix H's Movement in Combat section; that material lives there, not here, because it applies identically whether you're running one NPC or fifty.)
+
+> DESIGNER'S NOTE — WHERE THE LINE IS
+>
+> A useful working rule: if the Storyguide would give a combatant a name and a face the players will remember, that combatant uses full Phase Initiative from Appendix H, no matter how many other things are also in the fight. If the Storyguide is comfortable with that combatant dying without the table remembering their name specifically, they are a candidate for the Speed Tier system. A single fight can freely mix both — the Technocratic strike team's masked sergeant rolls full Initiative; her eight troopers do not.
+
+---
+
+## Part One: The Speed Tier System
+
+### Step One — Every NPC Gets a Speed Rating, Not a Pool
+
+Instead of rolling Athletics + Cunning or Empathy + Dexterity fresh for an NPC every round, give the NPC a single fixed number on their stat block called **Speed Rating**. Calculate it exactly the way a PC's Initiative Pool is calculated (the higher of the two combinations, with the same modifiers for armor, conditions, and Tags) — the only difference is that this number is written down once, in advance, instead of being rolled into dice at the top of every round.
+
+Speed Rating is not a new stat. It is the same underlying math as a PC's pool, just fixed in place because nobody is going to track this NPC's dice individually. Critically, it is also the number of actions that creature will take in a round under this system — a Speed 4 NPC gets four actions this round, exactly as a PC with a pool of 4 would average across a normal Appendix H round, but without anyone rolling four separate dice for it.
+
+```
+SPEED RATING — QUICK BUILD
+---------------------------
+Speed Rating = higher of (Athletics + Cunning) or (Empathy + Dexterity),
+               with standard modifiers (armor, conditions, Tags) applied.
+Most mooks:      Speed Rating 3-4
+Trained mooks:   Speed Rating 5-6 (military, Technocratic field teams, seasoned cultists)
+Elite/inhuman:   Speed Rating 7+ (Iteration X constructs, greater spirits, Marauder horrors)
+```
+
+> EXAMPLE — BUILDING A STAT BLOCK'S SPEED RATING
+>
+> An NWO field trooper has Athletics 2, Cunning 2 (pool 4) and Empathy 1, Dexterity 3 (pool 4). Either way, Speed Rating 4. Write "Speed 4" on the stat block once. Every trooper of this type in every future scene uses Speed 4 — nobody rolls a fresh pool for them ever again.
+
+### Step Two — Sort Present Speeds Into Tiers and Assign Colors
+
+At the top of a scene, look at every Speed-Tier NPC involved (ignore PCs and any individually-tracked named antagonists — they use Appendix H normally, in parallel with everything below). List the distinct Speed Ratings present. Sort them from lowest to highest: s₁ < s₂ < s₃ ... Assign each distinct value, in ascending order, a color, using whatever dice or tokens are actually sitting on the table — red, green, and blue dice are simply this appendix's running example because they're the colors most dice sets include, not a fixed or required naming scheme. A table with only white and black dice calls them White (lowest) and Black (next). The color is a label for "which tier this is," nothing more.
+
+This tier ladder is scene-specific. A Speed 4 trooper is the lowest tier in a scene where he's the slowest thing present, and might be a middle or top tier in a scene that also includes a lumbering Speed 2 Bane-touched thrall and a Speed 6 Iteration X hunter-drone. Rebuild the ladder whenever the cast of Speed-Tier combatants changes meaningfully (new reinforcements arrive, most of a tier is wiped out and only faster or slower survivors remain, and so on). For readability, the rest of this appendix keeps using Red / Green / Blue (lowest to highest) in its worked examples — read those names as placeholders for "tier 1 / tier 2 / tier 3," swap in your own dice colors freely.
+
+> DESIGNER'S NOTE — HOW MANY TIERS?
+>
+> Two or three tiers is the sweet spot for actual play speed. Four is workable. Five or more starts to erode the point of the system — at that point, group Speed Ratings that are close together into the same tier ("Speed 4 and Speed 5 are both Green this fight") rather than spinning up a fifth color. The goal is fewer rolls, not more precision than the fight needs.
+
+### Step Three — Roll the Tier's Dice: Each Tier Only Rolls the *Difference* From the Tier Below It
+
+This is the step that makes the system actually scale, and it is not "one die per tier" — it is dice equal to the **gap between this tier's speed and the speed below it**, with the very first (lowest) tier rolling dice equal to its own full speed value.
+
+```
+DICE PER TIER
+-------------
+Tier 1 (lowest speed present, s1):  roll s1 dice of the first color.
+Tier 2 (next speed present, s2):    roll (s2 - s1) dice of the second color.
+Tier 3 (next speed present, s3):    roll (s3 - s2) dice of the third color.
+...and so on for every additional tier.
+```
+
+Read every result as a Phase number 1-10, exactly as in Appendix H — lower is earlier, a 10 is the last Phase of the round. A 10 may be treated as Trick Initiative exactly as in Appendix H (placed at any Phase the Storyguide chooses), if the Storyguide wants that tier a chance at exceptional positioning; most tables will simply leave it at Phase 10 for NPC tiers and save that flexibility for named antagonists.
+
+### Step Four — Everyone Acts on the Lowest Tier's Dice; Faster Tiers Add Their Own Dice on Top
+
+**Every creature in the fight, regardless of tier, acts on all of Tier 1's dice.** That is the shared baseline — a Speed 3 creature and a Speed 8 creature both act on the same three Tier 1 Phases if 3 is the lowest speed present. Then, only creatures at Tier 2's speed or faster *also* act on Tier 2's dice. Only creatures at Tier 3's speed or faster also act on Tier 3's dice. And so on up the ladder.
+
+The payoff of doing it this way: **a creature's total number of actions this round always equals its own Speed Rating exactly** — a Speed 3 creature gets 3 actions, a Speed 5 creature gets 5 — while the **total number of dice the Storyguide actually rolls is just the single highest Speed Rating present in the scene**, no matter how many creatures are in the fight or how many distinct tiers exist among them.
+
+```
+WHO ACTS WHEN
+-------------
+Tier 1 creatures: act on all of Tier 1's dice (s1 actions total). Nothing more.
+Tier 2 creatures: act on all of Tier 1's dice AND all of Tier 2's dice (s2 actions total).
+Tier 3 creatures: act on Tier 1 + Tier 2 + Tier 3's dice (s3 actions total).
+...and so on. A creature's action count = its own Speed Rating, always.
+Total dice the Storyguide rolls, across every tier combined = the highest Speed
+Rating present in the fight. Headcount and number of tiers never add to this total.
+```
+
+> WORKED EXAMPLE — THE LOADING DOCK (THE APPENDIX'S NAMESAKE FIGHT)
+>
+> Four Verbena are ambushed by a Syndicate collections crew: two standard enforcers (Speed 3), one team leader (Speed 4), and two backup shooters (Speed 5). None of the five rate a name the players will remember — this is a Speed Tier fight.
+>
+> **Tier ladder:** s1 = 3 (the two enforcers) → Red. s2 = 4 (the team leader) → Green. s3 = 5 (the two shooters) → Blue.
+>
+> **Dice to roll:** Red = s1 = **3 dice**. Green = s2 − s1 = 4 − 3 = **1 die**. Blue = s3 − s2 = 5 − 4 = **1 die**. Five dice total — matching the highest Speed Rating present (5) exactly.
+>
+> **The Storyguide rolls:** Red → 6, 2, 9. Green → 3. Blue → 8.
+>
+> - The two Speed 3 enforcers act on all three Red Phases: **6, 2, and 9**. Three actions each, matching their Speed Rating exactly. They act together at each of those Phases — see the Volley rule below.
+> - The Speed 4 team leader acts on the same three Red Phases (**6, 2, 9**) *plus* the Green Phase (**3**). Four actions total.
+> - The two Speed 5 shooters act on Red (**6, 2, 9**), Green (**3**), *and* Blue (**8**). Five actions each, and they act together at every one of those Phases.
+>
+> **Total: five NPCs, twenty individual actions between them (2×3 + 1×4 + 2×5), produced from five die rolls.** Run the same five NPCs through Appendix H individually and the Storyguide would need to roll five separate Initiative Pools — 3, 3, 4, 5, and 5 dice respectively, twenty dice total, before a single Phase is even called. The Speed Tier version gets the exact same number of total actions, correctly weighted by speed, for a quarter of the dice and a fraction of the bookkeeping.
+
+### Variant — Splitting a Tier (When a Few Named Mooks Want to Feel Separate)
+
+The base rule has every creature in a tier act at exactly the same Phases as everyone else in that tier — the two Speed 3 enforcers above both act at Phases 6, 2, and 9, together. Most of the time that is exactly what you want — a wall of identical guards should feel like a wall. But sometimes a tier has only two or three occupants and the Storyguide wants them to feel like distinct bodies making distinct choices, without going all the way back to full Appendix H pools.
+
+In that case: roll a **separate full set of that tier's dice for each individual body** you want to distinguish, instead of one shared set for the whole tier. Every faster tier above still stacks normally on top of *every* distinct result now on the table.
+
+> EXAMPLE — SPLITTING A TIER
+>
+> Return to the Loading Dock fight, but the Storyguide wants the two Speed 3 enforcers to feel like two separate people. Instead of one shared set of 3 Red dice, roll two full sets: Enforcer A gets her own 3 dice (6, 2, 9 — same as before), Enforcer B rolls her own 3 dice (4, 7, 1). Each enforcer now acts on her own three Phases independently.
+>
+> The team leader (Green) and the shooters (Blue) still inherit *all* Red-tier results that exist this round — now six of them (6, 2, 9, 4, 7, 1) instead of three — plus their own tier's dice on top. Splitting a tier costs more total dice and hands every faster tier above it more inherited actions as a side effect; spend it only where the added granularity buys something worth having at the table (a memorable named mook, a moment where two guards' timing genuinely needs to diverge).
+
+### Part Two of the System — Group Rules: The Volley
+
+When two or more creatures who share a tier act at the same Phase against the same target (or the same small cluster of targets), do not roll their attacks one at a time. Resolve them as a single **Volley**.
+
+**Building the Volley pool:** Use the base attack pool of one representative member of the group (they should all be identical or near-identical, which is the entire premise of running them as a Speed Tier in the first place), then add **Enhancement +1 for every additional attacker in the volley beyond the first.** Two enforcers attacking together: Enhancement +1. Five identical Redcap swarm-things converging on one mage: Enhancement +4. This is the formal version of the "Group Rules" mentioned in several Appendix D antagonist write-ups (see: Hardcase) — this appendix is where that promise gets kept.
+
+**Rolling and applying the result:** Roll the Volley pool once against the target's Defense as normal. Hits scored apply as a single attack's worth of damage to the target — a Volley does not multiply damage per attacker, it makes the *group* hit like one very good attacker. If the Storyguide wants a Volley to be able to threaten more than one target at once (a wall of guards raking fire across two separate PCs standing near each other), treat it as an Area effect at the Storyguide's discretion, requiring the attackers to actually be positioned to plausibly cover that spread — see the Range Bands rules in Appendix H's Movement in Combat section for what "plausibly cover that spread" requires.
+
+**Defending against a Volley:** The target defends against the Volley exactly once, using their normal Bank Token economy (a single Dodge, Parry, or Shield Block spends one token and applies against the whole combined roll, not once per attacker inside it). This is deliberately generous to the defender compared to being attacked by the same number of bodies individually (which would cost a Bank Token per incoming attack) — the tradeoff is fair, because the attackers also gave up the chance to overwhelm the defender's Bank Token economy in exchange for a faster, simpler resolution.
+
+**Breaking a mob apart:** Once a Volley's group takes an Incapacitating hit, remove one body from the group's effective count before the next Volley (reduce the Enhancement bonus by 1 for the next roll involving that group). A Volley of five that loses two members to a single well-placed Forces effect becomes a Volley of three going forward — the group visibly, mechanically thins as the fight goes on, without anyone needing to track five separate Health tracks.
+
+> WORKED EXAMPLE — THE VOLLEY IN ACTION
+>
+> Continuing the Loading Dock fight: at Phase 6 (Red), both Syndicate enforcers act together against Miriam, who is nearest the door. Enforcer base attack pool (Close Combat + Might, brass knuckles): 5 dice. Two enforcers acting together: Enhancement +1 → 5 dice +1 automatic hit. They roll 5 dice: 8, 7, 4, 3, 1 = 2 hits, plus the +1 Enhancement hit = 3 hits total against Miriam's Defense of 2. One hit gets through as a Trick Hit as well. Miriam takes a solid strike, and the table resolved "two guys jump her" in one roll instead of two.
+>
+> Three rounds later, one enforcer has been Incapacitated by Miriam's counter-punch. The remaining enforcer, now a Volley of one, attacks alone — plain pool, no Enhancement bonus, exactly as if he had always been solo. The mechanical shrinkage matches the fictional one exactly.
+
+### Named Antagonists Inside a Speed-Tiered Scene
+
+Named antagonists — the ones who get full Appendix H Initiative Pools, Bank Tokens, Held Dice, and everything else — participate in the exact same Phase sequence as the Speed Tier colors. When the Storyguide calls "Phase 6," resolve every actor with a die (PC, named antagonist, or tier color) landing there, using the normal Appendix H tiebreak (larger pool acts first; a Speed Tier color's "pool" for tiebreak purposes is treated as equal to that tier's Speed Rating). This keeps the two systems fully interoperable in the same round without any special-casing.
+
+> WORKED EXAMPLE — MIXED FIGHT: PCS, A NAMED SERGEANT, AND A TIERED SQUAD
+>
+> A cabal of three PCs raids a Technocratic safehouse. Present: the three PCs (full individual Phase Initiative per Appendix H), a named NWO sergeant named Voss (full Phase Initiative — she is a recurring rival the Storyguide wants the players to remember), and six standard-issue troopers at Speed 4. The troopers are the only Speed-Tier NPCs in this scene, so they form a single tier at s1 = 4 — call it Red. Per Step Three, a single tier still rolls dice equal to its own speed value: **4 Red dice**, not one.
+>
+> Rolls this round: Kade (PC, pool 6) — Phases 2, 4, 6, 6, 8, 10. Priya (PC, pool 5) — Phases 1, 3, 6, 8, 10. Voss (named antagonist, pool 6) — Phases 3, 5, 5, 7, 9. Troopers (Red tier, 4 dice since Speed 4 is the only value present) — Phases 2, 5, 5, 9.
+>
+> All six troopers act together at every one of their four Phases — four Volleys across the round, not one:
+>
+> Phase 1: Priya acts alone.
+> Phase 2: Kade acts. The trooper squad's first Volley fires, targeting Kade — he has no Bank Token yet this round and eats the hit.
+> Phase 3: Priya acts. Voss acts; her larger pool (6 vs. Priya's 5) means she goes first if both are targeting each other.
+> Phase 4: Kade acts.
+> Phase 5: Voss acts twice (two of her dice landed on 5). The trooper squad's second Volley also fires at Phase 5, tiebroken by pool size — Voss (pool 6) resolves before the trooper tier (Speed Rating 4, treated as "pool 4" for tiebreak purposes).
+> Phase 6: Kade acts twice (two dice at 6). Priya acts.
+> Phase 7: Voss acts.
+> Phase 8: Kade and Priya act.
+> Phase 9: Voss acts. The trooper squad's third Volley fires here as well.
+> Phase 10: Kade and Priya act.
+>
+> Notice the trooper squad still only cost the Storyguide four dice total — matching their Speed Rating exactly — regardless of six bodies being present, and each of those four dice produced a genuine Volley the PCs had to answer. That is the system's actual payoff: a uniform-speed mob of any size costs exactly as many dice as its Speed Rating, never more.
+
+### Worked Example — A Paradox Spirit Swarm
+
+Speed Tiers are equally at home outside human combatants. When a tear in the Gauntlet lets a knot of minor Paradox spirits (Chapter Five) boil through, the Storyguide does not want to build and roll six or eight individual Initiative Pools for glorified environmental hazards with teeth.
+
+> Six Static-touched Paradox wisps (minor spirits, Speed Rating 5 each — spirits are fast and erratic) pour through a tear behind Devorah after her Forces ●●●●● Vulgar working botches. All six share a Speed Rating, so there is exactly one tier at s1 = 5 — call it Red. The Storyguide rolls **5 Red dice** (matching the tier's own speed value): 3, 3, 7, 9, 10.
+>
+> All six wisps act together at every one of those five Phases — five Volleys hitting Devorah across the round, not one. At each Volley: base attack pool (their innate Corrupt Touch) is 4 dice; five additional wisps beyond the first grant Enhancement +5. Devorah faces a 4-dice-plus-5-automatic-hits assault at Phases 3, 3, 7, 9, and the natural 10 (which the Storyguide elects to leave at Phase 10 rather than spend as Trick Initiative, since NPC swarms rarely need the flexibility). She has, at most, one Bank Token to answer any single one of those five moments — the rest land clean. This is appropriately terrifying for a Paradox backlash: a Speed 5 swarm behaves exactly as dangerously as a Speed 5 individual would under Appendix H, just resolved as five Volleys instead of thirty individual attack rolls (six wisps × five actions each). If a second, faster spirit type were present (a Speed 7 Paradox hound, say), it would form its own second tier, rolling only 7 − 5 = 2 additional dice, and would act on all five Red Phases plus its own two — seven actions total, matching its own Speed Rating, exactly as the formula predicts.
+
+---
+
+## Quick Reference: Streamlining Combat
+
+```
+STREAMLINING COMBAT — ONE-PAGE SUMMARY
+----------------------------------------
+WHEN TO USE: Non-named NPCs only. Named antagonists and PCs always use full
+             Appendix H Phase Initiative, mixed freely into the same round.
+
+SPEED TIERS:
+  1. Give each NPC type a fixed Speed Rating (built like a PC's Initiative Pool).
+  2. Sort the DISTINCT Speed Ratings present into tiers, lowest to highest
+     (s1 < s2 < s3...), and give each tier a color from whatever dice are on
+     hand (Red < Green < Blue < ... is just this appendix's example naming).
+  3. Roll dice per tier, NOT per creature and NOT one die per tier:
+       Tier 1 (lowest, s1): roll s1 dice.
+       Tier 2 (s2):         roll (s2 - s1) dice — just the difference.
+       Tier 3 (s3):         roll (s3 - s2) dice — just the difference.
+     Total dice rolled all round = the single highest Speed Rating present,
+     no matter how many creatures or tiers are in the fight.
+  4. Every creature acts on all of Tier 1's dice. Tier 2+ creatures ALSO act
+     on Tier 2's dice. Tier 3+ creatures ALSO act on Tier 3's dice, and so on.
+     A creature's total actions this round = its own Speed Rating, exactly.
+  5. Optional: split a tier into multiple full dice-sets (one per body/cluster)
+     for a few named-but-still-disposable mooks who should feel individually
+     distinct — see "Splitting a Tier" above.
+
+GROUP RULES (THE VOLLEY):
+  Same-tier creatures attacking the same target/Phase roll ONE combined attack:
+  base pool of one member + Enhancement +1 per additional attacker beyond the first.
+  Target defends once (one Bank Token) against the whole Volley.
+  Remove one body's worth of Enhancement each time the group takes an
+  Incapacitating hit.
+
+MOVEMENT AND POSITIONING: See Appendix H's "Movement in Combat" section for
+  Range Bands, Reflexive Steps, Standard Moves, Sprints, and Rushes — those
+  rules apply identically whether a fight uses Speed Tiers, full Phase
+  Initiative, or both mixed together, so they live there rather than here.
+```
 
 ---
 
 # Index
-This index covers the primary game terms, subsystems, rules concepts, and setting elements found in this book.
-Each entry is a live hyperlink; clicking the entry or its page number jumps directly to the relevant section. Entries
-with sub-entries list specific sub-topics for that term.
+This index covers the primary game terms, subsystems, rules concepts, and setting elements found in this book. Each entry is on its own line; the entry and its page number are connected by a leader line. Entries with sub-entries list specific sub-topics for that term, indented beneath the main entry.
 
-A
-Action Dice (Phase Initiative)..............................................................................................................................382
-Face value = Phase number (no hits check)............................................................................................... 382
-Trick Initiative (10 = any Phase)................................................................................................................382
-Consumed by window, not by count.........................................................................................................386
-Advancement...........................................................................................................................................................37
-Aiding Magic (Sympathy & Tools)........................................................................................................................57
-Armor....................................................................................................................................................................... 22
-Armor System (full rules)...........................................................................................................................405
-Armor in Combat.........................................................................................................................................22
-Arete (Traditions).................................................................................................................................................... 29
-vs. Enlightenment (Technocracy).................................................................................................................29
-Sphere skill cap............................................................................................................................................. 71
-Quintessence channeling cap.......................................................................................................................44
-Ascension War...................................................................................................................................................... 195
-Attacks................................................................................................................................................................... 130
-Attributes and Skills................................................................................................................................................ 33
-Avatar..................................................................................................................................................................... 205
-What Is the Avatar?.................................................................................................................................... 205
-Avatar Essences (full rules).........................................................................................................................212
-Avatar Rating..............................................................................................................................................205
-Seekings.......................................................................................................................................................206
-Awakened Template...............................................................................................................................................29
+### A
 
-B
-Backlash, Paradox...................................................................................................................................................67
-Building a Dice Pool............................................................................................................................................... 16
+::: {custom-style="IndexEntry"}
 
-C
-Casting Roll............................................................................................................................................................. 44
-Chantry..................................................................................................................................................................309
-Establishing a Chantry...............................................................................................................................310
-Chantry Traits.............................................................................................................................................311
-Chantry Merits............................................................................................................................................314
-Technocratic Constructs............................................................................................................................ 320
+Action Dice (Phase Initiative)`<w:r><w:tab/></w:r>`{=openxml}382
 
+:::
 
-Character Creation.................................................................................................................................................. 25
-Coincidental vs. Vulgar Magic...............................................................................................................................46
-Combat.................................................................................................................................................................. 117
-Combat Examples.......................................................................................................................................165
-Magical Combat..........................................................................................................................................150
-Scene Structure...........................................................................................................................................120
-Complications.......................................................................................................................................................... 19
-Concept (Step One).................................................................................................................................................25
-Consensus..............................................................................................................................................................187
-Correspondence (Sphere).......................................................................................................................................71
-Counter-Magic.........................................................................................................................................................58
+::: {custom-style="IndexSubEntry"}
 
-D
-Damage Types....................................................................................................................................................... 134
-Death and Incapacitation.....................................................................................................................................164
-Defense.................................................................................................................................................................. 132
-Dice Pools................................................................................................................................................................15
-Difficulty..................................................................................................................................................................19
-Disparate Crafts.....................................................................................................................................................194
-Dynamic Essence................................................................................................................................................... 213
+Face value = Phase number (no hits check)`<w:r><w:tab/></w:r>`{=openxml}382
 
-E
-Enlightenment (Technocracy)................................................................................................................................29
-vs. Arete (Traditions).................................................................................................................................... 29
-Sphere skill cap............................................................................................................................................. 71
-Quintessence channeling cap.......................................................................................................................44
-Entities and Antagonists....................................................................................................................................... 234
-Entropy (Sphere)..................................................................................................................................................... 76
-Essence (Avatar)..................................................................................................................................................... 212
-Dynamic Essence........................................................................................................................................ 213
-Pattern Essence...........................................................................................................................................217
-Primordial Essence..................................................................................................................................... 221
-Questing Essence........................................................................................................................................225
-Extended Tasks........................................................................................................................................................ 23
+Trick Initiative (10 = any Phase)`<w:r><w:tab/></w:r>`{=openxml}382
 
-F
-Factions..................................................................................................................................................................187
-Forces (Sphere)........................................................................................................................................................ 81
-Freeform Magic....................................................................................................................................................... 47
+Consumed by window, not by count`<w:r><w:tab/></w:r>`{=openxml}386
 
+:::
 
+::: {custom-style="IndexEntry"}
 
-G
-Gauntlet.................................................................................................................................................................106
-Gauntlet (Cosmos).....................................................................................................................................478
+Advancement`<w:r><w:tab/></w:r>`{=openxml}37
 
-H
-Health Track......................................................................................................................................................... 136
-Healing................................................................................................................................................................... 148
-Hits...........................................................................................................................................................................16
-Horizon (Umbra)..................................................................................................................................................483
+Aiding Magic (Sympathy & Tools)`<w:r><w:tab/></w:r>`{=openxml}57
 
-I
-Initiative................................................................................................................................................................. 121
-Phase Initiative System (full)...................................................................................................................... 381
-Spotlight System............................................................................................................................................21
-Action Dice (face value = phase)................................................................................................................ 382
-Trick Initiative (rolling a 10)......................................................................................................................382
-No hits check on initiative roll..................................................................................................................382
-Enhancement on initiative.........................................................................................................................384
-Held Die......................................................................................................................................................385
+Armor`<w:r><w:tab/></w:r>`{=openxml}22
 
-L
-Life (Sphere)............................................................................................................................................................. 87
+:::
 
-M
-Magic........................................................................................................................................................................44
-Casting Roll...................................................................................................................................................44
-Freeform Magic.............................................................................................................................................47
-Magical Combat..........................................................................................................................................150
-Magical Defenses........................................................................................................................................ 161
-Rotes.............................................................................................................................................................. 47
-Sphere Tricks................................................................................................................................................ 53
-Marauders..............................................................................................................................................................194
-Matter (Sphere)........................................................................................................................................................ 92
-Mind (Sphere).......................................................................................................................................................... 96
-Momentum..............................................................................................................................................................19
+::: {custom-style="IndexSubEntry"}
 
-N
-Near Umbra.......................................................................................................................................................... 479
-Nephandi...............................................................................................................................................................193
-NPCs and the Awakened World.........................................................................................................................203
+Armor System (full rules)`<w:r><w:tab/></w:r>`{=openxml}405
 
+Armor in Combat`<w:r><w:tab/></w:r>`{=openxml}22
 
+:::
 
+::: {custom-style="IndexEntry"}
 
-O
-Opposed Rolls..........................................................................................................................................................24
+Arete (Traditions)`<w:r><w:tab/></w:r>`{=openxml}29
 
-P
-Paradigm, Practices, and Instruments................................................................................................................208
-Paradox.................................................................................................................................................................... 63
-Backlash Table.............................................................................................................................................. 67
-Range Bands (spell scaling)........................................................................................................................... 53
-Area Bands (spell scaling)............................................................................................................................. 53
-Duration Bands (spell scaling)...................................................................................................................... 53
-Time Reach Bands (Time Sphere)...............................................................................................................53
-Spell Parameter Scaling................................................................................................................................53
-Paradox Pool................................................................................................................................................. 63
-Paradox and Botch threshold.......................................................................................................................50
-Paradox Spirits..............................................................................................................................................68
-Quiet and Paradox........................................................................................................................................66
-When Paradox Triggers................................................................................................................................ 65
-Paths (SPU Framework).........................................................................................................................................25
-Pattern Essence..................................................................................................................................................... 217
-Penumbra..............................................................................................................................................................477
-Phase Initiative System.........................................................................................................................................381
-Prime (Sphere)...................................................................................................................................................... 101
-Primordial Essence............................................................................................................................................... 221
+:::
 
-Q
-Questing Essence................................................................................................................................................... 225
-Quiet........................................................................................................................................................................ 66
-Managing Quiet (SG advice)...................................................................................................................... 203
+::: {custom-style="IndexSubEntry"}
 
-R
-Rotes......................................................................................................................................................................... 47
-Master Rotes List (Appendix N).................................................................................................................492
-Quick Reference Sheets (Appendix O)......................................................................................................544
-Rote SF advantage......................................................................................................................................... 61
-Running Mage (Storyguide chapter)...................................................................................................................201
+vs. Enlightenment (Technocracy)`<w:r><w:tab/></w:r>`{=openxml}29
 
-S
-Sanity......................................................................................................................................................................445
-Paradox Insulation......................................................................................................................................450
-Quiet and Marauder Threshold.................................................................................................................455
-Recovering Sanity....................................................................................................................................... 452
+Sphere skill cap`<w:r><w:tab/></w:r>`{=openxml}71
 
+Quintessence channeling cap`<w:r><w:tab/></w:r>`{=openxml}44
 
-Sanity Tags..................................................................................................................................................424
-Scenes.....................................................................................................................................................................201
-Speed Factor (SF)..................................................................................................................................................386
-Commitment Window (declaration to declaration+SF)........................................................................... 386
-Dice consumed = dice in window, not fixed count................................................................................... 386
-Cross-Round Actions.................................................................................................................................387
-Abort...........................................................................................................................................................388
-Spell SF = total dots (improvised).............................................................................................................. 386
-Spell SF = highest sphere (Rote)................................................................................................................386
-Seekings..................................................................................................................................................................206
-Shard Realms and Shade Realms......................................................................................................................... 484
-Spheres.....................................................................................................................................................................71
-Correspondence............................................................................................................................................ 71
-Entropy.......................................................................................................................................................... 76
-Forces.............................................................................................................................................................81
-Life................................................................................................................................................................. 87
-Matter............................................................................................................................................................92
-Mind..............................................................................................................................................................96
-Prime...........................................................................................................................................................101
-Spirit............................................................................................................................................................ 106
-Time............................................................................................................................................................111
-Spirit (Sphere)....................................................................................................................................................... 106
-Status Conditions.................................................................................................................................................. 143
-Status Effects............................................................................................................................................................ 23
-Storyguide Chapter...............................................................................................................................................201
+:::
 
-T
-Tags........................................................................................................................................................................... 20
-Tags Reference (full)...................................................................................................................................417
-Armor Tags.................................................................................................................................................420
-Combat Tags............................................................................................................................................... 417
-Magical Tags................................................................................................................................................427
-Sanity Tags..................................................................................................................................................424
-Weapon Tags..............................................................................................................................................419
-Technocracy...........................................................................................................................................................191
-Technocracy Deep Dive.............................................................................................................................345
-Technocratic Constructs............................................................................................................................ 320
-Time (Sphere)........................................................................................................................................................111
-Traditions..............................................................................................................................................................187
-Traditions Deep Dive.................................................................................................................................330
-Tradition Perspectives on Cosmos.............................................................................................................488
+::: {custom-style="IndexEntry"}
 
+Ascension War`<w:r><w:tab/></w:r>`{=openxml}195
 
+Attacks`<w:r><w:tab/></w:r>`{=openxml}130
 
-Tricks........................................................................................................................................................................ 20
+Attributes and Skills`<w:r><w:tab/></w:r>`{=openxml}33
 
-U
-Umbra / The Cosmos...........................................................................................................................................475
-Deep Umbra...............................................................................................................................................484
-Gauntlet......................................................................................................................................................478
-Horizon.......................................................................................................................................................483
-Near Umbra................................................................................................................................................479
-Penumbra.................................................................................................................................................... 477
-Traveling the Otherworlds......................................................................................................................... 486
-Umbrood.................................................................................................................................................... 485
+Avatar`<w:r><w:tab/></w:r>`{=openxml}205
 
-V
-Vulgar Magic............................................................................................................................................................ 46
+:::
 
-W
-Weapons................................................................................................................................................................139
-Wonders in Combat............................................................................................................................................. 160
-Worked Examples................................................................................................................................................... 69
-Combat Examples.......................................................................................................................................165
-Full Example of Play (Appendix L)............................................................................................................ 458
-Paradox Sequence.........................................................................................................................................69
+::: {custom-style="IndexSubEntry"}
+
+What Is the Avatar?`<w:r><w:tab/></w:r>`{=openxml}205
+
+Avatar Essences (full rules)`<w:r><w:tab/></w:r>`{=openxml}212
+
+Avatar Rating`<w:r><w:tab/></w:r>`{=openxml}205
+
+Seekings`<w:r><w:tab/></w:r>`{=openxml}206
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Awakened Template`<w:r><w:tab/></w:r>`{=openxml}29
+
+:::
+
+### B
+
+::: {custom-style="IndexEntry"}
+
+Backlash, Paradox`<w:r><w:tab/></w:r>`{=openxml}67
+
+Building a Dice Pool`<w:r><w:tab/></w:r>`{=openxml}16
+
+:::
+
+### C
+
+::: {custom-style="IndexEntry"}
+
+Casting Roll`<w:r><w:tab/></w:r>`{=openxml}44
+
+Chantry`<w:r><w:tab/></w:r>`{=openxml}309
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Establishing a Chantry`<w:r><w:tab/></w:r>`{=openxml}310
+
+Chantry Traits`<w:r><w:tab/></w:r>`{=openxml}311
+
+Chantry Merits`<w:r><w:tab/></w:r>`{=openxml}314
+
+Technocratic Constructs`<w:r><w:tab/></w:r>`{=openxml}320
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Character Creation`<w:r><w:tab/></w:r>`{=openxml}25
+
+Coincidental vs. Vulgar Magic`<w:r><w:tab/></w:r>`{=openxml}46
+
+Combat`<w:r><w:tab/></w:r>`{=openxml}117
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Combat Examples`<w:r><w:tab/></w:r>`{=openxml}165
+
+Magical Combat`<w:r><w:tab/></w:r>`{=openxml}150
+
+Scene Structure`<w:r><w:tab/></w:r>`{=openxml}120
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Complications`<w:r><w:tab/></w:r>`{=openxml}19
+
+Concept (Step One)`<w:r><w:tab/></w:r>`{=openxml}25
+
+Consensus`<w:r><w:tab/></w:r>`{=openxml}187
+
+Correspondence (Sphere)`<w:r><w:tab/></w:r>`{=openxml}71
+
+Counter-Magic`<w:r><w:tab/></w:r>`{=openxml}58
+
+:::
+
+### D
+
+::: {custom-style="IndexEntry"}
+
+Damage Types`<w:r><w:tab/></w:r>`{=openxml}134
+
+Death and Incapacitation`<w:r><w:tab/></w:r>`{=openxml}164
+
+Defense`<w:r><w:tab/></w:r>`{=openxml}132
+
+Dice Pools`<w:r><w:tab/></w:r>`{=openxml}15
+
+Difficulty`<w:r><w:tab/></w:r>`{=openxml}19
+
+Disparate Crafts`<w:r><w:tab/></w:r>`{=openxml}194
+
+Dynamic Essence`<w:r><w:tab/></w:r>`{=openxml}213
+
+:::
+
+### E
+
+::: {custom-style="IndexEntry"}
+
+Enlightenment (Technocracy)`<w:r><w:tab/></w:r>`{=openxml}29
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+vs. Arete (Traditions)`<w:r><w:tab/></w:r>`{=openxml}29
+
+Sphere skill cap`<w:r><w:tab/></w:r>`{=openxml}71
+
+Quintessence channeling cap`<w:r><w:tab/></w:r>`{=openxml}44
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Entities and Antagonists`<w:r><w:tab/></w:r>`{=openxml}234
+
+Entropy (Sphere)`<w:r><w:tab/></w:r>`{=openxml}76
+
+Essence (Avatar)`<w:r><w:tab/></w:r>`{=openxml}212
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Dynamic Essence`<w:r><w:tab/></w:r>`{=openxml}213
+
+Pattern Essence`<w:r><w:tab/></w:r>`{=openxml}217
+
+Primordial Essence`<w:r><w:tab/></w:r>`{=openxml}221
+
+Questing Essence`<w:r><w:tab/></w:r>`{=openxml}225
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Extended Tasks`<w:r><w:tab/></w:r>`{=openxml}23
+
+:::
+
+### F
+
+::: {custom-style="IndexEntry"}
+
+Factions`<w:r><w:tab/></w:r>`{=openxml}187
+
+Forces (Sphere)`<w:r><w:tab/></w:r>`{=openxml}81
+
+Freeform Magic`<w:r><w:tab/></w:r>`{=openxml}47
+
+:::
+
+### G
+
+::: {custom-style="IndexEntry"}
+
+Gauntlet`<w:r><w:tab/></w:r>`{=openxml}106
+
+Gauntlet (Cosmos)`<w:r><w:tab/></w:r>`{=openxml}478
+
+Group Rules — the Volley, mob attack resolution (Appendix W)
+
+:::
+
+### H
+
+::: {custom-style="IndexEntry"}
+
+Health Track`<w:r><w:tab/></w:r>`{=openxml}136
+
+Healing`<w:r><w:tab/></w:r>`{=openxml}148
+
+Hits`<w:r><w:tab/></w:r>`{=openxml}16
+
+Horizon (Umbra)`<w:r><w:tab/></w:r>`{=openxml}483
+
+:::
+
+### I
+
+::: {custom-style="IndexEntry"}
+
+Initiative`<w:r><w:tab/></w:r>`{=openxml}121
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Phase Initiative System (full)`<w:r><w:tab/></w:r>`{=openxml}381
+
+Spotlight System`<w:r><w:tab/></w:r>`{=openxml}21
+
+Action Dice (face value = phase)`<w:r><w:tab/></w:r>`{=openxml}382
+
+Trick Initiative (rolling a 10)`<w:r><w:tab/></w:r>`{=openxml}382
+
+No hits check on initiative roll`<w:r><w:tab/></w:r>`{=openxml}382
+
+Enhancement on initiative`<w:r><w:tab/></w:r>`{=openxml}384
+
+Held Die`<w:r><w:tab/></w:r>`{=openxml}385
+
+:::
+
+### L
+
+::: {custom-style="IndexEntry"}
+
+Life (Sphere)`<w:r><w:tab/></w:r>`{=openxml}87
+
+:::
+
+### M
+
+::: {custom-style="IndexEntry"}
+
+Magic`<w:r><w:tab/></w:r>`{=openxml}44
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Casting Roll`<w:r><w:tab/></w:r>`{=openxml}44
+
+Freeform Magic`<w:r><w:tab/></w:r>`{=openxml}47
+
+Magical Combat`<w:r><w:tab/></w:r>`{=openxml}150
+
+Magical Defenses`<w:r><w:tab/></w:r>`{=openxml}161
+
+Rotes`<w:r><w:tab/></w:r>`{=openxml}47
+
+Sphere Tricks`<w:r><w:tab/></w:r>`{=openxml}53
+
+Spell Parameter Scaling`<w:r><w:tab/></w:r>`{=openxml}53
+
+Range Bands (spell targeting — same table as combat positioning, Appendix H)`<w:r><w:tab/></w:r>`{=openxml}53
+
+Area Bands`<w:r><w:tab/></w:r>`{=openxml}53
+
+Duration Bands`<w:r><w:tab/></w:r>`{=openxml}53
+
+Time Reach Bands (Time Sphere)`<w:r><w:tab/></w:r>`{=openxml}53
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Marauders`<w:r><w:tab/></w:r>`{=openxml}194
+
+Matter (Sphere)`<w:r><w:tab/></w:r>`{=openxml}92
+
+Mind (Sphere)`<w:r><w:tab/></w:r>`{=openxml}96
+
+Mobs and Speed Tiers (Appendix W)
+
+Momentum`<w:r><w:tab/></w:r>`{=openxml}19
+
+Movement in Combat (Range Bands, Reflexive Step, Standard Move, Sprint, Rush, Cover) (Appendix H)`<w:r><w:tab/></w:r>`{=openxml}381
+
+:::
+
+### N
+
+::: {custom-style="IndexEntry"}
+
+Near Umbra`<w:r><w:tab/></w:r>`{=openxml}479
+
+Nephandi`<w:r><w:tab/></w:r>`{=openxml}193
+
+NPCs and the Awakened World`<w:r><w:tab/></w:r>`{=openxml}203
+
+:::
+
+### O
+
+::: {custom-style="IndexEntry"}
+
+Opposed Rolls`<w:r><w:tab/></w:r>`{=openxml}24
+
+:::
+
+### P
+
+::: {custom-style="IndexEntry"}
+
+Paradigm, Practices, and Instruments`<w:r><w:tab/></w:r>`{=openxml}208
+
+Paradox`<w:r><w:tab/></w:r>`{=openxml}63
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Backlash Table`<w:r><w:tab/></w:r>`{=openxml}67
+
+Paradox Pool`<w:r><w:tab/></w:r>`{=openxml}63
+
+Paradox and Botch threshold`<w:r><w:tab/></w:r>`{=openxml}50
+
+Paradox Spirits`<w:r><w:tab/></w:r>`{=openxml}68
+
+Quiet and Paradox`<w:r><w:tab/></w:r>`{=openxml}66
+
+When Paradox Triggers`<w:r><w:tab/></w:r>`{=openxml}65
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Paths (SPU Framework)`<w:r><w:tab/></w:r>`{=openxml}25
+
+Pattern Essence`<w:r><w:tab/></w:r>`{=openxml}217
+
+Penumbra`<w:r><w:tab/></w:r>`{=openxml}477
+
+Phase Initiative System`<w:r><w:tab/></w:r>`{=openxml}381
+
+Prime (Sphere)`<w:r><w:tab/></w:r>`{=openxml}101
+
+Primordial Essence`<w:r><w:tab/></w:r>`{=openxml}221
+
+:::
+
+### Q
+
+::: {custom-style="IndexEntry"}
+
+Questing Essence`<w:r><w:tab/></w:r>`{=openxml}225
+
+Quiet`<w:r><w:tab/></w:r>`{=openxml}66
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Managing Quiet (SG advice)`<w:r><w:tab/></w:r>`{=openxml}203
+
+:::
+
+### R
+
+::: {custom-style="IndexEntry"}
+
+Range Bands (unified table for combat positioning and spell targeting: Close/Short/Medium/Long/Extreme) (Appendix H, 381; also Chapter Four, 53)
+
+Reflexive Step (Appendix H, movement)
+
+Rotes`<w:r><w:tab/></w:r>`{=openxml}47
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Master Rotes List (Appendix N)`<w:r><w:tab/></w:r>`{=openxml}492
+
+Quick Reference Sheets (Appendix O)`<w:r><w:tab/></w:r>`{=openxml}544
+
+Rote SF advantage`<w:r><w:tab/></w:r>`{=openxml}61
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Running Mage (Storyguide chapter)`<w:r><w:tab/></w:r>`{=openxml}201
+
+Rush (movement/attack action) (Appendix H)
+
+:::
+
+### S
+
+::: {custom-style="IndexEntry"}
+
+Sanity`<w:r><w:tab/></w:r>`{=openxml}445
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Paradox Insulation`<w:r><w:tab/></w:r>`{=openxml}450
+
+Quiet and Marauder Threshold`<w:r><w:tab/></w:r>`{=openxml}455
+
+Recovering Sanity`<w:r><w:tab/></w:r>`{=openxml}452
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Sanity Tags`<w:r><w:tab/></w:r>`{=openxml}424
+
+Scenes`<w:r><w:tab/></w:r>`{=openxml}201
+
+Speed Factor (SF)`<w:r><w:tab/></w:r>`{=openxml}386
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Commitment Window (declaration to declaration+SF)`<w:r><w:tab/></w:r>`{=openxml}386
+
+Dice consumed = dice in window, not fixed count`<w:r><w:tab/></w:r>`{=openxml}386
+
+Cross-Round Actions`<w:r><w:tab/></w:r>`{=openxml}387
+
+Abort`<w:r><w:tab/></w:r>`{=openxml}388
+
+Spell SF = total dots (improvised)`<w:r><w:tab/></w:r>`{=openxml}386
+
+Spell SF = highest sphere (Rote)`<w:r><w:tab/></w:r>`{=openxml}386
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Speed Tiers, colored-dice initiative for NPCs (Appendix W)
+
+Streamlining Combat (Appendix W)
+
+Seekings`<w:r><w:tab/></w:r>`{=openxml}206
+
+Shard Realms and Shade Realms`<w:r><w:tab/></w:r>`{=openxml}484
+
+Sympathetic magic (Difficulty reduction)`<w:r><w:tab/></w:r>`{=openxml}57
+
+Sympathetic range (Correspondence ●●●+ exception to Range Bands) (Chapter Four, 53; Correspondence Sphere, 71)
+
+Spheres`<w:r><w:tab/></w:r>`{=openxml}71
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Correspondence`<w:r><w:tab/></w:r>`{=openxml}71
+
+Entropy`<w:r><w:tab/></w:r>`{=openxml}76
+
+Forces`<w:r><w:tab/></w:r>`{=openxml}81
+
+Life`<w:r><w:tab/></w:r>`{=openxml}87
+
+Matter`<w:r><w:tab/></w:r>`{=openxml}92
+
+Mind`<w:r><w:tab/></w:r>`{=openxml}96
+
+Prime`<w:r><w:tab/></w:r>`{=openxml}101
+
+Spirit`<w:r><w:tab/></w:r>`{=openxml}106
+
+Time`<w:r><w:tab/></w:r>`{=openxml}111
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Spirit (Sphere)`<w:r><w:tab/></w:r>`{=openxml}106
+
+Status Conditions`<w:r><w:tab/></w:r>`{=openxml}143
+
+Status Effects`<w:r><w:tab/></w:r>`{=openxml}23
+
+Storyguide Chapter`<w:r><w:tab/></w:r>`{=openxml}201
+
+:::
+
+### T
+
+::: {custom-style="IndexEntry"}
+
+Tags`<w:r><w:tab/></w:r>`{=openxml}20
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Tags Reference (full)`<w:r><w:tab/></w:r>`{=openxml}417
+
+Armor Tags`<w:r><w:tab/></w:r>`{=openxml}420
+
+Combat Tags`<w:r><w:tab/></w:r>`{=openxml}417
+
+Magical Tags`<w:r><w:tab/></w:r>`{=openxml}427
+
+Sanity Tags`<w:r><w:tab/></w:r>`{=openxml}424
+
+Weapon Tags`<w:r><w:tab/></w:r>`{=openxml}419
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Technocracy`<w:r><w:tab/></w:r>`{=openxml}191
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Technocracy Deep Dive`<w:r><w:tab/></w:r>`{=openxml}345
+
+Technocratic Constructs`<w:r><w:tab/></w:r>`{=openxml}320
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Time (Sphere)`<w:r><w:tab/></w:r>`{=openxml}111
+
+[Touch] requirement Tag (Close range + physical contact) (Chapter Four, 53)
+
+Traditions`<w:r><w:tab/></w:r>`{=openxml}187
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Traditions Deep Dive`<w:r><w:tab/></w:r>`{=openxml}330
+
+Tradition Perspectives on Cosmos`<w:r><w:tab/></w:r>`{=openxml}488
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Tricks`<w:r><w:tab/></w:r>`{=openxml}20
+
+:::
+
+### U
+
+::: {custom-style="IndexEntry"}
+
+Umbra / The Cosmos`<w:r><w:tab/></w:r>`{=openxml}475
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Deep Umbra`<w:r><w:tab/></w:r>`{=openxml}484
+
+Gauntlet`<w:r><w:tab/></w:r>`{=openxml}478
+
+Horizon`<w:r><w:tab/></w:r>`{=openxml}483
+
+Near Umbra`<w:r><w:tab/></w:r>`{=openxml}479
+
+Penumbra`<w:r><w:tab/></w:r>`{=openxml}477
+
+Traveling the Otherworlds`<w:r><w:tab/></w:r>`{=openxml}486
+
+Umbrood`<w:r><w:tab/></w:r>`{=openxml}485
+
+:::
+
+### V
+
+::: {custom-style="IndexEntry"}
+
+Volley (Group Rules, mob attack resolution) (Appendix W)
+
+Vulgar Magic`<w:r><w:tab/></w:r>`{=openxml}46
+
+:::
+
+### W
+
+::: {custom-style="IndexEntry"}
+
+Weapons`<w:r><w:tab/></w:r>`{=openxml}139
+
+Wonders in Combat`<w:r><w:tab/></w:r>`{=openxml}160
+
+Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights
+
+Worked Examples`<w:r><w:tab/></w:r>`{=openxml}69
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Combat Examples`<w:r><w:tab/></w:r>`{=openxml}165
+
+Full Example of Play (Appendix L)`<w:r><w:tab/></w:r>`{=openxml}458
+
+Paradox Sequence`<w:r><w:tab/></w:r>`{=openxml}69
+
+:::
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
