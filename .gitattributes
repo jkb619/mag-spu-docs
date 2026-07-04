@@ -1,0 +1,9 @@
+# Markdown - full text diffs (your main delta inspection)
+Mage_SPU_AI.md          text
+
+# Binary files (docx and pdf)
+*.docx              binary
+*.pdf               binary
+
+# Optional: Enable readable text diffs for the docx
+*.docx              diff=word
