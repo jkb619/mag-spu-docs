@@ -49,35 +49,35 @@ Appendix I: The Armor System`<w:r><w:tab/></w:r>`{=openxml}355
 
 Appendix J: Tags Reference`<w:r><w:tab/></w:r>`{=openxml}364
 
-Appendix K: Sanity — The Fraying Edge of the Awakened Mind`<w:r><w:tab/></w:r>`{=openxml}379
+Appendix K: Sanity — The Fraying Edge of the Awakened Mind`<w:r><w:tab/></w:r>`{=openxml}396
 
-Appendix L: Bringing It All Together — A Complete Example of Play`<w:r><w:tab/></w:r>`{=openxml}392
+Appendix L: Bringing It All Together — A Complete Example of Play`<w:r><w:tab/></w:r>`{=openxml}409
 
-Appendix M: The Cosmos — The Tellurian and Its Otherworlds`<w:r><w:tab/></w:r>`{=openxml}406
+Appendix M: The Cosmos — The Tellurian and Its Otherworlds`<w:r><w:tab/></w:r>`{=openxml}423
 
-Appendix N: Master Rotes — Recorded Workings of the Awakened`<w:r><w:tab/></w:r>`{=openxml}419
+Appendix N: Master Rotes — Recorded Workings of the Awakened`<w:r><w:tab/></w:r>`{=openxml}436
 
-Appendix O: Quick Reference — One-Page Cheat Sheets`<w:r><w:tab/></w:r>`{=openxml}573
+Appendix O: Quick Reference — One-Page Cheat Sheets`<w:r><w:tab/></w:r>`{=openxml}589
 
-Appendix P: Character Sheet`<w:r><w:tab/></w:r>`{=openxml}578
+Appendix P: Character Sheet`<w:r><w:tab/></w:r>`{=openxml}594
 
-Appendix Q: Quick Reference Card`<w:r><w:tab/></w:r>`{=openxml}578
+Appendix Q: Quick Reference Card`<w:r><w:tab/></w:r>`{=openxml}594
 
-Appendix R: Items and Gear`<w:r><w:tab/></w:r>`{=openxml}578
+Appendix R: Items and Gear`<w:r><w:tab/></w:r>`{=openxml}595
 
-Appendix S: Crafting`<w:r><w:tab/></w:r>`{=openxml}594
+Appendix S: Crafting`<w:r><w:tab/></w:r>`{=openxml}610
 
-Appendix T: Vehicles`<w:r><w:tab/></w:r>`{=openxml}615
+Appendix T: Vehicles`<w:r><w:tab/></w:r>`{=openxml}632
 
-Appendix U: The Nephandi — Descent, the Caul, and the Fallen`<w:r><w:tab/></w:r>`{=openxml}632
+Appendix U: The Nephandi — Descent, the Caul, and the Fallen`<w:r><w:tab/></w:r>`{=openxml}648
 
-Appendix V: Merits, Flaws, and Wonders`<w:r><w:tab/></w:r>`{=openxml}643
+Appendix V: Edges, Powers, and Wonders`<w:r><w:tab/></w:r>`{=openxml}659
 
 Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights`<w:r><w:tab/></w:r>`{=openxml}724
 
 Appendix X: Disparate Crafts — Fractured Traditions`<w:r><w:tab/></w:r>`{=openxml}730
 
-Index`<w:r><w:tab/></w:r>`{=openxml}758
+Index`<w:r><w:tab/></w:r>`{=openxml}759
 
 :::
 
@@ -99,7 +99,7 @@ Chapter One: Introduction — You are reading it. Background on the setting, the
 
 Chapter Two: Core Mechanics — The complete Storypath Ultra dice engine adapted for Mage: attributes, skills, the dice pool, hits, complications, tags, and the Botch rule. Returning M20 players: a sidebar explains how Arete maps to the new system.
 
-Chapter Three: Character Creation — Step-by-step character building, including Tradition selection, Sphere allocation, Backgrounds, Merits, starting Quintessence, and the Resonance trait.
+Chapter Three: Character Creation — Step-by-step character building, including Tradition selection, Sphere allocation, Edges and Powers, starting Quintessence, and the Resonance trait.
 
 Chapter Four: Magic — The Tapestry of Reality — The full casting system: Sphere Skill + Casting Attribute pools, Spell Factors, freeform magic, Rotes, Coincidental vs. Vulgar effects, Quintessence spending rules, and the Spell Parameter Scaling table.
 
@@ -155,11 +155,11 @@ Appendix T: Vehicles — Vehicle stat blocks, chase and pursuit rules, vehicle c
 
 Appendix U: The Nephandi — Descent, the Caul, and the Fallen — The three Paths of Falling, the Descent Track, Nephandic Paradigms and Practices, key Fallen Rotes, and the mechanical and narrative tools for running Nephandi as antagonists or player characters.
 
-Appendix V: Merits, Flaws, and Wonders — The complete Merit and Flaw catalogue (Physical, Mental, Social, Supernatural) plus Selected Wonders, Wonder Crafting reference tables, and the full Backgrounds list.
+Appendix V: Edges, Powers, and Wonders — The full catalogue of Edges and Powers (Universal, Physical, Mental, Social, Supernatural) plus the Backgrounds (as rated Edges and Powers), Selected Wonders, and Wonder Crafting reference tables. Character drawbacks live as compel-only Tags in Appendix J.
 
 Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights — Optional tools for running fights with large numbers of non-named NPCs without a large bookkeeping count: the Speed Tier initiative system (a small set of colored dice replaces individual Initiative Pools for mooks, scaled to the fastest thing in the fight rather than headcount) and formal Group Rules for resolving mob attacks as a single Volley. For positioning and movement, see Appendix H.
 
-Appendix X: Disparate Crafts — Fractured Traditions — The Crafts of the Disparate Alliance converted to Storypath Ultra: the Ngoma, Templars, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans — each with affinity Spheres, a signature Craft Tag, Concepts, Merits, Flaws, and rotes — plus a step-by-step toolkit for building your own Craft, Tradition, or Convention.
+Appendix X: Disparate Crafts — Fractured Traditions — The Crafts of the Disparate Alliance converted to Storypath Ultra: the Ngoma, Templars, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans — each with affinity Spheres, a signature Craft Tag, Concepts, Edges, Powers, Tags, and rotes — plus a step-by-step toolkit for building your own Craft, Tradition, or Convention.
 
 Index — A full alphabetical index of game terms, subsystems, rules concepts, and setting elements, with live hyperlinks to each relevant section.
 
@@ -427,7 +427,7 @@ Characters can earn or select tags during character creation and advancement. Th
 
 A character tag can be invoked when relevant just as an equipment tag can — to justify a bonus, explain a capability, or create a narrative hook. Tags can also be invoked against you: [Wanted by the Technocracy] means that Iteration X agents may recognize you.
 
-**Tags vs. Merits:** Tags are free-form descriptors — they can be created on the fly, assigned by the Storyguide, or earned through play, and carry no point cost. Merits are a structured, point-purchased subset of Tags: they are Tags with a defined cost, a specific Invoke condition, and explicit mechanical weight. Every Merit is a Tag, but not every Tag is a Merit. If you are reading the Merits section and wondering how it connects to Tags, this is the relationship: Merits are the official, costed version of the same system. See the Character Creation chapter for the full Merit rules.
+**Tags vs. Edges:** Tags are free-form descriptors — created on the fly, assigned by the Storyguide, or earned through play — that can be invoked for a bonus or compelled for a complication, and carry no build cost. Edges are different: a dot-rated advantage bought at character creation, always in effect when its situation arises. A character's *drawbacks* are simply compel-only Tags (never invoked, only compelled). So the persistent things you buy are Edges (and, above the three-dot band, Powers); the dynamic, situational things — including your weaknesses — are Tags. See Character Creation (Chapter Three) and Appendix V for Edges and Powers, and Appendix J for the full Tag catalogue.
 
 ## Initiative: The Spotlight System
 
@@ -784,7 +784,7 @@ Quintessence is the raw substance of magic — the Prime energy that flows throu
 ```
 OPTIONAL RULE — The Avatar (Appendix A)
 ---------------------------------------
-Avatar is an optional, modular subsystem. A mage's Avatar is the inner spiritual being that drives their Awakening — it has its own Essence, its own agenda, and its own mechanics for Seekings and advancement. Groups can play without it entirely: remove Appendix A, use Arete + 1 for Quintessence maximum, and treat all Avatar-dependent Merits as unavailable. The game functions completely without this subsystem. It is included for groups who want a deeper exploration of the mage's inner spiritual life. Full rules in Appendix A: The Avatar.
+Avatar is an optional, modular subsystem. A mage's Avatar is the inner spiritual being that drives their Awakening — it has its own Essence, its own agenda, and its own mechanics for Seekings and advancement. Groups can play without it entirely: remove Appendix A, use Arete + 1 for Quintessence maximum, and treat all Avatar-dependent Edges and Powers as unavailable. The game functions completely without this subsystem. It is included for groups who want a deeper exploration of the mage's inner spiritual life. Full rules in Appendix A: The Avatar.
 ```
 
 Maximum Quintessence equals Avatar rating + 3. For mages without an Avatar (not using Appendix A), use Arete + 1. Quintessence begins at half maximum (rounded up) at character creation.
@@ -857,32 +857,19 @@ EXAMPLE: Major Path gives 10 dots. You place 4 in Mental, 4 in Social, 2 in
 ```
 ## Step Five — Finishing Touches
 
-Step Five is where the character becomes fully individualized. Your Paths have established your core competencies; now you spend 7 Creation Points to define the edges — the advantages, quirks, resources, and personal connections that make this mage specifically yours.
+Step Five is where the character becomes fully individualized. Your Paths have established your core competencies; now you define the **Edges** — the advantages, resources, and personal connections that make this mage specifically yours — along with any **Powers** and the drawback **Tags** that give her texture.
 
-Spend 7 Creation Points freely across the following options. Unspent points are lost; you cannot bank them as XP. The Storyguide may increase this pool to 10 for more experienced or powerful chronicle tones, or reduce it to 5 for grittier, more resource-scarce games. 7 is the standard.
+**Edges.** You have **5 Edge dots** to spend. One dot buys one dot of an Edge from Appendix V (the resources, standing, and knacks a mage holds — all Edges now). Your Paths have already granted you some Edges for free: your Contacts and your Path's Special Ability. The Storyguide may raise this to 7 dots for a more heroic chronicle or lower it to 3 for a grittier one; 5 is standard. Unspent dots are lost; you cannot bank them as experience.
 
-```
-Step Five — Creation Point Costs
---------------------------------
-1 point — 1 dot in any Background (Contacts, Resources, Library, Allies, etc.)
-1 point — 1 additional Contact (beyond Path-granted Contacts)
-2 points — 1-point Merit (minor advantage; a single invoke-style bonus)
-4 points — 3-point Merit (significant advantage; a meaningful ongoing mechanical benefit)
-6 points — 5-point Merit (major advantage; a rare ability with broad mechanical weight)
-2 points — 1 additional starting Rote (beyond the three granted in Step Four)
-2 points — Upgrade a Bond by +1 dot (max 3 at creation)
-1 point — 1 dot in Quintessence (starting Quintessence, max equal to Arete)
+You may trade an Edge dot for any one of the following instead: 1 additional starting Rote (beyond the three from Step Four); +1 dot to a Bond (maximum 3 at creation); or 2 points of starting Quintessence (maximum equal to your Arete).
 
-Creation Points cannot be spent on Attributes, Skills, or Sphere ratings. Those are fixed by Paths and Tradition selection.
-```
+**Powers.** With the Storyguide's approval, you may begin play with a single Power (Appendix V), paid for from starting experience at its flat cost. Powers are gated because each — a bound guardian spirit, true immortality, faith that turns back the Fallen — redefines what the character fundamentally is. Most starting characters take none.
 
-Merits in this system are effectively named Tags with mechanical weight. If you have not read the Tags section in the Core Mechanics chapter, do so first — Merits are built on that foundation. The short version: a Tag is any descriptive label attached to a character, object, or situation that can be invoked for a bonus or compelled for a complication. A Merit is a Tag you paid for at character creation — it comes with a defined point cost and a specific Invoke condition, making it more structured than a Tag the Storyguide assigns on the fly or one you earn through play. A 1-point Merit gives you one Invoke-style bonus — a specific die added in a specific circumstance, or a narrative permission. A 3-point Merit gives a sustained mechanical advantage or a meaningful narrative ability with real game impact. A 5-point Merit is a rare, powerful capability that defines a significant aspect of the character.
+**Drawback Tags.** Take any compel-only Tags from Appendix J that suit your concept — a Phobia, an Addiction, a Vow, a lingering Enemy. They cost nothing and refund nothing; their worth is the Momentum they hand you when the Storyguide compels them. A character with a few well-chosen drawback Tags is richer to play than one with none.
 
-When writing a Merit for your character, describe it as a Tag: name it, give it an Invoke condition, and give it a Compel condition if appropriate. The Invoke tells you when you get the bonus. The Compel tells the Storyguide when they can complicate your life with it.
+Edge dots cannot be spent on Attributes, Skills, or Sphere ratings, which are fixed by your Paths and Tradition.
 
-> Example Merit as a Tag
-
-Backgrounds purchased with Creation Points work like Backgrounds purchased during Path selection — they provide narrative resources and occasionally mechanical benefits (see Appendix V: Merits, Flaws, and Wonders for the full Background list). The most commonly purchased Backgrounds at creation are Resources (money and liquid assets), Library (access to magical research material), Node (personal access to a Quintessence source), and Wonder (a specific magical item). A Wonder purchased with Creation Points costs points equal to its Background dot rating.
+An Edge is a dot-rated, always-on advantage: once bought, it simply applies whenever its situation arises. That makes Edges different from the drawback Tags above (which only ever complicate, never help) and from the scene Tags a Storyguide assigns on the fly. When an Edge grants a bonus, note its dots and the circumstance it covers; when an Edge represents a resource — Resources, a Node, a Chantry, a Wonder — its rating measures how much of that resource you command, and a Wonder taken this way costs Edge dots equal to its rating.
 
 ### Contacts
 
@@ -3705,7 +3692,7 @@ When two tasks require truly simultaneous, continuous focus:
 
   • Both pools take −2 dice from their own base pools.
   • No priority designation — neither action is primary.
-  • Maximum two simultaneous tasks without a special Merit or magical enhancement.
+  • Maximum two simultaneous tasks without a special Edge or magical enhancement.
   • Each task generates its own consequences independently (damage, Paradox, etc.).
   • If either task fails, the Storyguide may rule it bleeds into the other.
   • Tasks that are purely reflexive or Minor Actions do NOT trigger Divided Attention when paired with a Major Action — only two simultaneous Major-level tasks qualify.
@@ -5840,7 +5827,7 @@ The Disparates are mages who never joined the Traditions, either by choice or by
 | Solificati | Alchemists; Matter and Prime. They were once part of the Order of Hermes and left in a doctrinal dispute. Their gold transmutation actually works. |
 | Taftâni | Fire-mages of the Middle East; Forces and Prime. They walk through flame and read the future in smoke. |
 
-For the full Disparate Alliance — eleven Crafts converted to Storypath Ultra (Ngoma, Knights of the Temple of Solomon, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans), each with affinity Spheres, a signature Craft Tag, Concepts, Merits, Flaws, and rotes — and for a step-by-step toolkit on building your own Craft, Tradition, or Convention, see Appendix X: Disparate Crafts — Fractured Traditions.
+For the full Disparate Alliance — eleven Crafts converted to Storypath Ultra (Ngoma, Knights of the Temple of Solomon, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans), each with affinity Spheres, a signature Craft Tag, Concepts, Edges, Powers, Tags, and rotes — and for a step-by-step toolkit on building your own Craft, Tradition, or Convention, see Appendix X: Disparate Crafts — Fractured Traditions.
 
 ## The Ascension War in Play
 
@@ -7811,7 +7798,7 @@ Might 1 | Dexterity 3 | Stamina 2 | Cunning 5 | Intellect 4 | Presence 4 | Manip
 Health: 4  |  Armor: 0  |  Arete: 3 (Arete 6 → 3)
 Skills: Academics 5, Technology 5, Awareness 5, Larceny 5, Leadership 4, Deception 5
 Sphere Skills: Correspondence (Data) 4, Entropy 2, Matter 2, Mind 3, Prime 2
-Backgrounds: Arcane 5, Avatar 4, Contacts 5, Spies 5
+Edges: Arcane 5, Avatar 4, Contacts 5, Spies 5
 ──────────────────────────────────────────────────
 TAGS:
 [Arcane 5 — Untraceable] — The Caller cannot be located, targeted, or directly investigated by any means short of Spirit 5 effects. Investigation rolls suffer Difficulty +5. Correspondence effects targeting The Caller require five additional hits to function. The Caller has no known address, no confirmed identity, and no verifiable history.
@@ -7831,7 +7818,7 @@ Might 3 | Dexterity 2 | Stamina 2 | Cunning 4 | Intellect 4 | Presence 5 | Manip
 Health: 4  |  Armor: 5 (Matter-reinforced clothing)  |  Arete: 3 (Arete 6 → 3)
 Skills: Academics 5, Technology 5, Pilot 2, Leadership 8 (Influence/Power-Brokering), Investigation 3, Esoterica 4, Awareness 3, Larceny 3, Artistry 3, Ranged Combat 1
 Sphere Skills: Correspondence (Data) 3, Entropy 2, Dimensional Science 4, Forces 4, Matter 3, Mind 4, Prime 4, Time 1
-Backgrounds: Allies 10, Avatar 3, Backup 10, Contacts 10, Cult 5, Demesne 5, Fame 5, Influence 8, Library 9, Resources 10, Retainers 5, Sanctum 5, Spies 7, Status 4
+Edges: Allies 10, Avatar 3, Backup 10, Contacts 10, Cult 5, Demesne 5, Fame 5, Influence 8, Library 9, Resources 10, Retainers 5, Sanctum 5, Spies 7, Status 4
 ──────────────────────────────────────────────────
 TAGS:
 [Art of Desire] — Garrick's primary magical specialty is social domination through subliminal enchantment. His Arkwright advertising firm embeds Mind 4 + Prime 4 effects into advertising materials — billboards, television spots, digital campaigns — that create genuine compulsive desire toward products, political candidates, or behaviors Garrick has been paid to promote. Individual targets of his direct attention receive fully personalized versions. He adds Enhancement +3 to social and persuasion rolls through this combined magical and mundane approach.
@@ -7851,7 +7838,7 @@ Might 4 | Dexterity 3 | Stamina 4 | Cunning 3 | Intellect 2 | Presence 3 | Manip
 Health: 6  |  Armor: 0  |  Arete: 2 (Arete 4 → 2)
 Skills: Esoterica 5 (Appalachian Hoodoo, Herbalism), Medicine 3, Survival 4, Athletics 3, Ranged Combat 3, Close Combat 3, Larceny 4, Awareness 4, Artistry 4 (cooking), Pilot 2
 Sphere Skills: Correspondence 1, Entropy 1, Forces 3, Life 3, Prime 3, Spirit 3
-Backgrounds: Arcane 2, Avatar 3, Contacts 4, Resources 4, Sanctum 5, Status 3
+Edges: Arcane 2, Avatar 3, Contacts 4, Resources 4, Sanctum 5, Status 3
 ──────────────────────────────────────────────────
 TAGS:
 [Food as Primary Instrument] — Jane Daugherty's magic flows entirely through the preparation and serving of food. Her cooking is her casting. When she prepares a meal with magical intent, she has full access to all her Sphere effects without requiring any visible magical gesture — anyone watching sees a woman cooking. The Life 3 + Prime 3 combination means her food can heal, harm, poison, or transform depending on what she has prepared. Detection requires Cunning + Awareness or Esoterica at Difficulty 3 after eating (the magic is in the meal, not the cook).
@@ -7871,7 +7858,7 @@ Might 1 | Dexterity 2 | Stamina 2 | Cunning 3 | Intellect 3 | Presence 3 | Manip
 Health: 4  |  Armor: 0  |  Arete: 2 (Arete 3 → 2)
 Skills: Academics 4, Empathy 4, Esoterica 3, Larceny 5, Close Combat 4, Deception 5, Technology 3, Artistry 4
 Sphere Skills: Life 3, Mind 3, Prime 2, Time 1
-Backgrounds: Avatar (Twin Souls) 3
+Edges: Avatar (Twin Souls) 3
 ──────────────────────────────────────────────────
 TAGS:
 [Hivemind — Twin Bond] — Kate and Lucas Reid share a single Avatar that has split between them (Twin Souls). They are in constant psychic contact regardless of distance. Each can sense what the other senses. When Kate is injured, Lucas knows immediately and vice versa. Information available to one is available to both within seconds. Neutralizing one without immediately neutralizing the other is effectively pointless — the remaining twin immediately adapts.
@@ -7889,7 +7876,7 @@ Might 4 | Dexterity 3 | Stamina 2 | Cunning 4 | Intellect 3 | Presence 2 | Manip
 Health: 4  |  Armor: 0  |  Arete: 2 (Arete 3 → 2)
 Skills: Academics 4, Athletics 3, Close Combat 3, Technology 4, Artistry 4, Larceny 4, Deception 5, Empathy 2
 Sphere Skills: Life 3, Mind 3, Prime 2, Time 1
-Backgrounds: Avatar (Twin Souls) 2, Contacts 2, Resources 2
+Edges: Avatar (Twin Souls) 2, Contacts 2, Resources 2
 ──────────────────────────────────────────────────
 TAGS:
 [Hivemind — Twin Bond] — As Kate Reid. Constant psychic connection. Neutralizing one is effectively pointless without immediately neutralizing the other.
@@ -9244,7 +9231,7 @@ Every mage needs a place where the rules of consensus bend a little, where instr
 
 In the most basic sense, a Chantry is a physical location that a mage or cabal has claimed, warded, and attuned as their magical home base. But a well-developed Chantry is also a laboratory, a library, a fortress, a spirit-stable environment, a Node-tap, a safe harbor in a hostile world. The Traditions hold their most elaborate Chantries to be among their most precious resources — more valuable, in many cases, than individual mages.
 
-This chapter covers: what Chantries are and how they function, establishing and maintaining a Chantry, Chantry Traits (mechanical ratings), Chantry Merits and specific benefits, Chantry defenses both physical and magical, the Chantry as a character (the way the place develops over time), and worked examples of Chantries at different scales and power levels.
+This chapter covers: what Chantries are and how they function, establishing and maintaining a Chantry, Chantry Traits (mechanical ratings), Chantry Edges and specific benefits, Chantry defenses both physical and magical, the Chantry as a character (the way the place develops over time), and worked examples of Chantries at different scales and power levels.
 
 ---
 
@@ -9378,16 +9365,16 @@ The Allies Trait represents people, spirits, and organizations associated with t
 
 ---
 
-## Chantry Merits
+## Chantry Edges
 
-Chantry Merits are specific advantages that a Chantry has developed beyond its basic Traits. They represent particular features, histories, or magical properties that provide unique benefits. Chantry Merits are earned through play, not purchased at character creation — they are the result of specific events, investments, or discoveries.
+Chantry Edges are specific advantages that a Chantry has developed beyond its basic Traits. They represent particular features, histories, or magical properties that provide unique benefits. Chantry Edges are earned through play, not purchased at character creation — they are the result of specific events, investments, or discoveries.
 
 Each Merit has a cost in Chantry points (abstract resources representing time, money, magical effort, and narrative investment). Storyguides should award these organically: when the cabal does something that would reasonably develop the Chantry in a specific direction, the Merit appears.
 
-### Architectural Merits
+### Architectural Edges
 
 ```
-Hidden Spaces (•• Chantry Merit)
+Hidden Spaces (•• Chantry Edge)
 --------------------------------
 The Chantry contains deliberate hidden spaces: false walls, concealed rooms, passages that don't show on any floor plan. These might be mundane construction or might be maintained by a standing Matter 2 effect.
 
@@ -9397,7 +9384,7 @@ How Earned: Design the Chantry's hidden spaces explicitly in the fiction, either
 ```
 
 ```
-Dedicated Workspace (•• Chantry Merit)
+Dedicated Workspace (•• Chantry Edge)
 --------------------------------------
 A specific room or area of the Chantry is set up as a dedicated workshop optimized for a particular type of magical work: a laboratory for Matter/Life research, a spirit-circle for Spirit work, a meditation chamber for Mind/Time, an alchemical kitchen, a smithy, a darkroom.
 
@@ -9407,7 +9394,7 @@ How Earned: Invest significant Resources (minimum 2 dots) in outfitting the spac
 ```
 
 ```
-Ritual Space (••• Chantry Merit)
+Ritual Space (••• Chantry Edge)
 --------------------------------
 The Chantry contains a purpose-built ritual space: a stone circle, a prepared temple, a prayer hall, a machine-ritual chamber. This space is architecturally and magically optimized for group workings.
 
@@ -9417,7 +9404,7 @@ How Earned: Deliberately construct and dedicate the space through an extended ri
 ```
 
 ```
-Umbral Anchoring (••• Chantry Merit)
+Umbral Anchoring (••• Chantry Edge)
 ------------------------------------
 The Chantry has a stable, fixed reflection in the Umbra — an Umbral Chantry that mirrors the physical structure in a way that most locations do not. The Umbral reflection is a distinct space that can be entered, modified, and defended separately from the physical Chantry.
 
@@ -9427,7 +9414,7 @@ How Earned: Establish a formal compact with the Chantry's dominant local spirits
 ```
 
 ```
-Fortified Structure (•• Chantry Merit)
+Fortified Structure (•• Chantry Edge)
 --------------------------------------
 The Chantry's physical structure has been reinforced beyond standard building specifications: reinforced concrete walls, blast-resistant windows, safe rooms, reinforced doors with heavy-duty locks.
 
@@ -9437,7 +9424,7 @@ How Earned: Spend Resources 3+ on structural reinforcement over a period of mont
 ```
 
 ```
-Defensible Position (• Chantry Merit)
+Defensible Position (• Chantry Edge)
 -------------------------------------
 The Chantry's physical layout has been deliberately optimized for defense: chokepoints, fields of fire, lines of sight, planned fallback routes, pre-positioned defensive elements.
 
@@ -9446,10 +9433,10 @@ Benefit: When the Chantry is under physical attack, its defenders gain +1 die to
 How Earned: Have the cabal deliberately plan the layout with defense in mind and spend at least one session establishing it in the fiction.
 ```
 
-### Magical Merits
+### Magical Edges
 
 ```
-Node Tap (••••  Chantry Merit — requires Node Access •• +)
+Node Tap (••••  Chantry Edge — requires Node Access •• +)
 ----------------------------------------------------------
 The Chantry's connection to its Node has been deepened and formalized, with physical and magical infrastructure designed to distribute Node energy throughout the Chantry efficiently.
 
@@ -9459,7 +9446,7 @@ How Earned: Install physical infrastructure (pipes, channels, crystals — match
 ```
 
 ```
-Paradox Sink (••• Chantry Merit)
+Paradox Sink (••• Chantry Edge)
 --------------------------------
 Through sustained magical work and careful attunement, the Chantry has become capable of absorbing and slowly dissipating Paradox energy. Paradox that would otherwise discharge explosively within the Chantry is instead drawn into the structure itself, releasing slowly over days rather than all at once.
 
@@ -9469,7 +9456,7 @@ How Earned: The Chantry must have Sanctum 3+. The mages must deliberately attemp
 ```
 
 ```
-Spirit Covenant (••• Chantry Merit)
+Spirit Covenant (••• Chantry Edge)
 -----------------------------------
 The Chantry has a formal, ongoing covenant with one or more powerful local spirits who serve as guardians, advisors, or residents in exchange for Primal Energy, respect, and specific services.
 
@@ -9479,7 +9466,7 @@ How Earned: Negotiate and formalize a covenant through Spirit 3 working and exte
 ```
 
 ```
-Warded Teleportation Point (•••• Chantry Merit)
+Warded Teleportation Point (•••• Chantry Edge)
 -----------------------------------------------
 The Chantry contains one or more fixed Correspondence anchor points — specific locations within the Chantry that a Correspondence-trained mage can teleport to from anywhere on Earth with reduced difficulty, as long as they have been there before.
 
@@ -9489,7 +9476,7 @@ How Earned: Establish the anchor point with a Prime 2 / Correspondence 3 extende
 ```
 
 ```
-Resonance Specialization (•• Chantry Merit — one Sphere)
+Resonance Specialization (•• Chantry Edge — one Sphere)
 --------------------------------------------------------
 The Chantry has been specifically developed around a single Sphere, with every element — the Ward patterns, the Dedicated Spaces, the Library contents, the Node resonance — focused on amplifying that one type of magic.
 
@@ -9499,7 +9486,7 @@ How Earned: Choose the Sphere at Chantry establishment or through sustained sing
 ```
 
 ```
-Conclave Space (•••• Chantry Merit)
+Conclave Space (•••• Chantry Edge)
 -----------------------------------
 The Chantry has been formally registered with the Council of Nine (or the Technocracy's administrative structure, for Constructs) as a recognized sanctum. This registration grants certain political protections and responsibilities.
 
@@ -9508,10 +9495,10 @@ Benefit: Attacking a recognized Conclave Space is considered a major violation o
 How Earned: Apply to the relevant Tradition or Convention administrative body, pay whatever political dues are required, and host at least one formal Conclave event.
 ```
 
-### Intelligence and Communication Merits
+### Intelligence and Communication Edges
 
 ```
-Scrying Chamber (•• Chantry Merit)
+Scrying Chamber (•• Chantry Edge)
 ----------------------------------
 A dedicated space within the Chantry has been set up for Correspondence and Time scrying — a dark room with a large mirror or water basin or electronic sensor array, depending on paradigm, with amplifying materials and a comfortable position for the scryer.
 
@@ -9521,7 +9508,7 @@ How Earned: Outfit the room with appropriate materials (Resources 2) and perform
 ```
 
 ```
-Communications Network (•• Chantry Merit)
+Communications Network (•• Chantry Edge)
 -----------------------------------------
 The Chantry is the hub of a magical communication network among allied Chantries, mages, and contacts. This might be a Correspondence 2 permanent sending-stone network, a Data 2 encrypted quantum-entangled system, a Spirit 2 message-runner arrangement with bound messenger spirits, or any other paradigm-appropriate form.
 
@@ -9530,10 +9517,10 @@ Benefit: The cabal can communicate securely with all network members instantaneo
 How Earned: Establish formal communications links with at least three other Chantries or individuals through the appropriate Sphere working.
 ```
 
-### Historical and Spiritual Merits
+### Historical and Spiritual Edges
 
 ```
-Ancient History (•••  Chantry Merit)
+Ancient History (•••  Chantry Edge)
 ------------------------------------
 The Chantry was established more than a century ago (or occupies a location with deep pre-existing magical history). It carries the accumulated resonance of generations of use.
 
@@ -9543,7 +9530,7 @@ How Earned: Either establish the Chantry in a location with documented magical h
 ```
 
 ```
-Consecrated Ground (••• Chantry Merit)
+Consecrated Ground (••• Chantry Edge)
 --------------------------------------
 The Chantry has been formally consecrated according to a specific spiritual tradition — blessed by a Chorister high priest, dedicated in Verbena blood ritual, purified by Akashic ceremony, aligned in Hermetic sacred geometry, or initialized in Technocratic scientific inauguration ritual. The consecration pervades the physical structure.
 
@@ -9622,7 +9609,7 @@ Library: •• (2)
 Node Access: •• (2) — a ley line convergence beneath the basement
 Allies: •• (2) — friendly neighbors, a sympathetic police detective, a local herbalist network
 
-Merits:
+Edges & Powers:
   Dedicated Workspace (••) — the basement lab is optimized for Life and Spirit workings
   Consecrated Ground (•••) — blessed in a Verbena spring ceremony; Nephandi and death-spirits are uncomfortable here
   Hidden Spaces (••) — a concealed ritual room behind the wine cellar
@@ -9655,7 +9642,7 @@ Library: •••• (4) — exceptional combination of Hermetic texts and digi
 Node Access: ••• (3) — an artistic resonance Node; the arts community has been drawing energy to this location for a century
 Allies: ••• (3) — the arts world, a city councilwoman's office, three allied Disparate practitioners in the city
 
-Merits:
+Edges & Powers:
   Ritual Space (•••) — the top floor is a large circular space with reconfigurable altar architecture, optimized for group workings
   Scrying Chamber (••) — a dark room with a two-way mirror array and Correspondence anchors
   Communications Network (••) — linked to five other Chantries in the region
@@ -9709,9 +9696,9 @@ History: Established 2019 over an existing tech startup that Iteration X acquire
 
 ---
 
-## Chantry Flaws
+## Chantry Tags (Complications)
 
-Chantry Flaws are the counterweight to Merits. They represent problems, vulnerabilities, or complications built into the Chantry's history or situation. Flaws are not chosen at character creation — they are imposed by circumstance, acquired through play, or inherited from the Chantry's history. The Storyguide may introduce a Flaw at any time when the fiction supports it. A Flaw can be removed through dedicated play effort, narrative resolution, or magical reworking, but never simply purchased away.
+Chantry Tags are the counterweight to Merits. They represent problems, vulnerabilities, or complications built into the Chantry's history or situation. Flaws are not chosen at character creation — they are imposed by circumstance, acquired through play, or inherited from the Chantry's history. The Storyguide may introduce a Flaw at any time when the fiction supports it. A Flaw can be removed through dedicated play effort, narrative resolution, or magical reworking, but never simply purchased away.
 
 Every Flaw has a severity rating (one to three dots) and a specific mechanical consequence. More importantly, every Flaw is a story hook — a built-in source of complications that the Storyguide should use regularly, not save for major moments.
 
@@ -10080,9 +10067,9 @@ When the Euthanatos kills someone, proper tradition demands that the killing is 
 
 Mechanics: Performed over the body of a recently deceased person (within a scene of death). The mage rolls Presence + Occult against Difficulty 2. With 2+ hits, the spirit of the deceased passes completely to whatever lies beyond — they cannot return as a ghost, cannot be summoned by Spirit magic, and any lingering emotional impressions they left in the material world (haunting phenomena) dissipate within 24 hours. This is considered deeply kind by the spirit traditions that recognize it — Dreamspeakers and Chorister practitioners in particular respect this rote even as they disagree on its precise metaphysical mechanics.
 
-### Supernatural Flaws
+### Supernatural Tags
 
-#### Scarred Avatar (2 or 4 Point Flaw)
+#### Scarred Avatar (compel-only Tag)
 
 The Himalayan War left marks not just on the Tradition's history but on the Avatars of those who participated in it — and those Avatars have been reincarnating ever since. A mage with this Flaw carries an Avatar that was traumatized by the War, and that trauma manifests as an intense negative reaction to specific triggering circumstances.
 
@@ -11300,7 +11287,7 @@ HARDPOINTS: Vehicle can mount 1 Hardpoint per 5 pts. of Background Cost (rounded
 
 ### Section Four: Cyberware and Biotech
 
-Cybernetic and biological enhancements modify a character's physical form. Each dot of the Enhancement Background requires either 1 permanent Paradox point or 1 Genetic Flaw (see Appendix V: Merits, Flaws, and Wonders — Genetic Flaws section). Non-Technocracy cybernetics automatically impose 1 Genetic Flaw per dot due to inferior quality control. Cyberware uses Enlightenment-based activation in most cases. Biomods are always-on passive systems requiring no activation roll. All enhancements impose the Construct social disadvantage at 3+ dots of Enhancement.
+Cybernetic and biological enhancements modify a character's physical form. Each dot of the Enhancement Background requires either 1 permanent Paradox point or 1 Genetic Tag (see Appendix V: Edges, Powers, and Wonders — Genetic Tags section). Non-Technocracy cybernetics automatically impose 1 Genetic Tag per dot due to inferior quality control. Cyberware uses Enlightenment-based activation in most cases. Biomods are always-on passive systems requiring no activation roll. All enhancements impose the Construct social disadvantage at 3+ dots of Enhancement.
 
 #### Cyberware
 
@@ -11308,7 +11295,7 @@ Cybernetic and biological enhancements modify a character's physical form. Each 
 Online Access — Neural Network Interface
 ----------------------------------------
 Enlightenment N/A  |  Primal Energy N/A  |  Background Cost 2 pts.
-Requires: 1 Genetic Flaw
+Requires: 1 Genetic Tag
 Direct neural interface with computer networks and digital systems. +1 die to all Technology and Data-related rolls when connected to a network. Connection is mental rather than physical; visible as unfocused eyes and slight tremor during deep access.
 ```
 
@@ -11316,7 +11303,7 @@ Direct neural interface with computer networks and digital systems. +1 die to al
 Skeletal Enhancement — Reinforced Bone Structure
 ------------------------------------------------
 Enlightenment N/A  |  Primal Energy N/A  |  Background Cost 2 pts.
-Requires: 1 Genetic Flaw
+Requires: 1 Genetic Tag
 Reinforced skeleton with composite materials. +1 die to soak bashing damage. Immune to bone fractures from falls up to 3 stories. Falls from greater height still deal damage normally.
 ```
 
@@ -11324,7 +11311,7 @@ Reinforced skeleton with composite materials. +1 die to soak bashing damage. Imm
 Bio-Cloaking — Bioelectric Stealth System
 -----------------------------------------
 Enlightenment 4  |  Primal Energy 20  |  Background Cost 2 pts.
-Requires: 2 Genetic Flaws
+Requires: 2 Genetic Tags
 Bioelectric field disruption making the agent harder to perceive. Enlightenment roll to activate; each hit subtracts 1 die from observers' Awareness rolls to detect the agent. Effect persists for 1 scene per activation.
 ```
 
@@ -11332,7 +11319,7 @@ Bioelectric field disruption making the agent harder to perceive. Enlightenment 
 Primium Countermeasures — Anti-Magick Lining
 --------------------------------------------
 Enlightenment N/A  |  Primal Energy N/A  |  Background Cost 4/6/8/10 pts.
-Requires: 2-4 Genetic Flaws (1 per 2 pts. of cost)
+Requires: 2-4 Genetic Tags (1 per 2 pts. of cost)
 Primium lining in skeletal structure or musculature interferes with Sphere magick targeting the character. 4 pts. (2 Flaws): 1 die of countermagick. 6 pts. (2 Flaws): 2 dice. 8 pts. (3 Flaws): 3 dice. 10 pts. (4 Flaws): 4 dice. Roll countermagick dice vs. Difficulty 6; each hit reduces the attacker's hits by 1.
 ```
 
@@ -11340,7 +11327,7 @@ Primium lining in skeletal structure or musculature interferes with Sphere magic
 Implanted Plasma Cannon — Concealed Energy Weapon
 -------------------------------------------------
 Enlightenment 6/8  |  Primal Energy 30/40  |  Background Cost 9/11 pts.
-Requires: 3 Genetic Flaws (standard) / 4 Genetic Flaws (enhanced)
+Requires: 3 Genetic Tags (standard) / 4 Genetic Tags (enhanced)
 Concealed plasma weapon integrated into arm or chest cavity. Roll device Enlightenment vs. Difficulty 6; hits = lethal damage dice. Standard (Enlightenment 6, 9 pts.): Enhancement +3 lethal, Short range (15m). Enhanced (Enlightenment 8, 11 pts.): Enhancement +5 lethal, Medium range (30m). Thermal signature visible to appropriate sensors when charging (1 turn).
 ```
 
@@ -11355,13 +11342,13 @@ OPTIONAL UPGRADES (additional Background Cost): Enhanced Targeting Capacity (4 p
 
 #### Biomods
 
-Biomods are biological modifications — genegineering, targeted viral agents, directed growth stimulation, and similar Life-based alterations. Unlike cyberware, biomods do not use Enlightenment or standard activation; they are always-on passive systems. Non-Technocracy biomods impose Genetic Flaws at Storyguide discretion.
+Biomods are biological modifications — genegineering, targeted viral agents, directed growth stimulation, and similar Life-based alterations. Unlike cyberware, biomods do not use Enlightenment or standard activation; they are always-on passive systems. Non-Technocracy biomods impose Genetic Tags at Storyguide discretion.
 
 ```
 Enhanced Senses Biomod — Biological Perception Enhancement
 ----------------------------------------------------------
 Background Cost: 1-3 pts. per sense (1 pt. each, 3 pts. for all five)
-Requires: 1 Genetic Flaw per 2 pts. of cost
+Requires: 1 Genetic Tag per 2 pts. of cost
 One or more senses are enhanced beyond human norms. Reduces Difficulty of Awareness rolls for the enhanced sense(s) by 2. At 3 pts. (all senses): reduces Difficulty of all Awareness rolls by 2. Note: Overlaps mechanically with the Acute Senses Merit. Characters may not stack both.
 ```
 
@@ -11369,7 +11356,7 @@ One or more senses are enhanced beyond human norms. Reduces Difficulty of Awaren
 Enhanced Musculature Biomod — Directed Muscle Development
 ---------------------------------------------------------
 Background Cost: 3 pts.
-Requires: 1 Genetic Flaw
+Requires: 1 Genetic Tag
 Artificially stimulated muscle fiber density beyond normal human limits. +1 die to Might-based rolls for feats of strength. Visible as unusually developed musculature; may raise social questions in conventional settings.
 ```
 
@@ -11377,16 +11364,16 @@ Artificially stimulated muscle fiber density beyond normal human limits. +1 die 
 Adaptive Skin Biomod — Environmental Resistance Engineering
 -----------------------------------------------------------
 Background Cost: 2 pts.
-Requires: 1 Genetic Flaw
-Skin and subcutaneous tissue engineered to resist a specific environmental stressor (heat, cold, radiation, vacuum, etc.). Doubles effective Stamina when soaking damage from the specified environmental type. Advanced version (double cost, 2 Genetic Flaws): covers two environmental types.
+Requires: 1 Genetic Tag
+Skin and subcutaneous tissue engineered to resist a specific environmental stressor (heat, cold, radiation, vacuum, etc.). Doubles effective Stamina when soaking damage from the specified environmental type. Advanced version (double cost, 2 Genetic Tags): covers two environmental types.
 ```
 
 ```
 Accelerated Healing Biomod — Nanite-Assisted Recovery
 -----------------------------------------------------
 Background Cost: variable (2-5 pts.)
-Requires: 1-2 Genetic Flaws
-Nanite-assisted biological repair accelerates natural healing. Standard version (2 pts., 1 Flaw): Bashing damage heals at twice normal rate. Advanced version (4 pts., 2 Flaws): Both bashing and lethal damage heal at twice normal rate. Aggravated damage heals at normal rate regardless of version.
+Requires: 1-2 Genetic Tags
+Nanite-assisted biological repair accelerates natural healing. Standard version (2 dots, 1 Genetic Tag): Bashing damage heals at twice normal rate. Advanced version (4 pts., 2 Flaws): Both bashing and lethal damage heal at twice normal rate. Aggravated damage heals at normal rate regardless of version.
 ```
 
 ### Section Five: Extended Wonder Catalogue
@@ -11446,15 +11433,15 @@ Every cybernetic implant and Device has its own internal Primal Energy reserve e
 
 #### Paradox and Cyberware
 
-Each dot in the Enhancement Background costs either 1 permanent Paradox point or 1 Genetic Flaw. Non-Technocracy cyberware automatically imposes 1 Genetic Flaw per dot regardless of the permanent Paradox option, reflecting the inferior quality of work outside the Union's laboratories. Biomod-related Paradox: mages with Enhancement 2+ accumulate 1 Paradox point per story session automatically. Genegineering-based mods impose Genetic Flaws (chronic ailments, behavioral tics, unusual allergies) rather than Paradox.
+Each dot in the Enhancement Background costs either 1 permanent Paradox point or 1 Genetic Tag. Non-Technocracy cyberware automatically imposes 1 Genetic Tag per dot regardless of the permanent Paradox option, reflecting the inferior quality of work outside the Union's laboratories. Biomod-related Paradox: mages with Enhancement 2+ accumulate 1 Paradox point per story session automatically. Genegineering-based mods impose Genetic Tags (chronic ailments, behavioral tics, unusual allergies) rather than Paradox.
 
 #### Extraction and Removal
 
-Cybernetic enhancements are machines: they can be targeted magickally, may malfunction under extreme conditions, and can be forcibly removed. Extraction is a Life 3/Matter 3 Procedure or requires conventional surgery (Storyguide discretion). Removing an implant without proper medical support is agonizing and risks additional Genetic Flaws.
+Cybernetic enhancements are machines: they can be targeted magickally, may malfunction under extreme conditions, and can be forcibly removed. Extraction is a Life 3/Matter 3 Procedure or requires conventional surgery (Storyguide discretion). Removing an implant without proper medical support is agonizing and risks additional Genetic Tags.
 
 #### Non-Technocratic Cybernetics
 
-Other factions (Society of Ether, Virtual Adepts, some Nephandi) produce their own cybernetic modifications. For every dot of Enhancement from non-Technocracy sources, the character suffers one automatic Genetic Flaw reflecting the instability of work outside Union protocols. Characters with mixed sources treat each source separately for this purpose.
+Other factions (Society of Ether, Virtual Adepts, some Nephandi) produce their own cybernetic modifications. For every dot of Enhancement from non-Technocracy sources, the character suffers one automatic Genetic Tag reflecting the instability of work outside Union protocols. Characters with mixed sources treat each source separately for this purpose.
 
 ---
 
@@ -13517,6 +13504,598 @@ MAGICAL TAGS — PARADOX TRIGGERS:
 
 ---
 
+## Character Flaw Tags (Complications)
+
+These Tags represent the drawbacks a character carries. Like all Flaw-type Tags they are **compel-only** — never invoked for advantage, only compelled against their bearer, who earns Momentum when the Tag complicates her scene. Taking one at creation grants no build points; its value is the Momentum it returns in play.
+
+### Addiction
+
+*Compel-only.* You are dependent on a substance. The severity reflects how debilitating the addiction is and how hard it is to obtain the substance. If you do not feed your habit, you suffer increasing penalties (–1 to –3 dice on non-addiction-related rolls) and may act rashly to obtain your substance. With Storyguide approval, this Flaw can be bought off through extended in-game recovery and roleplay.
+
+### Child
+
+*Compel-only.* You are physically a child, with all the social and practical disadvantages that implies. Your Strength and Stamina maximums are reduced by 2. Adults frequently disregard, patronise, or restrict you. Certain Social rolls are automatically more difficult by +2 Difficulty.
+
+### Impediment
+
+*Compel-only.* A physical condition limits your capabilities. The severity varies: minor inconvenience (minor), noticeable limitation (moderate), significant handicap (major), or severe restriction that affects multiple Traits (severe). Work with your Storyguide to define the specific nature of the impediment.
+
+### Aging
+
+*Compel-only.* You are significantly older than your apparent peak. For each point, your body shows measurable age-related decline: minor stiffness (minor), reduced Attribute maximums by 1 (moderate), reduced by 2 (major), or severe decline including regular health complications (severe). Supernatural longevity does not automatically negate this Flaw.
+
+### Easily Intoxicated
+
+*Compel-only.* Alcohol, drugs, or even mild stimulants affect you far more strongly than they do others. Reduce the threshold for impairment by half. Social and physical penalties from intoxication come on quickly and linger.
+
+### Repulsive Feature
+
+*Compel-only.* A particular physical feature — a visible deformity, an unsettling odour, or a disturbing quirk — puts people off. Add +1 Difficulty to Social rolls in any situation where the feature is apparent.
+
+### Profiled Appearance
+
+*Compel-only.* Your appearance places you in a category that attracts hostile, suspicious, or discriminatory attention from authority figures, law enforcement, or certain social groups. Add +1 Difficulty to Social rolls in those contexts, and Storyguide may create additional complications based on your setting.
+
+### Degeneration
+
+*Compel-only.* Your body — or your Pattern — is slowly breaking down. At ●●●, you age at double the normal rate or suffer a slow loss of one Attribute dot per year. For variable, the degeneration is faster and may cause regular health complications. For variable, you are in an advanced state of decay: multiple Attribute penalties, regular health setbacks, and a limited lifespan unless magickal intervention is found.
+
+### Monstrous
+
+*Compel-only.* Your appearance is genuinely horrifying — not merely unusual, but deeply disturbing to ordinary people. Add +2 Difficulty to all Social rolls with Sleepers and most Awakened who do not know you. Those who encounter you for the first time must succeed on a Composure roll (Difficulty 7) or react with fear or hostility.
+
+### Permanent Wound
+
+*Compel-only.* You carry an injury that never fully heals. You begin each session at the Hurt health level and can only recover to that level without specific magickal healing. Exceptional medical care or Life Sphere effects can temporarily raise you above Hurt, but the wound always reasserts itself.
+
+### Short
+
+*Compel-only.* You are noticeably shorter than average — under 5 feet in most settings. You may have difficulty reaching objects, operating standard vehicles, or commanding physical authority. Add +1 Difficulty to Intimidation rolls in physical contexts, and Storyguide may rule other physical tasks more difficult.
+
+### Horrific
+
+*Compel-only.* Your appearance is so alien or nightmarish that even hardened supernatural beings react with revulsion. All Social rolls with people who can see you suffer +3 Difficulty unless they have become accustomed to your presence. First-time witnesses almost always react with fear or violence.
+
+### Mayfly Curse
+
+*Compel-only.* Time is brutally compressed for you. At ●●●●●, your lifespan is measured in months or a few years rather than decades; you age rapidly under stress. For variable, your natural lifespan is weeks, and only extraordinary magick or intervention keeps you alive. This Flaw pairs with supernatural origins — a Time Paradox flaw, a Nephandic curse, or a faerie bargain gone wrong.
+
+---
+
+### Physical Genetic Tags
+
+### Sterile
+
+*Compel-only.* You cannot reproduce naturally. As a Genetic Tag, this reflects an engineering choice or biological side-effect. It may also prevent certain supernatural vulnerabilities tied to bloodline — the Storyguide determines whether this is an advantage or simply neutral in the chronicle's context.
+
+### Susceptibility
+
+*Compel-only.* You have an unusual vulnerability to a specific environmental condition: cold, heat, radiation, UV light, salt water, etc. Reduce your effective Stamina by 2 when soaking damage from that specific source. The condition must be plausible given the character's modification history.
+
+### Allergy
+
+*Compel-only.* You have a severe reaction to a specific substance. Minor exposure causes -1 die to all rolls; significant exposure may incapacitate. The substance must be definable and reasonably available in the game world.
+
+### Disfigurement
+
+*Compel-only.* A visible physical abnormality — unnatural proportions, obvious implant ports, bioluminescent skin, asymmetric features, etc. Subtract 2 dice from social rolls in conventional settings where appearance and normalcy matter.
+
+### Chronic Pain
+
+*Compel-only.* Persistent pain from imperfectly integrated modifications. Subtract 1 die from all extended actions and concentration rolls (those taking more than a single turn). The character has adapted as well as she can; this is the new normal.
+
+### Mental and Social Genetic Tags
+
+### Behavioral Tic
+
+*Compel-only.* An involuntary behavior pattern surfaces under stress: verbal repetitions, repetitive movements, emotional flatness punctuated by sudden affect, or other observable compulsions. These rarely cause direct mechanical penalties but create social difficulties at the Storyguide's discretion.
+
+### Social Isolation
+
+*Compel-only.* The engineered body or mind creates a sense of disconnection from ordinary human experience. Subtract 1 die from Presence-based rolls in situations requiring natural human warmth, spontaneity, or emotional connection.
+
+### Emotional Blunting
+
+*Compel-only.* The modification process has reduced emotional range or responsiveness. Subtract 1 die from Empathy rolls. The character may have difficulty recognizing their own emotional states as well.
+
+---
+
+### Compulsion
+
+*Compel-only.* You have an irresistible urge to perform a specific behaviour under certain conditions (counting objects, washing hands, speaking in rhyme, etc.). The severity reflects how often it triggers and how much it disrupts your life. Spend a Willpower point to resist the compulsion for one scene.
+
+### Hero Worship
+
+*Compel-only.* You are intensely devoted to a specific person — an older mage, a historical figure, or a powerful ally. When that person is threatened, you must succeed on a Willpower roll (Difficulty 6) to resist rushing to their defence. You are also vulnerable to manipulation through that person.
+
+### Impatient
+
+*Compel-only.* Waiting is agony for you. When forced to delay or hold back, spend a Willpower point or suffer –1 die to your next roll from impatience. In social situations involving extended negotiation, add +1 Difficulty to rolls to remain composed.
+
+### Inappropriate
+
+*Compel-only.* You consistently misread social contexts and say or do the wrong thing. The severity reflects severity. At minor, occasional awkward moments. At severe, you are reliably inappropriate in sensitive social situations, adding +1 to +2 Difficulty to Social rolls in formal or delicate contexts.
+
+### Mental Lock
+
+*Compel-only.* Your mind is incapable of processing or accepting one specific concept, memory, or type of information. You cannot consciously engage with that topic — when forced to do so, make a Willpower roll (Difficulty 7) or take minor of bashing damage from psychic distress.
+
+### Nightmares
+
+*Compel-only.* Terrible dreams haunt your sleep. At ●, you occasionally lose sleep and begin sessions at –1 die on your first non-combat roll. At ●●●, the nightmares are severe: you begin each session having lost sleep, and the Storyguide may at any point during the session introduce a nightmare-triggered flashback that requires a Willpower roll (Difficulty 7) to shake off.
+
+### Overconfident
+
+*Compel-only.* You always believe you are capable of more than you are, especially in your areas of expertise. The Storyguide may not warn you when a plan is suicidal. If you botch a roll in your area of overconfidence, the result is particularly catastrophic because you took no precautions.
+
+### Shy
+
+*Compel-only.* Large groups, strangers, or public attention make you uncomfortable. Add +1 Difficulty to Social rolls in those situations. Spend a Willpower point to overcome your shyness for a single scene.
+
+### Soft-Hearted
+
+*Compel-only.* You cannot bear to witness suffering. You must succeed on a Willpower roll (Difficulty 6) to inflict harm on a helpless target, even an enemy. Witnessing suffering you cannot prevent costs 1 Willpower.
+
+### Speech Impediment
+
+*Compel-only.* A stutter, lisp, or other impediment slows or complicates your verbal communication. Add +1 Difficulty to Social and Expression rolls that depend primarily on spoken clarity. Magick requiring verbal components takes 1 extra turn to initiate.
+
+### Vanilla
+
+*Compel-only.* Your imagination is extremely limited. You struggle to think creatively or adapt to unusual situations. Subtract 1 die from Wits rolls and from any roll involving improvisation, lateral thinking, or creative problem-solving.
+
+### Whimsy
+
+*Compel-only.* You are prone to wild, seemingly random impulses. Once per session, the Storyguide may invoke this Flaw to have your character pursue an impulsive tangent unless you succeed on a Willpower roll (Difficulty 6).
+
+### Amnesia
+
+*Compel-only.* Large portions of your past are simply gone. You do not know your full backstory — the Storyguide holds information your character does not. This Flaw creates story hooks and may occasionally surface at inconvenient moments as fragments of suppressed memory.
+
+### Curiosity
+
+*Compel-only.* You cannot resist investigating mysteries. When presented with an unexplained phenomenon, you must succeed on a Willpower roll (Difficulty 6) to walk away from it. The Storyguide may use your curiosity to lead you into danger.
+
+### Icy
+
+*Compel-only.* Your emotional affect is flat and cold. You find forming connections with others difficult and tend to drive away people who try to get close. Add +1 Difficulty to Empathy and emotional social rolls. You gain 1 fewer Willpower point from resting per night.
+
+### Intemperate
+
+*Compel-only.* Self-control is not your strong suit. When tempted by pleasures your character enjoys, you must succeed on a Willpower roll (Difficulty 7) to resist indulging. This Flaw can overlap with Addiction and amplify its effects.
+
+### Obsession
+
+*Compel-only.* One specific subject, goal, or person dominates your attention. The Storyguide may invoke your obsession at any time to redirect your attention from the matter at hand, requiring a Willpower roll (Difficulty 7) to focus on anything else until the obsession is addressed.
+
+### Phobia
+
+*Compel-only.* You have an irrational, paralysing fear of a specific trigger (spiders, fire, the dark, open water, etc.). When confronted by it, succeed on a Willpower roll (Difficulty 8) or flee and refuse to act against the source of fear for the rest of the scene.
+
+### PTSD
+
+*Compel-only.* Past trauma resurfaces unexpectedly. The Storyguide may trigger a flashback at any dramatically appropriate moment. During a flashback, you must succeed on a Willpower roll (Difficulty 7) or be unable to act coherently for 1 turn per failure. Stimuli that remind you of the trauma add +1 Difficulty to all rolls for the rest of that scene.
+
+### Rose-Colored Glasses
+
+*Compel-only.* You see the world as better than it is. You resist believing ill of people or situations until evidence is overwhelming. The Storyguide may withhold warnings from you when danger should be obvious, and you suffer +1 Difficulty to Alertness rolls involving suspicious situations.
+
+### Vengeful
+
+*Compel-only.* You cannot forgive a serious wrong done to you. You must succeed on a Willpower roll (Difficulty 7) to refrain from seeking revenge against someone who has genuinely wronged you, even at personal risk or cost to the group.
+
+### Short Fuse
+
+*Compel-only.* You lose your temper easily and violently. When provoked, succeed on a Willpower roll (Difficulty 7) or react with immediate anger, possibly including physical violence. Once your temper fires, you may not take calm or subtle actions until you spend a Willpower point to cool down.
+
+### Absent-Minded
+
+*Compel-only.* You routinely forget things that are not immediately in front of you. You must make an Intelligence roll (Difficulty 6) to remember to bring the item or information you need at any given moment. Extended tasks requiring sustained mental tracking take longer for you.
+
+### Bigot
+
+*Compel-only.* You hold a deep prejudice against a specific group (Tradition, species, ethnicity, political alignment, etc.). When dealing with members of that group, add +2 Difficulty to Social rolls. You may also act against your own interests when your prejudice is triggered unless you spend a Willpower point to override it.
+
+### Chronic Depression
+
+*Compel-only.* Persistent low mood saps your motivation and energy. You begin each session with 1 fewer Willpower point than your maximum, and the Storyguide may invoke depressive episodes at dramatically appropriate moments that reduce your dice pools by 1 for the rest of that scene.
+
+### Deranged
+
+*Compel-only.* A specific mental disorder shapes your behaviour in ways that regularly create problems. Work with the Storyguide to define the exact nature of the disorder. The Storyguide may invoke the disorder once per session without triggering a Willpower roll option — the derangement simply takes hold.
+
+### Driving Goal
+
+*Compel-only.* You have an overriding long-term objective that colours every decision you make. When a course of action conflicts with your Driving Goal, you must succeed on a Willpower roll (Difficulty 7) to set the goal aside temporarily. The Storyguide may create complications based on your goal's single-minded pursuit.
+
+### Extreme Kink
+
+*Compel-only.* Your personal desires or appetites run to extremes that can create social, legal, or supernatural complications. Work with your Storyguide to define its nature. Once per session, this Flaw may create an opportunity for the Storyguide to introduce complications based on your appetites.
+
+### Feral Mind
+
+*Compel-only.* Your thinking is more instinctual than rational. Add +1 Difficulty to rolls requiring sustained logic, planning, or intellectual subtlety. In combat or under stress, however, you may add 1 die to purely instinctual reactions (Alertness, Dodge).
+
+### Flashbacks
+
+*Compel-only.* Past experiences periodically overwhelm your present awareness. Similar to PTSD but more intense: when triggered, you relive an event so vividly that you cannot distinguish it from present reality. Spend a Willpower point or be effectively absent from the current scene for 1 turn per point of Willpower you lack (to a maximum of 5 turns).
+
+### Hatred
+
+*Compel-only.* You have a deep, consuming hatred of a specific person, group, or type of being. When confronted by the object of your hatred, you must spend a Willpower point to avoid acting on that hatred immediately. The Storyguide may use this Flaw to create dramatic confrontations.
+
+### Lifesaver
+
+*Compel-only.* You will not allow the death of an innocent if you can prevent it, even at serious personal risk. When an innocent is in mortal danger, you must succeed on a Willpower roll (Difficulty 8) to leave them to their fate. This applies even to enemies who have been rendered helpless.
+
+### OCPD
+
+*Compel-only.* Obsessive-Compulsive Personality Disorder: your need for order, control, and perfection is pathological. When faced with disorder or imperfection you cannot immediately correct, add +1 Difficulty to all rolls for the rest of that scene. Spend a Willpower point to set the compulsion aside temporarily.
+
+### Stress Atavism
+
+*Compel-only.* Extreme stress reverts you to a more primitive behavioural state. When your health drops to Wounded or worse, or when you suffer a significant social or magickal shock, roll Willpower (Difficulty 7). Failure means you revert to a state of instinctual, emotion-driven behaviour for 1 scene — you cannot perform complex magick, take subtle social actions, or follow orders that conflict with immediate survival instinct.
+
+### Ability Deficit
+
+*Compel-only.* One specific Ability that should be within your character's reach is simply beyond you. Choose an Ability with Storyguide approval: you may never purchase it, and if it is ever required for a roll, you always roll at the unskilled penalty (+1 Difficulty). This Flaw represents a genuine cognitive or physical block, not mere lack of training.
+
+---
+
+### Blacklisted
+
+*Compel-only.* You are formally excluded from one or more organisations, communities, or regions. The severity reflects the scope and power of those who have blacklisted you. At minor, a minor local exclusion. At extreme, you are barred from the major institutions of the Awakened world and hunted if you attempt to use their resources.
+
+### Compulsive Speech
+
+*Compel-only.* You cannot keep quiet when you should. At ●, you habitually share information others wish you would keep to yourself. At ●●, the compulsion is severe — you must succeed on a Willpower roll (Difficulty 7) to stay silent in situations where silence is critical.
+
+### Conflicting Loyalties
+
+*Compel-only.* You owe genuine obligations to two or more groups whose interests regularly conflict. The severity reflects how serious and irreconcilable those conflicts are. The Storyguide will create situations where you cannot satisfy both obligations simultaneously.
+
+### Conniver
+
+*Compel-only.* You always look for an angle. Even when cooperation would be more effective, you instinctively seek personal advantage. When offered a straightforward deal, you must succeed on a Willpower roll (Difficulty 6) to take it at face value rather than trying to improve your position.
+
+### Cultural Other
+
+*Compel-only.* Your background, ethnicity, religion, or identity marks you as an outsider in the dominant culture of your setting. The severity varies of discrimination and the practical disadvantages it creates. This Flaw has genuine in-world social consequences that the Storyguide should apply consistently.
+
+### Dark Secret
+
+*Compel-only.* You have a secret that would seriously damage your reputation, relationships, or safety if revealed. Define the secret with your Storyguide. The Storyguide may introduce situations where the secret is in danger of exposure.
+
+### Debts
+
+*Compel-only.* You owe significant favours or financial obligations to one or more powerful individuals. Periodically the Storyguide will call these debts in at inconvenient moments. Failing to meet an obligation may escalate the Flaw's impact.
+
+### Discredited
+
+*Compel-only.* Your reputation within your field or community has been publicly damaged. Add +1 Difficulty to Social rolls with members of that community, and requests for resources or cooperation are received with scepticism until you demonstrate your worth.
+
+### Enemy
+
+*Compel-only.* Someone actively opposes you. The severity reflects their power and dedication. At minor, a minor nuisance who can create complications. At extreme, a powerful, resourceful, and relentless foe who has made your destruction a priority.
+
+### Esoteric Discourse / Technobabbler
+
+*Compel-only.* You default to the specialised jargon of your Paradigm or technical field, even when speaking to outsiders. Non-specialists often cannot understand what you are saying. Add +1 Difficulty to Social rolls involving clear communication with those outside your field.
+
+### Family Issues
+
+*Compel-only.* Your family relationships are a source of ongoing complication — estrangement, obligation, active conflict, or a family secret that draws unwanted attention. The Storyguide will introduce family-based complications at dramatically appropriate moments.
+
+### Infamy
+
+*Compel-only.* You are notorious for something shameful or criminal. Members of the community where your infamy is known treat you with hostility, suspicion, or contempt. Add +2 Difficulty to most Social rolls in that community, and you may be refused service or assistance entirely in some situations.
+
+### Insane / Infamous Mentor
+
+*Compel-only.* Your mentor is widely regarded as dangerous, unstable, or corrupt. Their reputation reflects on you. Add +1 Difficulty to Social rolls with those who know your mentor's reputation, and you may be tarred with their misdeeds.
+
+### Mistaken Identity
+
+*Compel-only.* You are frequently confused with someone else — an enemy, a criminal, a deceased mage, or anyone else likely to cause you social complications. The Storyguide will periodically create situations based on this mistaken identity.
+
+### Naive
+
+*Compel-only.* You are inexperienced with the world's darker aspects. Add +1 Difficulty to Streetwise and Subterfuge rolls. When someone is deceiving you, the Storyguide need not warn you when the deception should be obvious.
+
+### New Kid
+
+*Compel-only.* You are new to your community, organisation, or city. You have no established reputation, few contacts, and no social capital. You must earn trust and respect through play; the Storyguide starts you without the benefit of the doubt in any community-related Social roll.
+
+### Offline
+
+*Compel-only.* You have no functional digital presence — no phone, no internet access, no digital identity. You cannot use modern communication networks or access digital information. This is a significant practical disadvantage in the modern world.
+
+### Rival House
+
+*Compel-only.* A specific faction, House, or sub-group within your own organisation considers you a rival to be undermined. They will oppose your proposals, spread unflattering rumours, and work against your advancement — while maintaining the appearance of being on the same side.
+
+### Sect Enmity
+
+*Compel-only.* A specific sect or faction outside your organisation has declared you an enemy. Members of that sect will not cooperate with you and may actively oppose your activities. Define the sect with your Storyguide.
+
+### Special Responsibility
+
+*Compel-only.* You have an ongoing obligation — a ward, a Node, a protected community — that requires regular time and attention. Neglecting this responsibility creates story complications. The Storyguide will invoke this Flaw when your responsibility is at risk.
+
+### Sympathizer
+
+*Compel-only.* You are known to have sympathy for a faction that your primary community views as an enemy. This creates distrust among your allies and may attract unwanted attention from both sides. You suffer +1 Difficulty to Social rolls with those who know your leanings.
+
+### Twisted Apprenticeship
+
+*Compel-only.* Your mentor taught you poorly, incorrectly, or with deliberate malice. You have incorrect assumptions about one aspect of Awakened life (Storyguide's choice) that will surface at the worst possible moments. Additionally, your mentor may still hold influence over you — emotionally, magickally, or socially.
+
+### Catspaw
+
+*Compel-only.* An unknown or known power uses you as an instrument for their own ends, sometimes without your knowledge. The Storyguide may introduce moments where your actions — perhaps even your magick — serve someone else's agenda. Discovering and breaking this relationship is a significant story goal.
+
+### Diabolical Mentor
+
+*Compel-only.* Your mentor is genuinely evil — Nephandic, power-hungry, or casually cruel. They have invested in your development for their own reasons. Their influence on your Paradigm and practices may be corrupting, and they may call on you to perform acts that conflict with your values.
+
+### Dogmatic
+
+*Compel-only.* Your beliefs are rigid and non-negotiable. You cannot consider heterodox approaches to your Paradigm. When a situation demands flexibility in your worldview, you must spend a Willpower point to act against your established doctrine, and even then you feel profound discomfort.
+
+### Double Agent
+
+*Compel-only.* You serve two masters. Both believe you are loyal to them. The Storyguide knows the full situation; your character may or may not. This Flaw creates ongoing tension and will eventually demand a crisis of loyalty.
+
+### Failure
+
+*Compel-only.* Something you did in the past ended in catastrophic failure, and the community knows it. Add +1 Difficulty to Social rolls in communities where the failure is known, and the Storyguide may introduce NPCs who bring it up at inopportune moments.
+
+### Gullible
+
+*Compel-only.* You are easily deceived. When someone lies to you convincingly, the Storyguide need not warn you and may actively support the deception. Add +1 Difficulty to rolls to detect deception through Empathy or Alertness.
+
+### Old Flame
+
+*Compel-only.* A past romantic relationship complicates your life. The other person may still have feelings, bear a grudge, or simply appear at the worst possible times. The Storyguide will use this Flaw as a social complication at dramatic moments.
+
+### Troublemaker
+
+*Compel-only.* You have a reputation for causing problems, even when you do not intend to. Authorities and institutions view you with automatic suspicion. Add +1 Difficulty to Social rolls with figures of authority who have heard of you.
+
+### Expendable
+
+*Compel-only.* Your organisation views you as replaceable. When you need resources, backup, or rescue, your superiors are slow to act. In a crisis, the Storyguide may have institutional support delayed or absent entirely.
+
+### Narc
+
+*Compel-only.* You are known to have informed on others — to the Technocracy, a rival faction, or mundane authorities. The underground community does not trust you. Add +2 Difficulty to Social rolls with those who know your reputation; some will refuse to deal with you at all.
+
+### Notoriety
+
+*Compel-only.* You are known — badly — across a wide community. Add +1 Difficulty to Social rolls in any community where your notoriety has spread, and the Storyguide may introduce complications based on your reputation appearing ahead of you.
+
+### Rivalry
+
+*Compel-only.* A peer of roughly equal ability is your established competitor. They will oppose you professionally, socially, and possibly physically. The Storyguide will use this rival as an antagonist and obstacle at regular intervals.
+
+### Rotten Liar
+
+*Compel-only.* Your tells are obvious to anyone paying attention. Add +2 Difficulty to Subterfuge rolls to lie convincingly. When you fail a deception roll, the failure is immediately apparent — the target knows you are lying.
+
+### Sleeping with the Enemy
+
+*Compel-only.* You have a close personal relationship — romantic, familial, or deeply collegial — with someone from a faction that your community considers an enemy. Both communities may treat you with suspicion, and the relationship creates ongoing moral and practical complications.
+
+### Ward
+
+*Compel-only.* You are responsible for a vulnerable person — a child, an injured mage, a Sleeper who has witnessed too much. Their safety limits your freedom of action, and the Storyguide will place your ward in danger at dramatically appropriate moments.
+
+### Echo Chamber
+
+*Compel-only.* You surround yourself only with those who agree with you and reflexively dismiss outside perspectives. When presented with evidence that contradicts your worldview, succeed on a Wits roll (Difficulty 7) or reject the evidence without genuine consideration.
+
+### Hit List
+
+*Compel-only.* You appear on the active elimination list of a powerful organisation — the Technocracy, the Nephandi, a vampire Prince, or similar entity. They send operatives after you periodically. The Storyguide introduces pursuit or assassination attempts at dramatically appropriate moments.
+
+### Mr. Red Tape
+
+*Compel-only.* Bureaucratic systems simply do not work for you. Every institutional process takes three times longer than expected, requires additional documentation, and involves unexpected complications. The Storyguide may invoke this Flaw whenever official channels are involved.
+
+### Overextended
+
+*Compel-only.* You have taken on more obligations than you can comfortably fulfil. The Storyguide will periodically force you to choose between competing obligations, and failing to meet any one of them creates escalating consequences.
+
+### Probationary Member
+
+*Compel-only.* Your standing in your organisation is conditional. You are under observation and must regularly demonstrate your loyalty and competence. Missteps are scrutinised more heavily, and your access to organisational resources is restricted.
+
+### Rogue
+
+*Compel-only.* Your organisation has formally declared you a rogue or traitor. They will not provide resources, backup, or sanctuary. Some members may actively hunt you. Establishing a new affiliation requires extensive in-game effort.
+
+### Witch-Hunted
+
+*Compel-only.* You have drawn the serious attention of Sleeper hunters — government operatives, religious extremists, or organised conspiracy theorists — who have identified you as genuinely supernatural. They watch you, pursue you, and may attempt to capture or eliminate you. This is separate from standard Technocratic interest.
+
+### Fifth Degree
+
+*Compel-only.* You carry the formal censure of your sect at the highest level. You are barred from all sect resources, your name is a warning to new initiates, and the most loyal members of your sect will actively oppose you. This Flaw can only be bought off through extraordinary acts of service and formal restoration — a significant story arc.
+
+---
+
+### Construct
+
+*Compel-only.* Your character has an uncanny quality — a cyborg, clone, artificial person, heavily modified human, or something else that does not quite read as "natural" to other people. Even people who cannot articulate why feel that something is off.
+
+Subtract 2 dice from social rolls in situations where naturalness, spontaneous humanity, or emotional authenticity are important. This Flaw is automatically included when a character takes 3 or more dots of the Enhancement Background through non-Technocracy methods.
+
+**Tags:** [Uncanny], [Isolated]
+
+**Invoke:** [Uncanny] when your unsettling nature causes people to recoil or remain at arm's length — use it when you need to clear a space or unsettle someone.
+
+**Compel:** [Uncanny] when people shut down, become hostile, or simply refuse to engage because something about you sets off their instincts. The Storyguide may compel this freely in social situations where naturalness and human warmth are the currency.
+
+### Eccentric
+
+*Compel-only.* An unsettling habit or belief inflicts a +2 penalty on Social rolls to make a positive first impression. At minor it is a personal hindrance you can suppress for short periods; at moderate it is a belief or compulsion that colors your public life and is almost impossible to hide.
+
+### Financial Partner
+
+*Compel-only.* *Prerequisite: Resources •••• or higher.* One or more individuals monitor and limit your Resources. At moderate (major if your Resources are 7 or higher), the Partner can temporarily reduce your Resources Background by the Flaw's value once per story arc. At major (severe if Resources 7+), the Partner can scrutinize and cap your access outright: you must justify major expenditures, and they can block any that run against their interests. Repeatedly evading them may provoke a hostile takeover — anything from litigation to assassination.
+
+### Anachronism
+
+*Compel-only.* Your beliefs, mannerisms, and expectations are radically out of step with your surroundings — whether from time travel, temporal Paradox, unusually assertive past lives, or deliberate affectation. At minor, occasional awkwardness. At moderate, you struggle with modern technology and social norms, adding +2 Difficulty to relevant rolls. At major, you may be unable to process certain contemporary concepts at all and require a companion to navigate the modern world. This Flaw can be bought down through acclimation during play.
+
+### Apprentice
+
+*Compel-only.* You are responsible for a student whose behaviour and competence directly affect your reputation and wellbeing. At minor, an ideal cooperative student who takes little time. At major, a clueless student who consumes significant time and creates social problems. At extreme, an obstinate, dangerous, and disgraceful liability. The apprentice is a full character with their own agenda; with sustained effort and Storyguide approval, you can buy this Flaw down as your apprentice improves.
+
+### The Bard's Tongue
+
+*Compel-only.* You cannot lie. A curse or metaphysical quirk compels you toward honesty, and your words sometimes carry prophetic weight even when you did not intend them to. Spend a Willpower point to stay silent in situations where truth is dangerous, or take minor of bashing damage from the psychic distress of suppressing a truth that "must" be said.
+
+### Cast No Shadow or Reflection
+
+*Compel-only.* Your shadow and/or reflection are absent. At ●, one is missing. At ●●, both are gone. Technological recording devices capture this phenomenon. Most people do not notice consciously, but they feel uneasy in your presence. Add +1 Difficulty to Social rolls generally, and +2 Difficulty if a witness makes a successful Awareness roll and identifies the source of their unease.
+
+### Cursed
+
+*Compel-only.* See Mage 20, p. 646 for baseline. The curse prevents a specific action or creates an automatic harmful consequence when you act in a certain way. The severity reflects the frequency and severity of the curse's effects. Work with your Storyguide to define the exact nature of the curse.
+
+### Devil's Mark
+
+*Compel-only.* A metaphysical event has left a visible deformation — a third nipple, a dark sigil embedded in flesh, a vaguely demonic growth — that witch-hunters and folk tradition recognize as a "devil's mark." The mark is insensate and can be used to drain Quintessence from your body by certain supernatural beings. You may nurture a Familiar at this mark without physical discomfort, but the mark creates social complications when seen.
+
+### Echoes
+
+*Compel-only.* See Mage 20, pp. 646–647. Reality warps subtly around you in ways tied to your Sphere affinities, creating coincidences, freak occurrences, and low-level weirdness you cannot control.
+
+### Paranormal Prohibition or Imperative
+
+*Compel-only.* A magickal oath, curse, or legacy forbids you from doing something or compels you to do something regularly. The base cost (moderate) reflects how easily you could break the prohibition or fail the imperative. Additional points (1–5) are added for the severity of consequences if you violate it: +1 for an inconvenient consequence (botched rolls, rashes), +2 for annoying penalties (loss of voice, dice penalties), +3 for painful consequences (blindness, loss of Attribute dots, the Oathbreaker Tag), +4 for crippling consequences (Avatar abandonment, multiple Attribute loss), +5 for fatal consequences (death or Otherworldly punishment). Work with your Storyguide to define the prohibition and its consequences in detail.
+
+### Gremlin
+
+*Compel-only.* A troublesome entity — a malfunctioning construct, a mischievous spirit, a vitally-bonded companion who causes chaos — shares your life and creates regular problems. At minor, trivial annoyances. At major, notable damage to property and relationships. At extreme, a being of significant power whose effects are inescapably destructive. Unlike an outright enemy, you bear responsibility to this creature — how you treat it shapes how this Flaw evolves during play.
+
+### Locked Vidare
+
+*Compel-only.* Your perception of the Otherworldly Penumbra is frozen in a single mode — Astral, Spiritus, or Mortem — and cannot be shifted by will or effort. This locks you into seeing the Umbra through a single lens, shaping your philosophical and magickal perspectives in ways that can be as limiting as they are defining.
+
+### Strangeness
+
+*Compel-only.* Your metaphysical powers occasionally warp reality near you without your direction or consent. The Storyguide rolls your casting rating against Difficulty 6 once or twice per session. On a success, a random Sphere-flavoured quirk occurs. On a botch, 1 Paradox point per dot in your Affinity Sphere is expelled in a small backlash, potentially at an inconvenient moment.
+
+### Throwback
+
+*Compel-only.* Past-life memories or traumas surface and affect your present behaviour. For each point in this Flaw, the Storyguide rolls one die (Difficulty 8) when a triggering situation arises; the more hits, the stronger the past life's influence. Three hits or more requires a Willpower roll (Difficulty 8) to suppress the reaction. Flashbacks, inappropriate language, phobic responses from ancient traumas — all are possible expressions of this Flaw.
+
+### Uncanny
+
+*Compel-only.* You are unmistakably memorable in a deeply unsettling way. Each point in this Flaw adds 1 die to any attempt by others to notice, recognise, or track you. At minor, you stand out in a crowd. At extreme, people fear you simply for existing. You may attempt to suppress your uncanniness with an Intelligence + Subterfuge roll, but some manifestations (disembodied voices, dying grass in your shadow) cannot easily be concealed.
+
+### Vulnerability
+
+*Compel-only.* A specific substance or condition causes you extraordinary harm. The base Flaw has two potential severity levels: Weakening (1 aggravated health level per turn of contact) or Mortal Peril (3 aggravated health levels per turn). The point cost depends on how common the substance is and which severity applies. Work with your Storyguide to define the substance and its availability in your setting.
+
+### Bizarre Hunger
+
+*Compel-only.* You require a strange or difficult-to-obtain substance to survive or maintain your power. The severity reflects how strange, how scarce, and how socially problematic the substance is. If you go too long without it, you begin to suffer Attribute penalties (1 die per day after the first missed feeding) until you obtain it.
+
+### Blood-Hungry Soul
+
+*Compel-only.* Something in your nature craves blood — not vampiric sustenance, but a metaphysical hunger that shapes your magickal focus and draws you toward violent or sacrificial practices. At moderate, a strong preference that requires Willpower to resist. At major, the hunger influences your dreams and magick. At extreme, you must expend a Willpower point to perform magick that does not involve blood in some way.
+
+### Crucial Component
+
+*Compel-only.* Your magick requires a specific, difficult-to-obtain ingredient or instrument that you cannot substitute. Without it, all your casting rolls suffer +2 Difficulty. The severity reflects how rare, expensive, or dangerous the component is to obtain.
+
+### Faulty Enhancements
+
+*Compel-only.* Technocratic or Hermetic enhancements to your body or pattern are unstable. They function normally most of the time, but the Storyguide may, once per session, trigger a malfunction that causes the enhancement to fail, work against you, or draw dangerous attention. The severity reflects the enhancement's power level and the malfunction's potential consequences.
+
+### Jinx / Infernal Contraption
+
+*Compel-only.* Devices, machinery, and technology regularly malfunction in your presence — not by your choice. The severity reflects how powerful and how frequent the jinx effect is. At moderate, occasional minor glitches. At variable, sophisticated electronics fail reliably near you. At variable, your very presence is an environmental hazard to complex technology. This Flaw can also apply to magickal Wonders you did not craft yourself.
+
+### Permanent Paradox Flaw
+
+*Compel-only.* You carry a fixed Paradox manifestation that will not go away without extraordinary magickal intervention. At moderate, a minor persistent quirk (mild Echoes, a cosmetic oddity). At severe, a significant ongoing manifestation (Strangeness, a notable physical alteration). At variable, a major permanent flaw (a constant vulnerability, a visible inhuman feature, or a recurring Paradox backlash). Work with your Storyguide to define the specific manifestation.
+
+### Branded
+
+*Compel-only.* A supernatural mark or metaphysical signature on your Pattern is visible to those with Prime, Spirit, or Entropy perception. The brand identifies you to those who know what it means — which may include enemies, hunters, or rival factions. At major, the brand is visible only to skilled supernatural perception. At extreme, it is visible to any mage using even basic Aura Reading.
+
+### Demented Eidolon
+
+*Compel-only.* Your Avatar is not a guiding, wise presence — it is fractured, bitter, or actively malicious. It provides poor guidance, leads you toward Quiet, and the Storyguide may use it as an antagonist voice in your internal monologue. Seeking through this Avatar is particularly dangerous; the Storyguide designs any Seekings your character undergoes with the Eidolon's opposition factored in.
+
+### Haunted
+
+*Compel-only.* Ghosts or hostile spirits are drawn to you and plague your existence. They attempt to communicate with you, manipulate you, or harm you depending on their nature. The Storyguide will introduce hauntings at regular intervals, especially in emotionally charged situations or near places of death.
+
+### Primal Marks
+
+*Compel-only.* Your body carries marks of the spirit world — visible to supernatural perception and sometimes to naked eyes. Certain beings react to these marks with fear, reverence, or hostility depending on their nature. You may not be able to enter certain sacred or warded spaces that exclude beings with strong spiritual signatures.
+
+### Oathbreaker
+
+*Compel-only.* You have violated a significant metaphysical oath and your reputation among the Awakened reflects this. Until you undergo appropriate atonement, you suffer +1 Difficulty to all Social rolls with Awakened beings who know of your oath-breaking. Some will refuse to swear oaths with you at all. The Flaw can be bought off only through genuine in-game atonement, not experience points alone.
+
+### Prone to Quiet
+
+*Compel-only.* Your mind and Avatar are particularly susceptible to the strain of paradox and failed magick. You are more likely to enter Quiet than other mages. Whenever you botch a casting roll, roll Willpower (Difficulty 8) or begin sliding toward the form of Quiet most appropriate to your Paradigm. The Storyguide determines the nature and progression of your personal Quiet.
+
+### Beast Within
+
+*Compel-only.* An animalistic, violent force inhabits your soul. When under significant stress — physical danger, emotional extremity, or extreme hunger — you must spend a Willpower point or partially lose control to this inner beast. While the beast has partial control, you add 2 dice to physical attack rolls but cannot perform complex magick, take subtle social actions, or refrain from violence once it begins.
+
+### Blood Magick
+
+*Compel-only.* Your magick is powered by blood, yours or others'. You can perform magick without blood as normal, but your Paradox accumulates 1 additional point per magickal effect you perform without a blood component. Blood-based casting reduces this accumulation entirely and grants 1 additional die on the casting roll.
+
+### Bound
+
+*Compel-only.* A supernatural entity, oath, or metaphysical anchor tethers you to a specific location, person, or obligation. You cannot travel beyond a certain range or violate specific conditions without supernatural consequence (loss of magickal ability, physical pain, or Paradox accumulation). Define the binding's nature with your Storyguide.
+
+### Dark Fate
+
+*Compel-only.* Your future contains something terrible and more or less inevitable. The Storyguide knows what it is; you may sense it but not see it clearly. This Flaw grants immunity to Derangements caused by that specific fate's proximity — you have made a kind of peace with the knowledge. However, attempts to use magick to change or avoid your fate require an additional success on the casting roll and may be impossible in certain ways.
+
+### Faithless
+
+*Compel-only.* You have broken faith with the divine source of your magick. Until you atone and formally re-dedicate yourself to your Path, your Sphere ratings are effectively capped at Rank 1. You can perceive the Awakened world but cannot access your full power. Buying off this Flaw requires in-game atonement appropriate to your Paradigm plus the five-point experience cost.
+
+### Immortal Enemy
+
+*Compel-only.* You have created an enemy whose concept of a grudge is literally eternal — a vampire elder, demon, demigod, totem spirit, or similar being measured in centuries. At extreme, a powerful but not omnipresent foe. At variable, a being of near-legend with effectively unlimited resources and a dedicated hatred for you specifically. This enemy will outlive any attempt to simply wait out the conflict.
+
+### Psychic Vampire
+
+*Compel-only.* You drain life-force from your surroundings. Any character in physical contact with you for an hour or more loses 1 health level to bashing damage. If you cannot absorb others' life-force, you lose health levels yourself (1 per day at Bruised, escalating). Life Sphere healing effects suffer +2 Difficulty; corruptive or damaging Life effects gain –2 Difficulty. Absorbing another's life-force through Life Sphere magick heals you one health level per level inflicted or delays your own starvation by one day.
+
+### Bedeviled
+
+*Compel-only.* A mysterious and seemingly inexhaustible power has decided to make your life a chronicle of setbacks, misfortune, and cruel jokes. This is beyond curse or bad luck — it is dedicated supernatural persecution. The Storyguide has a license to give your character the starring role in whatever the worst possible version of any given situation might be. There is presumably a reason and a way to end it — but discovering both is the work of a significant story arc.
+
+### Sphere Inept
+
+*Compel-only.* One specific Sphere eludes you completely. It costs 130% of normal (rounded up) to advance in that Sphere. Rank 1 costs 13 XP instead of 10. Ranks 2–5 cost proportionally more. This Flaw manifests in your practice and backstory — someone inept at Time has a genuinely dysfunctional relationship with schedules and timing.
+
+### Phylactery
+
+*Compel-only.* Your magick — and possibly your soul — resides in a separate physical object, location, or living being. You cannot perform Sphere magick without physical access to your phylactery. If it is destroyed, your ability to use magick in this life is destroyed with it. On the positive side: your Avatar cannot be subject to Gilgul as long as your phylactery is safe, your consciousness can survive your body's destruction until the phylactery is also destroyed, and a living phylactery maintains a constant empathic bond with you. However, you must be obvious about using it, and it can be stolen, damaged, or held hostage. Creating a true phylactery requires Correspondence 5 / Prime 5 / Spirit 5 / Mind 4, plus Matter 4 for an inanimate item, Life 5 for a living being.
+
+### Taint of Corruption
+
+*Compel-only.* Evil has an intimate hold on your soul — possibly since birth, as with widderslainte Nephandi — and you are "of the Wyrm" whether or not you act on it. Malignant magick costs –2 Difficulty to cast (to the usual limit). Beneficial or protective magick costs +2 Difficulty. Your aura crackles with corruption visible to Prime and Spirit perception. Werewolves and similar beings may react with violent hostility. Pursuing a life of good despite this Flaw is genuinely heroic; purging the Taint entirely is a story-defining quest.
+
+---
+
+---
+
 # Appendix K: Sanity — The Fraying Edge of the Awakened Mind
 
 Mages see too much. That is the plain truth beneath every poetic account of Awakening, every description of the Spheres opening like flowers in the mind. To perceive the Tapestry as it truly is — infinite, alive, deeply indifferent, and occasionally actively malevolent — is to subject the human mind to pressures it was never designed to bear. Most Sleepers are protected from this by the consensus reality that mages struggle to transcend. The Awakened have no such protection. They bought clarity with sanity, and the ledger keeps running.
@@ -13849,41 +14428,40 @@ A note on the casting pools: Sasha’s primary casting attribute is Resolve, whi
 
 His Arete of ●●●● (4) means no Sphere can exceed 4 dots. He cannot attempt effects that require Sphere 5 until he completes a Seeking that raises his Arete to 5. Arete does not add dice to any pool — it is a cap and a gate.
 
-## Part Two: Merits, Flaws, and Tags -- Finishing Touches
+## Part Two: Edges, Powers, and Tags — Finishing Touches
 
-After building Sasha through Paths, the player spends his 7 Creation Points on Merits and optional extras. This section walks through every decision and shows exactly how each Merit functions as a Tag -- mechanically and narratively -- during the encounter in Part Six.
+After building Sasha through Paths, the player spends his 5 Edge dots on the advantages that define him, then considers a drawback Tag or two. This section walks through every decision and shows exactly how each Edge and Tag functions -- mechanically and narratively -- during the encounter in Part Six.
 
-Recall: in Storypath Ultra, Merits are not separate mechanical systems. They are named Tags. A Tag has an Invoke condition (when you trigger it for +Enhancement dice) and often a Compel condition (when the Storyguide triggers it to create a complication). Merits happen to be Tags you paid for at character creation. Flaws are Tags that the Storyguide has standing permission to Compel -- they represent genuine weaknesses, not just flavour.
+Recall the shape of the system: an **Edge** is a dot-rated advantage bought at creation; each names when it helps (an Invoke, adding Enhancement dice) and often when it can complicate you (a Compel). A **drawback Tag** is compel-only -- the Storyguide has standing permission to compel it, it costs nothing to take, and it refunds nothing. Its worth is the Momentum it hands you when it bites.
 
-### Sasha's Creation Point Purchases
+### Sasha's Edges
 
 ```
-Sasha Volkov -- Step Five Creation Points
------------------------------------------
-STARTING POOL: 7 Creation Points
+Sasha Volkov -- Step Five: 5 Edge Dots
+--------------------------------------
+EDGE POOL: 5 dots
 
-PURCHASE 1 -- Merit: Combat Veteran (3-dot) ... Cost: 4 CP
-Tag definition: [Combat Veteran]
+EDGE 1 -- Combat Veteran (Edge ●●●)
   INVOKE: +2 dice on any combat-adjacent Awareness or initiative roll (spotting ambushes, reading enemy positioning, assessing threat priority). Once per scene.
   COMPEL: Storyguide may trigger a "soldier first, mage second" reflex -- Sasha defaults to close combat or direct action instead of a more elegant magical solution. Costs 1 Momentum to override.
   Why Sasha has it: Seven years of post-Awakening life have not erased fifteen years of military muscle memory. When the shooting starts, his body knows what to do before his mind catches up.
 
-PURCHASE 2 -- Merit: Iron Stomach (1-dot) ... Cost: 2 CP
-Tag definition: [Iron Stomach]
+EDGE 2 -- Iron Stomach (Edge ●)
   INVOKE: +1 die on Stamina-based rolls involving deprivation, harsh conditions, or resisting ingested substances (poisons, drugs, contaminated food). Once per session.
   COMPEL: Storyguide may describe Sasha as genuinely indifferent to food quality, comfort, or environmental conditions -- useful for characterisation and occasionally inconvenient when social situations demand otherwise.
-  Why Sasha has it: A veteran of rough deployments learns not to be precious about what he eats or where he sleeps. This is as much a mark of character as it is physical resilience.
+  Why Sasha has it: A veteran of rough deployments learns not to be precious about what he eats or where he sleeps.
 
-REMAINING: 1 CP unspent -- banked for session 2 (1 CP = 1 Background dot if spent then)
+FIFTH DOT -- traded for 2 points of starting Quintessence (an Edge dot may be traded for a Rote, a Bond dot, or 2 Quintessence).
+TOTAL: 4 dots of Edges + 1 dot traded = 5 / 5.
 
-FLAWS: 0 purchased at creation. The player declined Flaws, accepting no bonus CP. The Storyguide has noted that Sasha's existing tags ([Unsettled] after his first encounter, [Bloodied] in heavy fights) function as situational Flaw-like Compels without requiring a formal Flaw purchase.
+DRAWBACK TAGS: none taken at creation. They cost nothing and refund nothing, so the choice is purely about play -- and Sasha will pick some up in play anyway ([Unsettled] after his first bad Backlash, [Bloodied] in heavy fights), which compel identically to a chosen drawback Tag.
 ```
 
 ### How These Tags Work in the Encounter (Part Six)
 
-Here is the precise mechanical effect of each Merit Tag during the Cold Storage encounter. Cross-reference with the round-by-round breakdown in Part Six to see these moments in context.
+Here is the precise mechanical effect of each Edge during the Cold Storage encounter. Cross-reference with the round-by-round breakdown in Part Six to see these moments in context.
 
-> MERIT TAG IN ACTION -- [Combat Veteran]
+> EDGE IN ACTION -- [Combat Veteran]
 > 
 > Trigger: Round 1, before action order is determined. Sasha's player declares he is reading the room.
 > 
@@ -13895,7 +14473,7 @@ Here is the precise mechanical effect of each Merit Tag during the Cold Storage 
 > 
 > Note: [Combat Veteran] is now spent for this scene. The Invoke is once-per-scene, not once-per-round. The player chose the right moment.
 
-> MERIT TAG AS PASSIVE FLAVOUR -- [Iron Stomach]
+> EDGE AS PASSIVE FLAVOUR -- [Iron Stomach]
 > 
 > Mechanical trigger: Not used in this encounter (no Stamina deprivation rolls, no toxins). The tag sits on the sheet, ready but unnecessary.
 > 
@@ -13921,59 +14499,56 @@ Here is the precise mechanical effect of each Merit Tag during the Cold Storage 
 > 
 > This is the full tag loop: player invokes for mechanical advantage, Storyguide compels for narrative complication. The tag costs nothing to carry -- but it shapes every scene until it is cleared.
 
-### A Note on Purchasing Flaws for Bonus CP
+### A Note on Drawback Tags
 
-Sasha's player chose not to take Flaws at creation. Here is what it would have looked like if they had -- using a different mage as an example.
+Sasha took no drawback Tags at creation. Here is what one looks like -- using a different mage as an example. Note that a drawback Tag grants **no build points**; you take it because it makes play better.
 
-> SAMPLE FLAW PURCHASE -- Rosamund Caer-Gwyn (Verbena)
+> DRAWBACK TAG -- Rosamund Caer-Gwyn (Verbena)
 > 
-> Rosamund's player takes the Flaw: Obsession (Blood Magic) as a 3-dot Flaw for +6 CP. This gives her 13 Creation Points instead of 7 -- enough for significantly more powerful Merits.
+> Rosamund's player takes the compel-only Tag [Obsession: Blood Magic]. It costs nothing and refunds nothing -- she takes it because it is true of her, and because the Momentum it earns when compelled is worth more than any dots.
 > 
 > Tag definition: [Obsession: Blood Magic]
->   COMPEL CONDITIONS (any of the following triggers standing Storyguide permission to Compel):
+>   COMPEL CONDITIONS (any of these gives the Storyguide standing permission to compel):
 >     -- When a non-blood solution to a magical problem is available, Rosamund reflexively reaches for blood first.
 >     -- When under stress, her magic becomes visibly and unmistakably blood-based even when she intended something subtler.
 >     -- Sleepers who witness her work react with visceral fear or disgust, not just surprise.
->   INVOKE: When Rosamund performs blood magic deliberately and correctly, +2 dice. The universe responds to her commitment.
 > 
 > STORYGUIDE: "The NWO agent is injured but cooperative. You could use Mind magic to calm him. You could use Life magic to speed-heal the rapport. What does Rosamund do?"
 > 
 > PLAYER: "She reaches for her ritual knife."
 > 
-> STORYGUIDE: "I'm Compelling [Obsession: Blood Magic]. Even though Mind 3 would be faster and cleaner, Rosamund's fingers go to her belt before she thinks about it. He sees the knife and his cooperation evaporates. You can spend 1 Momentum to use Mind instead, or accept the Compel and deal with a terrified informant."
+> STORYGUIDE: "I'm compelling [Obsession: Blood Magic]. Even though Mind 3 would be faster and cleaner, Rosamund's fingers go to her belt before she thinks about it. He sees the knife and his cooperation evaporates. You can spend 1 Momentum to use Mind instead -- or accept the compel, gain a point of Momentum, and deal with a terrified informant."
 > 
 > PLAYER: "I accept. She tries to explain. She's not great at explaining."
 > 
-> This is why Flaws are worth CP: they create exactly this kind of scene. The Storyguide is not being arbitrary. The player already agreed, at character creation, that [Obsession: Blood Magic] could be used against them. Both sides get something -- the player got 6 extra CP and richer characterisation; the Storyguide gets meaningful dramatic material.
+> This is why drawback Tags earn their keep. The Storyguide is not being arbitrary -- the player agreed, at creation, that [Obsession: Blood Magic] could be used against her. Both sides win: the player banks Momentum and richer characterisation; the Storyguide gets meaningful dramatic material.
 
-### The Creation Points Recap -- What Every Spend Buys
+### The Edge-Dot Recap -- What Every Dot Buys
 
 ```
-Step Five Creation Points -- Full Reference
--------------------------------------------
-7 STARTING POINTS -- all characters begin with 7
+Step Five -- Full Reference
+---------------------------
+5 EDGE DOTS -- all characters begin with 5 (Storyguide may set 3 for grit or 7 for heroism)
 
-WHAT YOU CAN BUY:
-  1 CP = 1 dot in any Background (Avatar, Chantry membership, Allies, Resources, Contacts, etc.)
-  2 CP = a 1-dot (minor) Merit Tag (Invoke: +1 die, once per scene or session)
-  4 CP = a 3-dot (major) Merit Tag (Invoke: +2 dice, or a stronger passive effect)
-  6 CP = a 5-dot (significant) Merit Tag (unique ability, permanent passive, or strong Invoke)
-  2 CP = an extra Rote (beyond the 3 granted by your Major Path)
-  2 CP = upgrade one Bond from 1 to 2 (or 2 to 3)
-  1 CP = 1 dot of starting Quintessence (beyond base)
+WHAT AN EDGE DOT BUYS:
+  1 dot  = 1 dot of any Edge (Appendix V) -- a knack, a resource (Resources, a
+           Chantry, a Node, Allies, Contacts), or standing. Edges run ● to ●●●.
+  trade  = instead of an Edge dot you may take: 1 extra Rote; +1 to a Bond (max 3);
+           or 2 starting Quintessence (max = Arete).
 
-GAINING BONUS CP FROM FLAWS:
-  1-dot Flaw = +2 CP  (minor Compel, situational)
-  3-dot Flaw = +6 CP  (moderate Compel, regular)
-  5-dot Flaw = +10 CP (major Compel, central to character)
+POWERS (Appendix V):
+  Bought from starting experience at a flat cost, and only with Storyguide approval.
+  Reserved for the genuinely supernatural (bound spirit, immortality, True Faith).
 
-CAP: No character may take Flaws worth more than +10 CP total. No single Flaw category may be taken more than once.
+DRAWBACK TAGS (Appendix J):
+  Free. Take any that fit the concept. No build points gained; their value is the
+  Momentum they earn when the Storyguide compels them.
 
 SASHA'S SPEND:
-  [Combat Veteran] (3-dot Merit)   -- 4 CP
-  [Iron Stomach]   (1-dot Merit)   -- 2 CP
-  1 CP banked for session 2        -- 1 CP
-  TOTAL SPENT: 7 / 7
+  Combat Veteran (Edge ●●●)        -- 3 dots
+  Iron Stomach   (Edge ●)          -- 1 dot
+  Traded 1 dot for 2 Quintessence  -- 1 dot
+  TOTAL: 5 / 5
 ```
 
 ## Part Three: The Avatar (Optional Rule)
@@ -19737,7 +20312,7 @@ These items cost 13–15 Background points each and should be treated as chronic
 
 **CROSS-REFERENCE NOTES:**
 
-- All Wonders listed here are detailed in Appendix V: Merits, Flaws, and Wonders (starting page "Selected Wonders" section).
+- All Wonders listed here are detailed in Appendix V: Edges, Powers, and Wonders (starting page "Selected Wonders" section).
 - All tags used above are defined in Appendix J: Tags Reference.
 - Crafting rules for building custom items at any rank: Appendix S: Crafting.
 - The Periapt and SPECM entries apply to any Quintessence storage item; see Appendix V for specific variant stat blocks.
@@ -21095,7 +21670,7 @@ Orphan mages — those who Awaken without factional affiliation — have the gre
 
 "Caul-Born" is not a phrase you will hear from Council mages or Technocrats. Among the Fallen, those who Awakened on the Nephandic Path from the beginning are considered pure in their devotions — or at least as pure as the Fallen get. Unlike barabbi, they have no previous loyalty to discard. Unlike widderslainte, they do not grow up conflicted about who and what they are. Caul-Born Nephandi are who they are because they want to be that way. Their Arts are Black Arts by design, not modification, and their beliefs are held sincerely. Thus, Caul-Born mages maintain bone-deep loyalty to their Fallen cause. With very few exceptions, they hold very few regrets.
 
-Mechanically, Caul-Born Nephandi begin play with Qlippothic Resonance already present in their aura (see Merits and Flaws below). They cannot claim the Innocuous Aura merit without substantial in-chronicle work, because their passage through the dark was their entry into existence as a mage. They compensate with genuine fanaticism: Caul-Born receive a free reroll on any Resolve + Composure check to resist coercion, seduction away from the Fallen Path, or social engineering that would compromise their Nephandic identity. They chose this. They are not going back.
+Mechanically, Caul-Born Nephandi begin play with Qlippothic Resonance already present in their aura (see the Edges, Powers & Tags below). They cannot claim the Innocuous Aura merit without substantial in-chronicle work, because their passage through the dark was their entry into existence as a mage. They compensate with genuine fanaticism: Caul-Born receive a free reroll on any Resolve + Composure check to resist coercion, seduction away from the Fallen Path, or social engineering that would compromise their Nephandic identity. They chose this. They are not going back.
 
 ## The Descent Track
 
@@ -21121,33 +21696,33 @@ Redemption is theoretically possible at Stages One through Three. The mage must 
 
 > Example — Using the Descent Track
 
-## Nephandic Merits and Flaws
+## Nephandic Edges, Powers & Tags
 
-The following Merits and Flaws are available only to Nephandic characters who have gone through the Caul, and they arise from that passage. Point totals are listed for reference, but for Storyguide-controlled Nephandi, dramatic appropriateness matters more than balance.
+The following Edges, Powers, and Tags are available only to Nephandic characters who have gone through the Caul, and they arise from that passage. Point totals are listed for reference, but for Storyguide-controlled Nephandi, dramatic appropriateness matters more than balance.
 
-### Shadow Appeal — 3-point Supernatural Merit
+### Shadow Appeal (Edge ●●●)
 
 Every human being has a repressed shadow — a collection of things about themselves they refuse to acknowledge, either because those things feel too awful or too good to admit. Mages who have traveled through the Qlippothic depths develop a frightening degree of insight into these shadows, and a fiendish gift for exploiting them.
 
 Mechanically: This Merit subtracts 2 from the Difficulty of any Social roll the Nephandus makes when exploiting someone's shadow aspect — the egotist's need for validation, the lonely person's hunger for connection, the guilty person's terror of exposure. This deduction can lower Difficulty beyond the standard -3 modifier limit, giving the Fallen an inhuman edge. The Merit does not work on people who have no shadow (extremely unlikely) or on mages who have undergone successful Seeking against their shadow self.
 
-### Innocuous Aura — 5-point Supernatural Merit
+### Innocuous Aura (Power)
 
 Most Nephandi have been visibly marked by their Caul passage. This mage has somehow escaped such deformations of the soul. Her aura shows no flickers of Qlippothic essence, making her an exceptional infiltrator and double agent. She can move in Tradition Chantries, Technocracy Constructs, and ordinary social environments without triggering the instinctive unease most Fallen provoke. Aura readings at Prime 2 reveal a normal — if perhaps unusually intense — mage aura. Only Prime 4+ reads the concealed Qlippothic core.
 
-### Abyssal Mastery — 7-point Supernatural Merit
+### Abyssal Mastery (Power)
 
 The Fallen mage with this Merit has aligned herself so deeply with the Void that its rigors hold no threat for her. She can endure the cold vacuum of deep space and the Deep Umbra without life support, food, water, or breathable atmosphere. No matter how long she spends in the darkest Umbral reaches, she retains her mortal form upon return. Additionally, she may use Spirit 5 to escape directly into the Qlippoth — a feat most Masters cannot successfully attempt — reaching any Qlipha she has previously attained.
 
-### Saint of the Pit — 7-point Supernatural Merit
+### Saint of the Pit (Power)
 
 She has gone where few Nephandi have gone and come back speaking of it. Her reputation among infernal entities is such that all but the most powerful Goetic powers and dark totems defer to her commands. Rules-wise, this Merit lowers the Difficulty of all Social rolls by 3 whenever the Nephandus wants to compel obedience, drive a bargain, demand a favor, or frighten an infernal entity. The greatest arch-demons and Qlippothic godheads remain immune, though they treat her with respect. In the mortal world, any character with three or more dots in Occult, Lore (Nephandi), or relevant Esoterica has heard of this mage. What they do with that knowledge is their problem.
 
-### Qlippothic Radiance — 1 to 5-point Supernatural Flaw
+### Qlippothic Radiance (compel-only Tag)
 
 The Shells have left a discernible mark that this character cannot conceal. Anyone who understands Qlippothic energies detects the marks of passage on her aura automatically. Other characters feel distinctly uncomfortable in her presence even without being able to name why. The severity scales with how far into the Qlippoth she has traveled: 1-point means sensitive mages notice, 3-point means everyone with Awareness 2+ notices, 5-point means mundane mortals feel sick to their stomachs in her presence and animals flee without prompting.
 
-### Abyssal Lunatic — 3-point Supernatural Flaw
+### Abyssal Lunatic (compel-only Tag)
 
 The Caul passage cracked something in this mage that never fully healed. She is not merely strange — she is fractured in ways that occasionally override her own control. Once per session, the Storyguide may trigger a Sanity check (see Appendix K) against a Difficulty equal to her current Descent Stage + 2. On a failure, she acts on Qlippothic instinct rather than conscious choice for a number of rounds equal to the margin of failure. She does not become catatonic; she becomes something worse: utterly, genuinely herself, stripped of any civilized veneer she maintains for operational purposes.
 
@@ -21372,1084 +21947,942 @@ The Nephandi in this appendix are frameworks, not scripts. Every chronicle's Nep
 
 See also: Appendix D (Entities and Antagonists) for named Nephandic antagonist stat blocks including The Caller, Garrick Browne, Kate and Lucas Reid, Ichthion Lord of Spasms, and the Goetic Demons. See Appendix K (Sanity) for the Void damage rules referenced in the Paradox section. See Chapter Five (Paradox) for the core Paradox dice system.
 
-# Appendix V: Merits, Flaws, and Wonders
+# Appendix V: Edges, Powers, and Wonders
 
-The Book of Secrets expands Mage: The Ascension with additional Merits, Flaws, and Wonders. All entries below have been converted to Storypath Ultra terminology: successes become hits, Arete rolls become casting rolls using Sphere Skill + Casting Attribute, and Storyteller becomes Storyguide.
+This appendix catalogs the persistent advantages a character can hold — **Edges** and **Powers** — together with the **Wonders** she can wield. Drawbacks are not listed here: in this system a disadvantage is a compel-only Tag, and those live with the rest of the Tags in Appendix J.
 
-Merit and Flaw point costs are as listed in the original; they are purchased during character creation or bought off with experience points as approved by the Storyguide.
+**Edges** are dot-rated advantages, valued from ● to ●●●. Each dot is worth roughly one of: +1 Enhancement to a broad set of actions, +2 Enhancement to one specific roll, access to a Trick, or a comparable standing benefit. A character begins play with about five dots of Edges (some granted innately by her Paths, the rest chosen freely) and buys more with experience. A *mundane* advantage never exceeds three dots — if it seems to want a fourth, it is simply scaled back to ●●●, because ordinary talent has a ceiling.
 
----
+**Powers** are the genuinely supernatural or superhuman capabilities that sit above the Edge band: innate spirit-sight, true immortality, a bound guardian spirit, faith that turns back the Fallen. Powers are bought at a flat experience cost and are **Storyguide-gated** — a player takes one only with the Storyguide's agreement, because each reshapes what the character fundamentally is. (Reality-altering magic is handled separately, by the Spheres; the Powers here are the smaller innate knacks that ordinary Edges cannot contain.)
 
-## Physical Merits
+**Rated traits** — the old Backgrounds (Resources, Contacts, Allies, a Chantry, a Node) — are Edges at ● to ●●●; at ●●●● to ●●●●● they become Powers, because a resource that large is a force in its own right.
 
-### Acute Senses (1 or 3 pt. Merit)
+## Universal Edges
 
-One of your senses is preternaturally sharp. For 1 point, choose one sense (sight, hearing, smell, taste, or touch): reduce the Difficulty of Awareness rolls involving that sense by 2. For 3 points, all five senses are sharp; reduce the Difficulty of all Awareness rolls by 1.
+These broadly useful Edges suit a character of any faction, calling, or concept. (Many other broadly useful advantages — Acute Senses, Ambidextrous, Danger Sense, and the like — live under the type headings below; every Edge in this appendix is available to any character.)
 
-### Alcohol / Drug Tolerance (1–2 pt. Merit)
+### Fast Reflexes (Edge ● or ●●)
 
-Your body processes intoxicants unusually well. For 1 point, you can drink twice the normal amount before suffering penalties. For 2 points, even extreme intoxication produces only mild impairment, and you resist drug-induced effects (including magickal ones) with an extra die on relevant resistance rolls.
+You react before others have finished flinching. At ●, add 1 die to Initiative rolls; at ●●, add 2 dice and you are never treated as surprised so long as you are conscious.
 
-### Ambidextrous (1 pt. Merit)
+### Multitasking (Edge ●●)
+
+You divide your attention cleanly. Reduce the Divided Attention penalty (Chapter Seven) by one step when splitting focus between two tasks.
+
+### Linguist (Edge ● or ●●●)
+
+You have a gift for tongues. At ●, you are fluent in three additional languages; at ●●●, you can make yourself understood in almost any living human language and pick up the basics of a new one within days.
+
+## Physical Edges
+
+### Acute Senses (Edge ● or ●●●)
+
+One of your senses is preternaturally sharp. At ●, choose one sense (sight, hearing, smell, taste, or touch): reduce the Difficulty of Awareness rolls involving that sense by 2. At ●●●, all five senses are sharp; reduce the Difficulty of all Awareness rolls by 1.
+
+### Alcohol / Drug Tolerance (Edge ●–●●)
+
+Your body processes intoxicants unusually well. At ●, you can drink twice the normal amount before suffering penalties. At ●●, even extreme intoxication produces only mild impairment, and you resist drug-induced effects (including magickal ones) with an extra die on relevant resistance rolls.
+
+### Ambidextrous (Edge ●)
 
 You suffer no penalty for acting with your off hand. You may wield two weapons or perform two-handed tasks without the usual off-hand Difficulty increase.
 
-### Cast-Iron Stomach (1 pt. Merit)
+### Cast-Iron Stomach (Edge ●)
 
 You can eat almost anything without becoming ill. Reduce the Difficulty of Stamina rolls to resist nausea, food-borne illness, or ingested poisons by 2.
 
-### Catlike Balance (1 pt. Merit)
+### Catlike Balance (Edge ●)
 
 Your sense of balance is extraordinary. Reduce the Difficulty of Athletics or Acrobatics rolls involving balance, falling, or agile movement by 2. You take 1 fewer die of falling damage.
 
-### Hyperflexible (1 pt. Merit)
+### Hyperflexible (Edge ●)
 
 Your joints and muscles bend far beyond the normal range of motion. You can slip from restraints, squeeze through tight spaces, and perform contortions that normal people cannot. Reduce the Difficulty of related Acrobatics or Subterfuge rolls by 2.
 
-### Light Sleeper (1 pt. Merit)
+### Light Sleeper (Edge ●)
 
 You wake instantly at the slightest disturbance and suffer no penalties for acting immediately upon waking. You are never caught helpless by enemies who try to ambush you in your sleep.
 
-### Noble Blood (1 pt. Merit)
+### Noble Blood (Edge ●)
 
 Your bloodline carries an aristocratic heritage recognised in certain social circles. In appropriate contexts, you gain a free dot of Influence or Status (Storyguide's choice) and reduce the Difficulty of Social rolls with those who respect such lineage by 1.
 
-### Sterile (1 pt. Merit or Flaw)
+### Sterile (Edge ●)
 
 As a Merit: you are infertile by choice or by nature, which prevents certain supernatural vulnerabilities or obligations tied to bloodline. As a Flaw: the condition is unwanted and may affect your character's emotional state and story relationships.
 
-### Enchanting Feature (2 pt. Merit)
+### Enchanting Feature (Edge ●●)
 
 One physical feature — eyes, voice, hands, etc. — is strikingly beautiful or compelling. Add 1 die to Social rolls in situations where that feature is noticeable or relevant.
 
-### Physically Impressive (2 pt. Merit)
+### Physically Impressive (Edge ●●)
 
 Your build or bearing is commanding. You gain 1 die on Intimidation rolls and on Social rolls where physical presence matters. Witnesses are less likely to start fights with you without provocation.
 
-### Poison Resistance (2 pt. Merit)
+### Poison Resistance (Edge ●●)
 
 Your system metabolises toxins rapidly. Reduce the Difficulty of Stamina rolls to resist natural poisons by 2, and halve the duration of any poison effect you fail to fully resist.
 
-### Poker Face (2 pt. Merit)
+### Poker Face (Edge ●●)
 
 Your expressions betray nothing you do not wish to reveal. Add 2 dice to rolls to resist being read by Empathy, Mind Sphere effects that detect emotions, or mundane interrogation.
 
-### Daredevil (3 pt. Merit)
+### Daredevil (Edge ●●●)
 
 When attempting risky physical actions, you add 3 dice to your pool. Additionally, once per scene you may reroll a failed physical stunt roll and take the better result. Botches on physical stunts become simple failures when this Merit is in play.
 
-### Hypersensitivity (3 pt. Merit)
+### Hypersensitivity (Edge ●●●)
 
 Your senses are preternaturally sharp across the board — you can detect things others miss — but the same sensitivity leaves you vulnerable. You gain 2 dice on all Awareness rolls. However, sudden loud noises, intense lights, and extreme smells can briefly disorient you (Storyguide may impose a 1-turn penalty in such circumstances).
 
-### Nightsight (3 pt. Merit)
+### Nightsight (Edge ●●●)
 
 You can see clearly in near-darkness, as if lit by a full moon. You suffer no Difficulty penalties for dim or moonlit conditions. Total darkness still blinds you, though magical or technological night-vision can supplement this Merit.
 
-### Huge Size (4 pt. Merit)
+### Huge Size (Edge ●●●)
 
 You are exceptionally large — perhaps 7 feet or more in height, or proportionally massive. You gain 1 extra Bruised health level, and your Strength is treated as 1 higher for purposes of feats of might and lifting. However, you may need custom equipment, have trouble with confined spaces, and are difficult to overlook in a crowd.
 
-### Insensate to Pain (5 pt. Merit)
+### Insensate to Pain (Edge ●●●)
 
 You can continue acting despite wounds that would incapacitate most people. You may ignore wound penalties up to –2 Difficulty (i.e., Hurt and Wounded are treated as Bruised). You still accumulate health level damage normally; you simply do not feel the same degree of impairment.
 
-### Too Tough to Die (5 pt. Merit)
+### Too Tough to Die (Edge ●●●)
 
 When your health levels are reduced to Incapacitated or beyond by bashing or lethal damage, make a reflexive Stamina roll (Difficulty 8). Each hit on that roll gives you one extra round of consciousness and action before you collapse. This Merit does not apply to aggravated damage.
 
 ---
 
-## Physical Flaws
+## Mental Edges
 
-### Addiction (1–3 pt. Flaw)
-
-You are dependent on a substance. The point value reflects how debilitating the addiction is and how hard it is to obtain the substance. If you do not feed your habit, you suffer increasing penalties (–1 to –3 dice on non-addiction-related rolls) and may act rashly to obtain your substance. With Storyguide approval, this Flaw can be bought off through extended in-game recovery and roleplay.
-
-### Child (3 pt. Flaw)
-
-You are physically a child, with all the social and practical disadvantages that implies. Your Strength and Stamina maximums are reduced by 2. Adults frequently disregard, patronise, or restrict you. Certain Social rolls are automatically more difficult by +2 Difficulty.
-
-### Impediment (1–4 pt. Flaw)
-
-A physical condition limits your capabilities. The point value reflects the severity: minor inconvenience (1 pt.), noticeable limitation (2 pt.), significant handicap (3 pt.), or severe restriction that affects multiple Traits (4 pt.). Work with your Storyguide to define the specific nature of the impediment.
-
-### Aging (1–4+ pt. Flaw)
-
-You are significantly older than your apparent peak. For each point, your body shows measurable age-related decline: minor stiffness (1 pt.), reduced Attribute maximums by 1 (2 pt.), reduced by 2 (3 pt.), or severe decline including regular health complications (4 pt.). Supernatural longevity does not automatically negate this Flaw.
-
-### Easily Intoxicated (1 pt. Flaw)
-
-Alcohol, drugs, or even mild stimulants affect you far more strongly than they do others. Reduce the threshold for impairment by half. Social and physical penalties from intoxication come on quickly and linger.
-
-### Repulsive Feature (2 pt. Flaw)
-
-A particular physical feature — a visible deformity, an unsettling odour, or a disturbing quirk — puts people off. Add +1 Difficulty to Social rolls in any situation where the feature is apparent.
-
-### Profiled Appearance (2 pt. Flaw)
-
-Your appearance places you in a category that attracts hostile, suspicious, or discriminatory attention from authority figures, law enforcement, or certain social groups. Add +1 Difficulty to Social rolls in those contexts, and Storyguide may create additional complications based on your setting.
-
-### Degeneration (3, 6, or 9 pt. Flaw)
-
-Your body — or your Pattern — is slowly breaking down. For 3 points, you age at double the normal rate or suffer a slow loss of one Attribute dot per year. For 6 points, the degeneration is faster and may cause regular health complications. For 9 points, you are in an advanced state of decay: multiple Attribute penalties, regular health setbacks, and a limited lifespan unless magickal intervention is found.
-
-### Monstrous (3 pt. Flaw)
-
-Your appearance is genuinely horrifying — not merely unusual, but deeply disturbing to ordinary people. Add +2 Difficulty to all Social rolls with Sleepers and most Awakened who do not know you. Those who encounter you for the first time must succeed on a Composure roll (Difficulty 7) or react with fear or hostility.
-
-### Permanent Wound (3 pt. Flaw)
-
-You carry an injury that never fully heals. You begin each session at the Hurt health level and can only recover to that level without specific magickal healing. Exceptional medical care or Life Sphere effects can temporarily raise you above Hurt, but the wound always reasserts itself.
-
-### Short (3 pt. Flaw)
-
-You are noticeably shorter than average — under 5 feet in most settings. You may have difficulty reaching objects, operating standard vehicles, or commanding physical authority. Add +1 Difficulty to Intimidation rolls in physical contexts, and Storyguide may rule other physical tasks more difficult.
-
-### Horrific (5 pt. Flaw)
-
-Your appearance is so alien or nightmarish that even hardened supernatural beings react with revulsion. All Social rolls with people who can see you suffer +3 Difficulty unless they have become accustomed to your presence. First-time witnesses almost always react with fear or violence.
-
-### Mayfly Curse (5 or 10 pt. Flaw)
-
-Time is brutally compressed for you. For 5 points, your lifespan is measured in months or a few years rather than decades; you age rapidly under stress. For 10 points, your natural lifespan is weeks, and only extraordinary magick or intervention keeps you alive. This Flaw pairs with supernatural origins — a Time Paradox flaw, a Nephandic curse, or a faerie bargain gone wrong.
-
----
-
-## Genetic Flaws
-
-Genetic Flaws arise from the Enhancement Background — cybernetics, biomods, and genegineering — or from other long-term alterations to a character's physical form. Each dot in the Enhancement Background requires one Genetic Flaw. Alternatively, each dot may instead cost 1 permanent Paradox point.
-
-Genetic Flaws may also be taken as standard 1-point Flaws by unmodified characters; in that case, each Genetic Flaw counts as 1 point even if the base Flaw costs more.
-
-### Physical Genetic Flaws
-
-### Sterile
-
-You cannot reproduce naturally. As a Genetic Flaw, this reflects an engineering choice or biological side-effect. It may also prevent certain supernatural vulnerabilities tied to bloodline — the Storyguide determines whether this is an advantage or simply neutral in the chronicle's context.
-
-### Susceptibility
-
-You have an unusual vulnerability to a specific environmental condition: cold, heat, radiation, UV light, salt water, etc. Reduce your effective Stamina by 2 when soaking damage from that specific source. The condition must be plausible given the character's modification history.
-
-### Allergy
-
-You have a severe reaction to a specific substance. Minor exposure causes -1 die to all rolls; significant exposure may incapacitate. The substance must be definable and reasonably available in the game world.
-
-### Disfigurement
-
-A visible physical abnormality — unnatural proportions, obvious implant ports, bioluminescent skin, asymmetric features, etc. Subtract 2 dice from social rolls in conventional settings where appearance and normalcy matter.
-
-### Chronic Pain
-
-Persistent pain from imperfectly integrated modifications. Subtract 1 die from all extended actions and concentration rolls (those taking more than a single turn). The character has adapted as well as she can; this is the new normal.
-
-### Mental and Social Genetic Flaws
-
-### Behavioral Tic
-
-An involuntary behavior pattern surfaces under stress: verbal repetitions, repetitive movements, emotional flatness punctuated by sudden affect, or other observable compulsions. These rarely cause direct mechanical penalties but create social difficulties at the Storyguide's discretion.
-
-### Social Isolation
-
-The engineered body or mind creates a sense of disconnection from ordinary human experience. Subtract 1 die from Presence-based rolls in situations requiring natural human warmth, spontaneity, or emotional connection.
-
-### Emotional Blunting
-
-The modification process has reduced emotional range or responsiveness. Subtract 1 die from Empathy rolls. The character may have difficulty recognizing their own emotional states as well.
-
----
-
-## Mental Merits
-
-### Artistically Gifted (1 pt. Merit)
+### Artistically Gifted (Edge ●)
 
 You have a natural gift for artistic expression — painting, music, writing, or another creative medium. Add 1 die to relevant Expression or Craftsmanship rolls and reduce the Difficulty of artistic creation tasks by 1.
 
-### Common Sense (1 pt. Merit)
+### Common Sense (Edge ●)
 
 Once per session, you may ask the Storyguide "What is the most sensible course of action here?" and receive an honest answer. This Merit reflects exceptional practical reasoning, not supernatural intuition.
 
-### Computer Aptitude (1 pt. Merit)
+### Computer Aptitude (Edge ●)
 
 Computers are intuitive for you. Add 1 die to Computer rolls and reduce their Difficulty by 1. You can troubleshoot unfamiliar systems more quickly than others.
 
-### Concentration (1 pt. Merit)
+### Concentration (Edge ●)
 
 Distractions do not easily break your focus. You ignore the standard +1 Difficulty penalty for performing actions in chaotic or distracting conditions once per scene.
 
-### Expert Driver (1 pt. Merit)
+### Expert Driver (Edge ●)
 
 You have exceptional skill with vehicles of a chosen type (cars, motorcycles, boats, aircraft, etc.). Add 2 dice to all relevant Drive or Pilot rolls and reduce Difficulty by 1 for high-stress maneuvers with that vehicle type.
 
-### Language (1 pt. Merit per language)
+### Language (Edge ●)
 
 You are fluent in an additional language beyond those your character begins with. You can read, write, and speak the language without difficulty. Rare or dead languages may require Storyguide approval.
 
-### Lightning Calculator (1 pt. Merit)
+### Lightning Calculator (Edge ●)
 
 Complex mathematics, mental arithmetic, and pattern-recognition tasks come effortlessly. You need no tools to perform calculations others would need computers for. Add 2 dice to Intelligence rolls involving numbers, codes, or logical sequences.
 
-### Mechanical Aptitude (1 pt. Merit)
+### Mechanical Aptitude (Edge ●)
 
 Machines speak to you intuitively. Add 1 die to Craftsmanship or Technology rolls involving mechanical devices and reduce Difficulty by 1 for diagnosing mechanical problems.
 
-### Time Sense (1 pt. Merit)
+### Time Sense (Edge ●)
 
 You always know the approximate time without consulting a clock, and you have an excellent internal sense of duration. Add 1 die to Time Sphere effects that involve timing, and reduce the Difficulty of rolls where precise timing matters by 1.
 
-### Code of Honor (2 pt. Merit)
+### Code of Honor (Edge ●●)
 
 You have a personal moral code you adhere to strictly. Once per session, when you are tempted to act against your code, you may call on this Merit to succeed on a Willpower roll to resist without spending a Willpower point. Additionally, other characters who recognise your code may trust you more readily.
 
-### Eidetic Memory (2 pt. Merit)
+### Eidetic Memory (Edge ●●)
 
 You remember everything you have seen, heard, or read with near-perfect recall. You never need to make rolls to remember information you have personally encountered. This does not grant magical insight — you remember what you experienced, not what you did not notice.
 
-### Inner Strength (2 pt. Merit)
+### Inner Strength (Edge ●●)
 
 Your sense of self is unusually robust. Add 1 die to Willpower rolls and to resistance rolls against mental domination, emotional manipulation, or Quiet-inducing phenomena.
 
-### Natural Linguist (2 pt. Merit)
+### Natural Linguist (Edge ●●)
 
 You pick up languages with extraordinary speed. Halve the time and experience required to learn new languages. You may also make Wits + Linguistics rolls to pick up basic communication in an entirely unfamiliar language after hearing it for a short time.
 
-### Hyperfocus (3 pt. Merit)
+### Hyperfocus (Edge ●●●)
 
 When you dedicate yourself entirely to a single task, you exceed ordinary limits. On any extended roll where you spend an entire scene on a single task without interruption, add 2 dice to each roll in the extended action. You cannot benefit from Hyperfocus if you are multitasking.
 
-### Iron Will (3 pt. Merit)
+### Iron Will (Edge ●●●)
 
 Your mind is a fortress. When spending a Willpower point to resist mental domination, supernatural compulsion, or Sphere-based mind effects, you gain an additional automatic hit on that resistance roll. Hostile Mind Sphere effects targeting you have their Difficulty raised by 1.
 
-### Jack-of-All-Trades (3 pt. Merit)
+### Jack-of-All-Trades (Edge ●●●)
 
 You have a working knowledge of an unusually wide range of skills. You never suffer the unskilled penalty (normally +1 Difficulty) when attempting actions outside your rated Abilities. You are competent, if not expert, at nearly everything.
 
-### Scientific Mystic / Technognosi (3 pt. Merit)
+### Scientific Mystic / Technognosi (Edge ●●●)
 
 You bridge the gap between scientific and mystical worldviews seamlessly. You can apply scientific principles to mystical problems and vice versa without Paradigm conflict. Reduce Difficulty by 1 when combining Technology-based and Sphere-based solutions to a problem.
 
-### Berserker (3 pt. Merit)
+### Berserker (Edge ●●●)
 
 When wounded (at Hurt or worse) or deliberately enraged, you may enter a battle fury. In this state add 2 dice to all physical attack and damage rolls. While berserk, you cannot perform fine motor actions (surgery, lockpicking, magick requiring concentration), and Storyguide may require a Willpower roll (Difficulty 7) to stop attacking once enemies are incapacitated. The fury ends when all opponents are down or when you spend a Willpower point to pull yourself back.
 
-### Judge's Wisdom (4 pt. Merit)
+### Judge's Wisdom (Edge ●●●)
 
 Your moral and situational insight is uncanny. Once per session, you may ask the Storyguide whether a course of action is ethically sound within the context of your character's beliefs and receive an honest answer. Additionally, add 2 dice to any Social roll where your role is adjudicating, mediating, or rendering judgment.
 
-### Self-Confident (5 pt. Merit)
+### Self-Confident (Edge ●●●)
 
 When spending Willpower to gain automatic hits, you gain 2 automatic hits instead of 1. Additionally, once per story (not session), you may succeed automatically on one non-combat roll of your choice without rolling, provided you have at least one dot in the relevant Ability.
 
 ---
 
-### Dilettante (1 or 3 pt. Mental Merit)
+### Dilettante (Edge ● or ●●●)
 
-You have dabbled in a little of everything. For 1 point, your untrained Skill rolls no longer suffer the +1 difficulty penalty for lacking the Skill. For 3 points, you additionally gain one automatic success on a complementary roll or an untrained Skill roll.
+You have dabbled in a little of everything. At ●, your untrained Skill rolls no longer suffer the +1 difficulty penalty for lacking the Skill. At ●●●, you additionally gain one automatic success on a complementary roll or an untrained Skill roll.
 
-## Mental Flaws
+## Social Edges
 
-### Compulsion (1–3 pt. Flaw)
-
-You have an irresistible urge to perform a specific behaviour under certain conditions (counting objects, washing hands, speaking in rhyme, etc.). The point value reflects how often it triggers and how much it disrupts your life. Spend a Willpower point to resist the compulsion for one scene.
-
-### Hero Worship (1 pt. Flaw)
-
-You are intensely devoted to a specific person — an older mage, a historical figure, or a powerful ally. When that person is threatened, you must succeed on a Willpower roll (Difficulty 6) to resist rushing to their defence. You are also vulnerable to manipulation through that person.
-
-### Impatient (1 pt. Flaw)
-
-Waiting is agony for you. When forced to delay or hold back, spend a Willpower point or suffer –1 die to your next roll from impatience. In social situations involving extended negotiation, add +1 Difficulty to rolls to remain composed.
-
-### Inappropriate (1–4 pt. Flaw)
-
-You consistently misread social contexts and say or do the wrong thing. The point value reflects severity. At 1 point, occasional awkward moments. At 4 points, you are reliably inappropriate in sensitive social situations, adding +1 to +2 Difficulty to Social rolls in formal or delicate contexts.
-
-### Mental Lock (1 pt. Flaw)
-
-Your mind is incapable of processing or accepting one specific concept, memory, or type of information. You cannot consciously engage with that topic — when forced to do so, make a Willpower roll (Difficulty 7) or take 1 point of bashing damage from psychic distress.
-
-### Nightmares (1 or 3 pt. Flaw)
-
-Terrible dreams haunt your sleep. For 1 point, you occasionally lose sleep and begin sessions at –1 die on your first non-combat roll. For 3 points, the nightmares are severe: you begin each session having lost sleep, and the Storyguide may at any point during the session introduce a nightmare-triggered flashback that requires a Willpower roll (Difficulty 7) to shake off.
-
-### Overconfident (1 pt. Flaw)
-
-You always believe you are capable of more than you are, especially in your areas of expertise. The Storyguide may not warn you when a plan is suicidal. If you botch a roll in your area of overconfidence, the result is particularly catastrophic because you took no precautions.
-
-### Shy (1 pt. Flaw)
-
-Large groups, strangers, or public attention make you uncomfortable. Add +1 Difficulty to Social rolls in those situations. Spend a Willpower point to overcome your shyness for a single scene.
-
-### Soft-Hearted (1 pt. Flaw)
-
-You cannot bear to witness suffering. You must succeed on a Willpower roll (Difficulty 6) to inflict harm on a helpless target, even an enemy. Witnessing suffering you cannot prevent costs 1 Willpower.
-
-### Speech Impediment (1 pt. Flaw)
-
-A stutter, lisp, or other impediment slows or complicates your verbal communication. Add +1 Difficulty to Social and Expression rolls that depend primarily on spoken clarity. Magick requiring verbal components takes 1 extra turn to initiate.
-
-### Vanilla (1 pt. Flaw)
-
-Your imagination is extremely limited. You struggle to think creatively or adapt to unusual situations. Subtract 1 die from Wits rolls and from any roll involving improvisation, lateral thinking, or creative problem-solving.
-
-### Whimsy (1 pt. Flaw)
-
-You are prone to wild, seemingly random impulses. Once per session, the Storyguide may invoke this Flaw to have your character pursue an impulsive tangent unless you succeed on a Willpower roll (Difficulty 6).
-
-### Amnesia (2 pt. Flaw)
-
-Large portions of your past are simply gone. You do not know your full backstory — the Storyguide holds information your character does not. This Flaw creates story hooks and may occasionally surface at inconvenient moments as fragments of suppressed memory.
-
-### Curiosity (2 pt. Flaw)
-
-You cannot resist investigating mysteries. When presented with an unexplained phenomenon, you must succeed on a Willpower roll (Difficulty 6) to walk away from it. The Storyguide may use your curiosity to lead you into danger.
-
-### Icy (2 pt. Flaw)
-
-Your emotional affect is flat and cold. You find forming connections with others difficult and tend to drive away people who try to get close. Add +1 Difficulty to Empathy and emotional social rolls. You gain 1 fewer Willpower point from resting per night.
-
-### Intemperate (2 pt. Flaw)
-
-Self-control is not your strong suit. When tempted by pleasures your character enjoys, you must succeed on a Willpower roll (Difficulty 7) to resist indulging. This Flaw can overlap with Addiction and amplify its effects.
-
-### Obsession (2 pt. Flaw)
-
-One specific subject, goal, or person dominates your attention. The Storyguide may invoke your obsession at any time to redirect your attention from the matter at hand, requiring a Willpower roll (Difficulty 7) to focus on anything else until the obsession is addressed.
-
-### Phobia (2 pt. Flaw)
-
-You have an irrational, paralysing fear of a specific trigger (spiders, fire, the dark, open water, etc.). When confronted by it, succeed on a Willpower roll (Difficulty 8) or flee and refuse to act against the source of fear for the rest of the scene.
-
-### PTSD (2 pt. Flaw)
-
-Past trauma resurfaces unexpectedly. The Storyguide may trigger a flashback at any dramatically appropriate moment. During a flashback, you must succeed on a Willpower roll (Difficulty 7) or be unable to act coherently for 1 turn per failure. Stimuli that remind you of the trauma add +1 Difficulty to all rolls for the rest of that scene.
-
-### Rose-Colored Glasses (2 pt. Flaw)
-
-You see the world as better than it is. You resist believing ill of people or situations until evidence is overwhelming. The Storyguide may withhold warnings from you when danger should be obvious, and you suffer +1 Difficulty to Alertness rolls involving suspicious situations.
-
-### Vengeful (2 pt. Flaw)
-
-You cannot forgive a serious wrong done to you. You must succeed on a Willpower roll (Difficulty 7) to refrain from seeking revenge against someone who has genuinely wronged you, even at personal risk or cost to the group.
-
-### Short Fuse (3 pt. Flaw)
-
-You lose your temper easily and violently. When provoked, succeed on a Willpower roll (Difficulty 7) or react with immediate anger, possibly including physical violence. Once your temper fires, you may not take calm or subtle actions until you spend a Willpower point to cool down.
-
-### Absent-Minded (3 pt. Flaw)
-
-You routinely forget things that are not immediately in front of you. You must make an Intelligence roll (Difficulty 6) to remember to bring the item or information you need at any given moment. Extended tasks requiring sustained mental tracking take longer for you.
-
-### Bigot (3 pt. Flaw)
-
-You hold a deep prejudice against a specific group (Tradition, species, ethnicity, political alignment, etc.). When dealing with members of that group, add +2 Difficulty to Social rolls. You may also act against your own interests when your prejudice is triggered unless you spend a Willpower point to override it.
-
-### Chronic Depression (3 pt. Flaw)
-
-Persistent low mood saps your motivation and energy. You begin each session with 1 fewer Willpower point than your maximum, and the Storyguide may invoke depressive episodes at dramatically appropriate moments that reduce your dice pools by 1 for the rest of that scene.
-
-### Deranged (3 pt. Flaw)
-
-A specific mental disorder shapes your behaviour in ways that regularly create problems. Work with the Storyguide to define the exact nature of the disorder. The Storyguide may invoke the disorder once per session without triggering a Willpower roll option — the derangement simply takes hold.
-
-### Driving Goal (3 pt. Flaw)
-
-You have an overriding long-term objective that colours every decision you make. When a course of action conflicts with your Driving Goal, you must succeed on a Willpower roll (Difficulty 7) to set the goal aside temporarily. The Storyguide may create complications based on your goal's single-minded pursuit.
-
-### Extreme Kink (3 pt. Flaw)
-
-Your personal desires or appetites run to extremes that can create social, legal, or supernatural complications. Work with your Storyguide to define its nature. Once per session, this Flaw may create an opportunity for the Storyguide to introduce complications based on your appetites.
-
-### Feral Mind (3 pt. Flaw)
-
-Your thinking is more instinctual than rational. Add +1 Difficulty to rolls requiring sustained logic, planning, or intellectual subtlety. In combat or under stress, however, you may add 1 die to purely instinctual reactions (Alertness, Dodge).
-
-### Flashbacks (3 pt. Flaw)
-
-Past experiences periodically overwhelm your present awareness. Similar to PTSD but more intense: when triggered, you relive an event so vividly that you cannot distinguish it from present reality. Spend a Willpower point or be effectively absent from the current scene for 1 turn per point of Willpower you lack (to a maximum of 5 turns).
-
-### Hatred (3 pt. Flaw)
-
-You have a deep, consuming hatred of a specific person, group, or type of being. When confronted by the object of your hatred, you must spend a Willpower point to avoid acting on that hatred immediately. The Storyguide may use this Flaw to create dramatic confrontations.
-
-### Lifesaver (3 pt. Flaw)
-
-You will not allow the death of an innocent if you can prevent it, even at serious personal risk. When an innocent is in mortal danger, you must succeed on a Willpower roll (Difficulty 8) to leave them to their fate. This applies even to enemies who have been rendered helpless.
-
-### OCPD (3 pt. Flaw)
-
-Obsessive-Compulsive Personality Disorder: your need for order, control, and perfection is pathological. When faced with disorder or imperfection you cannot immediately correct, add +1 Difficulty to all rolls for the rest of that scene. Spend a Willpower point to set the compulsion aside temporarily.
-
-### Stress Atavism (4 pt. Flaw)
-
-Extreme stress reverts you to a more primitive behavioural state. When your health drops to Wounded or worse, or when you suffer a significant social or magickal shock, roll Willpower (Difficulty 7). Failure means you revert to a state of instinctual, emotion-driven behaviour for 1 scene — you cannot perform complex magick, take subtle social actions, or follow orders that conflict with immediate survival instinct.
-
-### Ability Deficit (5 pt. Flaw)
-
-One specific Ability that should be within your character's reach is simply beyond you. Choose an Ability with Storyguide approval: you may never purchase it, and if it is ever required for a roll, you always roll at the unskilled penalty (+1 Difficulty). This Flaw represents a genuine cognitive or physical block, not mere lack of training.
-
----
-
-## Social Merits
-
-### Loyalty (1 pt. Merit)
+### Loyalty (Edge ●)
 
 One person or group owes you significant loyalty — a family member, old friend, or sworn ally. That person will come to your aid in a crisis and will not betray you without extreme provocation. Define the relationship with your Storyguide.
 
-### Family Support (1–3 pt. Merit)
+### Family Support (Edge ●–●●●)
 
-Your family provides a social and material safety net. For 1 point, modest support (a place to stay, occasional help). For 2 points, reliable support (financial assistance, connections). For 3 points, powerful family backing (established family with social clout or Awakened members willing to assist).
+Your family provides a social and material safety net. At ●, modest support (a place to stay, occasional help). At ●●, reliable support (financial assistance, connections). At ●●●, powerful family backing (established family with social clout or Awakened members willing to assist).
 
-### Favor (1 pt. Merit)
+### Favor (Edge ●)
 
 Someone of influence owes you a substantial favour. The Storyguide defines the nature and extent of the favour. You may call it in once; afterwards, the Trait is gone unless you do something that earns another favour.
 
-### Pitiable (1 pt. Merit)
+### Pitiable (Edge ●)
 
 Something about you — your appearance, your manner, your situation — evokes sympathy in others. Once per session, you may invoke this Merit to reduce the Difficulty of a Social roll by 2 when appealing to a target's compassion. Storyguide may rule this has no effect on sociopaths or those with specific grudges.
 
-### Prestigious Mentor (1 pt. Merit)
+### Prestigious Mentor (Edge ●)
 
 Your mentor is respected or feared within the Awakened community. You gain a free dot of Status (within your sect or Tradition) from reflected prestige. However, your mentor's enemies may become your enemies as well.
 
-### Regal Bearing (1 pt. Merit)
+### Regal Bearing (Edge ●)
 
 You carry yourself with natural authority. Add 1 die to Leadership rolls and to Social rolls where projecting authority or gravitas matters. Those who observe you instinctively assume you are in charge.
 
-### Unobtrusive (1 pt. Merit)
+### Unobtrusive (Edge ●)
 
 You blend into crowds and situations naturally, without obvious effort. Add 1 die to Stealth rolls in social situations and reduce by 1 the Difficulty of remaining unnoticed in places you have some right to be.
 
-### Animal Magnetism (2 pt. Merit)
+### Animal Magnetism (Edge ●●)
 
 You possess natural charisma that is hard to resist. Add 1 die to all Persuasion and Seduction rolls. In social situations, people are instinctively well-disposed toward you on first meeting.
 
-### Confidence (2 pt. Merit)
+### Confidence (Edge ●●)
 
 Your self-assurance is palpable and contagious. Add 1 die to Leadership rolls and to Social rolls where projecting certainty helps. Allies within your presence gain 1 die on their next Willpower roll when inspired by your confidence.
 
-### Hideaway / Safehouse (2 pt. Merit)
+### Hideaway / Safehouse (Edge ●●)
 
 You have access to a secure location known only to you and a trusted few. The location is stocked with basic supplies and is magickally warded or socially obscure. The Storyguide determines the exact nature and limitations of the safehouse.
 
-### Natural Leader (2 pt. Merit)
+### Natural Leader (Edge ●●)
 
 People follow you instinctively. Add 2 dice to Leadership rolls and to rolls made to coordinate group actions. Allies gain 1 automatic hit on their morale-related Willpower rolls when following your direct orders.
 
-### Officially Dead (2 pt. Merit)
+### Officially Dead (Edge ●●)
 
 According to governmental records, you do not exist. You are free of most mundane obligations, cannot be located through official channels, and are immune to legal consequences that require identification. However, you also cannot access banking, official services, or legal identity without forged documents.
 
-### Perfect Liar (2 pt. Merit)
+### Perfect Liar (Edge ●●)
 
 Your deceptions are flawless in delivery. Add 2 dice to Subterfuge rolls to lie convincingly. When you fail a deception roll, the failure is not obvious — the target simply remains uncertain rather than immediately recognising the lie.
 
-### Prestige (2 pt. Merit)
+### Prestige (Edge ●●)
 
 You have an established and positive reputation within a specific community (your Tradition, a regional Sleeper community, an academic field, etc.). Add 1 die to Social rolls within that community and reduce Difficulty by 1 for requests made of members of that community.
 
-### Property (2 pt. Merit)
+### Property (Edge ●●)
 
 You own real property — a building, a plot of land, or a vehicle of significant value — outright. This property is legally yours, can serve as a base of operations, and represents financial security. The Storyguide determines the property's exact nature and maintenance requirements.
 
-### Research Grant (2 pt. Merit)
+### Research Grant (Edge ●●)
 
 You have access to ongoing institutional funding for your work. You do not need to worry about the financial cost of research materials, laboratory access, or academic resources within your declared field. The grant may come with expectations or restrictions.
 
-### Sanctity (2 pt. Merit)
+### Sanctity (Edge ●●)
 
 People instinctively trust your moral sincerity. Add 1 die to Social rolls in situations where being perceived as honest or morally upright matters. Characters who perceive you through supernatural senses note a sense of genuine conviction or purity around you.
 
-### Secret Code Language (2 pt. Merit)
+### Secret Code Language (Edge ●●)
 
 You and a known group of associates communicate through a private language or code system. Without the key, the language is indecipherable to outsiders even with magic or technology. Define the group and the rough nature of the code with your Storyguide.
 
-### Socially Networked (2 pt. Merit)
+### Socially Networked (Edge ●●)
 
 You have a wide and active social network across multiple communities. Once per session you may make a Wits + Etiquette or Streetwise roll (Difficulty 6) to locate an appropriate contact, safe house, or resource through your network.
 
-### Subculture Insider (2 pt. Merit)
+### Subculture Insider (Edge ●●)
 
 You are deeply embedded in a specific subculture (hacker community, underground art scene, religious order, criminal network, etc.). Add 2 dice to Social rolls within that subculture and gain access to its resources and information networks.
 
-### Dark Triad (3 pt. Merit)
+### Dark Triad (Edge ●●●)
 
 You possess a calculated, manipulative edge that some find terrifying and others find compelling. Add 2 dice to rolls involving manipulation, intimidation, and strategic deception. However, those with high Empathy or supernatural perception may find you unsettling; reduce Difficulty of their attempts to sense your true nature by 1.
 
-### Local Hero (3 pt. Merit)
+### Local Hero (Edge ●●●)
 
 Within a specific community or neighbourhood, you are celebrated and trusted. Local residents will help you without expectation of payment, give you shelter, and protect you from outsiders if they can. Outside your local area, this reputation may mean nothing.
 
-### Noted Messenger (3 pt. Merit)
+### Noted Messenger (Edge ●●●)
 
 You are known and trusted as a reliable neutral courier between factions. Both sides in a conflict will generally allow you to pass safely and will not interfere with your deliveries. Breaking this neutrality forfeits the Merit permanently.
 
-### Rising Star (3 pt. Merit)
+### Rising Star (Edge ●●●)
 
 Senior members of your organisation or Tradition recognise your potential. You gain +1 die to Social rolls with mentors and superiors and are granted more latitude than other mages of your rank. However, expectations are high — failure is more visible and more costly.
 
-### Ties (3 pt. Merit)
+### Ties (Edge ●●●)
 
 You have formal or informal connections to a powerful organisation outside your primary affiliation — a government agency, a media corporation, an organised crime family, etc. Once per story you may call on these ties for a significant favour.
 
-### Master of Red Tape (4 pt. Merit)
+### Master of Red Tape (Edge ●●●)
 
 You understand bureaucratic systems so deeply that you can make them work for you. Once per session, you may navigate an institutional obstacle (government, corporate, or organisational) that would stall ordinary characters entirely. Add 3 dice to all rolls involving bureaucratic manipulation, filing official requests, or blocking others through procedural means.
 
-### True Love (4 pt. Merit)
+### True Love (Edge ●●●)
 
 You have a profound and reciprocated bond with another person. Once per session, you may draw on this love to recover 1 Willpower point at no cost. You also gain 1 automatic hit on any roll made directly to protect or rescue your True Love. However, your True Love is also your greatest vulnerability — threatening them is an effective way to control you.
 
 ---
 
-### Fail Upwards (2 pt. Social Merit)
+### Fail Upwards (Edge ●●)
 
 Once per story, when you botch a Social roll in public, you may turn the roll into a single success instead. The blunder is not erased and the immediate target still feels slighted, but public opinion spins it in your favor — read as candor, or "telling it like it is."
 
-### Screw the Rules (4 pt. Social Merit)
+### Screw the Rules (Edge ●●●)
 
 Once per story arc, you can fast-track a purchase so that the paperwork clears and the item is in your hands within hours. Fast-tracking costs an additional dot of Resources, and rare or illegal goods may demand substantially higher Resources (Storyguide's discretion). The item must actually be for sale — you cannot force an unwilling seller, though the Storyguide may permit illegal acquisition such as organized theft — and hurried efforts risk leaving an incriminating evidence trail.
 
-## Social Flaws
+## Supernatural Edges
 
-### Blacklisted (1–5 pt. Flaw)
-
-You are formally excluded from one or more organisations, communities, or regions. The point value reflects the scope and power of those who have blacklisted you. At 1 point, a minor local exclusion. At 5 points, you are barred from the major institutions of the Awakened world and hunted if you attempt to use their resources.
-
-### Compulsive Speech (1–2 pt. Flaw)
-
-You cannot keep quiet when you should. For 1 point, you habitually share information others wish you would keep to yourself. For 2 points, the compulsion is severe — you must succeed on a Willpower roll (Difficulty 7) to stay silent in situations where silence is critical.
-
-### Conflicting Loyalties (1–3 pt. Flaw)
-
-You owe genuine obligations to two or more groups whose interests regularly conflict. The point value reflects how serious and irreconcilable those conflicts are. The Storyguide will create situations where you cannot satisfy both obligations simultaneously.
-
-### Conniver (1 pt. Flaw)
-
-You always look for an angle. Even when cooperation would be more effective, you instinctively seek personal advantage. When offered a straightforward deal, you must succeed on a Willpower roll (Difficulty 6) to take it at face value rather than trying to improve your position.
-
-### Cultural Other (1–5 pt. Flaw)
-
-Your background, ethnicity, religion, or identity marks you as an outsider in the dominant culture of your setting. The point value reflects the severity of discrimination and the practical disadvantages it creates. This Flaw has genuine in-world social consequences that the Storyguide should apply consistently.
-
-### Dark Secret (1 pt. Flaw)
-
-You have a secret that would seriously damage your reputation, relationships, or safety if revealed. Define the secret with your Storyguide. The Storyguide may introduce situations where the secret is in danger of exposure.
-
-### Debts (1 pt. Flaw)
-
-You owe significant favours or financial obligations to one or more powerful individuals. Periodically the Storyguide will call these debts in at inconvenient moments. Failing to meet an obligation may escalate the Flaw's impact.
-
-### Discredited (2 pt. Flaw)
-
-Your reputation within your field or community has been publicly damaged. Add +1 Difficulty to Social rolls with members of that community, and requests for resources or cooperation are received with scepticism until you demonstrate your worth.
-
-### Enemy (1–5 pt. Flaw)
-
-Someone actively opposes you. The point value reflects their power and dedication. At 1 point, a minor nuisance who can create complications. At 5 points, a powerful, resourceful, and relentless foe who has made your destruction a priority.
-
-### Esoteric Discourse / Technobabbler (1 pt. Flaw)
-
-You default to the specialised jargon of your Paradigm or technical field, even when speaking to outsiders. Non-specialists often cannot understand what you are saying. Add +1 Difficulty to Social rolls involving clear communication with those outside your field.
-
-### Family Issues (2 pt. Flaw)
-
-Your family relationships are a source of ongoing complication — estrangement, obligation, active conflict, or a family secret that draws unwanted attention. The Storyguide will introduce family-based complications at dramatically appropriate moments.
-
-### Infamy (3 pt. Flaw)
-
-You are notorious for something shameful or criminal. Members of the community where your infamy is known treat you with hostility, suspicion, or contempt. Add +2 Difficulty to most Social rolls in that community, and you may be refused service or assistance entirely in some situations.
-
-### Insane / Infamous Mentor (1 pt. Flaw)
-
-Your mentor is widely regarded as dangerous, unstable, or corrupt. Their reputation reflects on you. Add +1 Difficulty to Social rolls with those who know your mentor's reputation, and you may be tarred with their misdeeds.
-
-### Mistaken Identity (1 pt. Flaw)
-
-You are frequently confused with someone else — an enemy, a criminal, a deceased mage, or anyone else likely to cause you social complications. The Storyguide will periodically create situations based on this mistaken identity.
-
-### Naive (1 pt. Flaw)
-
-You are inexperienced with the world's darker aspects. Add +1 Difficulty to Streetwise and Subterfuge rolls. When someone is deceiving you, the Storyguide need not warn you when the deception should be obvious.
-
-### New Kid (1 pt. Flaw)
-
-You are new to your community, organisation, or city. You have no established reputation, few contacts, and no social capital. You must earn trust and respect through play; the Storyguide starts you without the benefit of the doubt in any community-related Social roll.
-
-### Offline (1 pt. Flaw)
-
-You have no functional digital presence — no phone, no internet access, no digital identity. You cannot use modern communication networks or access digital information. This is a significant practical disadvantage in the modern world.
-
-### Rival House (2 pt. Flaw)
-
-A specific faction, House, or sub-group within your own organisation considers you a rival to be undermined. They will oppose your proposals, spread unflattering rumours, and work against your advancement — while maintaining the appearance of being on the same side.
-
-### Sect Enmity (2 pt. Flaw)
-
-A specific sect or faction outside your organisation has declared you an enemy. Members of that sect will not cooperate with you and may actively oppose your activities. Define the sect with your Storyguide.
-
-### Special Responsibility (2 pt. Flaw)
-
-You have an ongoing obligation — a ward, a Node, a protected community — that requires regular time and attention. Neglecting this responsibility creates story complications. The Storyguide will invoke this Flaw when your responsibility is at risk.
-
-### Sympathizer (2 pt. Flaw)
-
-You are known to have sympathy for a faction that your primary community views as an enemy. This creates distrust among your allies and may attract unwanted attention from both sides. You suffer +1 Difficulty to Social rolls with those who know your leanings.
-
-### Twisted Apprenticeship (3 pt. Flaw)
-
-Your mentor taught you poorly, incorrectly, or with deliberate malice. You have incorrect assumptions about one aspect of Awakened life (Storyguide's choice) that will surface at the worst possible moments. Additionally, your mentor may still hold influence over you — emotionally, magickally, or socially.
-
-### Catspaw (3 pt. Flaw)
-
-An unknown or known power uses you as an instrument for their own ends, sometimes without your knowledge. The Storyguide may introduce moments where your actions — perhaps even your magick — serve someone else's agenda. Discovering and breaking this relationship is a significant story goal.
-
-### Diabolical Mentor (3 pt. Flaw)
-
-Your mentor is genuinely evil — Nephandic, power-hungry, or casually cruel. They have invested in your development for their own reasons. Their influence on your Paradigm and practices may be corrupting, and they may call on you to perform acts that conflict with your values.
-
-### Dogmatic (3 pt. Flaw)
-
-Your beliefs are rigid and non-negotiable. You cannot consider heterodox approaches to your Paradigm. When a situation demands flexibility in your worldview, you must spend a Willpower point to act against your established doctrine, and even then you feel profound discomfort.
-
-### Double Agent (4 pt. Flaw)
-
-You serve two masters. Both believe you are loyal to them. The Storyguide knows the full situation; your character may or may not. This Flaw creates ongoing tension and will eventually demand a crisis of loyalty.
-
-### Failure (3 pt. Flaw)
-
-Something you did in the past ended in catastrophic failure, and the community knows it. Add +1 Difficulty to Social rolls in communities where the failure is known, and the Storyguide may introduce NPCs who bring it up at inopportune moments.
-
-### Gullible (2 pt. Flaw)
-
-You are easily deceived. When someone lies to you convincingly, the Storyguide need not warn you and may actively support the deception. Add +1 Difficulty to rolls to detect deception through Empathy or Alertness.
-
-### Old Flame (2 pt. Flaw)
-
-A past romantic relationship complicates your life. The other person may still have feelings, bear a grudge, or simply appear at the worst possible times. The Storyguide will use this Flaw as a social complication at dramatic moments.
-
-### Troublemaker (2 pt. Flaw)
-
-You have a reputation for causing problems, even when you do not intend to. Authorities and institutions view you with automatic suspicion. Add +1 Difficulty to Social rolls with figures of authority who have heard of you.
-
-### Expendable (3 pt. Flaw)
-
-Your organisation views you as replaceable. When you need resources, backup, or rescue, your superiors are slow to act. In a crisis, the Storyguide may have institutional support delayed or absent entirely.
-
-### Narc (3 pt. Flaw)
-
-You are known to have informed on others — to the Technocracy, a rival faction, or mundane authorities. The underground community does not trust you. Add +2 Difficulty to Social rolls with those who know your reputation; some will refuse to deal with you at all.
-
-### Notoriety (3 pt. Flaw)
-
-You are known — badly — across a wide community. Add +1 Difficulty to Social rolls in any community where your notoriety has spread, and the Storyguide may introduce complications based on your reputation appearing ahead of you.
-
-### Rivalry (2 pt. Flaw)
-
-A peer of roughly equal ability is your established competitor. They will oppose you professionally, socially, and possibly physically. The Storyguide will use this rival as an antagonist and obstacle at regular intervals.
-
-### Rotten Liar (2 pt. Flaw)
-
-Your tells are obvious to anyone paying attention. Add +2 Difficulty to Subterfuge rolls to lie convincingly. When you fail a deception roll, the failure is immediately apparent — the target knows you are lying.
-
-### Sleeping with the Enemy (3 pt. Flaw)
-
-You have a close personal relationship — romantic, familial, or deeply collegial — with someone from a faction that your community considers an enemy. Both communities may treat you with suspicion, and the relationship creates ongoing moral and practical complications.
-
-### Ward (3 pt. Flaw)
-
-You are responsible for a vulnerable person — a child, an injured mage, a Sleeper who has witnessed too much. Their safety limits your freedom of action, and the Storyguide will place your ward in danger at dramatically appropriate moments.
-
-### Echo Chamber (3 pt. Flaw)
-
-You surround yourself only with those who agree with you and reflexively dismiss outside perspectives. When presented with evidence that contradicts your worldview, succeed on a Wits roll (Difficulty 7) or reject the evidence without genuine consideration.
-
-### Hit List (4 pt. Flaw)
-
-You appear on the active elimination list of a powerful organisation — the Technocracy, the Nephandi, a vampire Prince, or similar entity. They send operatives after you periodically. The Storyguide introduces pursuit or assassination attempts at dramatically appropriate moments.
-
-### Mr. Red Tape (3 pt. Flaw)
-
-Bureaucratic systems simply do not work for you. Every institutional process takes three times longer than expected, requires additional documentation, and involves unexpected complications. The Storyguide may invoke this Flaw whenever official channels are involved.
-
-### Overextended (3 pt. Flaw)
-
-You have taken on more obligations than you can comfortably fulfil. The Storyguide will periodically force you to choose between competing obligations, and failing to meet any one of them creates escalating consequences.
-
-### Probationary Member (2 pt. Flaw)
-
-Your standing in your organisation is conditional. You are under observation and must regularly demonstrate your loyalty and competence. Missteps are scrutinised more heavily, and your access to organisational resources is restricted.
-
-### Rogue (4 pt. Flaw)
-
-Your organisation has formally declared you a rogue or traitor. They will not provide resources, backup, or sanctuary. Some members may actively hunt you. Establishing a new affiliation requires extensive in-game effort.
-
-### Witch-Hunted (4 pt. Flaw)
-
-You have drawn the serious attention of Sleeper hunters — government operatives, religious extremists, or organised conspiracy theorists — who have identified you as genuinely supernatural. They watch you, pursue you, and may attempt to capture or eliminate you. This is separate from standard Technocratic interest.
-
-### Fifth Degree (5 pt. Flaw)
-
-You carry the formal censure of your sect at the highest level. You are barred from all sect resources, your name is a warning to new initiates, and the most loyal members of your sect will actively oppose you. This Flaw can only be bought off through extraordinary acts of service and formal restoration — a significant story arc.
-
----
-
-
-### Construct (2 pt. Social Flaw)
-
-Your character has an uncanny quality — a cyborg, clone, artificial person, heavily modified human, or something else that does not quite read as "natural" to other people. Even people who cannot articulate why feel that something is off.
-
-Subtract 2 dice from social rolls in situations where naturalness, spontaneous humanity, or emotional authenticity are important. This Flaw is automatically included when a character takes 3 or more dots of the Enhancement Background through non-Technocracy methods.
-
-**Tags:** [Uncanny], [Isolated]
-
-**Invoke:** [Uncanny] when your unsettling nature causes people to recoil or remain at arm's length — use it when you need to clear a space or unsettle someone.
-
-**Compel:** [Uncanny] when people shut down, become hostile, or simply refuse to engage because something about you sets off their instincts. The Storyguide may compel this freely in social situations where naturalness and human warmth are the currency.
-
-### Eccentric (1 or 2 pt. Social Flaw)
-
-An unsettling habit or belief inflicts a +2 penalty on Social rolls to make a positive first impression. At 1 point it is a personal hindrance you can suppress for short periods; at 2 points it is a belief or compulsion that colors your public life and is almost impossible to hide.
-
-### Financial Partner (2–4 pt. Social Flaw)
-
-*Prerequisite: Resources •••• or higher.* One or more individuals monitor and limit your Resources. At 2 points (3 points if your Resources are 7 or higher), the Partner can temporarily reduce your Resources Background by the Flaw's value once per story arc. At 3 points (4 points if Resources 7+), the Partner can scrutinize and cap your access outright: you must justify major expenditures, and they can block any that run against their interests. Repeatedly evading them may provoke a hostile takeover — anything from litigation to assassination.
-
-## Supernatural Merits
-
-### Burning Aura (1 pt. Merit)
+### Burning Aura (Edge ●)
 
 Your aura is unusually vivid and intense, readable from a greater distance and with less effort than normal. Mages or psychics who read auras gain more information from yours. Your passion and sincerity are palpable to anyone with supernatural perception.
 
-### Green Thumb (1 pt. Merit)
+### Green Thumb (Edge ●)
 
 Plants thrive in your care, growing faster and healthier than they normally would. This extends to a mild supernatural effect: plants near you tend to grow toward you, and you can coax a plant to flower or produce fruit in minutes with a touch and a moment of focus (no roll required, but limited to natural growth acceleration).
 
-### Bardic Gift (2 pt. Merit)
+### Bardic Gift (Edge ●●)
 
 Your creative performance carries genuine supernatural resonance. When you perform music, poetry, or storytelling for an audience, add 1 die to the rolls of any allies who witness the performance on their next action. Additionally, mundane audiences find your performances unusually moving or memorable.
 
-### Circumspect Avatar (2 pt. Merit)
+### Circumspect Avatar (Edge ●●)
 
 Your Avatar is quiet, subtle, and reluctant to attract attention. Mages using Prime or Spirit Sphere effects to sense avatars or magical auras have a +2 Difficulty to detect yours specifically. Your Quiets, when they occur, tend toward subtle and internal forms rather than dramatic external manifestations.
 
-### Faerie Affinity (2 pt. Merit)
+### Faerie Affinity (Edge ●●)
 
 Fae beings — from minor nature spirits to full changelings — sense your connection to their world and react with relative warmth. Reduce the Difficulty of Social rolls with fae entities by 2. You may also perceive fae glamour and enchantments more easily, reducing the Difficulty of Awareness rolls to notice them by 1.
 
-### Medium (2 pt. Merit)
+### Medium (Edge ●●)
 
 You can perceive and communicate with ghosts and spirits of the recently dead without Sphere effects. Without the Spirit Sphere, you cannot affect them mechanically — you can only see and hear them and allow them to communicate through you. Spirit mages may use your talent as a focusing instrument.
 
-### Unaging (2 pt. Merit)
+### Unaging (Edge ●●)
 
 Your physical aging has effectively stopped. You will not age further under normal circumstances. You are not immortal — you can be killed by violence, disease, or magick — but time alone will not end you. You retain your current physical appearance indefinitely.
 
-### Celestial Affinity (3 pt. Merit)
+### Celestial Affinity (Edge ●●●)
 
 You are attuned to the movements of celestial bodies. Add 1 die to all casting rolls when performing magick during astronomically significant moments (solstices, eclipses, planetary alignments). You always know the current phase of the moon, the position of major planets, and the presence of any astronomical anomaly.
 
-### Cloak of the Seasons (3 pt. Merit)
+### Cloak of the Seasons (Edge ●●●)
 
 Your magickal practice shifts with the seasons, reflecting the natural world's cycles. In the season most appropriate to your primary Sphere or Tradition, reduce all casting Difficulties by 1. In the opposite season, increase them by 1. Work with your Storyguide to determine which season aligns with your practice.
 
-### Cyclic Magick (3 pt. Merit)
+### Cyclic Magick (Edge ●●●)
 
 Your magickal power waxes and wanes in a regular cycle tied to a natural phenomenon — lunar phases, tidal patterns, solar cycles. During your peak, add 2 dice to all casting rolls. During your trough, subtract 1 die. The Storyguide tracks the cycle and tells you where you currently stand.
 
-### Danger Sense (3 pt. Merit)
+### Danger Sense (Edge ●●●)
 
 You have a preternatural awareness of imminent threat. The Storyguide will give you a private warning — a feeling, a flash of vision, a sudden chill — whenever serious danger is approaching, even if you could not logically have detected it. This warning gives you time to prepare or flee.
 
-### Hands of Daedalus (3 pt. Merit)
+### Hands of Daedalus (Edge ●●●)
 
 You have an extraordinary gift for craft and construction. When creating physical items — wonders, tools, structures, or art — add 2 dice to all Craftsmanship rolls and reduce Difficulty by 1. Items you create are exceptionally durable and function better than comparable items made by others.
 
-### Lucky (3 pt. Merit)
+### Lucky (Edge ●●●)
 
 Once per session, you may reroll any one roll and take the better result. Additionally, once per story, you may avoid one botch — treat it as a simple failure instead. Luck cannot be invoked in direct self-destructive acts.
 
-### Manifest Avatar (3 pt. Merit)
+### Manifest Avatar (Edge ●●●)
 
 Your Avatar can take a visible form that others can perceive — through Awareness, Aura Reading, or sometimes with naked eyes. This allows your Avatar to act as an independent presence in a scene, provide visible guidance, and serve as a focus for Spirit-based interactions. The Avatar's form should be defined during character creation.
 
-### Mark of Favor (3 pt. Merit)
+### Mark of Favor (Edge ●●●)
 
 A powerful supernatural entity — a great spirit, a Loa, a higher being — has marked you as being under its protection. Those with supernatural perception recognise this mark. The entity will not intervene directly on your behalf, but its mark causes supernatural beings to think twice before moving against you. Beings who ignore the mark do so at their peril.
 
-### Natural Channel (3 pt. Merit)
+### Natural Channel (Edge ●●●)
 
 Magical energy flows through you unusually freely. Reduce the Difficulty of Prime Sphere rolls to sense or channel Quintessence by 1. You may also serve as a natural conduit in group rituals, allowing other mages in the ritual to add 1 die to their contributions.
 
-### Natural Shapeshifter (3 pt. Merit)
+### Natural Shapeshifter (Edge ●●●)
 
 Your body adapts and changes more readily than most. Magickal life transformations applied to you require 1 fewer success to initiate. You recover from physically traumatic shapeshifting effects 1 turn faster than normal and suffer 1 fewer point of damage from botched transformation attempts.
 
-### Oracular Ability (3 pt. Merit)
+### Oracular Ability (Edge ●●●)
 
 You receive genuine prophetic visions — fragments of possible futures, omens, or warnings. These visions are never fully clear and are always symbolic. The Storyguide may deliver visions at dramatically appropriate moments. You may also, once per story, ask the Storyguide for a vision relating to a specific situation; the Storyguide determines the nature of what you receive.
 
-### Parlor Trick (3 pt. Merit, per trick)
+### Parlor Trick (Edge ●●●)
 
 You can perform one minor supernatural effect that requires no Sphere rating: a coin that always comes up heads, a flame that burns in any colour you choose, a door that always opens for you. Each "trick" is a separate 3-point purchase. These effects are small, reliable, and personal; they cannot be weaponised or used to significantly affect others.
 
-### Spirit Magnet (3–7 pt. Merit)
+### Spirit Magnet (Edge ●●● / Power ●●●●●●●)
 
-Spirits are drawn to you. For 3 points, minor spirits occasionally approach you and may be willing to share information. For 5 points, spirits of moderate power seek you out regularly. For 7 points, you are a beacon to powerful spirits, which can be tremendously useful or dangerously inconvenient depending on which spirits arrive first.
+Spirits are drawn to you. At ●●●, minor spirits occasionally approach you and may be willing to share information. At ●●●●●, spirits of moderate power seek you out regularly. For 7 points, you are a beacon to powerful spirits, which can be tremendously useful or dangerously inconvenient depending on which spirits arrive first.
 
-### Spirit Mentor (3 pt. Merit)
+### Spirit Mentor (Edge ●●●)
 
 A spirit entity has chosen to guide and protect you. It provides occasional advice, warns you of supernatural threats it perceives, and may intervene in minor ways during crises. It cannot fight on your behalf, but it is a genuine ally with its own perspective and knowledge. Define the spirit's nature with your Storyguide.
 
-### Supernatural Companion (3 pt. Merit)
+### Supernatural Companion (Edge ●●●)
 
 You have a close relationship with a supernatural being — a werewolf, a vampire, a fae, an extraordinary mortal — who is genuinely your ally. They have their own agendas and limitations, but will assist you in crises within those limits. Define the companion's nature and the relationship's history with your Storyguide.
 
-### Stormwarden / Quantum Voyager (3 or 5 pt. Merit)
+### Stormwarden / Quantum Voyager (Edge ●●● / Power ●●●●●)
 
-For 3 points, you are particularly attuned to storms, chaos, and turbulent natural phenomena; reduce the Difficulty of Forces-based magick during storms or chaotic conditions by 1 and gain 1 additional die on Awareness rolls in such conditions. For 5 points, this attunement extends to dimensional instability; you are at ease in the Deep Umbra or during reality fluctuations, and the usual disorientation penalties in such environments do not apply to you.
+At ●●●, you are particularly attuned to storms, chaos, and turbulent natural phenomena; reduce the Difficulty of Forces-based magick during storms or chaotic conditions by 1 and gain 1 additional die on Awareness rolls in such conditions. At ●●●●●, this attunement extends to dimensional instability; you are at ease in the Deep Umbra or during reality fluctuations, and the usual disorientation penalties in such environments do not apply to you.
 
-### Deathwalker (4 pt. Merit)
+## Backgrounds (Rated Edges & Powers)
+
+Backgrounds represent a mage's position and resources in the world — the relationships, places, and possessions that define her life outside raw magical power. Unlike Attributes and Skills, Backgrounds generally cannot be raised by spending experience points directly; they change through story events and the Storyguide's recognition of shifts in circumstance.
+In some situations, a player can roll her Background rating as part of a dice pool: Presence + Influence to spread information quickly, or Cunning + Arcane to slip past an observer's notice. In general, though, Backgrounds represent available resources, not raw mechanical dice.
+Certain Backgrounds (marked with *) are available only to Technocracy members. Certain Backgrounds (marked with $) cost double the usual Background dots per dot. Backgrounds that can pool within a group or exceed 5 dots are noted in their entries.
+
+### Allies (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Friends, animals, minor spirits, or helpful contacts who can be called upon in need. Generally unAwakened or non-mage, though magick-using allies count as major ones.
+
+```
+Allies Dot Ratings
+------------------
+X   No allies.
+•   One moderate ally, or two minor sidekicks.
+••  Two moderate allies, four sidekicks, or one more capable ally.
+••• Three moderate allies, or a combination.
+•••• Four moderate allies, six minor sidekicks, or a mix.
+••••• Five moderate allies, or an assortment.
+••••• • Six moderate allies; can exceed 5 with pooling.
+••••• •• Seven moderates; staff of sidekicks.
+••••• ••• Eight moderates; batch of followers.
+••••• •••• Nine moderates; private militia.
+••••• ••••• Ten capable allies; small army.
+```
+
+Can be pooled within a group. Can exceed 5 dots. Lost allies reduce the Background accordingly.
+
+### Alternate Identity (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A false identity with official documentation and support. Higher ratings withstand more scrutiny. Each dot allows one dot of other Backgrounds to be linked to the alternate identity.
+
+```
+Alternate Identity Dot Ratings
+------------------------------
+X   Just yourself.
+•   Basic fake ID; passes bouncers and casual checks.
+••  Passes routine official checks.
+••• An established alternative identity with history.
+•••• Withstands official investigation.
+••••• Bulletproof alternate life; nearly indistinguishable from genuine.
+```
+
+### Arcane / Cloaking (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Mystical obscurity. People forget your face, overlook you, or fail to connect you to events you were involved in. Arcane is the mystic term; Cloaking is the Technocratic equivalent.
+
+```
+Arcane / Cloaking Dot Ratings
+-----------------------------
+X   As conspicuous as anyone else.
+•   You blend into crowds more easily than most.
+••  Your presence slides from memory after encounters.
+••• People have difficulty recalling your face or name.
+•••• Only impressionistic shadows of memory remain.
+••••• You are virtually invisible in memory; almost impossible to track via normal means.
+```
+
+Note: Fame directly reduces effective Arcane; if Fame exceeds Arcane, the Arcane offers no protection in situations where the character is known.
+
+### Avatar / Genius (Edge ●–●●● / Power ●●●●–●●●●●)
+
+The strength and character of your inner magical self. Avatar for mystic mages; Genius for Technocrats. At Avatar/Genius 3 or more, the inner self has a distinct personality and agenda of its own.
+
+```
+Avatar / Genius Dot Ratings
+---------------------------
+X   No Avatar to speak of; wild talents and unAwakened only.
+•   A barely noticeable presence; minimal guidance.
+••  An active presence that occasionally offers insights.
+••• A strong, opinionated guide with its own goals.
+•••• A powerful force in your life; hard to ignore or disobey.
+••••• A dominant spiritual presence; nearly a separate entity.
+```
+
+Cannot exceed 5 dots. Cannot be raised through pooling.
+
+### Backup * (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Technocracy-only. A team of agents available for support on missions. The rating reflects the quality and number of agents available.
+
+```
+Backup Dot Ratings
+------------------
+X   No backup; you are on your own.
+•   Two typical agents.
+••  Four basic agents, or two skilled "temps."
+••• Six agents.
+•••• Eight agents, or four skilled temps.
+••••• Ten agents, or six skilled temps.
+••••• • Squad of proven veterans.
+••••• •• Trusted team of loyal operatives.
+```
+
+### Blessing (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A supernatural favor or divine patronage that grants minor lucky breaks and, at higher levels, more significant interventions in your favor. The source may be a deity, a powerful spirit, an ancestor, or the cosmos itself.
+
+```
+Blessing Dot Ratings
+--------------------
+•   Minor lucky breaks; small coincidences favor you.
+••  Occasional significant favorable coincidences.
+••• Noticeable divine favor; regularly things go your way.
+•••• Significant blessings on important matters.
+••••• Near-miraculous assistance at moments of dire need.
+```
+
+### Certification (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Technocracy-only. Official credentials within the Union's bureaucratic structure. Higher ratings grant access to more restricted areas, files, and resources.
+
+```
+Certification Dot Ratings
+-------------------------
+•   Basic clearance; access to standard Union facilities.
+••  Mid-level certification; restricted files and equipment.
+••• Senior certification; high-security access.
+•••• Special authorization; classified projects.
+••••• Top-level clearance; near-unrestricted Union access.
+```
+
+### Chantry / Construct (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A shared base of operations. Chantry for mystic groups; Construct for Technocracy teams. Background points can be pooled by a group toward a shared Chantry/Construct. Mystic mages cannot pool toward a Construct, and Technocrats cannot toward a Chantry.
+
+```
+Chantry / Construct Dot Ratings
+-------------------------------
+X   No place to call home.
+•   One pool point; membership in a tiny squat or safehouse.
+••  A small but dedicated sanctuary with basic protection.
+••• A proper Chantry or Construct with meeting space and wards.
+•••• A Chantry with substantial resources and defenses.
+••••• A full Stronghold; heavily fortified and well-resourced.
+```
+
+A Chantry or Construct functions as a shared Background; all pool points contributed count toward the shared total. Members contribute and withdraw points as they join or leave the group.
+
+### Contacts (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Informants and acquaintances who supply information in their areas of expertise. Contacts are not friends or employees; they require maintenance of the relationship.
+
+```
+Contacts Dot Ratings
+--------------------
+X   No contacts of note.
+•   One contact.
+••  Two contacts.
+••• Three contacts.
+•••• Four contacts.
+••••• Five contacts.
+••••• •  Six contacts.
+••••• •• Seven contacts.
+```
+
+### Cult (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A group of Sleepers who revere, follow, or organize around you. Cults provide labor, belief energy, and resources, but also require attention and carry social/story risks.
+
+```
+Cult Dot Ratings
+----------------
+•   A handful of dedicated followers.
+••  A modest group; small organized meeting.
+••• A notable organization with modest resources.
+•••• A large following with substantial resources and influence.
+••••• A major religious, ideological, or cultural movement.
+```
+
+### Destiny (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A sense of preordained purpose recognized by fate, spirits, or the cosmos. Once per game session, you may roll your Destiny dots against Difficulty 6; each hit adds 1 die to a single important action.
+
+```
+Destiny Dot Ratings
+-------------------
+X   Not especially important in the grand scheme.
+•   A minor destiny; roll 1 die.
+••  A significant destiny; roll 2 dice.
+••• You are important; roll 3 dice.
+•••• You are destined for great things; roll 4 dice.
+••••• A legendary purpose; roll 5 dice.
+```
+
+Cannot exceed 5 dots. Cannot be raised through pooling.
+
+### Dream / Hypercram (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Access to an Umbral dream realm (Dream) or a Technocratic data library accessed during sleep (Hypercram). Higher ratings provide richer access to information and resources through altered-state contact.
+
+```
+Dream / Hypercram Dot Ratings
+-----------------------------
+•   Faint, inconsistent access.
+••  Regular access with useful results.
+••• A significant personal realm or data archive.
+•••• Extensive resources; serious metaphysical or informational depth.
+••••• Profound access; major dreams or comprehensive data mastery.
+```
+
+### Enhancement $ (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Cybernetic implants, biomods, or other permanent physical modifications. Costs DOUBLE — each dot of Enhancement costs 2 Background points. Each dot also requires either 1 Genetic Tag or 1 permanent Paradox point (player's choice per dot). Technocratic-grade enhancements are more reliable; non-Technocratic enhancement suffers one Genetic Tag per dot automatically.
+
+```
+Enhancement Dot Ratings
+-----------------------
+•   One basic modification; 1 Paradox pt. or 1 Genetic Tag.
+••  Two modifications; 2 pts./Flaws total.
+••• Three modifications; 3 pts./Flaws total.
+•••• Four modifications; 4 pts./Flaws total.
+••••• Five modifications; 5 pts./Flaws total.
+```
+
+For specific enhancement options (cybernetics, biomods), see Appendix G: The Technocratic Union. Enhancement cannot exceed 5 dots.
+
+### Fame (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Public celebrity or notoriety among Sleepers or within specific communities. Fame provides social advantages in appropriate contexts but reduces the effectiveness of the Arcane Background proportionally.
+
+```
+Fame Dot Ratings
+----------------
+•   Local celebrity; known by the right people in your area.
+••  Regional fame; recognized in your field or region.
+••• National recognition; a public figure.
+•••• International celebrity; known worldwide in relevant circles.
+••••• World-famous icon; nearly universally recognized.
+```
+
+Fame cannot exceed 5 dots. Fame at equal or higher rating than Arcane negates Arcane's concealment in settings where the character is known.
+
+### Familiar / Companion (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A bound magical creature (Familiar) or dedicated Technocratic partner (Companion). The Familiar can hold up to 5 points of Paradox on behalf of the mage. Higher ratings indicate more capable, powerful, and loyal companions.
+
+```
+Familiar / Companion Dot Ratings
+--------------------------------
+•   Small creature with limited abilities; basic assistance.
+••  Medium creature with useful tricks; moderate support.
+••• Substantial familiar with notable powers; meaningful aid.
+•••• Powerful bound entity; significant capabilities.
+••••• Near-legendary companion; major supernatural ally.
+```
+
+Familiars are characters in their own right with needs, motivations, and personalities. If the Familiar is killed or the bond is broken, the Background is lost.
+
+### Influence (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Social and institutional clout within specific communities, institutions, or broader society. Higher ratings reflect greater reach and leverage.
+
+```
+Influence Dot Ratings
+---------------------
+X   No significant influence.
+•   People in your field respect your abilities.
+••  You have quite a bit of clout in your sphere.
+••• You are a force to be reckoned with; your actions affect many.
+•••• A major powerbroker; regional or national weight.
+••••• Your actions influence allied nations or global communities.
+```
+
+Can exceed 5 dots through group pooling. The Storyguide controls the limits of what Influence can accomplish; it is a narrative resource, not a mechanical guarantee.
+
+### Legend (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A mystical connection to an archetypal legendary figure or mythic narrative. The Legend provides a framework of power, recognition, and story obligation.
+
+```
+Legend Dot Ratings
+------------------
+X   No legendary connection.
+•   A minor legend: Sinbad the Sailor, Don Juan, the Wandering Jew.
+••  A moderate legend with broader recognition.
+••• A major legendary figure: Geronimo, Red Riding Hood, Anansi.
+•••• Powerful mythic resonance; the archetype shapes your story.
+••••• An archetypal force; your very nature reflects the legend.
+```
+
+Cannot exceed 5 dots. Requires a compelling story-based justification.
+
+### Library (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A personal collection of books, archives, data, and esoteric knowledge. Provides research advantages when the collection is relevant to a topic.
+
+```
+Library Dot Ratings
+-------------------
+X   A few New Age paperbacks; little of genuine use.
+•   Lots of fiction, little substance; some genuine material.
+••  A modest genuine archive; useful for standard research.
+••• A solid specialized collection; professional-grade resources.
+•••• An extensive personal archive; excellent research resource.
+••••• A massive personal library; rivals small institutional archives.
+```
+
+Can exceed 5 dots through group pooling. Shared within groups as a Group Asset.
+
+### Mentor (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A teacher, guide, or sponsor who provides wisdom, contacts, and occasional assistance. Higher ratings indicate more capable, more connected, and more reliably helpful mentors.
+
+```
+Mentor Dot Ratings
+------------------
+X   No mentor worth mentioning.
+•   An unreliable or inexperienced guide.
+••  A helpful but eccentric mentor with some wisdom to offer.
+••• A good and noteworthy teacher; respected in Awakened circles.
+•••• A wise, helpful, and respected elder; significant connections.
+••••• A legendary master; extraordinarily capable and connected.
+```
+
+Cannot exceed 5 dots. Shared within groups as a Group Asset.
+
+### Node (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A place of natural metaphysical power (Node for mystics; power-source equivalent for Technocrats). Provides Quintessence (Primal Energy) per story. Higher ratings indicate stronger Nodes with more energy and wider influence.
+
+```
+Node Dot Ratings
+----------------
+X   No place of power.
+•   A small trickle; Level 1 Node or equivalent.
+••  A moderate power source; Level 2 Node.
+••• A significant Node; Level 3 power center.
+•••• A powerful Node; Level 4 source with notable local effects.
+••••• A potent Node; Level 5 — rare and highly sought.
+```
+
+Can exceed 5 dots through group pooling. The Node's physical location must be described and has story implications.
+
+### Past Lives (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Memories and skills carried forward from previous incarnations. Higher ratings provide more vivid and accessible past-life knowledge.
+
+```
+Past Lives Dot Ratings
+----------------------
+X   No past lives to speak of.
+•   Faint traces; occasional sense of having been somewhere before.
+••  Frequent déjà vu; fleeting flashes of prior existence.
+••• Definite memories of other lives; can recall specific details.
+•••• Strong recall of past skills, relationships, and experiences.
+••••• Vivid and detailed past-life access; can draw on past-life Skills.
+```
+
+Cannot exceed 5 dots. Past Lives can provide access to knowledge through Storyguide-adjudicated rolls.
+
+### Patron (Edge ●–●●● / Power ●●●●–●●●●●)
+
+A powerful figure who supports your character's activities. Higher ratings indicate more powerful and more actively engaged sponsors.
+
+```
+Patron Dot Ratings
+------------------
+•   A shadowy someone pulling occasional strings.
+••  Someone who actively favors you with minor assistance.
+••• A powerful party who appears regularly and assists substantially.
+•••• A major patron with significant resources committed to your success.
+••••• An incredibly powerful sponsor; major supernatural or institutional weight.
+```
+
+### Rank (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Official standing within the Technocracy or a similar hierarchical institution. Rank provides authority, access, and the ability to command resources and personnel within official channels.
+
+```
+Rank Dot Ratings
+----------------
+X   No rank of note.
+•   Junior operative; entry-level recognition.
+••  Recognized field agent; trusted with standard missions.
+••• Squad leader or equivalent; authority over a small team.
+•••• Convention officer; significant institutional authority.
+••••• Senior Symposium member; near-pinnacle institutional influence.
+```
+
+### Requisitions * (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Technocracy-only. A rating representing your standing with Union supply channels. Roll Requisitions (Difficulty 7, modified by standing and gear rarity) to obtain specialized equipment on a temporary mission basis.
+
+```
+Requisitions Dot Ratings
+------------------------
+X   Bare minimum; standard-issue only.
+•   Basic field kit.
+••  Standard field kit plus some specialized options.
+••• Three dice: You've earned their trust.
+•••• Four dice: Q Division likes you.
+••••• Five dice: A squad of proven agents backs you up.
+••••• • Six dice: A trusted team of loyal operatives.
+••••• •• Seven dice: Elite access.
+```
+
+Failed Requisitions roll = refusal. Botched roll = reprimand. Requisitioned gear belongs to the Union and must be returned.
+
+### Resources (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Personal wealth and financial assets.
+
+```
+Resources Dot Ratings
+---------------------
+X   Broke; struggling to cover basic needs.
+•   Slightly ahead; small savings, lower-middle income.
+••  Comfortable; middle-class income and lifestyle.
+••• Wealthy; significant disposable income and assets.
+•••• Very wealthy; major assets, substantial property.
+••••• Rich; a substantial personal fortune.
+••••• •+ Exceeds normal limits; vast wealth at Storyguide discretion.
+```
+
+Can exceed 5 dots through pooling or extraordinary story circumstances.
+
+### Retainers (Edge ●–●●● / Power ●●●●–●●●●●)
+
+Personal employees, servants, or loyal assistants who work for your character on a long-term basis.
+
+```
+Retainers Dot Ratings
+---------------------
+X   No retainers of note.
+•   One loyal helper of modest skill (an apprentice, a driver, a housekeeper).
+••  A small, capable staff (two or three retainers, or one genuinely skilled specialist).
+••• A well-rounded household or team (four to six retainers covering multiple needs).
+•••• A substantial staff or private security detail (skilled, some armed or trained).
+••••• A small private organization loyal to you personally (bodyguards, researchers, agents).
+```
+
+Retainers can be lost through death, betrayal, or simply quitting if treated poorly — a Storyguide is within their rights to erode this Background over the course of a chronicle if the character neglects the relationship. Retainers are not combat-ready by default; a Retainer dot buys competence at the retainer's actual job, not a personal bodyguard's worth of Close Combat unless the character specifically built for that with the dots spent.
+
+---
+
+## Powers
+
+Powers cost a flat amount of experience and require Storyguide approval. Unless an entry says otherwise, a Power costs experience in proportion to its former weight — the more the world bends around it, the dearer it comes.
+
+### Deathwalker (Power)
 
 You walk comfortably in the spaces between life and death. You can perceive and communicate with spirits and ghosts as per the Medium Merit. Additionally, once per session, you may ask a recently deceased spirit one question that it would have known in life (Difficulty 7 Awareness roll to establish contact). Entropy and Spirit Sphere effects you perform in the presence of death or at sites of recent mortality gain 1 extra die.
 
-### Fae Blood (4 pt. Merit)
+### Fae Blood (Power)
 
 Faerie heritage runs in your bloodline, granting you a minor glamour and a preternatural sensitivity to the natural world. You are immune to mundane illness. Fae entities sense your lineage and react with a degree of kinship. Once per session, you may invoke your fae nature to succeed automatically on one Empathy or Awareness roll involving fae phenomena. However, cold iron (unworked iron) causes you discomfort; touching it adds +1 Difficulty to your next roll.
 
-### Shapechanger Kin (4 pt. Merit)
+### Shapechanger Kin (Power)
 
 You have close blood ties to one of the shapechanger breeds. You are recognised as Kin by that breed, granting you their protection and access to their communities. You may not shapechange yourself, but you are immune to the rage frenzy that Kin sometimes trigger in nearby shapechangers. Work with your Storyguide to define which breed and what specific privileges apply.
 
-### Twin Souls (4 pt. Merit)
+### Twin Souls (Power)
 
 Your soul is twined with another — possibly a twin, a past life echo, or a metaphysical soulmate. You may share dreams, sense each other's distress across any distance, and once per session communicate a single simple concept to each other without any medium. If your twin is present in a scene, add 1 die to all rolls made to protect or assist them. If your twin is harmed, make a Willpower roll (Difficulty 6) or be temporarily distracted by sympathetic pain.
 
-### Umbral Affinity (4 pt. Merit)
+### Umbral Affinity (Power)
 
 The spirit world feels like home to you. Reduce the Difficulty of all Spirit Sphere rolls by 1. Crossing the Gauntlet requires 1 fewer hit on the roll than it normally would. Spirits you encounter in the Umbra react to you as a familiar presence rather than an intruder unless you give them reason for hostility.
 
-### Unbondable (4 pt. Merit)
+### Unbondable (Power)
 
 Supernatural bonds do not take hold on you. Blood bonds, binding oaths with magical enforcement, and other forced supernatural loyalties do not affect you or wear off much more rapidly than they would affect others. You may still choose to be loyal; you simply cannot be compelled to be.
 
-### Ghoul (5 pt. Merit)
+### Ghoul (Power)
 
 You have consumed vampire vitae and receive ongoing doses that sustain a partial blood bond and a small set of vampiric benefits. You age slowly (roughly one year for every decade), can spend a Willpower point to gain 1 die on Strength or Stamina rolls for one scene, and heal at double the normal rate. However, you must periodically receive vitae to maintain these benefits, and you carry a low-level blood bond to your vampire benefactor.
 
-### Clear Sighted (5 pt. Merit)
+### Clear Sighted (Power)
 
 Illusions and glamours cannot deceive you. You automatically succeed on all rolls to see through magical deceptions, illusions, and mind-altering perceptual effects. If a mage is trying to hide their magical working behind a coincidental facade, you recognise it as magical. You cannot be made to believe in something that is not real.
 
-### "Immortal" (5 or 7 pt. Merit)
+### "Immortal" (Power)
 
-For 5 points: your body does not age and recovers from nearly any physical injury given enough time. You can still be killed by sufficient trauma, decapitation, or magick that destroys the soul, but you do not die of ordinary causes. For 7 points: your immortality extends to significant trauma recovery — even injuries that would permanently scar or cripple others heal fully over days or weeks.
+At ●●●●●: your body does not age and recovers from nearly any physical injury given enough time. You can still be killed by sufficient trauma, decapitation, or magick that destroys the soul, but you do not die of ordinary causes. For 7 points: your immortality extends to significant trauma recovery — even injuries that would permanently scar or cripple others heal fully over days or weeks.
 
-### Inner Knight (5 pt. Merit)
+### Inner Knight (Power)
 
 You have a calling — a deep, genuine sense of duty toward a cause greater than yourself — that manifests as spiritual fortitude. Add 2 dice to all Willpower rolls when acting directly in service of your calling. Once per session, spend a Willpower point to gain immunity to supernatural fear or despair for the rest of the scene.
 
-### Legendary Attributes (5 pt. Merit)
+### Legendary Attributes (Power)
 
 One Attribute can exceed the normal human maximum of 5. That Attribute may be raised to 6 during character creation or play. This represents genuinely inhuman capability — the strength of legend, the perception of prophecy, the charisma of a demigod.
 
-### Powerful Ally (5–8 pt. Merit)
+### Powerful Ally (Power)
 
 You have the genuine support of a being of significant supernatural or political power. At 5 points, a respected and capable Awakened ally who can mobilise significant resources. At 6 points, an Archmaster or equivalent. At 7 points, a spirit lord, vampire elder, or equivalent power. At 8 points, a being of near-legendary capability. Your ally will not fight all your battles but will intervene in genuine emergencies and can open doors inaccessible to most mages.
 
-### Shattered Avatar (5 pt. Merit)
+### Shattered Avatar (Power)
 
 Your Avatar has been fragmented — perhaps by trauma, past-life conflicts, or a botched Seeking — and the pieces have developed distinct voices and personalities. You gain an additional "inner advisor" who can provide perspectives your conscious mind cannot access. Once per session, you may ask a question of your fragmented Avatar and receive a genuine (if cryptic) answer. However, the fragments sometimes argue, and the Storyguide may impose moments of internal conflict requiring a Willpower roll.
 
-### Spark of Life (5 pt. Merit)
+### Spark of Life (Power)
 
 Vitality radiates from you. Plants and animals within a few yards of you grow healthier, injured creatures recover faster, and children are drawn to you. Once per scene, you may spend a Willpower point to grant an adjacent character 1 automatic hit on their next healing roll. Your aura appears vibrant and positive even to those who sense auras without Sphere training.
 
-### Guardian Angel (6 pt. Merit)
+### Guardian Angel (Power)
 
 A powerful spiritual protector watches over you. Once per story, when you would die from physical trauma, the Guardian Angel intervenes — the damage is real but you survive at Incapacitated rather than dying outright. The Storyguide determines the nature of the angel's intervention. This Merit does not prevent all death — soul destruction, Gilgul, and similar fates lie outside the angel's purview.
 
-### Nine Lives (6 pt. Merit)
+### Nine Lives (Power)
 
 Once per story (not per session), when you would die from any cause, you do not. The Storyguide and player collaborate on how you survived. This Merit can be invoked up to nine times across the character's lifetime — keep a tally. After nine survivals, the Merit is gone permanently.
 
-### Sphere Natural (6 pt. Merit)
+### Sphere Natural (Power)
 
 One Sphere comes to you with uncanny ease. That Sphere costs 75% of the normal experience cost to advance. Your casting rolls with that Sphere gain 1 additional die at all ranks. Describe the Sphere and its resonance with your character's nature or backstory.
 
-### Avatar Companion (7 pt. Merit)
+### Avatar Companion (Power)
 
 Your Avatar has developed such a strong presence that it can manifest as an independent entity — visible, audible, and capable of limited physical interaction. The Avatar companion can perceive things you cannot, act in the Umbra while you remain in the physical world, and communicate with spirits on your behalf. It cannot cast magick independently, but it is a genuine second presence with its own perspective and, occasionally, its own agenda.
 
-### Dual Affiliation (7 pt. Merit)
+### Dual Affiliation (Power)
 
 You are a genuine, accepted member of two Awakened factions — two Traditions, a Tradition and a Craft, or a Tradition and the Technocratic Union. You have full access to both factions' resources and knowledge. However, conflicts between your two affiliations are a constant source of story tension, and both factions expect your loyalty under pressure.
 
-### Nephilim / Laham (7 pt. Merit)
+### Nephilim / Laham (Power)
 
 You carry the blood of a genuinely divine or infernal lineage — a demigod, an angelic scion, or a being of equivalent metaphysical weight. You possess one supernatural Attribute (Strength, Intellect, or Presence) that begins at 6 and may rise to 8. You are recognisable to beings with supernatural perception as something inhuman. Define your lineage and its implications with your Storyguide.
 
-### True Faith (7 pt. Merit)
+### True Faith (Power)
 
 Your belief in a divine principle is so absolute that it generates genuine supernatural power. You possess a number of Faith points equal to your Willpower. Spend a Faith point to negate any one supernatural effect targeting you outright. In the presence of beings opposed to your faith (Nephandi, certain Umbrood), your Faith is visible as a palpable force. Faith points regenerate after a period of sincere devotion (Storyguide's discretion, typically once per story).
 
 ---
 
-## Supernatural Flaws
-
-### Anachronism (1–3 pt. Flaw)
-
-Your beliefs, mannerisms, and expectations are radically out of step with your surroundings — whether from time travel, temporal Paradox, unusually assertive past lives, or deliberate affectation. At 1 point, occasional awkwardness. At 2 points, you struggle with modern technology and social norms, adding +2 Difficulty to relevant rolls. At 3 points, you may be unable to process certain contemporary concepts at all and require a companion to navigate the modern world. This Flaw can be bought down through acclimation during play.
-
-### Apprentice (1–5 pt. Flaw)
-
-You are responsible for a student whose behaviour and competence directly affect your reputation and wellbeing. At 1 point, an ideal cooperative student who takes little time. At 3 points, a clueless student who consumes significant time and creates social problems. At 5 points, an obstinate, dangerous, and disgraceful liability. The apprentice is a full character with their own agenda; with sustained effort and Storyguide approval, you can buy this Flaw down as your apprentice improves.
-
-### The Bard's Tongue (1 pt. Flaw)
-
-You cannot lie. A curse or metaphysical quirk compels you toward honesty, and your words sometimes carry prophetic weight even when you did not intend them to. Spend a Willpower point to stay silent in situations where truth is dangerous, or take 1 point of bashing damage from the psychic distress of suppressing a truth that "must" be said.
-
-### Cast No Shadow or Reflection (1–2 pt. Flaw)
-
-Your shadow and/or reflection are absent. For 1 point, one is missing. For 2 points, both are gone. Technological recording devices capture this phenomenon. Most people do not notice consciously, but they feel uneasy in your presence. Add +1 Difficulty to Social rolls generally, and +2 Difficulty if a witness makes a successful Awareness roll and identifies the source of their unease.
-
-### Cursed (1–5 pt. Flaw)
-
-See Mage 20, p. 646 for baseline. The curse prevents a specific action or creates an automatic harmful consequence when you act in a certain way. The point value reflects the frequency and severity of the curse's effects. Work with your Storyguide to define the exact nature of the curse.
-
-### Devil's Mark (1 pt. Flaw)
-
-A metaphysical event has left a visible deformation — a third nipple, a dark sigil embedded in flesh, a vaguely demonic growth — that witch-hunters and folk tradition recognize as a "devil's mark." The mark is insensate and can be used to drain Quintessence from your body by certain supernatural beings. You may nurture a Familiar at this mark without physical discomfort, but the mark creates social complications when seen.
-
-### Echoes (1–5 pt. Flaw)
-
-See Mage 20, pp. 646–647. Reality warps subtly around you in ways tied to your Sphere affinities, creating coincidences, freak occurrences, and low-level weirdness you cannot control.
-
-### Paranormal Prohibition or Imperative (2–8 pt. Flaw)
-
-A magickal oath, curse, or legacy forbids you from doing something or compels you to do something regularly. The base cost (2–3 points) reflects how easily you could break the prohibition or fail the imperative. Additional points (1–5) are added for the severity of consequences if you violate it: +1 for an inconvenient consequence (botched rolls, rashes), +2 for annoying penalties (loss of voice, dice penalties), +3 for painful consequences (blindness, loss of Attribute dots, the Oathbreaker Flaw), +4 for crippling consequences (Avatar abandonment, multiple Attribute loss), +5 for fatal consequences (death or Otherworldly punishment). Work with your Storyguide to define the prohibition and its consequences in detail.
-
-### Gremlin (1–5 pt. Flaw)
-
-A troublesome entity — a malfunctioning construct, a mischievous spirit, a vitally-bonded companion who causes chaos — shares your life and creates regular problems. At 1 point, trivial annoyances. At 3 points, notable damage to property and relationships. At 5 points, a being of significant power whose effects are inescapably destructive. Unlike an outright enemy, you bear responsibility to this creature — how you treat it shapes how this Flaw evolves during play.
-
-### Locked Vidare (1 pt. Flaw)
-
-Your perception of the Otherworldly Penumbra is frozen in a single mode — Astral, Spiritus, or Mortem — and cannot be shifted by will or effort. This locks you into seeing the Umbra through a single lens, shaping your philosophical and magickal perspectives in ways that can be as limiting as they are defining.
-
-### Strangeness (1 pt. Flaw)
-
-Your metaphysical powers occasionally warp reality near you without your direction or consent. The Storyguide rolls your casting rating against Difficulty 6 once or twice per session. On a success, a random Sphere-flavoured quirk occurs. On a botch, 1 Paradox point per dot in your Affinity Sphere is expelled in a small backlash, potentially at an inconvenient moment.
-
-### Throwback (1–5 pt. Flaw)
-
-Past-life memories or traumas surface and affect your present behaviour. For each point in this Flaw, the Storyguide rolls one die (Difficulty 8) when a triggering situation arises; the more hits, the stronger the past life's influence. Three hits or more requires a Willpower roll (Difficulty 8) to suppress the reaction. Flashbacks, inappropriate language, phobic responses from ancient traumas — all are possible expressions of this Flaw.
-
-### Uncanny (1–5 pt. Flaw)
-
-You are unmistakably memorable in a deeply unsettling way. Each point in this Flaw adds 1 die to any attempt by others to notice, recognise, or track you. At 1 point, you stand out in a crowd. At 5 points, people fear you simply for existing. You may attempt to suppress your uncanniness with an Intelligence + Subterfuge roll, but some manifestations (disembodied voices, dying grass in your shadow) cannot easily be concealed.
-
-### Vulnerability (1–7 pt. Flaw)
-
-A specific substance or condition causes you extraordinary harm. The base Flaw has two potential severity levels: Weakening (1 aggravated health level per turn of contact) or Mortal Peril (3 aggravated health levels per turn). The point cost depends on how common the substance is and which severity applies. Work with your Storyguide to define the substance and its availability in your setting.
-
-### Bizarre Hunger (2–5 pt. Flaw)
-
-You require a strange or difficult-to-obtain substance to survive or maintain your power. The point value reflects how strange, how scarce, and how socially problematic the substance is. If you go too long without it, you begin to suffer Attribute penalties (1 die per day after the first missed feeding) until you obtain it.
-
-### Blood-Hungry Soul (2, 3, or 5 pt. Flaw)
-
-Something in your nature craves blood — not vampiric sustenance, but a metaphysical hunger that shapes your magickal focus and draws you toward violent or sacrificial practices. At 2 points, a strong preference that requires Willpower to resist. At 3 points, the hunger influences your dreams and magick. At 5 points, you must expend a Willpower point to perform magick that does not involve blood in some way.
-
-### Crucial Component (2–5 pt. Flaw)
-
-Your magick requires a specific, difficult-to-obtain ingredient or instrument that you cannot substitute. Without it, all your casting rolls suffer +2 Difficulty. The point value reflects how rare, expensive, or dangerous the component is to obtain.
-
-### Faulty Enhancements (2–5 pt. Flaw)
-
-Technocratic or Hermetic enhancements to your body or pattern are unstable. They function normally most of the time, but the Storyguide may, once per session, trigger a malfunction that causes the enhancement to fail, work against you, or draw dangerous attention. The point value reflects the enhancement's power level and the malfunction's potential consequences.
-
-### Jinx / Infernal Contraption (2–10 pt. Flaw)
-
-Devices, machinery, and technology regularly malfunction in your presence — not by your choice. The point value reflects how powerful and how frequent the jinx effect is. At 2 points, occasional minor glitches. At 6 points, sophisticated electronics fail reliably near you. At 10 points, your very presence is an environmental hazard to complex technology. This Flaw can also apply to magickal Wonders you did not craft yourself.
-
-### Permanent Paradox Flaw (2, 4, or 6 pt. Flaw)
-
-You carry a fixed Paradox manifestation that will not go away without extraordinary magickal intervention. At 2 points, a minor persistent quirk (mild Echoes, a cosmetic oddity). At 4 points, a significant ongoing manifestation (Strangeness, a notable physical alteration). At 6 points, a major permanent flaw (a constant vulnerability, a visible inhuman feature, or a recurring Paradox backlash). Work with your Storyguide to define the specific manifestation.
-
-### Branded (3–5 pt. Flaw)
-
-A supernatural mark or metaphysical signature on your Pattern is visible to those with Prime, Spirit, or Entropy perception. The brand identifies you to those who know what it means — which may include enemies, hunters, or rival factions. At 3 points, the brand is visible only to skilled supernatural perception. At 5 points, it is visible to any mage using even basic Aura Reading.
-
-### Demented Eidolon (3 pt. Flaw)
-
-Your Avatar is not a guiding, wise presence — it is fractured, bitter, or actively malicious. It provides poor guidance, leads you toward Quiet, and the Storyguide may use it as an antagonist voice in your internal monologue. Seeking through this Avatar is particularly dangerous; the Storyguide designs any Seekings your character undergoes with the Eidolon's opposition factored in.
-
-### Haunted (3 pt. Flaw)
-
-Ghosts or hostile spirits are drawn to you and plague your existence. They attempt to communicate with you, manipulate you, or harm you depending on their nature. The Storyguide will introduce hauntings at regular intervals, especially in emotionally charged situations or near places of death.
-
-### Primal Marks (3 pt. Flaw)
-
-Your body carries marks of the spirit world — visible to supernatural perception and sometimes to naked eyes. Certain beings react to these marks with fear, reverence, or hostility depending on their nature. You may not be able to enter certain sacred or warded spaces that exclude beings with strong spiritual signatures.
-
-### Oathbreaker (3 pt. Flaw)
-
-You have violated a significant metaphysical oath and your reputation among the Awakened reflects this. Until you undergo appropriate atonement, you suffer +1 Difficulty to all Social rolls with Awakened beings who know of your oath-breaking. Some will refuse to swear oaths with you at all. The Flaw can be bought off only through genuine in-game atonement, not experience points alone.
-
-### Prone to Quiet (3 pt. Flaw)
-
-Your mind and Avatar are particularly susceptible to the strain of paradox and failed magick. You are more likely to enter Quiet than other mages. Whenever you botch a casting roll, roll Willpower (Difficulty 8) or begin sliding toward the form of Quiet most appropriate to your Paradigm. The Storyguide determines the nature and progression of your personal Quiet.
-
-### Beast Within (4 pt. Flaw)
-
-An animalistic, violent force inhabits your soul. When under significant stress — physical danger, emotional extremity, or extreme hunger — you must spend a Willpower point or partially lose control to this inner beast. While the beast has partial control, you add 2 dice to physical attack rolls but cannot perform complex magick, take subtle social actions, or refrain from violence once it begins.
-
-### Blood Magick (4 pt. Flaw)
-
-Your magick is powered by blood, yours or others'. You can perform magick without blood as normal, but your Paradox accumulates 1 additional point per magickal effect you perform without a blood component. Blood-based casting reduces this accumulation entirely and grants 1 additional die on the casting roll.
-
-### Bound (4 pt. Flaw)
-
-A supernatural entity, oath, or metaphysical anchor tethers you to a specific location, person, or obligation. You cannot travel beyond a certain range or violate specific conditions without supernatural consequence (loss of magickal ability, physical pain, or Paradox accumulation). Define the binding's nature with your Storyguide.
-
-### Dark Fate (4 pt. Flaw)
-
-Your future contains something terrible and more or less inevitable. The Storyguide knows what it is; you may sense it but not see it clearly. This Flaw grants immunity to Derangements caused by that specific fate's proximity — you have made a kind of peace with the knowledge. However, attempts to use magick to change or avoid your fate require an additional success on the casting roll and may be impossible in certain ways.
-
-### Faithless (5 pt. Flaw)
-
-You have broken faith with the divine source of your magick. Until you atone and formally re-dedicate yourself to your Path, your Sphere ratings are effectively capped at Rank 1. You can perceive the Awakened world but cannot access your full power. Buying off this Flaw requires in-game atonement appropriate to your Paradigm plus the five-point experience cost.
-
-### Immortal Enemy (5–8 pt. Flaw)
-
-You have created an enemy whose concept of a grudge is literally eternal — a vampire elder, demon, demigod, totem spirit, or similar being measured in centuries. At 5 points, a powerful but not omnipresent foe. At 8 points, a being of near-legend with effectively unlimited resources and a dedicated hatred for you specifically. This enemy will outlive any attempt to simply wait out the conflict.
-
-### Psychic Vampire (5 pt. Flaw)
-
-You drain life-force from your surroundings. Any character in physical contact with you for an hour or more loses 1 health level to bashing damage. If you cannot absorb others' life-force, you lose health levels yourself (1 per day at Bruised, escalating). Life Sphere healing effects suffer +2 Difficulty; corruptive or damaging Life effects gain –2 Difficulty. Absorbing another's life-force through Life Sphere magick heals you one health level per level inflicted or delays your own starvation by one day.
-
-### Bedeviled (6 pt. Flaw)
-
-A mysterious and seemingly inexhaustible power has decided to make your life a chronicle of setbacks, misfortune, and cruel jokes. This is beyond curse or bad luck — it is dedicated supernatural persecution. The Storyguide has a license to give your character the starring role in whatever the worst possible version of any given situation might be. There is presumably a reason and a way to end it — but discovering both is the work of a significant story arc.
-
-### Sphere Inept (6 pt. Flaw)
-
-One specific Sphere eludes you completely. It costs 130% of normal (rounded up) to advance in that Sphere. Rank 1 costs 13 XP instead of 10. Ranks 2–5 cost proportionally more. This Flaw manifests in your practice and backstory — someone inept at Time has a genuinely dysfunctional relationship with schedules and timing.
-
-### Phylactery (7 pt. Flaw)
-
-Your magick — and possibly your soul — resides in a separate physical object, location, or living being. You cannot perform Sphere magick without physical access to your phylactery. If it is destroyed, your ability to use magick in this life is destroyed with it. On the positive side: your Avatar cannot be subject to Gilgul as long as your phylactery is safe, your consciousness can survive your body's destruction until the phylactery is also destroyed, and a living phylactery maintains a constant empathic bond with you. However, you must be obvious about using it, and it can be stolen, damaged, or held hostage. Creating a true phylactery requires Correspondence 5 / Prime 5 / Spirit 5 / Mind 4, plus Matter 4 for an inanimate item, Life 5 for a living being.
-
-### Taint of Corruption (7 pt. Flaw)
-
-Evil has an intimate hold on your soul — possibly since birth, as with widderslainte Nephandi — and you are "of the Wyrm" whether or not you act on it. Malignant magick costs –2 Difficulty to cast (to the usual limit). Beneficial or protective magick costs +2 Difficulty. Your aura crackles with corruption visible to Prime and Spirit perception. Werewolves and similar beings may react with violent hostility. Pursuing a life of good despite this Flaw is genuinely heroic; purging the Taint entirely is a story-defining quest.
-
----
-
 ## Magical Items — Wonders
+
 
 Wonders are objects imbued with persistent magical power by Awakened minds. Unlike mundane items, Wonders carry Sphere-based enchantments that produce real supernatural effects independent of the wielder's own magical skill. A non-Awakened person can use a Wonder — many Wonders are designed precisely to extend magical capability to Sleeper allies or to operate autonomously. The wielder need not possess the Sphere the Wonder contains; they simply need to know how to activate it.
 
@@ -22850,6 +23283,7 @@ Compel: "She does not remember what happened in the last three weeks. Including 
 > The combination of mundane gear (chosen for narrative coherence and tag synergy) with modest magical support items is exactly how a working mage operates in the field. She is not dependent on expensive five-dot Wonders — she is effective because her items work together.
 
 ## Selected Wonders
+
 
 This section presents a curated selection of finished Wonders spanning the full range of Awakened practice — from traditional Talismans and Fetishes to Technocratic Devices and Gadgets, to items associated with darker paths. Each Wonder is presented in full, ready for immediate use. Crafting rules for building new Wonders from scratch are in Appendix S: Crafting.
 
@@ -24403,448 +24837,13 @@ Seven alchemically forged golden swords that arrange themselves into a defensive
 
 ## Wonder Crafting Reference
 
+
 A condensed reference for the three-step Wonder creation process:
 
 - Step One — Foundation: Extended Attribute + Ability roll (appropriate to the Wonder's physical form). Modifiers: Crappy Materials +1 Difficulty, Best Materials –1, Rush Job +2, Extra Time –1, Extensive Research –2.
 - Step Two — Energy: Extended casting roll (base: 3 hits per dot in Wonder). Sources: Prime 3 from Tass or self, Prime 4 from raw materials, Prime 5 from living sources. Fetishes, Matrices, and Periapts skip this step.
 - Step Three — Investment: Extended casting roll; vulgar Prime effect + all Sphere effects the Wonder contains. Modifiers: Appropriate Resonance –2 Difficulty, Opposed Resonance +2, Simple Purification –1, Elaborate Purification –3.
 The Storyguide determines when a Wonder is complete based on total hits accumulated across the extended rolls. The background cost of the Wonder reflects its power level and the effort required to create it.
-
-## Backgrounds
-
-Backgrounds represent a mage's position and resources in the world — the relationships, places, and possessions that define her life outside raw magical power. Unlike Attributes and Skills, Backgrounds generally cannot be raised by spending experience points directly; they change through story events and the Storyguide's recognition of shifts in circumstance.
-
-In some situations, a player can roll her Background rating as part of a dice pool: Presence + Influence to spread information quickly, or Cunning + Arcane to slip past an observer's notice. In general, though, Backgrounds represent available resources, not raw mechanical dice.
-
-Certain Backgrounds (marked with *) are available only to Technocracy members. Certain Backgrounds (marked with $) cost double the usual Background dots per dot. Backgrounds that can pool within a group or exceed 5 dots are noted in their entries.
-
-### Allies
-
-Friends, animals, minor spirits, or helpful contacts who can be called upon in need. Generally unAwakened or non-mage, though magick-using allies count as major ones.
-
-```
-Allies Dot Ratings
-------------------
-X   No allies.
-•   One moderate ally, or two minor sidekicks.
-••  Two moderate allies, four sidekicks, or one more capable ally.
-••• Three moderate allies, or a combination.
-•••• Four moderate allies, six minor sidekicks, or a mix.
-••••• Five moderate allies, or an assortment.
-••••• • Six moderate allies; can exceed 5 with pooling.
-••••• •• Seven moderates; staff of sidekicks.
-••••• ••• Eight moderates; batch of followers.
-••••• •••• Nine moderates; private militia.
-••••• ••••• Ten capable allies; small army.
-```
-
-Can be pooled within a group. Can exceed 5 dots. Lost allies reduce the Background accordingly.
-
-### Alternate Identity
-
-A false identity with official documentation and support. Higher ratings withstand more scrutiny. Each dot allows one dot of other Backgrounds to be linked to the alternate identity.
-
-```
-Alternate Identity Dot Ratings
-------------------------------
-X   Just yourself.
-•   Basic fake ID; passes bouncers and casual checks.
-••  Passes routine official checks.
-••• An established alternative identity with history.
-•••• Withstands official investigation.
-••••• Bulletproof alternate life; nearly indistinguishable from genuine.
-```
-
-### Arcane / Cloaking
-
-Mystical obscurity. People forget your face, overlook you, or fail to connect you to events you were involved in. Arcane is the mystic term; Cloaking is the Technocratic equivalent.
-
-```
-Arcane / Cloaking Dot Ratings
------------------------------
-X   As conspicuous as anyone else.
-•   You blend into crowds more easily than most.
-••  Your presence slides from memory after encounters.
-••• People have difficulty recalling your face or name.
-•••• Only impressionistic shadows of memory remain.
-••••• You are virtually invisible in memory; almost impossible to track via normal means.
-```
-
-Note: Fame directly reduces effective Arcane; if Fame exceeds Arcane, the Arcane offers no protection in situations where the character is known.
-
-### Avatar / Genius
-
-The strength and character of your inner magical self. Avatar for mystic mages; Genius for Technocrats. At Avatar/Genius 3 or more, the inner self has a distinct personality and agenda of its own.
-
-```
-Avatar / Genius Dot Ratings
----------------------------
-X   No Avatar to speak of; wild talents and unAwakened only.
-•   A barely noticeable presence; minimal guidance.
-••  An active presence that occasionally offers insights.
-••• A strong, opinionated guide with its own goals.
-•••• A powerful force in your life; hard to ignore or disobey.
-••••• A dominant spiritual presence; nearly a separate entity.
-```
-
-Cannot exceed 5 dots. Cannot be raised through pooling.
-
-### Backup *
-
-Technocracy-only. A team of agents available for support on missions. The rating reflects the quality and number of agents available.
-
-```
-Backup Dot Ratings
-------------------
-X   No backup; you are on your own.
-•   Two typical agents.
-••  Four basic agents, or two skilled "temps."
-••• Six agents.
-•••• Eight agents, or four skilled temps.
-••••• Ten agents, or six skilled temps.
-••••• • Squad of proven veterans.
-••••• •• Trusted team of loyal operatives.
-```
-
-### Blessing
-
-A supernatural favor or divine patronage that grants minor lucky breaks and, at higher levels, more significant interventions in your favor. The source may be a deity, a powerful spirit, an ancestor, or the cosmos itself.
-
-```
-Blessing Dot Ratings
---------------------
-•   Minor lucky breaks; small coincidences favor you.
-••  Occasional significant favorable coincidences.
-••• Noticeable divine favor; regularly things go your way.
-•••• Significant blessings on important matters.
-••••• Near-miraculous assistance at moments of dire need.
-```
-
-### Certification
-
-Technocracy-only. Official credentials within the Union's bureaucratic structure. Higher ratings grant access to more restricted areas, files, and resources.
-
-```
-Certification Dot Ratings
--------------------------
-•   Basic clearance; access to standard Union facilities.
-••  Mid-level certification; restricted files and equipment.
-••• Senior certification; high-security access.
-•••• Special authorization; classified projects.
-••••• Top-level clearance; near-unrestricted Union access.
-```
-
-### Chantry / Construct
-
-A shared base of operations. Chantry for mystic groups; Construct for Technocracy teams. Background points can be pooled by a group toward a shared Chantry/Construct. Mystic mages cannot pool toward a Construct, and Technocrats cannot toward a Chantry.
-
-```
-Chantry / Construct Dot Ratings
--------------------------------
-X   No place to call home.
-•   One pool point; membership in a tiny squat or safehouse.
-••  A small but dedicated sanctuary with basic protection.
-••• A proper Chantry or Construct with meeting space and wards.
-•••• A Chantry with substantial resources and defenses.
-••••• A full Stronghold; heavily fortified and well-resourced.
-```
-
-A Chantry or Construct functions as a shared Background; all pool points contributed count toward the shared total. Members contribute and withdraw points as they join or leave the group.
-
-### Contacts
-
-Informants and acquaintances who supply information in their areas of expertise. Contacts are not friends or employees; they require maintenance of the relationship.
-
-```
-Contacts Dot Ratings
---------------------
-X   No contacts of note.
-•   One contact.
-••  Two contacts.
-••• Three contacts.
-•••• Four contacts.
-••••• Five contacts.
-••••• •  Six contacts.
-••••• •• Seven contacts.
-```
-
-### Cult
-
-A group of Sleepers who revere, follow, or organize around you. Cults provide labor, belief energy, and resources, but also require attention and carry social/story risks.
-
-```
-Cult Dot Ratings
-----------------
-•   A handful of dedicated followers.
-••  A modest group; small organized meeting.
-••• A notable organization with modest resources.
-•••• A large following with substantial resources and influence.
-••••• A major religious, ideological, or cultural movement.
-```
-
-### Destiny
-
-A sense of preordained purpose recognized by fate, spirits, or the cosmos. Once per game session, you may roll your Destiny dots against Difficulty 6; each hit adds 1 die to a single important action.
-
-```
-Destiny Dot Ratings
--------------------
-X   Not especially important in the grand scheme.
-•   A minor destiny; roll 1 die.
-••  A significant destiny; roll 2 dice.
-••• You are important; roll 3 dice.
-•••• You are destined for great things; roll 4 dice.
-••••• A legendary purpose; roll 5 dice.
-```
-
-Cannot exceed 5 dots. Cannot be raised through pooling.
-
-### Dream / Hypercram
-
-Access to an Umbral dream realm (Dream) or a Technocratic data library accessed during sleep (Hypercram). Higher ratings provide richer access to information and resources through altered-state contact.
-
-```
-Dream / Hypercram Dot Ratings
------------------------------
-•   Faint, inconsistent access.
-••  Regular access with useful results.
-••• A significant personal realm or data archive.
-•••• Extensive resources; serious metaphysical or informational depth.
-••••• Profound access; major dreams or comprehensive data mastery.
-```
-
-### Enhancement $
-
-Cybernetic implants, biomods, or other permanent physical modifications. Costs DOUBLE — each dot of Enhancement costs 2 Background points. Each dot also requires either 1 Genetic Flaw or 1 permanent Paradox point (player's choice per dot). Technocratic-grade enhancements are more reliable; non-Technocratic enhancement suffers one Genetic Flaw per dot automatically.
-
-```
-Enhancement Dot Ratings
------------------------
-•   One basic modification; 1 Paradox pt. or 1 Genetic Flaw.
-••  Two modifications; 2 pts./Flaws total.
-••• Three modifications; 3 pts./Flaws total.
-•••• Four modifications; 4 pts./Flaws total.
-••••• Five modifications; 5 pts./Flaws total.
-```
-
-For specific enhancement options (cybernetics, biomods), see Appendix G: The Technocratic Union. Enhancement cannot exceed 5 dots.
-
-### Fame
-
-Public celebrity or notoriety among Sleepers or within specific communities. Fame provides social advantages in appropriate contexts but reduces the effectiveness of the Arcane Background proportionally.
-
-```
-Fame Dot Ratings
-----------------
-•   Local celebrity; known by the right people in your area.
-••  Regional fame; recognized in your field or region.
-••• National recognition; a public figure.
-•••• International celebrity; known worldwide in relevant circles.
-••••• World-famous icon; nearly universally recognized.
-```
-
-Fame cannot exceed 5 dots. Fame at equal or higher rating than Arcane negates Arcane's concealment in settings where the character is known.
-
-### Familiar / Companion
-
-A bound magical creature (Familiar) or dedicated Technocratic partner (Companion). The Familiar can hold up to 5 points of Paradox on behalf of the mage. Higher ratings indicate more capable, powerful, and loyal companions.
-
-```
-Familiar / Companion Dot Ratings
---------------------------------
-•   Small creature with limited abilities; basic assistance.
-••  Medium creature with useful tricks; moderate support.
-••• Substantial familiar with notable powers; meaningful aid.
-•••• Powerful bound entity; significant capabilities.
-••••• Near-legendary companion; major supernatural ally.
-```
-
-Familiars are characters in their own right with needs, motivations, and personalities. If the Familiar is killed or the bond is broken, the Background is lost.
-
-### Influence
-
-Social and institutional clout within specific communities, institutions, or broader society. Higher ratings reflect greater reach and leverage.
-
-```
-Influence Dot Ratings
----------------------
-X   No significant influence.
-•   People in your field respect your abilities.
-••  You have quite a bit of clout in your sphere.
-••• You are a force to be reckoned with; your actions affect many.
-•••• A major powerbroker; regional or national weight.
-••••• Your actions influence allied nations or global communities.
-```
-
-Can exceed 5 dots through group pooling. The Storyguide controls the limits of what Influence can accomplish; it is a narrative resource, not a mechanical guarantee.
-
-### Legend
-
-A mystical connection to an archetypal legendary figure or mythic narrative. The Legend provides a framework of power, recognition, and story obligation.
-
-```
-Legend Dot Ratings
-------------------
-X   No legendary connection.
-•   A minor legend: Sinbad the Sailor, Don Juan, the Wandering Jew.
-••  A moderate legend with broader recognition.
-••• A major legendary figure: Geronimo, Red Riding Hood, Anansi.
-•••• Powerful mythic resonance; the archetype shapes your story.
-••••• An archetypal force; your very nature reflects the legend.
-```
-
-Cannot exceed 5 dots. Requires a compelling story-based justification.
-
-### Library
-
-A personal collection of books, archives, data, and esoteric knowledge. Provides research advantages when the collection is relevant to a topic.
-
-```
-Library Dot Ratings
--------------------
-X   A few New Age paperbacks; little of genuine use.
-•   Lots of fiction, little substance; some genuine material.
-••  A modest genuine archive; useful for standard research.
-••• A solid specialized collection; professional-grade resources.
-•••• An extensive personal archive; excellent research resource.
-••••• A massive personal library; rivals small institutional archives.
-```
-
-Can exceed 5 dots through group pooling. Shared within groups as a Group Asset.
-
-### Mentor
-
-A teacher, guide, or sponsor who provides wisdom, contacts, and occasional assistance. Higher ratings indicate more capable, more connected, and more reliably helpful mentors.
-
-```
-Mentor Dot Ratings
-------------------
-X   No mentor worth mentioning.
-•   An unreliable or inexperienced guide.
-••  A helpful but eccentric mentor with some wisdom to offer.
-••• A good and noteworthy teacher; respected in Awakened circles.
-•••• A wise, helpful, and respected elder; significant connections.
-••••• A legendary master; extraordinarily capable and connected.
-```
-
-Cannot exceed 5 dots. Shared within groups as a Group Asset.
-
-### Node
-
-A place of natural metaphysical power (Node for mystics; power-source equivalent for Technocrats). Provides Quintessence (Primal Energy) per story. Higher ratings indicate stronger Nodes with more energy and wider influence.
-
-```
-Node Dot Ratings
-----------------
-X   No place of power.
-•   A small trickle; Level 1 Node or equivalent.
-••  A moderate power source; Level 2 Node.
-••• A significant Node; Level 3 power center.
-•••• A powerful Node; Level 4 source with notable local effects.
-••••• A potent Node; Level 5 — rare and highly sought.
-```
-
-Can exceed 5 dots through group pooling. The Node's physical location must be described and has story implications.
-
-### Past Lives
-
-Memories and skills carried forward from previous incarnations. Higher ratings provide more vivid and accessible past-life knowledge.
-
-```
-Past Lives Dot Ratings
-----------------------
-X   No past lives to speak of.
-•   Faint traces; occasional sense of having been somewhere before.
-••  Frequent déjà vu; fleeting flashes of prior existence.
-••• Definite memories of other lives; can recall specific details.
-•••• Strong recall of past skills, relationships, and experiences.
-••••• Vivid and detailed past-life access; can draw on past-life Skills.
-```
-
-Cannot exceed 5 dots. Past Lives can provide access to knowledge through Storyguide-adjudicated rolls.
-
-### Patron
-
-A powerful figure who supports your character's activities. Higher ratings indicate more powerful and more actively engaged sponsors.
-
-```
-Patron Dot Ratings
-------------------
-•   A shadowy someone pulling occasional strings.
-••  Someone who actively favors you with minor assistance.
-••• A powerful party who appears regularly and assists substantially.
-•••• A major patron with significant resources committed to your success.
-••••• An incredibly powerful sponsor; major supernatural or institutional weight.
-```
-
-### Rank
-
-Official standing within the Technocracy or a similar hierarchical institution. Rank provides authority, access, and the ability to command resources and personnel within official channels.
-
-```
-Rank Dot Ratings
-----------------
-X   No rank of note.
-•   Junior operative; entry-level recognition.
-••  Recognized field agent; trusted with standard missions.
-••• Squad leader or equivalent; authority over a small team.
-•••• Convention officer; significant institutional authority.
-••••• Senior Symposium member; near-pinnacle institutional influence.
-```
-
-### Requisitions *
-
-Technocracy-only. A rating representing your standing with Union supply channels. Roll Requisitions (Difficulty 7, modified by standing and gear rarity) to obtain specialized equipment on a temporary mission basis.
-
-```
-Requisitions Dot Ratings
-------------------------
-X   Bare minimum; standard-issue only.
-•   Basic field kit.
-••  Standard field kit plus some specialized options.
-••• Three dice: You've earned their trust.
-•••• Four dice: Q Division likes you.
-••••• Five dice: A squad of proven agents backs you up.
-••••• • Six dice: A trusted team of loyal operatives.
-••••• •• Seven dice: Elite access.
-```
-
-Failed Requisitions roll = refusal. Botched roll = reprimand. Requisitioned gear belongs to the Union and must be returned.
-
-### Resources
-
-Personal wealth and financial assets.
-
-```
-Resources Dot Ratings
----------------------
-X   Broke; struggling to cover basic needs.
-•   Slightly ahead; small savings, lower-middle income.
-••  Comfortable; middle-class income and lifestyle.
-••• Wealthy; significant disposable income and assets.
-•••• Very wealthy; major assets, substantial property.
-••••• Rich; a substantial personal fortune.
-••••• •+ Exceeds normal limits; vast wealth at Storyguide discretion.
-```
-
-Can exceed 5 dots through pooling or extraordinary story circumstances.
-
-### Retainers
-
-Personal employees, servants, or loyal assistants who work for your character on a long-term basis.
-
-```
-Retainers Dot Ratings
----------------------
-X   No retainers of note.
-•   One loyal helper of modest skill (an apprentice, a driver, a housekeeper).
-••  A small, capable staff (two or three retainers, or one genuinely skilled specialist).
-••• A well-rounded household or team (four to six retainers covering multiple needs).
-•••• A substantial staff or private security detail (skilled, some armed or trained).
-••••• A small private organization loyal to you personally (bodyguards, researchers, agents).
-```
-
-Retainers can be lost through death, betrayal, or simply quitting if treated poorly — a Storyguide is within their rights to erode this Background over the course of a chronicle if the character neglects the relationship. Retainers are not combat-ready by default; a Retainer dot buys competence at the retainer's actual job, not a personal bodyguard's worth of Close Combat unless the character specifically built for that with the dots spent.
 
 ---
 
@@ -25057,7 +25056,7 @@ MOVEMENT AND POSITIONING: See Appendix H's "Movement in Combat" section for
 
 The Nine Traditions are not the only mages who never bowed to the Technocracy, and the Technocracy is not the only faction that organizes the Awakened into disciplined bodies. Between and beneath the great powers of the Ascension War live the **Disparate Crafts** — metaphysical societies that survived on their own terms, nurtured their own people, and, until very recently, wanted nothing to do with a war for the future of Reality. Some are older than the Order of Hermes. Some are younger than the internet. Together, in the twenty-first century, a fragile and quarrelsome number of them have formed the **Disparate Alliance**: not a faction that seeks to remake the world, but a mutual-aid pact of the overlooked, agreeing to protect their own and, where it costs them nothing, each other.
 
-This appendix converts the Crafts of the Disparate Alliance to Storypath Ultra and supplies a complete toolkit for building new ones. It draws on the M20 sourcebook *Forbidden and Forgotten Orders* for lore, Concepts, Merits, Flaws, and signature magic, and renders all of it in the mechanics of this book: Sphere ratings, the Casting Roll, the Paradox Pool, and — above all — Tags. Where *Forbidden and Forgotten Orders* wrote a static point-buy Merit, this appendix generally offers a **Craft Tag** you can invoke and the Storyguide can compel, because that is how properties attach to characters in Storypath Ultra. The old numbers are preserved in the text so returning players recognize their toys; the new Tags are what you actually bring to the table.
+This appendix converts the Crafts of the Disparate Alliance to Storypath Ultra and supplies a complete toolkit for building new ones. It draws on the M20 sourcebook *Forbidden and Forgotten Orders* for lore, Concepts, Edges, Powers, Tags, and signature magic, and renders all of it in the mechanics of this book: Sphere ratings, the Casting Roll, the Paradox Pool, and — above all — Tags. Where *Forbidden and Forgotten Orders* wrote a static point-buy Merit, this appendix renders it in this book's own terms — an Edge, a Power, or a compel-only Tag — alongside the Craft's signature invoke/compel Tag, because that is how properties attach to characters in Storypath Ultra.
 
 The eleven entries below are grouped exactly as the source groups them, by their commitment to the Alliance: the **Forerunners** who need it to work, the **Middlers** giving it a fair shake, and the **Outsiders** standing awkwardly by the punchbowl. A twelfth entry — the **Orphans** — closes the appendix, because the self-taught Awakened are emphatically *not* a Craft, and the reasons they refuse the label are the best possible lesson in what a Craft actually is. That lesson feeds directly into the final section: **Building Your Own Craft, Tradition, or Convention**, a step-by-step method with a fully worked example.
 
@@ -25107,7 +25106,7 @@ The source leaves the Alliance's origin deliberately open, and so does this appe
 
 ## How to Read a Craft Entry
 
-Each Craft below follows the format of Appendix F. **Identity** gives the lore and the feel. **Paradigm** states the belief that governs what is Coincidental for that Craft. **Practice & Instruments** lists how they work magic and with what (and, where the culture demands it, what is **taboo** to use). **Affinity Spheres** names the Spheres the Craft favors — treated exactly like the Sphere Affinity line in the Tradition Path Tables of Chapter Eight. **SPU Mechanics** defines the Craft's signature **Tag** (invoke/compel, per Appendix J) and any faction-wide rule. **Concepts** offers ready archetypes. **Merits, Flaws & Backgrounds** converts the source's traits. **Signature Rotes** uses the Appendix N template. **Wonders & Items** covers unique gear.
+Each Craft below follows the format of Appendix F. **Identity** gives the lore and the feel. **Paradigm** states the belief that governs what is Coincidental for that Craft. **Practice & Instruments** lists how they work magic and with what (and, where the culture demands it, what is **taboo** to use). **Affinity Spheres** names the Spheres the Craft favors — treated exactly like the Sphere Affinity line in the Tradition Path Tables of Chapter Eight. **SPU Mechanics** defines the Craft's signature **Tag** (invoke/compel, per Appendix J) and any faction-wide rule. **Concepts** offers ready archetypes. **Edges, Powers & Tags** converts the source's traits. **Signature Rotes** uses the Appendix N template. **Wonders & Items** covers unique gear.
 
 A note on converting old traits: where *Forbidden and Forgotten Orders* granted a flat bonus ("+2 dice," "−1 difficulty"), this appendix keeps the number but frames it as **Enhancement** (bonus dice, capped as normal), a **Difficulty** reduction, or an invocable **Tag**, whichever fits Storypath Ultra best. Point costs in parentheses are the original M20 values, retained for players porting existing characters; in SPU, a Craft Tag is acquired like any other Tag at character creation or through play.
 
@@ -25143,9 +25142,9 @@ Faction rule — **Spirit Bargaining.** When a Ngoma explicitly folds a request 
 
 **The Warrior-Scholar** — brains, political skill, and the combat arts of Ki Khanga in one person; the Ngoma sent when a situation needs both force and diplomacy. **The Librarian** — an academic genius and ritualist who hunts stolen artifacts and lost rituals, and bids on texts at clandestine auctions in this world and the Unseen ones. **The Griot** — a raconteur and living archive of myth, legend, folklore, and Ancestral wisdom, whose recitations open doors that no key can.
 
-### Merits, Flaws & Backgrounds
+### Edges, Powers & Tags
 
-### Aid From the Ancestors (3 pt. Supernatural Merit)
+### Aid From the Ancestors (Edge ●●●)
 
 At least one Ancestor appears to aid the mage whenever they summon or bargain with an Otherworldly entity or wraith, negotiating on the mage's behalf. As long as the request for aid is an explicit part of the ritual, **reduce the Difficulty of Spirit Bargaining rolls by 2.** Combined with the *Honor and Thanks* ritual (see Wonders & Items), the reduction improves by a further 1. In SPU terms, this Merit is expressed by carrying the **Held by the Ancestors** Tag with a bargaining specialty; a mage without the Merit may still invoke the Tag for Enhancement but does not receive the flat Difficulty reduction.
 
@@ -25177,21 +25176,21 @@ Not doctrinally fixed, but in practice **Prime** (channeling divine Quintessence
 
 **A Perfect Knight** — a woman knight proving both what a knight can be and who is permitted to be one, uniting old courage with modern combat savvy. **The Money** — a Templar banker whose sword is a list of numbered accounts and whose shield is a lattice of shell corporations, and who still keeps combat prayers and dragon's-breath shells close. **A Light in the Dark** — a ministering diplomat and confessor who keeps the Alliance's frayed tempers from igniting, wielding morale and faith as the light against the dark.
 
-### Merits, Flaws & Backgrounds
+### Edges, Powers & Tags
 
-### Orichalcum Blade (1–5 pt. Background)
+### Orichalcum Blade (Edge ●–●●● / Power ●●●●–●●●●●)
 
 Arms and armor of surpassing workmanship, smelted by the Order from **Orichalcum** ("True Gold") — the Templar equivalent of Primium, mechanically identical to it. Orichalcum weapons deal **Aggravated damage to shapechangers and the undead** and can host further enchantments. The rating measures quality and enchantment capacity. Like any Background of borrowed materiel it can be lost, lent to a comrade, or left behind, and the Order will want it back. Dormant Orichalcum wears a silver-gold sheen; in a faithful hand it wakes with crimson veins the knights call Christ's Blood. As a Wonder Tag, model this as **[Bane Weapon: Undead & Shapechangers]** plus one open enchantment slot per two Background dots.
 
-### Vatican Connections (1–5 pt. Background)
+### Vatican Connections (Edge ●–●●● / Power ●●●●–●●●●●)
 
 Like Contacts, but specialized to the Holy See. Each dot calls on the Vatican's reach — a dot might mean local diocesan administrative help; five dots might summon a Society of Leopold strike team. Every favor carries strings, and failing to reciprocate has repercussions, sharply so if a Knight-Magus is careless enough to reveal supernatural ability to the wrong monsignor.
 
-### Knight-Captain (1–5 pt. Background)
+### Knight-Captain (Edge ●–●●● / Power ●●●●–●●●●●)
 
 You command a squad of unAwakened Retainers — up to **one soldier per dot**, each kitted for a single mission profile (assault, security, surveillance, and so on). For each squad member you pay **two dots** rather than one, that member possesses **True Faith**, and is correspondingly more dangerous to the Fallen and the undead.
 
-### Solomon Codes (1–2 pt. Resources Merit)
+### Solomon Codes (Edge ●–●●)
 
 Access to the Order's offshore and digital wealth. **Every dot grants two dots of Resources at the liquidation level, in hard currency** — money that can be moved and spent fast. These funds are for Templar missions only; self-serving use invites withdrawal of access and discipline up to and including expulsion.
 
@@ -25230,17 +25229,17 @@ Faction rule — **Paradox Mitigation.** This is the heart of the Craft, and it 
 
 **Zaotar Fighter** — a fighter-priest and protector of the vulnerable, a bodyguard and human shield who carries glass bottles at the waist and uncorks their contents when violence comes. **Kahin Sage** — a desert seer who commanded spirits and djinn far from Sleeper eyes and has now emerged to spread Truth and mentor the young. **Star of the Socials** — a prodigy who bested their master at nineteen and posts impossible footage online, staying one hop ahead of the NWO's takedown notices.
 
-### Merits, Flaws & Backgrounds
+### Edges, Powers & Tags
 
-### Paradox Mitigation (3 pt. Supernatural Merit)
+### Paradox Mitigation (Edge ●●●)
 
 The full faction rule above. In SPU it is bought as the *Unafraid of the Backlash* Tag with the Paradox-mitigation benefit attached; without the Merit, a character may carry the Tag for Enhancement but does not get the free vulgar working or the softened Backlash.
 
-### Djinn Expertise (3 pt. Supernatural Merit)
+### Djinn Expertise (Edge ●●●)
 
 When dealing with a djinni, add **1 die (Enhancement +1)** to any Manipulation- or Perception-based roll. As guidance: a lower-ranking djinni tends to follow the mage's stated intent; a higher-ranking one will hunt for loopholes in the exact words used, so precision of language is itself a defense.
 
-### Obvious Resonance (2 pt. Supernatural Flaw)
+### Obvious Resonance (compel-only Tag)
 
 The price of open magic. Whenever the character works a vulgar effect, their Resonance lingers in the area for a number of days equal to their Enlightenment rating, and the Difficulty of rolls to track them there is reduced by 1. As a Tag, this is **[Lingering Resonance]**, compelled by anyone hunting the Weaver.
 
@@ -25308,13 +25307,13 @@ Practice is **Chaos Magick** (treat as a variant of Witchcraft and High Ritual, 
 
 **Byronic Knight** — Awakened in the middle of the Ascension War, anti-Technocracy to the bone, out to free kids from being filed into good little conformists. **The Harlem Connection** — works for the common good and for people of color especially: on the barricades by day, quietly redistributing stolen opportunity by night. **Media Royalty** — a Soundwave Master whose rituals run through filters and hashtags, casting from a smartphone to an audience of thousands.
 
-### Merits, Flaws & Backgrounds
+### Edges, Powers & Tags
 
-### Divergent Protocols (2 pt. Supernatural Merit)
+### Divergent Protocols (Edge ●●)
 
 A knack for Technocratic **Protocol-style magick**. Given the right equipment, the Hollow One accesses those abilities at no special penalty. Availability of the gear is up to the Storyguide and may require raiding a Convention facility; beginning cybernetics need Storyguide approval and carry their own risks. As a Tag: **[Reverse-Engineered Enlightened Science]**, invoked when the mage's magic wears a Technocratic mask.
 
-### Anarchist Braggart (1 pt. Social Flaw)
+### Anarchist Braggart (compel-only Tag)
 
 You cannot keep your mouth shut; you will talk trash about everyone's cherished beliefs. Whenever an opportunity to run your mouth presents itself, roll **Wits + Empathy**: success means you (barely) hold your tongue; failure means you say the antagonistic thing and roleplay the fallout. Only spending a point of **Willpower** can override a failure. This is for provocation, not persuasion — it can never be used to land a well-argued point.
 
@@ -25350,7 +25349,7 @@ Practice is **Meditation** and **High Ritual** in service of communion. Instrume
 
 ### Affinity Spheres
 
-**Correspondence** and **Mind** above all — they are, in the source's words, "specialists in magics that manipulate space and thought" — with **Time** for the processing of information across moments. They shun **Entropy** (see the recommended *Sphere Inept* Flaw).
+**Correspondence** and **Mind** above all — they are, in the source's words, "specialists in magics that manipulate space and thought" — with **Time** for the processing of information across moments. They shun **Entropy** (see the recommended *Sphere Inept* Tag).
 
 ### SPU Mechanics
 
@@ -25360,27 +25359,27 @@ Practice is **Meditation** and **High Ritual** in service of communion. Instrume
 
 **The Media Monitor** — a third-generation French-Algerian advocate for media literacy and transparency, on tense but occasionally cooperative terms with the Technocracy's media branches. **The Global Citizen** — heir to a vast fortune who tends the Nodes of the Web of Faith, slowly rebuilding it and guarding it against infiltration. **The Self-Reliant Disciple** — a Syrian refugee who reached the Divine through faith alone, untrained, and can now spread their senses across the world.
 
-### Merits, Flaws & Backgrounds
+### Edges, Powers & Tags
 
-### Occultation (3 pt. Supernatural Merit)
+### Occultation (Edge ●●●)
 
 A master of the Arcane background, the Batini may **choose when Arcane applies and when it does not** — letting an acquaintance remember a message with perfect clarity, or letting a trusted friend follow them when they would otherwise slip from everyone's memory. As a Tag, **[Selective Obscurity]**, invoked to be forgotten or compelled when the mage needs to be remembered and cannot be.
 
-### Unity of Purpose (2 pt. Social Merit)
+### Unity of Purpose (Edge ●●)
 
 When cooperating with a mage who shares the Batini's paradigm or practice, reduce the Difficulty of the shared endeavor by 1; when cooperating with another Ahl-i-Batin, reduce it by 2. This is the mechanical face of *All Things Are One*.
 
-### Web of Faith (1–5 pt. Supernatural Merit)
+### Web of Faith (Edge ● / Power ●●●●●)
 
 You keep and defend a Node or conduit of the Web. **Once per session you may convert this Merit into an equal number of points of the Chantry, Dream, Destiny, or Node Background** for a single scene, as the Web lends you what you need. The rating is a measure of responsibility, not just power: 1 is occasional support; 2 is regular support; 3 is the upkeep and defense of a few conduits; 4 makes you responsible for one or more Nodes (and thus a target); 5 means the network is your waking life, leaving little time for your own pursuits.
 
-### Exposed (1 or 3 pt. Social Flaw)
+### Exposed (compel-only Tag)
 
 A faction you deal with regularly would rather not work with you; their help takes real persuasion and heavy promises. At **1 point** it is a minor group — local journalists, a city council, low-influence mages; at **3 points** it is a group who could have been powerful allies.
 
-### Sphere Inept: Entropy (Flaw)
+### Sphere Inept: Entropy (compel-only Tag)
 
-Thoroughly appropriate for a Craft that believes dissolution is the enemy of Unity. Use the standard *Sphere Inept* Flaw applied to Entropy.
+Thoroughly appropriate for a Craft that believes dissolution is the enemy of Unity. Use the standard *Sphere Inept* Tag applied to Entropy.
 
 ### Signature Rotes (the Tariqa)
 
@@ -25426,7 +25425,7 @@ The Batini stands in two worlds. Split the working's hits between sensing and ph
 
 ### Wonders & Items
 
-The Batini's true "Wonder" is infrastructural: the **Web of Faith** itself, a lattice of Nodes and conduits (handled through the Node and Chantry Backgrounds and the *Web of Faith* Merit), and the legend of **Mount Qaf**, a Horizon Realm the Storyguide may resurrect as a destination or a MacGuffin.
+The Batini's true "Wonder" is infrastructural: the **Web of Faith** itself, a lattice of Nodes and conduits (handled through the Node and Chantry Edges and the *Web of Faith* Edge), and the legend of **Mount Qaf**, a Horizon Realm the Storyguide may resurrect as a destination or a MacGuffin.
 
 ## Kahu (formerly the Kopa Loei)
 
@@ -25434,7 +25433,7 @@ The **Kahu** are Polynesian and Hawaiian willworkers who work **mana** — the l
 
 ### Paradigm
 
-*"Everything holds mana. The stone, the wave, the song, the ancestor. My work is to move it rightly, and to never take what I have not been given."* The Kahu do not think in Spheres at all — they think in mana, and in the proper, reverent channels for moving it. Effects framed as honoring, healing, guiding, and voyaging come easily; effects that seize mana without leave, or violate kapu, invite disaster (see the *Kapu* Flaw).
+*"Everything holds mana. The stone, the wave, the song, the ancestor. My work is to move it rightly, and to never take what I have not been given."* The Kahu do not think in Spheres at all — they think in mana, and in the proper, reverent channels for moving it. Effects framed as honoring, healing, guiding, and voyaging come easily; effects that seize mana without leave, or violate kapu, invite disaster (see the *Kapu* Tag).
 
 ### Practice & Instruments
 
@@ -25452,23 +25451,23 @@ Practice is **Shamanism** braided with performance — song, dance, chant, and s
 
 **Activist** — a Buddhist-schooled believer in balance who fights the overdevelopment and homelessness swallowing Oahu, using the Awakening to heal mental scars and lead the displaced home. **Performer** — a dancer, musician, and singer who ties practice to bodily storytelling and shares the culture online (with a Virtual Adept friend to help). **Voyager** — heir to a Wayfarer lineage and a great-grandfather's aumakua, questing after the vanished lands and the source of mana, laptop and koa-nut rosary both in the pack.
 
-### Merits, Flaws & Backgrounds
+### Edges, Powers & Tags
 
-### Aumakua (7 pt. Supernatural Merit)
+### Aumakua (Power)
 
 A powerful ancestor or nature spirit guides your family line, functioning as **both an Avatar Companion and a Spirit Mentor.** It can teach Abilities and Rotes and offer insight and counsel — **but it cannot teach Spheres.** It is a Storyguide-run character with its own agenda; stray from your path and it may deceive you, withhold aid, or punish you outright. In SPU, bundle this as a high-value Ally/Mentor with the **[Aumakua's Regard]** relationship Tag, invoked for guidance and compelled when the spirit's expectations bind you.
 
-### Kapu (4–5 pt. Psychological Flaw)
+### Kapu (compel-only Tag)
 
 You have taken on an ancestral prohibition that interferes with working mana. Pick one:
 
-- **(4 pt.)** You cannot take lava rock without the gods' permission; do so without consent and you are struck **mute until you atone.**
-- **(4 pt.)** You cannot eat in the presence of a different gender; violation brings a migraine that imposes **−1 die on all casting and Skill rolls until you atone.**
-- **(5 pt.)** You cannot touch or defile a dead body except to prepare it for burial; violation leaves you **unable to spend Quintessence until you atone.**
+- **(severe)** You cannot take lava rock without the gods' permission; do so without consent and you are struck **mute until you atone.**
+- **(severe)** You cannot eat in the presence of a different gender; violation brings a migraine that imposes **−1 die on all casting and Skill rolls until you atone.**
+- **(extreme)** You cannot touch or defile a dead body except to prepare it for burial; violation leaves you **unable to spend Quintessence until you atone.**
 
 As a Tag this is simply the character's **[Kapu]**, which the Storyguide compels whenever the prohibition and the moment collide.
 
-**Re-skinned traits.** The source notes many existing Merits and Flaws suit the Kahu with small cultural adjustments — *Stormwarden* (if the Avatar Storm features in your chronicle), *Fae Blood*, *Shapeshifter Kin*, or *Supernatural Companion* (favoring Menehune, Rokea, or other Changing Breeds), and Flaws such as *Haunted*, *Bound*, or *Bedeviled*.
+**Re-skinned traits.** The source notes many existing Edges, Powers, and Tags suit the Kahu with small cultural adjustments — *Stormwarden* (if the Avatar Storm features in your chronicle), *Fae Blood*, *Shapeshifter Kin*, or *Supernatural Companion* (favoring Menehune, Rokea, or other Changing Breeds), and Flaws such as *Haunted*, *Bound*, or *Bedeviled*.
 
 ### Signature Rotes
 
@@ -25526,17 +25525,17 @@ Practice blends **Shamanism**, **Witchcraft**, and **Craftwork** with martial di
 
 **Social Justice Witch** — a daughter of immigrants in a campus neo-pagan feminist collective, for whom magick is simply activism by other means. **Mother of the House** — a trans woman of color running a ballroom House that shelters LGBTQ+ youth, whose protective and healing magic is instinctive. **Technical Improvements** — a Sister who guards humanity's ability to choose against the Technocracy's tidy certainties. **Amazon Next Door** — a prodigy social worker and NGO consultant with an enormous network, Awakened and not, who treats magick as one more useful skill.
 
-### Merits, Flaws & Backgrounds
+### Edges, Powers & Tags
 
-### Legacy (2 pt. Social Merit)
+### Legacy (Edge ●●)
 
 You were born into a long matriline of Sisters. Reduce the Difficulty of Social interactions **within your Craft by 2**, or Social interactions with **other Awakened by 1** — as long as you remain in your family's good graces.
 
-### Blessing of Artemis (3 pt. Physical Merit)
+### Blessing of Artemis (Edge ●●●)
 
 You were born on Elaphebolia (Feb 26). You may call on Artemis for **+2 dice (Enhancement +2) on all Dexterity rolls for the rest of the scene**; once used, it cannot be used again until the following **moonrise.** Displease or anger the goddess and the blessing is withdrawn until you make amends through roleplay or a quest.
 
-### Vessel of Themis (2 or 4 pt. Supernatural Flaw)
+### Vessel of Themis (compel-only Tag)
 
 You bear a birthmark like a sword or a set of scales, and you are attuned to the suffering of other women. At **2 points**, nightmares of unfamiliar women's ordeals leave you rattled and disoriented; at **4 points**, you also manifest physical proof — bruises, wounds — of what you dreamed. *(This trait can touch on real trauma; agree on limits with the table before it comes into play.)*
 
@@ -25594,27 +25593,27 @@ Those who focus on the ancient sciences — astrology, geomancy, "the primal ene
 
 **Po Po (Grandma)** — born in wartime Guangdong, a refugee who spent decades defying the corrupt old leadership to serve the poor, now a beloved elder backing the young. **Young Dragon** — a Catholic-schooled Hong Konger with ADHD who found Chinese mysticism again at university, a quick study who now mentors others. **Wayward Son** — child of Azure Dragon council mages, torn between family loyalty and sympathy for the Yellow Dragons.
 
-### Merits, Flaws & Backgrounds
+### Edges, Powers & Tags
 
 These derive from Chinese star-signs in *Zi Wei Dou Shu*, the Purple Star (Polaris) astrology.
 
-### Wenqu (2 pt. Social Merit)
+### Wenqu (Edge ●●)
 
 The star Megrez. **+2 dice (Enhancement +2)** on Expression rolls involving poetry, fiction, or the spoken word, and on artistic Crafts rolls.
 
-### Wuqu (2 pt. Resources Merit)
+### Wuqu (Edge ●●)
 
 The star Mizar, of metal and gold. Your investments prosper: **once per story, treat your Resources as if two dots higher, or spend Resources without losing any dots.**
 
-### Zuofu (2 pt. Social Merit)
+### Zuofu (Edge ●●)
 
 The star Alcor, of social luck. **Once per session** (when not among hostiles), the Storyguide introduces a character you can win over with bribery or social rolls. Their aid is neither guaranteed nor always free — but the door opens.
 
-### Dijie (2 pt. Resources Flaw)
+### Dijie (compel-only Tag)
 
 The star of calamity, opposite to Wuqu. **Your Resources can never rise above 1.**
 
-### Qingyang (1 pt. Social Flaw)
+### Qingyang (compel-only Tag)
 
 The raised goat, a bad omen, opposite to Zuofu. **−2 dice** on Social rolls to make a good first impression.
 
@@ -25712,11 +25711,11 @@ The Mande cuts their own palm, pours the preferred "drank" and goofer dust into 
 
 ### Wonders, Items & Backgrounds
 
-### Sèvitè (7 pt. Background; requires Enlightenment 5)
+### Sèvitè (Power)
 
 A conjure-staff signifying the bond between les Mystères and the Chwal — carved with clan runes and symbols, stained with the Chwal's goofer dust, les Mystères' "drank," and the Chwal's own blood. It must be completed within three days of the bonding rite, or the Chwal perishes. The Sèvitè **adds +3 dice (Enhancement +3, dedicated) to rolls in the Chwal's affinity Sphere**, and as a weapon **grants +4 dice on attack rolls.** Model it as a personalized Wonder with **[Sèvitè: +3 Clan Sphere]** and **[Conjure-Staff: +4 Attack]**.
 
-### Mojo Bag (1 pt. Background; requires Enlightenment 1)
+### Mojo Bag (Edge ●)
 
 A bag of amulets, tokens, coins, and clan-specific ingredients — goofer dust with real snakeskin, the spirit of Damballah, and more. It must be "fed" as its clan demands. It **grants +1 die on rolls in the bearer's Clan affinity Sphere.**
 
@@ -25808,9 +25807,9 @@ None — there is no Orphan curriculum. In practice their improvised workings le
 
 **The Wild Talent** — Awakened by an apartment fire; sees and moves colors between electronics and hears whispers, and has told no one for fear of being locked away. **The Wintershiner** — an overworked parent who sees ghosts and plant-spirits and has healing and precognitive knacks, desperate to find others who can help them manage it. **The App Developer** — a wheelchair-using coder whose telekinesis "app" talks to them, mentored by the mysterious Maddy who revealed the internet as a literal Web.
 
-### Merits, Flaws & Backgrounds
+### Edges, Powers & Tags
 
-### Technomancer / There's an App for That (2–4 pt. Supernatural Merit)
+### Technomancer / There's an App for That (Edge ●● / Power ●●●●)
 
 Your magick skirts the technological consensus, presented as bleeding-edge science or a clever app. For **2 dots**, when you botch a vulgar effect **without witnesses**, halve (round up) the Paradox you gain from your highest Sphere. For **4 dots**, the same halving applies even **with witnesses**. As a Tag, **[It's Just an App]**, invoked to reframe a working as ordinary tech. *(The source header reads "2–3 pt." while its body describes 2-dot and 4-dot tiers; this appendix uses the body's 2/4 split and flags the discrepancy for Storyguides porting old sheets.)*
 
@@ -26081,7 +26080,7 @@ Establishing a Chantry`<w:r><w:tab/></w:r>`{=openxml}266
 
 Chantry Traits`<w:r><w:tab/></w:r>`{=openxml}267
 
-Chantry Merits`<w:r><w:tab/></w:r>`{=openxml}271
+Chantry Edges`<w:r><w:tab/></w:r>`{=openxml}271
 
 Technocratic Constructs`<w:r><w:tab/></w:r>`{=openxml}277
 
@@ -26159,23 +26158,23 @@ Dynamic Essence`<w:r><w:tab/></w:r>`{=openxml}187
 
 ::: {custom-style="IndexEntry"}
 
-Enlightenment (Technocracy)`<w:r><w:tab/></w:r>`{=openxml}19
+Enlightenment (Technocracy)`<w:r><w:tab/></w:r>`{=openxml}20
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-vs. Arete (Traditions)`<w:r><w:tab/></w:r>`{=openxml}19
+vs. Arete (Traditions)`<w:r><w:tab/></w:r>`{=openxml}20
 
-Sphere skill cap`<w:r><w:tab/></w:r>`{=openxml}19
+Sphere skill cap`<w:r><w:tab/></w:r>`{=openxml}20
 
-Quintessence channeling cap`<w:r><w:tab/></w:r>`{=openxml}19
+Quintessence channeling cap`<w:r><w:tab/></w:r>`{=openxml}20
 
 :::
 
 ::: {custom-style="IndexEntry"}
 
-Enlightened Grimoire rotes (Extended Rotes, Appendix N)`<w:r><w:tab/></w:r>`{=openxml}550
+Enlightened Grimoire rotes (Extended Rotes, Appendix N)`<w:r><w:tab/></w:r>`{=openxml}566
 
 Entities and Antagonists`<w:r><w:tab/></w:r>`{=openxml}204
 
@@ -26237,7 +26236,7 @@ Healing`<w:r><w:tab/></w:r>`{=openxml}130
 
 Hits`<w:r><w:tab/></w:r>`{=openxml}7
 
-Horizon (Umbra)`<w:r><w:tab/></w:r>`{=openxml}413
+Horizon (Umbra)`<w:r><w:tab/></w:r>`{=openxml}429
 
 :::
 
@@ -26331,7 +26330,7 @@ Movement in Combat (Range Bands, Reflexive Step, Standard Move, Sprint, Rush, Co
 
 ::: {custom-style="IndexEntry"}
 
-Near Umbra`<w:r><w:tab/></w:r>`{=openxml}409
+Near Umbra`<w:r><w:tab/></w:r>`{=openxml}425
 
 Nephandi`<w:r><w:tab/></w:r>`{=openxml}168
 
@@ -26379,7 +26378,7 @@ Paths (SPU Framework)`<w:r><w:tab/></w:r>`{=openxml}17
 
 Pattern Essence`<w:r><w:tab/></w:r>`{=openxml}190
 
-Penumbra`<w:r><w:tab/></w:r>`{=openxml}407
+Penumbra`<w:r><w:tab/></w:r>`{=openxml}424
 
 Phase Initiative System`<w:r><w:tab/></w:r>`{=openxml}329
 
@@ -26421,11 +26420,11 @@ Rotes`<w:r><w:tab/></w:r>`{=openxml}35
 
 Master Rotes List (Appendix N)`<w:r><w:tab/></w:r>`{=openxml}35
 
-Monetary Magick rotes (Rich Bastard's Guide, Appendix N)`<w:r><w:tab/></w:r>`{=openxml}435
+Monetary Magick rotes (Rich Bastard's Guide, Appendix N)`<w:r><w:tab/></w:r>`{=openxml}451
 
-Enlightened Grimoire library (Extended Rotes, Appendix N)`<w:r><w:tab/></w:r>`{=openxml}550
+Enlightened Grimoire library (Extended Rotes, Appendix N)`<w:r><w:tab/></w:r>`{=openxml}566
 
-Quick Reference Sheets (Appendix O)`<w:r><w:tab/></w:r>`{=openxml}573
+Quick Reference Sheets (Appendix O)`<w:r><w:tab/></w:r>`{=openxml}589
 
 Rote SF advantage`<w:r><w:tab/></w:r>`{=openxml}13
 
@@ -26443,7 +26442,7 @@ Rush (movement/attack action) (Appendix H)`<w:r><w:tab/></w:r>`{=openxml}33
 
 ::: {custom-style="IndexEntry"}
 
-Sanity`<w:r><w:tab/></w:r>`{=openxml}379
+Sanity`<w:r><w:tab/></w:r>`{=openxml}396
 
 :::
 
@@ -26451,9 +26450,9 @@ Sanity`<w:r><w:tab/></w:r>`{=openxml}379
 
 Paradox Insulation`<w:r><w:tab/></w:r>`{=openxml}50
 
-Quiet and Marauder Threshold`<w:r><w:tab/></w:r>`{=openxml}390
+Quiet and Marauder Threshold`<w:r><w:tab/></w:r>`{=openxml}406
 
-Recovering Sanity`<w:r><w:tab/></w:r>`{=openxml}379
+Recovering Sanity`<w:r><w:tab/></w:r>`{=openxml}396
 
 :::
 
@@ -26491,7 +26490,7 @@ Streamlining Combat (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}724
 
 Seekings`<w:r><w:tab/></w:r>`{=openxml}22
 
-Shard Realms and Shade Realms`<w:r><w:tab/></w:r>`{=openxml}414
+Shard Realms and Shade Realms`<w:r><w:tab/></w:r>`{=openxml}430
 
 Sympathetic magic (Difficulty reduction)`<w:r><w:tab/></w:r>`{=openxml}31
 
@@ -26589,7 +26588,7 @@ Traditions`<w:r><w:tab/></w:r>`{=openxml}163
 
 Traditions Deep Dive`<w:r><w:tab/></w:r>`{=openxml}163
 
-Tradition Perspectives on Cosmos`<w:r><w:tab/></w:r>`{=openxml}406
+Tradition Perspectives on Cosmos`<w:r><w:tab/></w:r>`{=openxml}423
 
 :::
 
@@ -26603,23 +26602,23 @@ Tricks`<w:r><w:tab/></w:r>`{=openxml}11
 
 ::: {custom-style="IndexEntry"}
 
-Umbra / The Cosmos`<w:r><w:tab/></w:r>`{=openxml}406
+Umbra / The Cosmos`<w:r><w:tab/></w:r>`{=openxml}423
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Deep Umbra`<w:r><w:tab/></w:r>`{=openxml}413
+Deep Umbra`<w:r><w:tab/></w:r>`{=openxml}430
 
 Gauntlet`<w:r><w:tab/></w:r>`{=openxml}89
 
-Horizon`<w:r><w:tab/></w:r>`{=openxml}413
+Horizon`<w:r><w:tab/></w:r>`{=openxml}429
 
-Near Umbra`<w:r><w:tab/></w:r>`{=openxml}409
+Near Umbra`<w:r><w:tab/></w:r>`{=openxml}425
 
-Penumbra`<w:r><w:tab/></w:r>`{=openxml}407
+Penumbra`<w:r><w:tab/></w:r>`{=openxml}424
 
-Traveling the Otherworlds`<w:r><w:tab/></w:r>`{=openxml}416
+Traveling the Otherworlds`<w:r><w:tab/></w:r>`{=openxml}432
 
 Umbrood`<w:r><w:tab/></w:r>`{=openxml}290
 
@@ -26645,7 +26644,7 @@ Weapons`<w:r><w:tab/></w:r>`{=openxml}119
 
 Wonders in Combat`<w:r><w:tab/></w:r>`{=openxml}141
 
-Wonders — Rich Bastard's Treasures & Enlightened Grimoire wonders (Appendix V)`<w:r><w:tab/></w:r>`{=openxml}708
+Wonders — Rich Bastard's Treasures & Enlightened Grimoire wonders (Appendix V)`<w:r><w:tab/></w:r>`{=openxml}141
 
 Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights`<w:r><w:tab/></w:r>`{=openxml}724
 
@@ -26675,9 +26674,9 @@ Disparate Crafts — Fractured Traditions (Appendix X)`<w:r><w:tab/></w:r>`{=ope
 
 Ngoma, Knights of the Temple of Solomon, Taftâni, Hollow Ones (Forerunners) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}733
 
-Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung (Middlers) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}740
+Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung (Middlers) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}741
 
-Bata'a, Solificati, Orphans (Outsiders) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}752
+Bata'a, Solificati, Orphans (Outsiders) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}753
 
 Building Your Own Craft, Tradition, or Convention (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}755
 
