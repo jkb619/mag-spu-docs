@@ -1197,7 +1197,7 @@ Difficulty is set by the scope and nature of the effect (0-5).
 
 On Success: The effect occurs as intended.
 On Failure: The effect does not manifest. The attempt may have been noticed. Add 1 Momentum to the player pool.
-On Botch (0 hits AND more than half dice show 1): Effect fails catastrophically AND backlash occurs; add 2 dice to Paradox Pool immediately. Paradox dice count toward the botch 1s threshold — see Magical Botches.
+On Botch (0 hits AND — counting Paradox dice — 1s exceeding half the casting pool): Effect fails catastrophically AND backlash occurs; add 2 dice to Paradox Pool immediately. Paradox dice 1s count toward the botch threshold, which is set by the casting pool — see Magical Botches.
 ```
 
 ### Casting Attributes by Sphere
@@ -1409,7 +1409,7 @@ The standard Botch rule (see Chapter Two: Mechanics) applies to all rolls — ze
 
 When a mage casts a magical effect, they roll their casting pool. If they are carrying Paradox, the Paradox Pool dice are rolled separately (they do not add hits). However, when determining whether a Botch has occurred, the 1s from Paradox dice are counted alongside the 1s from the casting pool. Hits come only from the casting pool.
 
-This mechanic exists for a specific reason: a mage carrying significant Paradox is operating with a corrupted pattern. The Paradox in their system actively works against their magic — the 1s it generates represent reality resisting the working. The more Paradox a mage carries, the lower the threshold for catastrophic failure, even if their casting skill remains the same.
+This mechanic exists for a specific reason: a mage carrying significant Paradox is operating with a corrupted pattern. The Paradox in their system actively works against their magic — the 1s it generates represent reality resisting the working. The Botch threshold is fixed by the casting pool, but every Paradox die is another die that can roll a 1 into the count against that fixed bar — so the more Paradox a mage carries, the more likely a catastrophic failure, even if their casting skill remains the same.
 
 ```
 MAGICAL BOTCH RULE
@@ -1417,23 +1417,26 @@ MAGICAL BOTCH RULE
 
 A magical roll BOTCHES when:
   1. The casting pool produces ZERO hits (no 8s, 9s, or 10s), AND
-  2. More than half of ALL dice rolled (casting pool + Paradox pool combined) show 1.
+  2. The number of 1s — counting the casting pool AND the Paradox pool together —
+     is more than half the size of the CASTING POOL.
 
-Hits come from casting pool only.
-Ones for the botch threshold: both pools combined.
+Hits come from the casting pool only.
+The threshold is set by the casting pool alone; Paradox 1s are added to the
+count but do NOT raise the bar.
 
-Example: 6 casting dice + 3 Paradox dice = 9 total dice.
-Botch threshold: more than 4.5 = at least 5 ones across all 9 dice.
+Example: a 6-die casting pool sets the threshold at more than 3 = at least 4 ones.
+Any Paradox dice rolled alongside add their 1s toward that 4 — so the more Paradox
+you carry, the more easily a Botch is reached.
 ```
 
 > MAGICAL BOTCH EXAMPLES
 > 
 > EXAMPLE 1 — CLEAN FAILURE (no botch): Devorah casts Forces ●●● (6-die casting pool). No Paradox.
-> Roll: 1, 1, 2, 3, 4, 5. Zero hits. Two 1s out of 6 (33%). Not more than half. Normal failure.
+> Roll: 1, 1, 2, 3, 4, 5. Zero hits. Two 1s, against a threshold of 4 (half of the 6 casting dice). Not a Botch — a normal failure.
 > The fireball fizzles. The Paradox Pool is not affected. The scene continues.
 > 
 > EXAMPLE 2 — BOTCH, no Paradox: Same scenario.
-> Roll: 1, 1, 1, 1, 2, 4. Zero hits. Four 1s out of 6 (67%). More than half. BOTCH.
+> Roll: 1, 1, 1, 1, 2, 4. Zero hits. Four 1s — meeting the threshold of 4 (half of the 6 casting dice). BOTCH.
 > Consequences: The fire effect inverts — the mage herself ignites momentarily, taking 2 Lethal. The Paradox Pool gains 2 dice. The area is now lit by the mage's flaming coat.
 > 
 > EXAMPLE 3 — BOTCH with Paradox (the dangerous scenario):
@@ -1441,10 +1444,9 @@ Botch threshold: more than 4.5 = at least 5 ones across all 9 dice.
 > Casting pool: 1, 1, 1, 4, 5, 6. Zero hits.
 > Paradox pool: 1, 1, 3.
 > 
-> Total dice rolled: 9. 1s found: 5 from casting + 2 from Paradox = 5 ones total.
-> Botch threshold: more than 4.5 = at least 5. Exactly 5 ones. BOTCH.
+> Threshold: more than 3 = at least 4 (half the 6-die casting pool). Ones counted: 3 (casting) + 2 (Paradox) = 5. BOTCH.
 > 
-> Without Paradox, this would have been: 3 ones out of 6 = 50%. Not more than half. Just a failure.
+> Without the Paradox, his three casting 1s would have fallen short of the threshold of 4 — an ordinary failure.
 > The Paradox dice pushed him over the threshold. His invasive Mind working collapses catastrophically — the thoughts he was trying to read reflect back into him. He takes 2 dice of Shock damage to his Quiet Track and gains a temporary Quiet condition for the scene.
 > 
 > EXAMPLE 4 — PARADOX saves an otherwise near-botch:
@@ -1454,14 +1456,13 @@ Botch threshold: more than 4.5 = at least 5 ones across all 9 dice.
 > 
 > EXAMPLE 5 — HIGH PARADOX escalation:
 > Marcus carries 5 Paradox dice (a serious buildup — he's been casting Vulgar effects all session).
-> He rolls Forces ●●● (6 casting dice) + 5 Paradox dice = 11 total.
-> Botch threshold: more than 5.5 = at least 6 ones across all 11 dice.
-> Casting pool: 1, 1, 2, 3, 4, 5. Zero hits. Two 1s.
+> He rolls Forces ●●● (6 casting dice) with 5 Paradox dice alongside.
+> Threshold: more than 3 = at least 4 (half the 6-die casting pool).
+> Casting pool: 1, 1, 2, 3, 4, 5. Zero hits — two 1s.
 > Paradox pool: 1, 1, 1, 2, 4. Three 1s.
-> Total 1s: 5. Threshold: 6. Not a botch — barely.
+> Ones counted: 2 + 3 = 5. Threshold: 4. BOTCH.
 > 
-> If his Paradox pool had been 6 dice instead of 5, and he had rolled one more 1: botch.
-> This illustrates why managing Paradox is a survival skill, not a cosmetic concern. Carrying 5+ Paradox dice means your botch threshold is dramatically more accessible, even on rolls where your casting pool was "almost fine."
+> On its own, two casting 1s against a threshold of 4 was a clean miss — an ordinary failure. But the five Paradox dice threw three more 1s into the count, carrying him past the bar. This is why managing Paradox is a survival skill, not a cosmetic concern: a large Paradox Pool turns "almost fine" casting rolls into catastrophes.
 
 ### Magical Botch Consequences
 
@@ -1839,7 +1840,7 @@ The Paradox Pool gains dice in the following situations:
 
 - Vulgar magic without witnesses: +1 die per level of the highest Sphere used (minimum 1).
 - Vulgar magic with Sleeper witnesses: +2 dice per level of the highest Sphere used (minimum 2).
-- Magical Botch (0 hits AND more than half all dice — casting pool + Paradox pool — show 1): +2 dice to the Paradox Pool immediately. See Chapter Four: Magic for the full Botch rule and Paradox dice interaction.
+- Magical Botch (0 hits AND, counting 1s from the casting pool and Paradox pool together, more than half the casting pool shows 1): +2 dice to the Paradox Pool immediately. See Chapter Four: Magic for the full Botch rule and Paradox dice interaction.
 - Attempting to break a truly fundamental law (causing death from nothing, violating Prime causality without Prime 5): Enhancement +1 at Storyguide discretion.
 - Paradox Spirits targeting the mage (see below): the Spirit may add dice as part of its attack.
 > Example — Pool growth:
@@ -1859,17 +1860,17 @@ The relationship between Paradox and Botches is circular and intentional: Parado
 
 When determining whether a magical roll has Botched, the 1s from the Paradox Pool dice are counted alongside the 1s from the casting pool. The two pools are rolled separately (Paradox dice do not contribute hits), but their 1s combine for the Botch threshold check.
 
-Concretely: if a mage has a 6-die casting pool and a 4-die Paradox Pool, they are effectively rolling 10 dice for the purpose of the Botch threshold. A Botch requires more than half of all 10 dice — at least 6 dice — to show 1. That threshold is dramatically more accessible than the same mage with no Paradox (where 4 out of 6 = 67% required).
+Concretely: a 6-die casting pool sets the Botch threshold at more than half of 6 — at least 4 ones. That bar does not move when the mage carries Paradox. But a 4-die Paradox Pool adds four more dice whose 1s count toward that same 4. The clean mage must find all 4 ones among just 6 casting dice; the Paradox-laden mage can reach 4 from 10 dice — a far easier bar to clear, even though the number required is identical.
 
-| Casting Pool / Paradox Pool | Total Dice / 1s Needed for Botch (given 0 hits) |
-| --- | --- |
-| 6 casting / 0 Paradox | 6 total — at least 4 ones needed (67%) |
-| 6 casting / 2 Paradox | 8 total — at least 5 ones needed (63%) |
-| 6 casting / 4 Paradox | 10 total — at least 6 ones needed (60%) |
-| 6 casting / 6 Paradox | 12 total — at least 7 ones needed (58%) |
-| 6 casting / 8 Paradox | 14 total — at least 8 ones needed (57%) |
+| Casting Pool / Paradox Pool | 1s needed (casting + Paradox) | Dice that can supply them |
+| --- | --- | --- |
+| 6 casting / 0 Paradox | 4 | 6 |
+| 6 casting / 2 Paradox | 4 | 8 |
+| 6 casting / 4 Paradox | 4 | 10 |
+| 6 casting / 6 Paradox | 4 | 12 |
+| 6 casting / 8 Paradox | 4 | 14 |
 
-The pattern is clear: each Paradox die added to the pool reduces the absolute number of 1s needed from the casting pool to trigger a Botch. A mage with 8 Paradox dice could Botch on just 2 casting-pool 1s (if the Paradox pool also contributes 6 ones) — whereas a clean mage with the same casting pool needs 4 casting-pool 1s.
+The pattern is clear: the threshold stays fixed at 4, but the number of dice that can throw a 1 into the count keeps climbing. A mage with 8 Paradox dice needs only 1 casting-pool 1 if three of those Paradox dice also show 1 (1 + 3 = 4) — whereas a clean mage must find all 4 ones among just 6 casting dice. Every Paradox die makes a Botch more likely, never less.
 
 This is why veteran mages treat Paradox management as a core survival skill, not an afterthought. The Paradox Pool is not merely a resource tracking your "debt" to reality. It is a loaded gun sitting inside every casting roll, growing more dangerous with each die added.
 
@@ -1879,19 +1880,15 @@ This is why veteran mages treat Paradox management as a core survival skill, not
 > 
 > Casting pool: 7 dice (Forces 4 + Dexterity 3).
 > Paradox pool: 5 dice.
-> Total dice for Botch threshold: 12.
-> Botch threshold: more than 6 ones across all 12 dice.
+> Botch threshold: more than half the 7-die casting pool = at least 4 ones (counting both pools).
 > 
-> Takeshi rolls the casting pool: 1, 1, 1, 2, 4, 5, 7. Zero hits. Three ones.
-> Paradox pool: 1, 1, 1, 3, 6. Three ones.
-> Total ones: 6. Threshold: more than 6 = at least 7. Six does not exceed 6.5. NOT a Botch.
+> Takeshi rolls the casting pool: 1, 1, 2, 4, 5, 6, 7. Zero hits — two ones.
+> Paradox pool: 1, 1, 3, 6, 2. Two ones.
+> Total ones counted: 2 + 2 = 4. Threshold: 4. BOTCH.
 > 
-> ...barely. One more 1 on either pool and this becomes catastrophic.
+> On its own, two casting 1s out of seven was a clean miss. The five Paradox dice supplied the other two 1s that tipped him over — and because the working was Vulgar, the Paradox Pool gains +4 dice (2 dice × Forces 4 for Vulgar without Witnesses — he is in an empty building), plus 2 more from the Botch itself.
 > 
-> The roll fails. The lightning bolt does not fire. And because it was Vulgar (regardless of failure), the Paradox Pool gains +4 dice (2 dice × Force 4 for Vulgar without Witnesses — he is in an empty building).
-> 
-> Takeshi now has 9 Paradox dice. His next Botch threshold on a 7-die pool will be:
-> 16 total dice. More than 8 ones needed. He needs just 1 from his casting pool if the Paradox pool contributes 8.
+> Takeshi now has 11 Paradox dice. On his next 7-die casting pool the threshold stays at 4 ones — but with 11 Paradox dice feeding 1s into that count, a Botch is nearly a coin-flip on any failed roll. He needs to bleed off Paradox before he dares cast again.
 > 
 > "I should probably find a Node," Takeshi thinks.
 > Yes. He really should.
@@ -14630,10 +14627,11 @@ NEW RULES IN THIS ENCOUNTER — QUICK REFERENCE
 ---------------------------------------------
 
 BOTCH RULE (Chapter 2 & 4):
-  A roll Botches when: (1) zero hits, AND (2) more than half all dice show 1.
-  For magic: Paradox pool 1s count toward the threshold alongside casting pool 1s.
+  A roll Botches when: (1) zero hits, AND (2) more than half the pool shows 1.
+  For magic: the threshold is half the CASTING pool; Paradox pool 1s count toward it
+  (but do not raise it), so more Paradox = more likely to Botch.
   Botch = effect fails + 2 Paradox dice added immediately.
-  Example: 6 casting + 3 Paradox = 9 total dice. Botch threshold: 5+ ones across all 9.
+  Example: 6 casting dice -> threshold 4+ ones, counting any Paradox 1s.
 
 SPELL PARAMETER SCALING (Chapter 4):
   Range uses the same Close/Short/Medium/Long/Extreme bands as combat positioning
@@ -14708,7 +14706,7 @@ Mechanical note: Thunder Palm is a Rote (Forces ●●, SF 1 — highest dot 2, 
 
 Thunder Palm total damage: 3 net hits + 3 bonus = 6 damage. UNIT-7’s [Armored 2] tag absorbs 2 = 4 net damage. UNIT-7 has 10 Health; it marks 4 boxes (6 remaining). Additionally, [Stun] applies: UNIT-7 must spend 1 AD next Phase to shake off the electromagnetic disruption or suffer -2 dice to its next action. Sasha has 3 AD remaining.
 
-BOTCH SCENARIO — THUNDER PALM: Sasha's casting pool was 6 dice (Enhancement adds hits, never dice, so the +2 Enhancement does not change the botch math) with 2 Paradox dice in reserve. His actual roll was [10, 8, 5, 4, 3, 2] = 3 hits — nowhere near a botch. But suppose it had been [8, 1, 1, 1, 1, 2] = 1 hit with four 1s: still not a botch (a single hit prevents it). For a botch: 0 hits AND more than half of all dice (6 casting + 2 Paradox = 8 total, threshold = 5+ ones) showing 1s. A casting roll of [1, 1, 1, 1, 1, 2] — 0 hits and 5 ones across the 8 dice — would qualify. Result: Thunder Palm inverts — the Forces chi misfires outward in a visible flash of kinetic energy (Vulgar in this Sleeper warehouse). Sasha takes 2 Lethal damage from the rebound, 2 Paradox dice are added immediately to the existing 2 (now 4 total), and the Storyguide makes a Paradox roll immediately. With 4 dice, even a modest result produces a Backlash. UNIT-7 gets a free action as the explosion gives it an opening. Sasha's desperate gamble becomes the fight's turning point in the worst way.
+BOTCH SCENARIO — THUNDER PALM: Sasha's casting pool was 6 dice (Enhancement adds hits, never dice, so the +2 Enhancement does not change the botch math) with 2 Paradox dice in reserve. His actual roll was [10, 8, 5, 4, 3, 2] = 3 hits — nowhere near a botch. But suppose it had been [8, 1, 1, 1, 1, 2] = 1 hit with four 1s: still not a botch (a single hit prevents it). For a botch: 0 hits AND, counting the casting pool's 1s together with the 2 Paradox dice, more than half the 6-die casting pool showing 1 (threshold = 4+ ones). A casting roll of [1, 1, 1, 2, 3, 4] — 0 hits, three 1s — plus even one 1 on the Paradox dice reaches 4 and Botches. Result: Thunder Palm inverts — the Forces chi misfires outward in a visible flash of kinetic energy (Vulgar in this Sleeper warehouse). Sasha takes 2 Lethal damage from the rebound, 2 Paradox dice are added immediately to the existing 2 (now 4 total), and the Storyguide makes a Paradox roll immediately. With 4 dice, even a modest result produces a Backlash. UNIT-7 gets a free action as the explosion gives it an opening. Sasha's desperate gamble becomes the fight's turning point in the worst way.
 
 **PLAYER (Sasha): “While UNIT-7 is reeling, Sasha turns to Cross. He doesn’t have time to be subtle. He’s casting Spatial Whisper — Correspondence 1 — to pinpoint her exact location behind the crates. He needs to know where she is before she fires.”**
 
@@ -20496,7 +20494,7 @@ Not every milestone roll succeeds cleanly. The outcome of each milestone roll de
 
 | Outcome | What Happens |
 | --- | --- |
-| Botch (0 hits AND more than half all dice show 1 — see Botch Rule, Chapter 2) | The milestone fails catastrophically. A permanent Flaw is introduced — Quick Fix cannot remove it at any later milestone. If Paradox dice are in the pool, their 1s count toward the botch threshold alongside the casting pool. The crafter must wait the full time-between-milestones period before retrying. If this is Milestone 3, the Flaw is sealed into the completed item forever. |
+| Botch (0 hits AND — counting casting + Paradox 1s — more than half the casting pool shows 1; see Botch Rule, Chapter 2) | The milestone fails catastrophically. A permanent Flaw is introduced — Quick Fix cannot remove it at any later milestone. If Paradox dice are in the pool, their 1s count toward the botch threshold alongside the casting pool. The crafter must wait the full time-between-milestones period before retrying. If this is Milestone 3, the Flaw is sealed into the completed item forever. |
 | Failure (zero hits, no botch) | The milestone does not advance. No Flaw is introduced, but the time investment is wasted. The crafter must wait the full time-between-milestones period again before attempting the same milestone. Materials are not consumed. |
 | Near-miss (1 or more hits, but below Difficulty threshold) | The milestone partially advances but a Flaw is introduced. The project continues to the next milestone; the Flaw can be removed with Quick Fix (2 hits) at any later milestone. If this is Milestone 3, the Flaw cannot be removed. |
 | Success (meets Difficulty exactly) | The milestone completes normally. No Flaw. Free hits: zero (spent on meeting Difficulty). |
@@ -20507,7 +20505,7 @@ Note on near-miss: the "near-miss introduces a Flaw" rule applies when the roll 
 
 ### Milestone Botches — When the Crafting Catastrophically Fails
 
-A Botch during a milestone roll is the worst outcome in crafting. It follows the standard Botch rule from Chapter Two: the roll produces zero hits and more than half the dice in the pool — casting pool and Paradox Pool combined — show 1. The permanence of a crafting Botch makes it qualitatively worse than a mundane Botch: a ruined sword can be reforged; a Wonder with a permanent Flaw is flawed forever unless the entire creation is abandoned.
+A Botch during a milestone roll is the worst outcome in crafting. It follows the standard Botch rule from Chapter Two: the roll produces zero hits and, counting 1s from the casting pool and Paradox Pool together, more than half the casting pool shows 1. The permanence of a crafting Botch makes it qualitatively worse than a mundane Botch: a ruined sword can be reforged; a Wonder with a permanent Flaw is flawed forever unless the entire creation is abandoned.
 
 The Paradox pool's contribution to the botch threshold is particularly dangerous during crafting. Mages often build significant Paradox during a single crafting session — one Vulgar effect early in a project can leave 3-4 Paradox dice sitting in the pool, and those dice are then present for every subsequent milestone roll. A mage who starts Milestone 3 with 4 Paradox dice has a dramatically higher botch risk than the same mage working clean.
 
@@ -20525,15 +20523,14 @@ The Paradox pool's contribution to the botch threshold is particularly dangerous
 > 
 > Casting pool: Forces ●●● + Intellect ●●●● = 7 dice.
 > Paradox pool: 3 dice.
-> Total dice for botch threshold: 10.
-> Botch threshold: more than 5 ones across all 10 dice.
+> Botch threshold: more than half the 7-die casting pool = at least 4 ones (counting both pools).
 > 
-> Casting pool roll: 1, 1, 1, 2, 3, 4, 5. Zero hits. Three ones from casting pool.
-> Paradox pool roll: 1, 1, 3. Two ones from Paradox pool.
-> Total ones: 5. Threshold: more than 5 = at least 6. Five is exactly 5. NOT a Botch — but just barely.
+> Casting pool roll: 1, 1, 2, 3, 4, 5, 6. Zero hits. Two ones from the casting pool.
+> Paradox pool roll: 1, 3, 5. One one from the Paradox pool.
+> Total ones counted: 2 + 1 = 3. Threshold: 4. NOT a Botch — but close.
 > 
-> Without Paradox: 3 ones from 7 dice = 43%. Not more than half. Still not a botch.
-> If Paradox pool had been 4 dice and rolled three 1s: 3 + 3 = 6 ones across 11 dice. More than 5.5. BOTCH.
+> Without the Paradox, two casting ones against a threshold of 4 is a comfortable ordinary failure.
+> Had the Paradox pool rolled 1, 1, 1 instead, total ones would be 2 + 3 = 5, past the threshold of 4. BOTCH — the Paradox dice alone would have caused it.
 > 
 > --- WHAT WOULD HAVE HAPPENED ON A BOTCH ---
 > 
