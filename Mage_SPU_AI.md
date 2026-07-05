@@ -318,7 +318,7 @@ The Storyguide should tailor Botch consequences to the fiction. A Botch on a soc
 
 ### Enhancement
 
-Enhancement is a flat bonus to hits that applies whenever you roll at least one hit — it does not help a failure become a hit, but it makes a hit better. Enhancement typically comes from good gear, a superior position, a well-crafted Rote, or a helpful tag. Enhancement is rated +1, +2, or +3, and the total hits (roll + enhancement) cannot exceed +5 above the base.
+Enhancement is a flat bonus to hits that applies whenever you roll at least one hit — it does not help a failure become a hit, but it makes a hit better. Enhancement typically comes from good gear, a superior position, a well-crafted Rote, or a helpful tag. Enhancement is rated +1, +2, or +3, and the total hits (roll + enhancement) cannot exceed +5 above the base. Because a point of Enhancement is a guaranteed hit — worth roughly two dice — sources are deliberately small: most grant +1, strong or narrowly-scoped sources +2, and only exceptional ones +3. Spending a Willpower point grants Enhancement +1; Quintessence grants +1 per 2 points spent (maximum +2 per roll). No amount of Enhancement turns a failed roll into a success.
 
 > Example: Silas (Son of Ether) fires a Tesla coil pistol (Enhancement +2 weapon tag).
 > His Ranged Combat + Dexterity pool is 5 dice.
@@ -375,8 +375,8 @@ Players share a single pool of Momentum, starting at 0. It accumulates during pl
 - Roleplaying milestone (Storyguide discretion): +1 Momentum.
 Players spend Momentum on:
 
-- Add a die to a roll (before rolling): 1 Momentum.
-- Add 1 hit to a completed roll (after seeing dice): 2 Momentum.
+- Add Enhancement to a roll: 1 Momentum per +1, up to +3, spent after the dice are rolled and only if the roll landed at least one hit (as with all Enhancement).
+- Turn a failed roll into a success (or a success-with-consequence if a Complication is present): 2 Momentum — this cannot be combined with buying Enhancement or Tricks on the same action.
 - Activate a Trick that requires Momentum: cost varies.
 - Introduce a beneficial fact into the scene: 1-2 Momentum (Storyguide approval).
 
@@ -403,12 +403,12 @@ General Combat Tricks available to all characters:
 | Precise Strike (2) | Ignore 1 point of the target's Armor for this hit. |
 | Called Shot (2) | Strike a specific location; impose a contextually appropriate Complication. |
 | Overwhelm (2) | Target is Staggered and Disarmed simultaneously. |
-| Setup (2) | Create an advantageous circumstance: next ally who attacks this target gains +1 die. |
+| Setup (2) | Create an advantageous circumstance: next ally who attacks this target gains Enhancement +1. |
 | Finishing Move (3) | If target is at 0 Health, they are immediately incapacitated or dead. |
 
 ## Tags
 
-Tags are descriptive keywords attached to characters, equipment, locations, and magical effects. Tags do not have numerical ratings by themselves; instead they are invoked in context to justify a bonus die, a Trick, or an automatic capability.
+Tags are descriptive keywords attached to characters, equipment, locations, and magical effects. Tags do not have numerical ratings by themselves; instead they are invoked in context to justify Enhancement, a Trick, or an automatic capability.
 
 A tag is written as a bracketed keyword, sometimes with a qualifier: [Precise], [Armored 2], [Fire], [Linked to Correspondence 3], [Paradigm: Sacred Geometry].
 
@@ -500,7 +500,7 @@ These conditions represent specific temporary states a character can be in, typi
 | Immobilized | Cannot move at all. Resolves: stated duration ends or ally frees you. |
 | Infected | Escalating disease track (see Medicine). Resolves: Medicine + Intellect, Difficulty 2, or magical healing. |
 | Poisoned | Take 1 Lethal per scene until treated. Resolves: Medicine + Intellect, Difficulty 2. |
-| Prone | -1 die on attacks; +1 die on ranged defense (lower profile). Resolves: Minor Action to stand. |
+| Prone | -1 die on attacks; Enhancement +1 on ranged defense (lower profile). Resolves: Minor Action to stand. |
 | Staggered | Lose next Minor Action. Resolves: automatically next turn. |
 | Stunned | Cannot act; lose entire next Spotlight. Resolves: Stamina + Resolve roll, Difficulty 2. |
 | Unbalanced | -1 die to all actions until the character re-grounds themselves (Minor Action + Athletics, Difficulty 1). |
@@ -754,13 +754,13 @@ Current Willpower is a pool that fluctuates during play. It begins equal to the 
 Willpower
 ---------
 SPENDING WILLPOWER:
-Spend 1 point from your current pool to gain +2 dice (Enhancement) on any single roll — physical, mental, magical, or social. This may only be done once per roll.
+Spend 1 point from your current pool to gain Enhancement +1 (an automatic hit, applied if the roll lands at least one hit) on any single roll — physical, mental, magical, or social. This may only be done once per roll.
 
 WILLPOWER AND MAGIC:
 A mage may spend 1 Willpower instead of accepting a Complication on a failed or complicated casting roll. The spell still works at the cost of personal will rather than metaphysical backlash. The Consensus notices this ego-fueled forcing of reality — the Storyguide may add 1 Paradox die to the pool as a consequence.
 
 WILLPOWER AND RESISTANCE:
-When resisting mental influence, social coercion, supernatural compulsion, or Paradox-induced Quiet progression, a mage may spend 1 Willpower to add their Resolve to the resistance roll as Enhancement dice rather than as part of the base pool. This stacks with other bonuses.
+When resisting mental influence, social coercion, supernatural compulsion, or Paradox-induced Quiet progression, a mage may spend 1 Willpower to gain Enhancement +1 on the resistance roll. This stacks with other bonuses, up to the +5 Enhancement cap.
 
 RECOVERY:
 • Spend a scene acting in accordance with your Nature (the core drive that defines your character): recover 1 Willpower.
@@ -793,9 +793,9 @@ Maximum Quintessence equals Avatar rating + 3. For mages without an Avatar (not 
 Quintessence
 ------------
 SPENDING QUINTESSENCE:
-Spend 1 Quintessence before rolling to add 1 Enhancement die to a casting roll. You may spend up to (Arete ÷ 2, rounded up) Quintessence per casting.
+Spend Quintessence before rolling for Enhancement on a casting roll: 2 Quintessence grants Enhancement +1, to a maximum of Enhancement +2 per casting.
 
-Example: Sasha (Arete ●●●●) can spend up to 2 Quintessence per cast, gaining +2 Enhancement dice on top of his base pool.
+Example: Sasha spends 2 Quintessence on a casting for Enhancement +1 (or 4 for the maximum +2) — automatic hits added after the roll, applied only if he lands at least one hit.
 
 QUINTESSENCE AS INSULATION:
 Once per scene, a mage may spend 1 Quintessence to reduce incoming Paradox by 1 die (to a minimum of 0) before the Paradox roll is made. This represents the Avatar's instinctive buffering of reality's backlash.
@@ -818,7 +818,7 @@ RECOVERY:
 > Example — Quintessence in Play:
 > Sasha (Arete ●●●●, Avatar ●●●) has a maximum Quintessence of 6. He begins the session at 4 (starting Quintessence after a night's rest).
 > 
-> Round 1: He casts Iron Skin (Life ●● + Resolve ●●●● = 6 dice). He spends 2 Quintessence for +2 Enhancement dice, rolling 8 total. He gets 4 hits — strong armor effect. Quintessence drops to 2.
+> Round 1: He casts Iron Skin (Life ●● + Resolve ●●●● = 6 dice). He spends 2 Quintessence for Enhancement +1. He rolls [10, 8, 5, 4, 3, 2] = 3 hits, then adds Enhancement +1 = 4 hits — strong armor effect. Quintessence drops to 2.
 > 
 > Round 2: Paradox fires. He spends 1 Quintessence to reduce incoming Paradox by 1 die before the roll. Quintessence drops to 1.
 > 
@@ -863,7 +863,7 @@ Step Five is where the character becomes fully individualized. Your Paths have e
 
 You may trade an Edge dot for any one of the following instead: 1 additional starting Rote (beyond the three from Step Four); +1 dot to a Bond (maximum 3 at creation); or 2 points of starting Quintessence (maximum equal to your Arete).
 
-**Powers.** With the Storyguide's approval, you may begin play with a single Power (Appendix V), paid for from starting experience at its flat cost. Powers are gated because each — a bound guardian spirit, true immortality, faith that turns back the Fallen — redefines what the character fundamentally is. Most starting characters take none.
+**Powers.** With the Storyguide's approval, you may begin play with a single Power (Appendix V), paid for from starting experience at its flat cost (listed in the Power's entry; 5 experience points where none is stated). Powers are gated because each — a bound guardian spirit, true immortality, faith that turns back the Fallen — redefines what the character fundamentally is. Most starting characters take none.
 
 **Drawback Tags.** Take any compel-only Tags from Appendix J that suit your concept — a Phobia, an Addiction, a Vow, a lingering Enemy. They cost nothing and refund nothing; their worth is the Momentum they hand you when the Storyguide compels them. A character with a few well-chosen drawback Tags is richer to play than one with none.
 
@@ -873,7 +873,7 @@ An Edge is a dot-rated, always-on advantage: once bought, it simply applies when
 
 ### Contacts
 
-You have 3 (Major) + 1 + 1 (Minors) = 5 Contacts total. Each Contact is a named NPC. Assign 2–4 tags to each one. Tags define what they know, what they can do for you, and the nature of your relationship. Invoking a Contact's tag in a relevant situation allows you to add 1 die to a related roll or bypass an information-gathering roll entirely.
+You have 3 (Major) + 1 + 1 (Minors) = 5 Contacts total. Each Contact is a named NPC. Assign 2–4 tags to each one. Tags define what they know, what they can do for you, and the nature of your relationship. Invoking a Contact's tag in a relevant situation allows you to add Enhancement +1 to a related roll or bypass an information-gathering roll entirely.
 
 > Contact: "Dr. Anaya Krishnamurthy" — Tags: [Progenitor Scientist], [Genetics Expert], [Owes You a Debt], [Paranoid About Tradition Agents].
 > When Rosamund needs to understand a mutagenic disease, she calls Anaya. The [Genetics Expert] tag means Rosamund can ask a direct question without rolling — Anaya tells her what she needs.
@@ -886,7 +886,7 @@ You have a Bond at 2 from your Major Path and a Bond at 1 from each Minor Path. 
 A Bond can be invoked once per scene to add a number of dice equal to its rating to a roll that directly relates to it. However, Bonds can be Stressed — when the Storyguide frames a scene that puts the Bond in danger, jeopardy, or conflict, failing to act on it costs 1 dot temporarily. A fully Stressed Bond (reduced to 0) is a lost Bond — a permanent, character-defining wound that must be addressed in future stories.
 
 > Rosamund's Major Path Bond (2): "The Healing Grove of Cwm Glas" — a sacred place in Wales where her grandmother initiated her.
-> When Rosamund is pursuing healing magic or protecting the natural world, she can invoke this Bond for +2 dice.
+> When Rosamund is pursuing healing magic or protecting the natural world, she can invoke this Bond for Enhancement +1.
 > 
 > The Storyguide frames a scene: an Iteration X cleanup crew has burned the grove to root out "biohazardous organic entities." Rosamund must choose between the mission and flying to Wales to mourn.
 > If she ignores it without narrative resolution, the Bond is Stressed to 1. If it happens again without resolution, the Bond breaks — and Rosamund's healing magic pool is permanently reduced by 1 until she rebuilds the grove or finds a new anchor.
@@ -1028,19 +1028,19 @@ SPHERES
   Casting Attribute: Life = Composure. Mind = Resolve.
 
 TAGS
-  [Akashic Training] — Invoke: +2 dice on any Close Combat or Athletics roll.
-  [Read the Flow] — Invoke: +2 dice to read an opponent's intent or incoming attack.
-  [Unwavering Composure] — Invoke: +2 dice on any Composure roll under pressure.
+  [Akashic Training] — Invoke: Enhancement +1 on any Close Combat or Athletics roll.
+  [Read the Flow] — Invoke: Enhancement +1 to read an opponent's intent or incoming attack.
+  [Unwavering Composure] — Invoke: Enhancement +1 on any Composure roll under pressure.
 
 HEALTH: 5   (Stamina 3 + 2)
 ARMOR: 0 (mundane) / Life 2 can grant +2 Armor when enhanced.
 
 TYPICAL SPELLS
   Enhanced Body (Life 2, Coincidental): spend 1 Quintessence + cast Life 2 + Composure.
-    On success: +2 dice to all physical actions for the scene; Armor +2.
+    On success: Enhancement +1 to all physical actions for the scene; Armor +2.
     SF 2 (Spotlight: resolve same round). Paradox: 0 (Coincidental).
   Still the Mind (Mind 1, Coincidental): cast Mind 1 + Resolve.
-    On success: +2 dice to Willpower rolls vs fear, pain, or mental influence for scene.
+    On success: Enhancement +1 to Willpower rolls vs fear, pain, or mental influence for scene.
     SF 1 (Spotlight: resolve same round). Paradox: 0.
   Read Intent (Mind 1, Coincidental): cast Mind 1 + Cunning.
     On success: ask Storyguide one honest question about the target's next action.
@@ -1081,8 +1081,8 @@ SPHERES
   Casting Attribute: Life = Stamina. Prime = Resolve.
 
 TAGS
-  [Healing Hands] — Invoke: +2 dice on any Medicine or Life-based healing roll.
-  [Read the Land] — Invoke: +2 dice to Awareness or Survival checks in natural settings.
+  [Healing Hands] — Invoke: Enhancement +1 on any Medicine or Life-based healing roll.
+  [Read the Land] — Invoke: Enhancement +1 to Awareness or Survival checks in natural settings.
   [Green Blessing] — Invoke: once per scene, treat one failed Medicine roll as one hit.
 
 HEALTH: 5   (Stamina 3 + 2)
@@ -1135,9 +1135,9 @@ SPHERES
   Casting Attribute: Correspondence = Cunning. Mind = Resolve.
 
 TAGS
-  [Signal Ghost] — Invoke: +2 dice to Stealth or any attempt to go undetected digitally.
-  [Pattern Recognition] — Invoke: +2 dice to Academics or Awareness when analysing data.
-  [Social Engineer] — Invoke: +2 dice to Persuasion or Manipulation using false pretenses.
+  [Signal Ghost] — Invoke: Enhancement +1 to Stealth or any attempt to go undetected digitally.
+  [Pattern Recognition] — Invoke: Enhancement +1 to Academics or Awareness when analysing data.
+  [Social Engineer] — Invoke: Enhancement +1 to Persuasion or Manipulation using false pretenses.
 
 HEALTH: 4   (Stamina 2 + 2)
 ARMOR: 0
@@ -1229,7 +1229,7 @@ Additional modifiers that apply to both modes:
 
 | Condition | Modifier |
 | --- | --- |
-| Using Instruments (your practice's focus tools) | +1 Enhancement die to pool (see Appendix B) |
+| Using Instruments (your practice's focus tools) | Enhancement +1 (see Appendix B) |
 | No Instruments available | +1 Difficulty |
 | Sympathetic link to target | −1 Difficulty |
 | Rushing the cast (reduce time category by one) | +1 Difficulty |
@@ -1238,7 +1238,7 @@ Additional modifiers that apply to both modes:
 > Example 1 — Rote, Single Sphere:
 > Rosamund (Life 3) casts her "Grandmother's Knitting" healing Rote.
 > Difficulty = highest sphere = 3.
-> Pool: Life (3) + Resolve (5) = 8 dice. Using Instruments (+1 die) = 9 dice.
+> Pool: Life (3) + Resolve (5) = 8 dice. Using Instruments grants Enhancement +1 (a hit added after the roll, if she lands at least one).
 > 
 > Example 2 — Rote, Two Spheres:
 > Silas (Forces 3, Correspondence 2) uses a practiced Rote to teleport lightning across the room.
@@ -1254,8 +1254,7 @@ Additional modifiers that apply to both modes:
 > Mara improvises Forces 3 + Correspondence 2 on the fly.
 > Difficulty = 3 + 2 = 5.
 > Pool: Forces (3) + Dexterity (4) = 7 dice. Needs 5 hits — a desperate gamble.
-> Spending Willpower (+2 dice) and Instruments (+1 die) brings pool to 10 dice,
-> improving odds to roughly 12%. Still hard. That is the cost of not having a Rote.
+> Spending 1 Willpower (Enhancement +1) and using Instruments (Enhancement +1) adds +2 hits if she lands at least one — she still needs 3 natural hits from her 7 dice to reach 5. Hard, but not impossible. That is the cost of not having a Rote.
 
 ## Coincidental vs. Vulgar Magic
 
@@ -1337,7 +1336,7 @@ Work with the Storyguide to name, describe, and record each starting Rote. Each 
 > Rote 1: "The Grandmother's Knitting" (Life 2) -- TRADITION SIGNATURE [Verbena: Life]
 >   Effect: Heals up to [hits] boxes of Bashing or Lethal damage on a single touched target.
 >   Casting Attribute: Resolve
->   Pool: Life 2 + Resolve 5 + Enhancement +1 = 8 dice  |  Difficulty 2  |  Coincidental
+>   Pool: Life 2 + Resolve 5 = 7 dice (Enhancement +1)  |  Difficulty 2  |  Coincidental
 >   Instruments: Rhythmic hand motions mimicking knitting; sustained focus of 10 seconds.
 >   Paradox: None. Medical observers describe it as spontaneous coagulation.
 >   Why this Rote: Rosamund's grandmother was a hedge-healer. This was the first working she was ever
@@ -1348,7 +1347,7 @@ Work with the Storyguide to name, describe, and record each starting Rote. Each 
 >   or toxin exposure, and whether it has been magically altered. Information arrives as a felt sense
 >   rather than words -- she knows what the oak knows, not what a biologist would report.
 >   Casting Attribute: Resolve
->   Pool: Life 1 + Resolve 5 + Enhancement +1 = 7 dice  |  Difficulty 1  |  Coincidental
+>   Pool: Life 1 + Resolve 5 = 6 dice (Enhancement +1)  |  Difficulty 1  |  Coincidental
 >   Instruments: Physical touch and quiet attention.
 >   Paradox: None. Indistinguishable from a skilled naturalist's observation.
 > 
@@ -1357,7 +1356,7 @@ Work with the Storyguide to name, describe, and record each starting Rote. Each 
 >   her location, detect whether a location has been spiritually scarred or blessed, and receive
 >   impressions from nearby spirits (not full communication -- that requires Spirit 2).
 >   Casting Attribute: Resolve
->   Pool: Spirit 1 + Resolve 5 + Enhancement +1 = 7 dice  |  Difficulty 1  |  Coincidental
+>   Pool: Spirit 1 + Resolve 5 = 6 dice (Enhancement +1)  |  Difficulty 1  |  Coincidental
 >   Instruments: Silence; a small reflective surface (mirror shard); closing the mundane eyes.
 >   Paradox: None alone. Vulgar with Sleeper Witnesses who see her respond to invisible things.
 > 
@@ -1652,7 +1651,7 @@ Two or more mages can cooperate on a single magical working. The mage with the h
 > 
 > Maya (Correspondence 3) leads. Vikram (Correspondence 2) assists. Priya (Correspondence 1) assists.
 > Maya's base pool: Correspondence 3 + Cunning 3 = 6 dice.
-> Vikram adds +1 die (Correspondence 2 >= 1). Priya adds +1 die.
+> Vikram adds Enhancement +1 (Correspondence 2 >= 1). Priya adds Enhancement +1.
 > Total pool: 8 dice.
 > 
 > The working is Vulgar without Witnesses (the three of them are alone). The Sphere rating is 3.
@@ -1758,7 +1757,7 @@ When casting a Rote:
 
 - Difficulty equals the highest Sphere dot rating involved (not the sum). A Life ●●● Rote has Difficulty 3. A Forces ●●● + Correspondence ●● Rote still has Difficulty 3.
 - Speed Factor (SF) = highest Sphere dot − 1 (minimum 1). The same Life ●●● Rote has SF 2; it activates in Phase 3 of the initiative order (see Appendix F).
-- Instruments grant +1 Enhancement die to the casting pool when used. Working without Instruments adds +1 Difficulty.
+- Instruments grant Enhancement +1 when used. Working without Instruments adds +1 Difficulty.
 - Rotes can be cast under duress without the standard +1 Difficulty for stress, unless the Storyguide rules the situation is truly extreme (combat, serious injury, active threat to concentration all remain as possible Storyguide discretion penalties).
 
 ### Creating and Recording Rotes
@@ -1841,7 +1840,7 @@ The Paradox Pool gains dice in the following situations:
 - Vulgar magic without witnesses: +1 die per level of the highest Sphere used (minimum 1).
 - Vulgar magic with Sleeper witnesses: +2 dice per level of the highest Sphere used (minimum 2).
 - Magical Botch (0 hits AND more than half all dice — casting pool + Paradox pool — show 1): +2 dice to the Paradox Pool immediately. See Chapter Four: Magic for the full Botch rule and Paradox dice interaction.
-- Attempting to break a truly fundamental law (causing death from nothing, violating Prime causality without Prime 5): +1 die at Storyguide discretion.
+- Attempting to break a truly fundamental law (causing death from nothing, violating Prime causality without Prime 5): Enhancement +1 at Storyguide discretion.
 - Paradox Spirits targeting the mage (see below): the Spirit may add dice as part of its attack.
 > Example — Pool growth:
 > 
@@ -2175,7 +2174,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > Kezia (Order of Hermes, Correspondence ●●●, Intellect ●●●) wants to know whether anyone is waiting around the corner before she steps into the alley.
 > 
 > Pool: Correspondence ● (1) + Intellect ●●● (3) = 4 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
-> Roll: [8, 6, 3, 1] = 2 hits, 1 net.  Kezia's spatial awareness pings the alley — two figures crouching behind a dumpster, roughly 12m away.
+> Roll: [10, 7, 6, 5] = 2 hits, 1 net.  Kezia's spatial awareness pings the alley — two figures crouching behind a dumpster, roughly 12m away.
 > Result: Awareness of the location and rough number of living beings within Short range (up to 20m), lasting one turn.
 > COINCIDENTAL — reads as exceptional spatial memory or heightened situational awareness.  A Sleeper bystander would chalk it up to "she seems very alert."
 > 
@@ -2186,7 +2185,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > Kezia (Order of Hermes, Correspondence ●●●, Intellect ●●●) needs to locate a hidden courier inside a museum before the Technocracy does.
 > 
 > Pool: Correspondence ●● (2) + Intellect ●●● (3) = 5 dice.  SF: 1 (Rote: highest dot 2 − 1 = 1).  Difficulty: 2.
-> Roll: [9, 8, 6, 4, 1] = 3 hits, 1 net.  Kezia senses the spatial geometry of the building — the courier is hiding in the service corridor behind Exhibit C.
+> Roll: [10, 8, 7, 6, 5] = 3 hits, 1 net.  Kezia senses the spatial geometry of the building — the courier is hiding in the service corridor behind Exhibit C.
 > Result: Precise location of one known target within Medium range (up to 60m), lasting the scene.
 > COINCIDENTAL — reads as heightened spatial awareness or a mnemonic training technique.
 
@@ -2195,7 +2194,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > Kezia must cross 20m of open floor in an instant to intercept an escaping NWO operative.
 > 
 > Pool: Correspondence ●●● (3) + Intellect ●●● (3) = 6 dice.  SF: 3 (freeform = sum of Sphere dots).  Difficulty: 3.
-> Roll: [10, 9, 7, 5, 3, 1] = 4 hits (10 = 2), 1 net hit.  She folds the 20m gap and steps through.
+> Roll: [10, 10, 7, 6, 5, 4] = 4 hits (10 = 2), 1 net hit.  She folds the 20m gap and steps through.
 > Result: Teleportation to any visible point within Medium range (up to 60m).  Default range for Correspondence ●●● = Medium.
 > VULGAR — the spatial fold is briefly visible as a shimmer in the air.  With no Sleepers present, Paradox risk is minimal.
 > FREE HIT SPEND: Kezia spends her 1 free hit to extend range to Long (up to 1,000m), reaching the emergency stairwell exit instead.
@@ -2205,7 +2204,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > Kezia needs to eavesdrop on a Syndicate board meeting happening in a penthouse across the city.  She sits in her parked car three kilometres away and extends her senses through folded space.
 > 
 > Pool: Correspondence ●●●● (4) + Intellect ●●● (3) = 7 dice.  SF: 4 (freeform = sum of Sphere dots used).  Difficulty: 4.
-> Roll: [10, 9, 8, 6, 4, 2, 1] = 5 hits (10 = 2), 1 net hit.  Kezia establishes a stable sensory window inside the boardroom — she can see and hear everything for the scene.
+> Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits (10 = 2), 1 net hit.  Kezia establishes a stable sensory window inside the boardroom — she can see and hear everything for the scene.
 > Result: Full sight and hearing at any known location within Extreme range (1,000+ meters).  Default range for Correspondence ●●●● = Extreme.
 > VULGAR — the boardroom gains a faint spatial distortion visible to Awakened eyes.  With only Sleepers present, Paradox risk is moderate (SF 4).  Kezia keeps her focus shallow and closes the window the moment the meeting ends.
 > 
@@ -2216,7 +2215,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > The cabal needs an extraction route from the Technocracy's underground facility.  Kezia will open a walkable portal between the server room and the Chantry basement three kilometres away — large enough for a person with gear to step through upright.
 > 
 > Pool: Correspondence ●●●●● (5) + Intellect ●●● (3) = 8 dice.  SF: 5 (freeform).  Difficulty: 5.
-> Roll: [10, 9, 8, 7, 6, 4, 2, 1] = 6 hits (10 = 2), 1 net hit.  A rippling vertical aperture, roughly 2m tall, opens between the two points.  It holds for the full scene (roughly 10 minutes).
+> Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 1 net hit.  A rippling vertical aperture, roughly 2m tall, opens between the two points.  It holds for the full scene (roughly 10 minutes).
 > Result: A two-way, traversable portal between two known locations within any range.  Both endpoints are anchored spatially — anyone or anything that passes through arrives at the other location instantly.
 > HIGHLY VULGAR — the portal is unmistakably magical.  Any Sleepers who witness it must either be Dazzled (Mind) or controlled otherwise.  SF 5 means the Storyguide draws five cards; a bad hand here could mean immediate Paradox backlash.  Kezia has salted the extraction route — the moment the last person is through, she collapses the portal and lets the spatial fold snap shut.
 > 
@@ -2263,7 +2262,7 @@ The mage can nudge fate. They can tilt the odds of mundane events — a coin fli
 | The Unlucky Strike (1) | On a successful Entropy casting against a target, their next roll is made at +1 Difficulty (misfortune dogs them). |
 | Jam (1) | One device, vehicle, or weapon of your choice fails at a dramatically appropriate moment this scene. Must be mechanical or electronic; magic items resist (Resolve 4 + relevant Sphere). |
 | Hasten Decay (2) | An object you touch ages by up to 10 years in minutes. Paper crumbles, metal rusts, food rots. Coincidental for gradual deterioration; Vulgar if instantaneous. |
-| Fortunate Moment (2) | An ally gains +1 die on their next roll, as chance seems to break in their favor. |
+| Fortunate Moment (2) | An ally gains Enhancement +1 on their next roll, as chance seems to break in their favor. |
 
 ### Entropy 3 — Affect Living Systems
 
@@ -2330,7 +2329,7 @@ At Entropy 5, the mage sees and can manipulate the grand sweep of fate and decay
 > Vivienne (Cult of Ecstasy, Entropy ●●●, Cunning ●●●) wants to know if the used car she's about to buy is going to fall apart within the month.  She runs her fingers along the chassis and reads the probability threads.
 > 
 > Pool: Entropy ● (1) + Cunning ●●● (3) = 4 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
-> Roll: [9, 7, 3, 2] = 2 hits, 1 net.  The threads tell her: the engine is sound, but the brake line has a hairline fracture — it will fail within two weeks of normal use.
+> Roll: [10, 7, 6, 5] = 2 hits, 1 net.  The threads tell her: the engine is sound, but the brake line has a hairline fracture — it will fail within two weeks of normal use.
 > Result: Reads the most probable near-future failure point of any non-living object she touches.  Result is honest but narrow — one failure mode, clearly identified.
 > COINCIDENTAL — reads as an expert mechanic's intuition.  No Paradox risk.
 > 
@@ -2341,7 +2340,7 @@ At Entropy 5, the mage sees and can manipulate the grand sweep of fate and decay
 > Vivienne (Cult of Ecstasy, Entropy ●●●, Cunning ●●●) needs an enemy's pistol to jam at a critical moment.
 > 
 > Pool: Entropy ●● (2) + Cunning ●●● (3) = 5 dice.  SF: 1 (Rote: 2 − 1 = 1).  Difficulty: 2.
-> Roll: [8, 6, 5, 3, 1] = 2 hits, 0 net above Difficulty.  Exactly meets Difficulty — bare success.
+> Roll: [10, 7, 6, 5, 4] = 2 hits, 0 net above Difficulty.  Exactly meets Difficulty — bare success.
 > Result: The pistol jams on its next shot.  The probability threads of mechanical failure were already present; Vivienne just gave them a gentle push.
 > COINCIDENTAL — a gun jam is a normal mechanical event.  No Paradox.
 
@@ -2350,7 +2349,7 @@ At Entropy 5, the mage sees and can manipulate the grand sweep of fate and decay
 > Vivienne wants to read the probability currents around an enemy cabal to find their weakest link.
 > 
 > Pool: Entropy ●●● (3) + Cunning ●●● (3) = 6 dice.  SF: 3.  Difficulty: 3.
-> Roll: [9, 8, 7, 6, 4, 2] = 4 hits, 1 net hit.  The web of fate becomes momentarily legible.
+> Roll: [10, 10, 7, 6, 5, 4] = 4 hits, 1 net hit.  The web of fate becomes momentarily legible.
 > Result: The Storyguide reveals one hidden vulnerability — the cabal's lookout leaves his post at the same time each evening.
 > COINCIDENTAL — framed as uncanny perceptiveness and pattern recognition.  No Paradox unless overseen by Sleepers with supernatural awareness.
 
@@ -2359,7 +2358,7 @@ At Entropy 5, the mage sees and can manipulate the grand sweep of fate and decay
 > The NWO handler across the table is about to run a long con — a carefully constructed narrative that will take weeks to unravel.  Vivienne decides to collapse the probability threads holding his plan together before a single thread is spun.
 > 
 > Pool: Entropy ●●●● (4) + Cunning ●●● (3) = 7 dice.  SF: 4 (freeform).  Difficulty: 4.
-> Roll: [10, 9, 8, 5, 3, 2, 1] = 5 hits (10 = 2), 1 net hit.  Vivienne threads entropy through the handler's web of contacts and contingencies.  For the remainder of the scene, any Extended action he initiates gains an automatic complication on each roll — phones go to voicemail, cab drivers take wrong turns, passwords stop working.
+> Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits (10 = 2), 1 net hit.  Vivienne threads entropy through the handler's web of contacts and contingencies.  For the remainder of the scene, any Extended action he initiates gains an automatic complication on each roll — phones go to voicemail, cab drivers take wrong turns, passwords stop working.
 > Result: Applies the [Jinxed] tag to one target for the scene.  All Extended actions the target attempts accrue one automatic Complication per roll regardless of successes.
 > VULGAR if performed overtly; COINCIDENTAL if Vivienne simply sits back and watches.  With SF 4, Paradox risk is real.  She keeps her face neutral and sips her wine.
 > 
@@ -2370,7 +2369,7 @@ At Entropy 5, the mage sees and can manipulate the grand sweep of fate and decay
 > The Syndicate's eastern distribution hub — a converted warehouse coordinating financial instruments, shipping manifests, and corporate cover identities — represents years of careful construction.  Vivienne intends to pull a single thread and watch all of it unravel.
 > 
 > Pool: Entropy ●●●●● (5) + Cunning ●●● (3) = 8 dice.  SF: 5 (freeform).  Difficulty: 5.
-> Roll: [10, 9, 9, 7, 5, 3, 2, 1] = 6 hits (10 = 2), 1 net hit.  Vivienne collapses the probability architecture of the entire hub.  Over the next 24 hours: shipping routes flag customs inspections, cover identities trigger fraud alerts, financial transfers are frozen by automated compliance systems.  None of it is supernatural — every failure is technically mundane.  But every failure is inevitable.
+> Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 1 net hit.  Vivienne collapses the probability architecture of the entire hub.  Over the next 24 hours: shipping routes flag customs inspections, cover identities trigger fraud alerts, financial transfers are frozen by automated compliance systems.  None of it is supernatural — every failure is technically mundane.  But every failure is inevitable.
 > Result: Triggers a cascading entropy event through a connected system (a corporation, a supply chain, a criminal network).  The effects unfold over hours or days as coincidences stack.  No single event is traceable to magic.
 > HIGHLY VULGAR in perception — any Awakened observing the aftermath will sense the entropy signature.  To Sleepers, it looks like spectacularly bad luck.  SF 5 means substantial Paradox risk; Vivienne has spent weeks building coincidental cover for this moment.  She is not in the building when it falls apart.
 > 
@@ -2390,7 +2389,7 @@ The mage perceives energy flows directly. They see electricity flowing through w
 
 **Passive Sense:**
 
-The mage can always sense the location of significant energy sources: electrical lines in walls, heat signatures, approaching storms, active explosives. This gives +1 die to any Survival or Athletics roll that would benefit from sensing nearby energy.
+The mage can always sense the location of significant energy sources: electrical lines in walls, heat signatures, approaching storms, active explosives. This gives Enhancement +1 to any Survival or Athletics roll that would benefit from sensing nearby energy.
 
 #### Sphere Tricks — Forces 1
 
@@ -2453,7 +2452,7 @@ Now the mage can throw lightning, call fire, reshape gravitational pull locally,
 > 
 > Round 3: Silas fires a lightning strike at Cyborg 1 over the top of the barrier.
 > Casting Roll: Forces (3) + Dexterity (3) = 6 dice. Difficulty 2 (targeting over the barrier). Vulgar with Witnesses (the Sleeper workers see lightning). +6 dice Paradox (Forces 3, Witnesses = 2×3).
-> Rolls: 10, 9, 8, 3, 5, 2 = 5 hits (the 10 counts as 2). 3 Trick Hits above Difficulty.
+> Rolls: 10, 10, 8, 7, 6, 5 = 5 hits (the 10 counts as 2). 3 Trick Hits above Difficulty.
 > Damage: 3 Lethal base. Cyborg 1 has Armor 3: 3 - 3 = 0 Lethal. The lightning hits but bounces off the armor!
 > Silas spends 2 Trick Hits on "Lightning Strike" — additional 1 Lethal damage AND the metal armor is a conductor: stun effect triggers. Cyborg 1 takes 1 Lethal through armor (the trick bypasses the armor calculation) and loses their next Minor Action.
 > 
@@ -2505,7 +2504,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 > Sasha (Akashic Brotherhood, Forces ●●, Resolve ●●●●) needs to silently slide a door bolt open from the wrong side.  He places two fingers against the metal and channels a precise kinetic pulse through it.
 > 
 > Pool: Forces ● (1) + Resolve ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
-> Roll: [9, 8, 6, 3, 2] = 3 hits, 2 net.  The bolt slides back cleanly.  No sound.  No visible force.
+> Roll: [10, 8, 7, 6, 5] = 3 hits, 2 net.  The bolt slides back cleanly.  No sound.  No visible force.
 > Result: Applies precise kinetic force to any small object within Close range and actual physical contact — enough to open a bolt, press a button, or nudge a key. This is a [Touch]-tagged effect: Sasha must be at Close range and actually touching the mechanism. Cannot harm living targets at ●.
 > COINCIDENTAL — reads as a careful mechanical manipulation.  Zero Paradox risk.
 > 
@@ -2516,7 +2515,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 > Sasha (Akashic Brotherhood, Forces ●●, Resolve ●●●●) channels chi through a palm strike, adding kinetic force to the blow.
 > 
 > Pool: Forces ●● (2) + Resolve ●●●● (4) = 6 dice.  SF: 1 (Rote: 2 − 1 = 1).  Difficulty: 2.
-> Roll: [9, 7, 5, 4, 3, 1] = 3 hits, 1 net.  The palm strike lands with focused force.
+> Roll: [10, 8, 7, 6, 5, 4] = 3 hits, 1 net.  The palm strike lands with focused force.
 > Result: +3 damage to the attack, [Stun] tag applied if 3+ net hits total.
 > COINCIDENTAL — looks like an exceptionally powerful martial arts strike.  Standard chi enhancement; no Paradox.
 
@@ -2525,7 +2524,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 > Elias (Order of Hermes, Forces ●●●, Resolve ●●●●) severs power to a section of the building to create cover.
 > 
 > Pool: Forces ●●● (3) + Resolve ●●●● (4) = 7 dice.  SF: 3.  Difficulty: 3.  Default area: Medium (30m radius).
-> Roll: [9, 8, 8, 6, 5, 3, 1] = 5 hits, 2 net hits.  Power goes out across the target zone.
+> Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits, 2 net hits.  Power goes out across the target zone.
 > Result: [Low Visibility] environmental tag applied to Medium (30m radius).  Lasts the scene unless power is restored.
 > FREE HIT SPEND: Elias spends both free hits to extend area to Large Group (building-sized) instead of Medium.
 > COINCIDENTAL — framed as an electrical fault from equipment overload.  Coincidental rating holds if no direct witness can disprove it.
@@ -2535,7 +2534,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 > Elias (Virtual Adepts, Forces ●●●●, Resolve ●●●●) is on the roof of a parking structure.  A Void Engineer drop-squad is rappelling down the facing building.  He needs to take them off the ropes without touching the lines himself.
 > 
 > Pool: Forces ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4.
-> Roll: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2), 2 net hits.  A focused bolt of electrical force leaps from Elias's outstretched hand.  Base damage: Forces ●●●● = 4 Lethal.  Each net hit adds +1.  Total: 6 Lethal against the lead agent.
+> Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 2 net hits.  A focused bolt of electrical force leaps from Elias's outstretched hand.  Base damage: Forces ●●●● = 4 Lethal.  Each net hit adds +1.  Total: 6 Lethal against the lead agent.
 > Result: Ranged electrical attack.  Default range for Forces ●●●● = Long (61–1,000 meters, line of sight).  The bolt cauterizes as it burns — the agent's rappel harness fuses and he can't move his right arm.
 > VULGAR — a lightning bolt from a clear sky at night is not easily explained.  SF 4 means the Storyguide draws four cards; Paradox backlash is possible.  Elias has a Faraday suit prop and three Technocracy-style gadgets on his person; if challenged, he claims directed-energy prototype.
 > 
@@ -2546,7 +2545,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 > The cabal is defending a mountain chantry.  A Technocracy strike team is approaching through a forest valley below.  Elias (Virtual Adepts, Forces ●●●●●, Resolve ●●●●) reaches into the atmosphere and reshapes the local weather pattern.  A cold front is already building to the north — he accelerates it by three hours.
 > 
 > Pool: Forces ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
-> Roll: [10, 9, 8, 7, 6, 5, 3, 2, 1] = 7 hits (10 = 2), 2 net hits.  A storm rolls in within ten minutes instead of three hours.  Visibility drops to 20m.  Wind gusts exceed 60 kph.  The forest valley becomes a kill zone for anything not protected from the elements.
+> Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (10 = 2), 2 net hits.  A storm rolls in within ten minutes instead of three hours.  Visibility drops to 20m.  Wind gusts exceed 60 kph.  The forest valley becomes a kill zone for anything not protected from the elements.
 > Result: Alters local weather patterns over a 5-km radius for the scene (or longer with sustained concentration).  Can create storms, fog banks, electrical activity, temperature extremes, or conversely calm existing weather.  All environmental modifiers from the storm (reduced visibility, wind interference with ranged attacks, slippery ground) apply to everyone in the area.
 > COINCIDENTAL if a weather system already exists in the region (he accelerated something real).  VULGAR if he conjures weather from nothing — a thunderstorm from a clear sky in the desert, for instance, has no natural explanation.  SF 5 with the coincidental cover of the existing cold front keeps Paradox risk manageable.
 > 
@@ -2566,7 +2565,7 @@ The mage perceives living patterns directly: they sense the health, emotional st
 
 **Passive Sense:**
 
-The mage can always tell if a creature is alive and roughly how healthy they are. This gives +1 die to Medicine rolls when treating someone they have examined with this sense.
+The mage can always tell if a creature is alive and roughly how healthy they are. This gives Enhancement +1 to Medicine rolls when treating someone they have examined with this sense.
 
 #### Sphere Tricks — Life 1
 
@@ -2663,7 +2662,7 @@ The mage is a god of biology. They create life at will, can bring the dead back 
 > Sasha (Life ●●, Resolve ●●●●) presses his palm flat on a warehouse floor and extends his biological awareness through the building.  He wants to know whether the room above is occupied before he climbs the stairs.
 > 
 > Pool: Life ● (1) + Resolve ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
-> Roll: [9, 8, 6, 2, 1] = 3 hits, 2 net.  Sasha senses three living beings above: two with elevated heart rates (alert, nervous), one calmer and seated.  None are animals — all human-level biological complexity.
+> Roll: [10, 8, 7, 6, 5] = 3 hits, 2 net.  Sasha senses three living beings above: two with elevated heart rates (alert, nervous), one calmer and seated.  None are animals — all human-level biological complexity.
 > Result: Detects number, rough size, and emotional state (via biochemistry) of all living beings within Short range (up to 20m).  Cannot identify species beyond "mammal / non-mammal" at ●.
 > COINCIDENTAL — reads as exceptional situational awareness or a trained meditation technique.  The Akashic tradition teaches this rote as a basic combat-awareness kata.
 
@@ -2672,7 +2671,7 @@ The mage is a god of biology. They create life at will, can bring the dead back 
 > Sasha (Life ●●, Resolve ●●●●) hardens his body with focused chi before combat begins.
 > 
 > Pool: Life ●● (2) + Resolve ●●●● (4) = 6 dice.  SF: 1 (Rote: 2 − 1 = 1).  Difficulty: 1 (low-stress environment).
-> Roll: [8, 6, 5, 4, 3, 1] = 3 hits.  Iron Skin settles over him.
+> Roll: [10, 8, 7, 6, 5, 4] = 3 hits.  Iron Skin settles over him.
 > Result: [Armored 2] tag for the scene.  Each incoming hit has 2 damage absorbed.
 > COINCIDENTAL — peak physical conditioning is a natural explanation for unusual resilience.
 > NOTE: Iron Skin declared in Phase 1 resolves in Phase 2 (SF 1).  It does NOT protect Sasha from attacks in Phase 1.
@@ -2682,7 +2681,7 @@ The mage is a god of biology. They create life at will, can bring the dead back 
 > Rosamund (Verbena, Life ●●●, Resolve ●●●●) accelerates a wounded cabal-mate's recovery between scenes.
 > 
 > Pool: Life ●●● (3) + Resolve ●●●● (4) = 7 dice.  SF: 3.  Difficulty: 2 (healing a willing, accessible target).
-> Roll: [9, 8, 7, 6, 5, 4, 2] = 5 hits, 3 net.  Cellular repair accelerates.
+> Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits, 3 net.  Cellular repair accelerates.
 > Result: Target heals 3 boxes of Bashing damage or 1 box of Lethal damage immediately.
 > COINCIDENTAL for Bashing — fast recovery reads as natural resilience.  Healing Lethal at visible speed is BORDERLINE VULGAR.
 > If Sleepers observe Lethal wounds visibly closing, Storyguide should call it Vulgar.
@@ -2692,7 +2691,7 @@ The mage is a god of biology. They create life at will, can bring the dead back 
 > Rosamund (Verbena, Life ●●●●, Resolve ●●●●) is treating a fellow mage whose arm was burned by a Technocracy laser — Aggravated damage, the worst kind.  She places her hands on the wound and works for a full minute of ritual chanting, drawing life-force from a fresh-cut branch she carries as a focus.
 > 
 > Pool: Life ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4.
-> Roll: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2), 2 net hits.  Rosamund heals 2 boxes of Aggravated damage — the burned flesh knits back to healthy skin over about 30 seconds.  The tissue is fully regenerated, not merely closed.
+> Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 2 net hits.  Rosamund heals 2 boxes of Aggravated damage — the burned flesh knits back to healthy skin over about 30 seconds.  The tissue is fully regenerated, not merely closed.
 > Result: Heals Aggravated damage in another living being — 1 box per hit, minimum 1.  This requires physical contact and takes one full minute of concentration (cannot be rushed without an additional Resolve roll).
 > VULGAR — the healing is visible and undeniable.  Skin grows back in real time.  Any Sleeper witnessing this is immediately aware something impossible has happened.  Rosamund's ritual aesthetic (chanting, herbal focus) makes the magic look like folklore rather than obvious power — some Storyguides may rule this reduces the Paradox pool by one die.
 > 
@@ -2703,7 +2702,7 @@ The mage is a god of biology. They create life at will, can bring the dead back 
 > Rosamund (Verbena, Life ●●●●●, Resolve ●●●●) needs to cross hostile territory — a forest controlled by a rival Tradition's territorial spirits who will respond to magic but not to animals.  She fully transforms into a large grey wolf, retaining her intelligence, memories, and Sphere access.
 > 
 > Pool: Life ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
-> Roll: [10, 10, 9, 8, 6, 4, 2, 1, 1] = 7 hits (each 10 = 2), 2 net hits.  Rosamund's body reshapes over about 3 seconds — bones remodel, mass redistributes, sensory organs transform.  She is now a 45-kilogram grey wolf with full human consciousness.
+> Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (each 10 = 2), 2 net hits.  Rosamund's body reshapes over about 3 seconds — bones remodel, mass redistributes, sensory organs transform.  She is now a 45-kilogram grey wolf with full human consciousness.
 > Result: Complete physical transformation into any natural animal form up to twice the caster's original mass.  The character retains full mental capacity and may still cast Sphere effects.  Physical attributes shift to match the animal form (Storyguide assigns appropriate values).  Duration: scene, or until voluntarily released.
 > HIGHLY VULGAR — full shapeshifting is unmistakably magical.  In front of Sleepers, this is a category-one Paradox event.  Rosamund performs the transformation inside a ring of standing stones on a moonlit night — Verbena ritual aesthetics that her Avatar uses as a focus.  Even so, SF 5 draws five cards from the Storyguide.
 > 
@@ -2723,7 +2722,7 @@ The mage reads materials: they know the composition, integrity, history of use, 
 
 **Passive Sense:**
 
-The mage automatically knows the basic composition of any material they touch. They receive +1 die on Technology or Science rolls involving materials analysis.
+The mage automatically knows the basic composition of any material they touch. They receive Enhancement +1 on Technology or Science rolls involving materials analysis.
 
 #### Sphere Tricks — Matter 1
 
@@ -2821,7 +2820,7 @@ The mage commands matter absolutely. They can create matter from nothing (techni
 > Karl (Sons of Ether, Matter ●●●, Intellect ●●●●) analyzes a suspicious lock before attempting to bypass it.
 > 
 > Pool: Matter ●● (2) + Intellect ●●●● (4) = 6 dice.  SF: 1 (Rote: 2 − 1 = 1).  Difficulty: 1.
-> Roll: [9, 8, 6, 4, 3, 2] = 3 hits.  Karl reads the material composition, tolerances, and failure points instantly.
+> Roll: [10, 8, 7, 6, 5, 4] = 3 hits.  Karl reads the material composition, tolerances, and failure points instantly.
 > Result: Storyguide reveals the lock type, material weakness, and exactly what tool would open or defeat it.
 > COINCIDENTAL — reads as materials science expertise.  Karl has a scanning monocle that sells the effect completely.
 
@@ -2830,7 +2829,7 @@ The mage commands matter absolutely. They can create matter from nothing (techni
 > Karl needs to escape from handcuffs without a key.  He transmutes the steel temporarily to a tin-like softness.
 > 
 > Pool: Matter ●●● (3) + Intellect ●●●● (4) = 7 dice.  SF: 3.  Difficulty: 3.
-> Roll: [10, 9, 7, 5, 4, 3, 2] = 5 hits (10 = 2), 2 net.  The cuffs go soft.  He slips free.
+> Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits (10 = 2), 2 net.  The cuffs go soft.  He slips free.
 > Result: One metal object (up to Small Group size) has its hardness and strength reduced to near-zero for [hits] rounds.
 > VULGAR — metal visibly changing texture is not explainable.  With no witnesses: 1 Paradox die.  With Sleeper witnesses: full Paradox roll.
 
@@ -2839,7 +2838,7 @@ The mage commands matter absolutely. They can create matter from nothing (techni
 > Karl needs a significant quantity of platinum to build a critical component for his Etheric Resonance Coil.  Platinum is expensive and traceable.  He has a large bar of lead.  He intends to transmute it.
 > 
 > Pool: Matter ●●●● (4) + Intellect ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4.
-> Roll: [10, 9, 9, 8, 5, 3, 2, 1] = 6 hits (10 = 2), 2 net hits.  Karl reconfigures the atomic lattice of 500 grams of lead.  The bar's grey, dull surface becomes the bright, cool silver of platinum.  Density and tensile properties match perfectly.  A mass spectrometer would confirm: this is platinum.
+> Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 2 net hits.  Karl reconfigures the atomic lattice of 500 grams of lead.  The bar's grey, dull surface becomes the bright, cool silver of platinum.  Density and tensile properties match perfectly.  A mass spectrometer would confirm: this is platinum.
 > Result: Transforms one non-living material into another of comparable mass and volume — permanently.  The transmuted material is real in every measurable sense.  Default volume for Matter ●●●● = several kilograms.
 > VULGAR — any witness sees lead become platinum.  Karl performs this in his locked laboratory with blackout curtains.  Even so, the Technocracy's Reality Anchor in the building's basement may register the resonance shift.  SF 4 makes this risky; Karl has prepared a Paradox sink (a Tass reserve he can expend if the backlash triggers).
 > 
@@ -2850,7 +2849,7 @@ The mage commands matter absolutely. They can create matter from nothing (techni
 > The cabal is trapped behind a solid steel blast door — 15 centimetres of hardened ballistic steel, magnetically sealed.  There is no time to cut it.  Karl places both palms flat on the surface and reduces its atomic bonds to nothing.
 > 
 > Pool: Matter ●●●●● (5) + Intellect ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
-> Roll: [10, 9, 9, 8, 7, 5, 3, 2, 1] = 7 hits (10 = 2), 2 net hits.  A 2-metre section of the blast door simply ceases to exist.  The remaining steel does not fall — there is no remaining steel at the edges of the removed section.  The metal is gone at the subatomic level.  No rubble.  No debris.  A clean rectangular void.
+> Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (10 = 2), 2 net hits.  A 2-metre section of the blast door simply ceases to exist.  The remaining steel does not fall — there is no remaining steel at the edges of the removed section.  The metal is gone at the subatomic level.  No rubble.  No debris.  A clean rectangular void.
 > Result: Permanently unmakes a volume of non-living material up to the size of a large vehicle (or roughly 3 cubic metres of solid matter).  The material does not move or transform — it ceases to exist.  This effect is instantaneous and irreversible.
 > HIGHLY VULGAR — matter does not simply vanish.  Even Sleepers who are not present will notice the impossible-clean edge where the door was.  SF 5 is maximum Paradox pressure; Karl burns an Arete-fuelled Tass immediately after to absorb the worst of the backlash.  He walks through the void without looking back.
 > 
@@ -2878,7 +2877,7 @@ The mage always knows the dominant emotional state of people they interact with.
 | --- | --- |
 | Truth Sense (1) | You know immediately when someone tells a significant deliberate lie. Purely perceptual. |
 | Mood Read (1) | You know the detailed emotional state of up to [hits] people in your immediate vicinity — not thoughts, but feelings. |
-| Intention Sense (2) | You sense the immediate short-term intention of one target. You know what they are about to do before they do it. +2 dice on defense against that target for one round. |
+| Intention Sense (2) | You sense the immediate short-term intention of one target. You know what they are about to do before they do it. Enhancement +1 on defense against that target for one round. |
 
 ### Mind 2 — Read and Shield Minds
 
@@ -2959,7 +2958,7 @@ The mage can affect entire groups simultaneously, create entirely new consciousn
 > Sasha (Mind ●●●, Resolve ●●●●) sits across from a potential informant.  Before the informant says a word, Sasha wants to know his emotional baseline — is he frightened?  Lying to himself?  Resolved?
 > 
 > Pool: Mind ● (1) + Resolve ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
-> Roll: [9, 7, 5, 3, 2] = 2 hits, 1 net.  Sasha reads the informant's surface emotional state: low-grade fear, not directed at Sasha specifically — at something else.  Guilt, old and buried.  And underneath both: a thin thread of hope.
+> Roll: [10, 7, 6, 5, 4] = 2 hits, 1 net.  Sasha reads the informant's surface emotional state: low-grade fear, not directed at Sasha specifically — at something else.  Guilt, old and buried.  And underneath both: a thin thread of hope.
 > Result: Reads the surface emotional state of any person within Short range (up to 20m).  Does not access thoughts, memories, or intent — only the emotional texture of this moment.
 > COINCIDENTAL — reads as exceptional empathy or a trained mediator's intuition.  Akashic tradition teaches this as basic Do awareness: feel what the opponent feels before they act.
 
@@ -2968,7 +2967,7 @@ The mage can affect entire groups simultaneously, create entirely new consciousn
 > Sasha (Mind ●●●, Resolve ●●●●) sweeps a room for active mental signatures before entering.
 > 
 > Pool: Mind ●●● at ●● application (2 dots' worth of effect) + Resolve ●●●● (4) = 6 dice.  SF: 1 (Rote).  Difficulty: 2.
-> Roll: [8, 7, 5, 4, 3, 1] = 3 hits, 1 net.  He senses the mental landscape of the corridor.
+> Roll: [10, 8, 7, 6, 5, 4] = 3 hits, 1 net.  He senses the mental landscape of the corridor.
 > Result: Sasha detects the number, emotional state, and rough location of all conscious minds within Short range (up to 20m).  He counts three Sleepers and one Awakened.
 > COINCIDENTAL — framed as martial awareness and chi-sensitivity.  No Paradox.
 
@@ -2977,7 +2976,7 @@ The mage can affect entire groups simultaneously, create entirely new consciousn
 > Sasha reads an NWO agent's surface thoughts during an interrogation — not a compulsion, just listening.
 > 
 > Pool: Mind ●●● (3) + Resolve ●●●● (4) = 7 dice.  SF: 3.  Difficulty: 3 (resisting target: Willpower 5 = Difficulty 3).
-> Roll: [9, 8, 7, 6, 4, 3, 1] = 5 hits, 2 net.  The agent's surface thoughts become audible.
+> Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits, 2 net.  The agent's surface thoughts become audible.
 > Result: Sasha learns the agent's immediate intentions and one piece of information she is actively thinking about.
 > BORDERLINE: Coincidental if Sasha frames it as reading body language; Vulgar if he acts on invisible information in ways the agent can notice.
 > With Sleeper witnesses who observe no physical action but see Sasha inexplicably know things: VULGAR.
@@ -2987,7 +2986,7 @@ The mage can affect entire groups simultaneously, create entirely new consciousn
 > The NWO interrogator has a piece of information Sasha needs — the location of a safehouse.  The interrogator has been conditioned against telepathic probing (he has a basic mental shield, which Sasha must overcome).  Sasha does not have time for subtlety.
 > 
 > Pool: Mind ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (Freeform).  Difficulty: 4 (base, matching Mind ●●●●'s casting scope — this does not change because of the shield; see Opposition, below).  Opposition: the interrogator's Mental Shield (Mind 1, per the Mental Shield Rote above) banked 1 hit on the casting that raised it. Per that Rote's own rule, a Mental Shield never adds to the intruder's Difficulty or SF — Sasha's hits must simply exceed the Shield's 1 banked hit for the intrusion to get through at all; if they don't, the compulsion fails outright and the interrogator immediately senses the attempt.
-> Roll: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2).  Sasha's 6 hits comfortably exceed the Shield's 1 banked hit — the shield fails to stop her.  Per the Mental Shield Rote, the interrogator would only have sensed the attempt if his own shield-casting had scored 3+ hits; his banked 1 hit falls well short of that, so he notices nothing.  Against her own base Difficulty 4, that leaves 2 net hits for the compulsion itself.  The compulsion takes hold: for the next hour, the interrogator believes he has already given the safehouse location willingly and feels no conflict about it.  He tells Sasha the address without hesitation.
+> Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2).  Sasha's 6 hits comfortably exceed the Shield's 1 banked hit — the shield fails to stop her.  Per the Mental Shield Rote, the interrogator would only have sensed the attempt if his own shield-casting had scored 3+ hits; his banked 1 hit falls well short of that, so he notices nothing.  Against her own base Difficulty 4, that leaves 2 net hits for the compulsion itself.  The compulsion takes hold: for the next hour, the interrogator believes he has already given the safehouse location willingly and feels no conflict about it.  He tells Sasha the address without hesitation.
 > Result: Implants a single complex belief or command that overrides the target's free will for up to one hour.  The target acts on the compulsion as if it were their own idea.  After the effect ends, they may notice a gap in their memory (Intellect + Awareness, Difficulty 4, to notice).
 > VULGAR against a resisting target.  Even against a willing one, altering conscious thought is not coincidental.  Sasha does not perform this lightly — it leaves psychic fingerprints that a skilled Mind mage can detect.
 > 
@@ -2998,7 +2997,7 @@ The mage can affect entire groups simultaneously, create entirely new consciousn
 > The Technocracy is rolling out a new Consensus-reinforcement broadcast through the local cell network.  It will dampen Awakening potential for everyone in a six-block radius.  Sasha cannot stop the signal — but he can counter it.  He will broadcast a single, wordless emotional state to every person in the area: wonder.  The specific flavour of wonder that precedes questioning what you have been told to believe.
 > 
 > Pool: Mind ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
-> Roll: [10, 9, 9, 8, 7, 5, 3, 2, 1] = 7 hits (each 10 = 2), 2 net hits.  The broadcast radiates outward — not through technology but through the Tapestry itself.  Every person within a 500m radius experiences a sudden, sourceless moment of open curiosity.  Some stop walking.  Some put down their phones.  For about ninety seconds, the Technocracy's reinforcement signal has nothing to reinforce: the minds it targets are briefly, genuinely elsewhere.
+> Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (each 10 = 2), 2 net hits.  The broadcast radiates outward — not through technology but through the Tapestry itself.  Every person within a 500m radius experiences a sudden, sourceless moment of open curiosity.  Some stop walking.  Some put down their phones.  For about ninety seconds, the Technocracy's reinforcement signal has nothing to reinforce: the minds it targets are briefly, genuinely elsewhere.
 > Result: Broadcasts a single emotion or simple (non-verbal) impulse to every sapient being within Extreme range (500m+, scaled to ●●●●●).  Cannot convey complex thoughts — only raw emotional states or simple urges (stop, look, feel joy, feel fear).  Duration: one turn per net hit (2 turns here, roughly 90 seconds).
 > HIGHLY VULGAR — no natural phenomenon makes hundreds of people simultaneously experience the same emotion.  Any Technocracy instruments monitoring the area will detect the mental resonance spike immediately.  Sasha performs this from a rooftop, using a prepared ritual chalk array as a focus.  He is moving before the effect even settles.
 > 
@@ -3103,7 +3102,7 @@ The mage exists in direct communion with the pattern-nature of reality. They can
 > Brother Thomas (Celestial Chorus, Prime ●●●, Resolve ●●●●) enters an unfamiliar city neighbourhood and wants to know whether any Nodes, Tass, or active magical workings are nearby before he sets up a safe house.
 > 
 > Pool: Prime ● (1) + Resolve ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
-> Roll: [9, 8, 6, 4, 2] = 3 hits, 2 net.  Thomas closes his eyes for a moment of quiet prayer.  He senses a faint Node three blocks west — a church garden, small but real.  A Technocracy Reality Anchor is active two streets north, its Quintessence-dampening field humming at the edge of his awareness.
+> Roll: [10, 8, 7, 6, 5] = 3 hits, 2 net.  Thomas closes his eyes for a moment of quiet prayer.  He senses a faint Node three blocks west — a church garden, small but real.  A Technocracy Reality Anchor is active two streets north, its Quintessence-dampening field humming at the edge of his awareness.
 > Result: Detects all significant Quintessence sources (Nodes, Tass, enchanted objects) and active magical workings within Short range (up to 20m).  Does not reveal the nature of the magic — only its presence and rough power level.
 > COINCIDENTAL — reads as deep spiritual attentiveness, which it is.  No Paradox risk.
 
@@ -3112,7 +3111,7 @@ The mage exists in direct communion with the pattern-nature of reality. They can
 > Brother Thomas (Celestial Chorus, Prime ●●●, Resolve ●●●●) enters a Node and draws on its radiance in prayer.
 > 
 > Pool: Prime ●● (2) + Resolve ●●●● (4) = 6 dice.  SF: 1 (Rote).  Difficulty: 2.
-> Roll: [9, 7, 6, 5, 2, 1] = 3 hits, 1 net.  Quintessence flows.
+> Roll: [10, 8, 7, 6, 5, 4] = 3 hits, 1 net.  Quintessence flows.
 > Result: Thomas gains 3 Quintessence (1 per hit, up to his Avatar rating maximum).
 > COINCIDENTAL — prayer at a power site is explicable.  No Paradox.
 
@@ -3121,7 +3120,7 @@ The mage exists in direct communion with the pattern-nature of reality. They can
 > Brother Thomas raises a ward to disrupt incoming magical effects for the scene.
 > 
 > Pool: Prime ●●● (3) + Resolve ●●●● (4) = 7 dice.  SF: 3.  Difficulty: 3.  Costs 1 Quintessence to prime the ward.
-> Roll: [10, 8, 7, 6, 5, 3, 2] = 5 hits (10 = 2), 2 net.  The ward settles into place.
+> Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits (10 = 2), 2 net.  The ward settles into place.
 > Result: Any magical effect targeting Thomas or allies in the same room must meet or beat 2 hits on its own roll to penetrate the ward.  Lasts the scene.
 > VULGAR — a visible halo of golden light surrounds the group (visible to Awakened).  With no Sleeper witnesses: minimal Paradox.  In public: Paradox roll immediately.
 
@@ -3130,7 +3129,7 @@ The mage exists in direct communion with the pattern-nature of reality. They can
 > An enemy mage has crafted a Wonder — a prototype Reality Emitter that passively suppresses coincidental magic in a two-block radius.  The device is protected by a Prime Ward (Prime ●●●).  Brother Thomas must dismantle both the ward and the device's enchantment before the cabal can operate freely.
 > 
 > Pool: Prime ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (Freeform).  Difficulty: 4 (base, matching Prime ●●●●'s casting scope — this does not change because of the Ward; see Opposition, below).  Opposition: the Prime Ward (rating 3) protecting the device.  A Ward never inflates the caster's Difficulty or SF — it contests directly, on its own separate roll of dice equal to its rating, exactly as described under the Prime ●●● Ward Trick above. Thomas's hits must exceed the Ward's hits before any of his hits can affect the Wonder underneath.
-> Opposed Roll: Thomas rolls his full 8-dice pool: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2).  The Ward rolls its rating (3 dice): [8, 5, 2] = 1 hit.  Thomas's hits exceed the Ward's by 5 (6 − 1 = 5) — the Ward collapses.  He turns 2 of those 5 net hits against the Wonder itself, stripping 2 Enhancement points permanently, and holds the remaining 3 in reserve for the Free Hit Spend below.
+> Opposed Roll: Thomas rolls his full 8-dice pool: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2).  The Ward rolls its rating (3 dice): [8, 5, 2] = 1 hit.  Thomas's hits exceed the Ward's by 5 (6 − 1 = 5) — the Ward collapses.  He turns 2 of those 5 net hits against the Wonder itself, stripping 2 Enhancement points permanently, and holds the remaining 3 in reserve for the Free Hit Spend below.
 > Result: Dismantles active magical workings.  Each net hit removes one Enhancement point or one active enchantment from the target.  Against a Ward, the Ward must be overcome first (a separate opposed roll, never a Difficulty or SF penalty) before the Wonder beneath can be reached.
 > VULGAR — the disenchantment is visible to Awakened sight as Quintessence threads unravelling.  To Sleepers it looks like the device simply powers down.  SF 4 means moderate Paradox risk; Thomas conducts this as a formal prayer-exorcism, which his tradition's Focus allows.
 > 
@@ -3141,7 +3140,7 @@ The mage exists in direct communion with the pattern-nature of reality. They can
 > The Chantry's Quintessence reserves are critically low after sustaining a Paradox storm.  Brother Thomas needs to create physical Tass — raw, storable Quintessence in solid form — to replenish the cabal's reserves.  He cannot draw on a Node (there is none accessible).  He will weave it from ambient Quintessence threads in the Tapestry itself.
 > 
 > Pool: Prime ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
-> Roll: [10, 9, 9, 8, 7, 5, 3, 2, 1] = 7 hits (10 = 2), 2 net hits.  Thomas spends an hour in deep prayer, drawing ambient Quintessence from the Tapestry and condensing it into a physical form — in his case, small wafers of golden bread that glow faintly to Awakened sight.  Each wafer holds 1 point of Quintessence.  He creates 5 wafers (base 3 from effect + 2 from net hits).
+> Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (10 = 2), 2 net hits.  Thomas spends an hour in deep prayer, drawing ambient Quintessence from the Tapestry and condensing it into a physical form — in his case, small wafers of golden bread that glow faintly to Awakened sight.  Each wafer holds 1 point of Quintessence.  He creates 5 wafers (base 3 from effect + 2 from net hits).
 > Result: Creates physical Tass from ambient Quintessence.  Base yield: Prime dots (5) ÷ 2 = 3 points, rounded down.  Each net hit adds +1.  Total: 5 Tass.  The Tass holds indefinitely and can be used by any mage as a Quintessence source.
 > HIGHLY VULGAR — creating matter ex nihilo from magical energy is one of the most overt magical acts possible.  Witnesses see golden light coalesce into physical objects.  SF 5 is maximum Paradox pressure.  Thomas performs this in the Chantry's sanctified inner room with every ward and protection the cabal can muster.  Even so, the act leaves a Quintessence signature that a skilled Prime-user could track for days.
 > 
@@ -3260,7 +3259,7 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > Ahanu (Dreamspeaker, Spirit ●●●, Resolve ●●●●) walks into a new location and wants to know whether it has spiritual presences before he acts.  He whispers a quiet acknowledgement to whatever may be present and listens for a response in the texture of the air.
 > 
 > Pool: Spirit ● (1) + Resolve ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
-> Roll: [9, 8, 6, 3, 1] = 3 hits, 2 net.  Ahanu senses two spirits in the area: one small and territorial (a place-spirit claiming the alley), one larger and more watchful (a spirit of secrets, recently disturbed).  Neither is hostile — but the spirit of secrets is agitated.
+> Roll: [10, 8, 7, 6, 5] = 3 hits, 2 net.  Ahanu senses two spirits in the area: one small and territorial (a place-spirit claiming the alley), one larger and more watchful (a spirit of secrets, recently disturbed).  Neither is hostile — but the spirit of secrets is agitated.
 > Result: Detects the presence, rough power level, and emotional state of any spirits within Short range (up to 20m), including spirits in the Penumbra.  Cannot communicate or interact — only sense.
 > COINCIDENTAL — reads as spiritual attentiveness or cultural practice.  No Paradox risk.
 
@@ -3269,7 +3268,7 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > Ahanu (Dreamspeaker, Spirit ●●●, Resolve ●●●●) opens his perception to the Penumbra without leaving his body.
 > 
 > Pool: Spirit ●● (2) + Resolve ●●●● (4) = 6 dice.  SF: 1 (Rote).  Difficulty: 2.
-> Roll: [8, 6, 5, 4, 3, 1] = 2 hits, 0 net above Difficulty — exactly meets it.  Sight opens.
+> Roll: [10, 7, 6, 5, 4, 3] = 2 hits, 0 net above Difficulty — exactly meets it.  Sight opens.
 > Result: Ahanu sees and can communicate with spirits in the immediate area for the scene.  He does not Umbra-step; he remains physically present.
 > COINCIDENTAL — to Sleepers, he appears to be meditating.  No Paradox.
 
@@ -3278,7 +3277,7 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > A fire spirit has been causing accidents in an apartment building.  Ahanu binds it before it harms someone.
 > 
 > Pool: Spirit ●●● (3) + Resolve ●●●● (4) = 7 dice.  SF: 3.  Difficulty: 4 (uncooperative spirit of moderate power).
-> Roll: [9, 8, 7, 6, 5, 4, 2] = 5 hits, 1 net above Difficulty.  The binding holds.
+> Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits, 1 net above Difficulty.  The binding holds.
 > Result: The spirit is bound and cannot act freely for [hits] days.  Ahanu may negotiate its release or have it bound into a fetish vessel (see Appendix S: Crafting).
 > VULGAR — spirit fire visibly constrained in a binding circle.  With no Sleeper witnesses (the building is temporarily cleared): 1 Paradox die.
 
@@ -3287,7 +3286,7 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > Ahanu needs to enter the Penumbra — the spirit reflection of a warehouse where a corrupted Bane spirit has taken up residence.  The Gauntlet here is thick (rating 4) because the area is heavily industrialised.  He must push through it alone.
 > 
 > Pool: Spirit ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (Freeform).  Difficulty: 4 (= the local Gauntlet rating).  Opposition: none beyond the Difficulty itself — per the Step Sideways Sphere Trick (Spirit 3, above), crossing the Gauntlet is a standard hits-vs-Difficulty roll where Difficulty always equals the Gauntlet's rating at that location. This is not a separate opposed dice pool and not automatic successes subtracted afterward; it is simply this roll's Difficulty, exactly like any other Freeform effect.
-> Roll: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2).  Against Difficulty 4, that leaves 2 net hits.  He pushes through — the physical world blurs and the Penumbra assembles itself around him.  The warehouse, in spirit-space, is a rusted hulk of grinding gears and poisoned light.
+> Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2).  Against Difficulty 4, that leaves 2 net hits.  He pushes through — the physical world blurs and the Penumbra assembles itself around him.  The warehouse, in spirit-space, is a rusted hulk of grinding gears and poisoned light.
 > Result: Crosses the Gauntlet and enters the Penumbra (or returns to the physical world).  The crossing is solo — bringing others requires additional Sphere dots or a prepared crossing point.
 > VULGAR — from the physical world's perspective, Ahanu simply vanishes.  Any Sleeper watching would have no framework for what they just saw.  SF 4 means Paradox risk is meaningful.  Ahanu leaves a bundle of tobacco and cedar at the crossing point — a traditional offering to ease the spirit-road.
 > 
@@ -3298,7 +3297,7 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > The cabal is under attack from a Bane-possessed hunter who cannot be harmed by physical means.  Ahanu decides to drag the entire confrontation into the Penumbra — he will tear the Gauntlet open wide enough for everyone present (four cabal members, two antagonists) to cross simultaneously.
 > 
 > Pool: Spirit ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (Freeform).  Difficulty: 3 (= the local Gauntlet rating — thinner than average here, because the area sits near a small natural Node).  Opposition: none beyond the Difficulty itself, per the same Gauntlet-crossing rule as Umbra Step above: Difficulty always equals the Gauntlet's local rating, with no separate opposed roll or automatic-successes step layered on top.
-> Roll: [10, 10, 9, 8, 6, 4, 2, 1, 1] = 7 hits (each 10 = 2).  Against Difficulty 3, that leaves 4 net hits.  The Gauntlet tears open — a ragged aperture roughly 3m wide and 2m tall, edges crackling with spirit-energy.  The Penumbra is visible through it.  Everyone within 10m is drawn into the crossing unless they actively resist (Resolve + Awareness, Difficulty 4).
+> Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (each 10 = 2).  Against Difficulty 3, that leaves 4 net hits.  The Gauntlet tears open — a ragged aperture roughly 3m wide and 2m tall, edges crackling with spirit-energy.  The Penumbra is visible through it.  Everyone within 10m is drawn into the crossing unless they actively resist (Resolve + Awareness, Difficulty 4).
 > Result: Opens the Gauntlet for mass crossing.  The tear remains open for [net hits] turns (4 turns here, about 30 seconds).  Anyone who enters the aperture crosses to the Penumbra.  The tear is visible from both sides.
 > HIGHLY VULGAR — a visible hole in reality that pulls people through it is beyond any mundane explanation.  SF 5 in a Gauntlet area means serious Paradox exposure.  Ahanu does not celebrate his own audacity; he knows exactly what this costs him.
 > 
@@ -3406,7 +3405,7 @@ The mage can travel through time personally, create stable time loops, or alter 
 > Professor Chen (Virtual Adepts, Time ●●●, Intellect ●●●●) always knows the exact time — not from a watch, but because she can feel the flow of moments against her awareness like current against skin.  More practically: she can sense when something time-sensitive is approaching, even if she cannot see it.
 > 
 > Pool: Time ● (1) + Intellect ●●●● (4) = 5 dice.  SF: 1 (Rote: highest dot 1 − 1 = 0, minimum 1).  Difficulty: 1.
-> Roll: [9, 7, 5, 3, 2] = 2 hits, 1 net.  Chen senses that something significant will occur within the next twenty minutes — a threshold she can feel as a temporal density, like a knot in the flow.  She cannot see what, only when: approximately seventeen minutes from now, and it will be sudden.
+> Roll: [10, 7, 6, 5, 4] = 2 hits, 1 net.  Chen senses that something significant will occur within the next twenty minutes — a threshold she can feel as a temporal density, like a knot in the flow.  She cannot see what, only when: approximately seventeen minutes from now, and it will be sudden.
 > Result: Precise awareness of the current time to the second, and detection of any significant temporal event (a planned action, a trap trigger, a scheduled arrival) within Short range in time (within the next hour).  Cannot reveal the nature of the event, only its timing.
 > COINCIDENTAL — reads as exceptional time-awareness or professional punctuality.  Virtual Adepts train this rote as a basic interface with the temporal substrate.
 
@@ -3415,7 +3414,7 @@ The mage can travel through time personally, create stable time loops, or alter 
 > Professor Chen (Virtual Adepts, Time ●●●, Intellect ●●●●) places her hand on a crime scene wall and reads temporal echoes.
 > 
 > Pool: Time ●● (2) + Intellect ●●●● (4) = 6 dice.  SF: 1 (Rote: 2 − 1 = 1).  Difficulty: 2.
-> Roll: [9, 8, 6, 5, 3, 2] = 3 hits, 1 net.  A 12-hour-old impression surfaces.
+> Roll: [10, 8, 7, 6, 5, 4] = 3 hits, 1 net.  A 12-hour-old impression surfaces.
 > Result: Clear sensory impression of the last major event in this location up to 24 hours ago.  She sees the courier's face.
 > COINCIDENTAL — Chen has a sensor glove prop that sells the interaction as a forensics device to any Sleepers watching.
 
@@ -3424,8 +3423,8 @@ The mage can travel through time personally, create stable time loops, or alter 
 > Professor Chen reads a few seconds forward during combat to predict where an attacker's blade will land.
 > 
 > Pool: Time ●●● (3) + Intellect ●●●● (4) = 7 dice.  SF: 3.  Difficulty: 3.
-> Roll: [9, 8, 7, 5, 4, 3, 2] = 4 hits, 1 net.  The immediate future flickers into view.
-> Result: +2 dice to her next dodge or parry roll against a declared attacker.  The effect lasts one action.
+> Roll: [10, 10, 7, 6, 5, 4, 3] = 4 hits, 1 net.  The immediate future flickers into view.
+> Result: Enhancement +1 to her next dodge or parry roll against a declared attacker.  The effect lasts one action.
 > COINCIDENTAL — appears as extraordinary reflexes and predictive movement.  No Paradox.
 > NOTE: Viewing further forward (hours, days) steps up the Difficulty — see Time ●●● dot description for the retrocognition/precognition scale.
 
@@ -3434,7 +3433,7 @@ The mage can travel through time personally, create stable time loops, or alter 
 > The NWO extraction team is about to reach a door that, once opened, will trigger a cascade Chen cannot stop.  She has 8 dice and one idea: freeze the team leader in place long enough for the cabal to reach him first.
 > 
 > Pool: Time ●●●● (4) + Intellect ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4.
-> Roll: [10, 9, 8, 7, 5, 3, 2, 1] = 6 hits (10 = 2), 2 net hits.  Chen anchors the team leader in a personal temporal loop — from his perspective, nothing passes.  From everyone else's perspective, he simply stops: mid-stride, one hand reaching for the door handle, completely motionless.  He experiences zero subjective time and will not remember these moments at all.  Duration: 2 rounds (one per net hit).
+> Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 2 net hits.  Chen anchors the team leader in a personal temporal loop — from his perspective, nothing passes.  From everyone else's perspective, he simply stops: mid-stride, one hand reaching for the door handle, completely motionless.  He experiences zero subjective time and will not remember these moments at all.  Duration: 2 rounds (one per net hit).
 > Result: Freezes one non-resisting target in personal temporal stasis for [net hits] rounds.  The target is effectively removed from the initiative order for that duration.  They cannot act, be harmed (the stasis also prevents damage from entering the frozen moment), or communicate.  When they unfreeze, they have no memory of missing time.
 > HIGHLY VULGAR — a person standing perfectly motionless while the world moves around them is not explainable.  SF 4 means meaningful Paradox risk.  Chen performs this from around a corner; no Sleepers have line of sight to the frozen agent.  She counts the rounds quietly and moves.
 > 
@@ -3445,7 +3444,7 @@ The mage can travel through time personally, create stable time loops, or alter 
 > The cabal made a critical error three minutes ago: they triggered an alarm that has now brought Technocracy reinforcements.  Professor Chen proposes the most dangerous thing she has ever done: rewind those three minutes of local time for everyone present, allowing the cabal to act differently.
 > 
 > Pool: Time ●●●●● (5) + Intellect ●●●● (4) = 9 dice.  SF: 5 (Freeform).  Difficulty: 5 (base, matching Time ●●●●●'s casting scope — the same pattern used for every other Sphere's top-dot Freeform effect; see Chapter Four).  Opposition: none — Rewind targets local time itself, not a resisting person or ward, so there is nothing to oppose the roll.
-> Roll: [10, 9, 9, 8, 7, 5, 3, 2, 1] = 7 hits (10 = 2), 2 net hits (7 hits − Difficulty 5).  Chen collapses the last three minutes of local time.  The reinforcements have not arrived.  The alarm has not triggered.  The cabal stands where they were three minutes ago — but with their memories of what happened intact.  They know exactly what went wrong and can choose differently.
+> Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (10 = 2), 2 net hits (7 hits − Difficulty 5).  Chen collapses the last three minutes of local time.  The reinforcements have not arrived.  The alarm has not triggered.  The cabal stands where they were three minutes ago — but with their memories of what happened intact.  They know exactly what went wrong and can choose differently.
 > Result: Rewinds local time by up to [net hits × 2] minutes (4 minutes here) for all beings within Short range.  Memory of the rewound events is preserved for the caster only, unless they spend a Quintessence point to share the memory with each additional target.  The timeline branches — the original timeline is sealed off.
 > HIGHLY VULGAR — temporal reversal is one of the most profound violations of the Consensus possible.  SF 5 means the maximum Paradox pressure.  The Storyguide draws five cards.  If even one is a botch card, reality backlashes immediately.  Chen has spent two Tass beforehand as a Paradox buffer, and she is very pale when she finishes.  "We have four minutes," she says quietly.  "Do not make the same mistake."
 > 
@@ -3533,8 +3532,8 @@ Nothing in the core rules requires Phase Initiative. Appendix H provides it as a
 ```
 SPU Combat Terminology — Quick Reference
 ----------------------------------------
-ENHANCEMENT DICE: Bonus dice added to a pool from any source — Tags, Quintessence, Willpower, circumstance.
-  Example: Spending 1 Quintessence adds 1 Enhancement die to the casting pool.
+ENHANCEMENT: Additional hits (not dice), applied AFTER the roll if you land at least one hit; capped at +5 total. Sources: Tags, gear, circumstance, or spent resources (Willpower +1; Quintessence +1 per 2 points, max +2).
+  Example: 2 Quintessence grants Enhancement +1 on the casting roll.
 
 TRICK HITS: Excess hits on an attack (hits beyond the Difficulty threshold) that can be spent on Combat Tricks
   instead of damage. Not the same as Enhancement — Trick Hits are the result of a successful roll.
@@ -3547,9 +3546,9 @@ MOMENTUM: A shared resource pool that players build up and spend. +1 Momentum on
   Momentum to invoke a Tag, buy an extra Minor Action, or enable certain Tricks.
   Storyguide also has a Momentum pool used for NPC actions and narrative twists.
 
-TAGS: Descriptive keywords on characters, items, or situations. Invoke (spend 1 Momentum) for +2 dice or
+TAGS: Descriptive keywords on characters, items, or situations. Invoke (spend 1 Momentum) for Enhancement +1 or
   automatic narrative effect. Compel (SG offers a complication) for +1 Momentum to the player pool.
-  Example: [Fast] weapon -> invoke for +2 dice when speed is the deciding factor.
+  Example: [Fast] weapon -> invoke for Enhancement +1 when speed is the deciding factor.
 
 SPOTLIGHT: Your turn in the combat Round (Spotlight System). One Major + Minor Actions.
 
@@ -3634,7 +3633,7 @@ A mage with active magical perception — Time 1 sense of immediate futures, a M
 
 > INLINE EXAMPLE — Ambush resolution: Two NWO agents have set up in a parking garage. They prepared this ambush; Rosamund and Vikram do not know they are there. The agents go first in Round 1 automatically.
 
-But Vikram has a persistent Mind 1 background awareness running (Coincidental, no Paradox in private space). The Storyguide calls for a Cunning + Alertness roll: 4 + 4 = 8 dice for Vikram. Results: 9, 9, 8, 7, 4, 3, 2, 1 = 4 hits. "You feel it before you see it — a wrongness in the air, attention focused on you from above left." He is not surprised. He rolls Initiative normally and joins Round 1.
+But Vikram has a persistent Mind 1 background awareness running (Coincidental, no Paradox in private space). The Storyguide calls for a Cunning + Alertness roll: 4 + 4 = 8 dice for Vikram. Results: 10, 10, 7, 6, 5, 4, 3, 2 = 4 hits. "You feel it before you see it — a wrongness in the air, attention focused on you from above left." He is not surprised. He rolls Initiative normally and joins Round 1.
 
 Rosamund has no such protection. She acts in Round 2. The agents still go first, but now Vikram can respond immediately.
 
@@ -3654,7 +3653,7 @@ A character who holds their action and is attacked before their trigger occurs m
 
 Storypath Ultra uses a consistent Advantage mechanic throughout all conflict resolution. In combat, Advantage represents a meaningful positional, tactical, or situational edge that one character holds over another. Advantages are not simply about physical position — they encompass preparation, information, terrain, psychological state, and the accumulated tactical benefit of good play.
 
-When a character has Advantage over a specific opponent in the current situation, they add +2 dice to all rolls made against that opponent. This is a significant bonus. It represents the difference between fighting on equal terms and fighting from a position of genuine superiority. Advantages are earned, not given — they come from successful setup moves, environmental exploitation, good tactical choices, and clever use of abilities.
+When a character has Advantage over a specific opponent in the current situation, they gain Enhancement +2 on all rolls made against that opponent (Enhancement, so it adds hits after the roll if they land at least one). This is a significant bonus. It represents the difference between fighting on equal terms and fighting from a position of genuine superiority. Advantages are earned, not given — they come from successful setup moves, environmental exploitation, good tactical choices, and clever use of abilities.
 
 ### Establishing Advantage
 
@@ -3663,7 +3662,7 @@ Advantage is established through narrative and mechanical action. Common ways to
 - Higher ground: Moving to an elevated position above your opponent gives you Advantage on ranged attacks against them for as long as you hold it. They have Advantage on attacks against you in melee (they can exploit the awkward angle of your downward strikes).
 - Flanking: Coordinating with an ally to attack an opponent from opposite sides. Both attackers gain Advantage on attacks against the flanked target.
 - Setup moves: Spending a Spotlight on a non-attacking action specifically designed to create advantage for a follow-up. Throwing sand in someone's face, kicking furniture into their path, using a Minor Action to feint — these can establish Advantage if narrated well and approved by the Storyguide.
-- Successful Trick Hits: The "Setup" Combat Trick gives your next ally who attacks the target +1 die, effectively creating a partial Advantage.
+- Successful Trick Hits: The "Setup" Combat Trick gives your next ally who attacks the target Enhancement +1, effectively creating a partial Advantage.
 - Magical enhancement: Many spells specifically grant Advantage — a Time 2 combat sense, a Mind 1 emotional reading, a Correspondence 2 spatial awareness in a familiar location.
 - Information superiority: Knowing your opponent's capabilities, vulnerabilities, and intentions before the fight begins. Detailed preparation provides a narrative Advantage the Storyguide may ratify mechanically.
 
@@ -3673,7 +3672,7 @@ Advantage is situational and can be lost. If the character who established Advan
 
 An opponent can spend their Spotlight actively working to negate your Advantage: repositioning to break flanking, closing distance to negate a height advantage, using a spell to counter the information edge you hold. This is a valid and often important tactical choice — giving up offensive action to deny your opponent a powerful edge.
 
-> INLINE EXAMPLE — Advantage in play: Silas and Rosamund have flanked a Nephandi cultist. Both have Advantage (the flanking bonus) on their next attacks against him. Silas rolls his Forces bolt with +2 dice. Rosamund rolls her staff strike with +2 dice. The cultist's Spotlight arrives — his first action is not an attack but a reposition, pressing his back against a wall. He sacrifices his attack to break the flank. Next round, only one of them has a clear line to him. Advantage lost, but so is one round of the cultist's offense — a fair trade from his perspective.
+> INLINE EXAMPLE — Advantage in play: Silas and Rosamund have flanked a Nephandi cultist. Both have Advantage (the flanking bonus) on their next attacks against him. Silas rolls his Forces bolt with Enhancement +1. Rosamund rolls her staff strike with Enhancement +1. The cultist's Spotlight arrives — his first action is not an attack but a reposition, pressing his back against a wall. He sacrifices his attack to break the flank. Next round, only one of them has a clear line to him. Advantage lost, but so is one round of the cultist's offense — a fair trade from his perspective.
 
 ---
 
@@ -3738,7 +3737,7 @@ Grapple and cast: if the casting roll fails and the working collapses, the physi
 > Pilot pool: Pilot 3 + Cunning 4 = 7 dice → 7 − 2 = 5 dice.
 > Ranged pool: Ranged 2 + Dexterity 3 = 5 dice → 5 − 2 = 3 dice.
 > 
-> Pilot roll (5 dice, Difficulty 2 — tight quarters and speed): 9, 8, 7, 4, 2 = 3 hits. Swerve succeeds. Priya's cover lane opens.
+> Pilot roll (5 dice, Difficulty 2 — tight quarters and speed): 10, 8, 7, 6, 5 = 3 hits. Swerve succeeds. Priya's cover lane opens.
 > Ranged roll (3 dice, Difficulty 1): 9, 5, 3 = 1 hit. Barely connects — 2 Lethal on the security driver. Enough to distract but not stop.
 > 
 > The alternative: Yusuf takes the swerve as his full Major Action (7 dice). Priya fires on her own Spotlight. No penalty — sequential. The Divided Attention option trades dice for simultaneity.
@@ -3753,8 +3752,8 @@ Grapple and cast: if the casting roll fails and the working collapses, the physi
 > Grapple (hold): Might 2 + Close Combat 3 = 5 dice → 5 − 2 = 3 dice. Difficulty 1.
 > Life 2 casting: Life 2 + Resolve 4 = 6 dice → 6 − 2 = 4 dice. Difficulty 2.
 > 
-> Grapple (3 dice): 9, 7, 3 = 2 hits. Hold maintained.
-> Casting (4 dice): 8, 8, 7, 4 = 3 hits. Effect lands. Pulse spikes at 220 bpm. The courier goes limp within seconds.
+> Grapple (3 dice): 10, 7, 6 = 2 hits. Hold maintained.
+> Casting (4 dice): 10, 8, 7, 6 = 3 hits. Effect lands. Pulse spikes at 220 bpm. The courier goes limp within seconds.
 > 
 > Note: If Rosamund dropped the hold and stepped back before casting, she rolls Life 2 at full pool (6 dice, no penalty) — but the courier can run. Divided Attention trades dice for the ability to do both at once.
 
@@ -3780,7 +3779,7 @@ Grapple and cast: if the casting roll fails and the working collapses, the physi
 > Negotiation: Empathy 4 + Presence 3 = 7 dice → 7 − 2 = 5 dice.
 > Mind 1 scan: Mind 1 + Cunning 4 = 5 dice → 5 − 2 = 3 dice. Difficulty 1.
 > 
-> Negotiation (5 dice): 9, 8, 7, 4, 3 = 3 hits. The commander is genuinely wavering.
+> Negotiation (5 dice): 10, 8, 7, 6, 5 = 3 hits. The commander is genuinely wavering.
 > Mind scan (3 dice): 8, 6, 3 = 1 hit. Agios catches a flicker — someone nearby has spiked anxiety. Not a kill-order yet, but someone is very nervous about something.
 > 
 > The key distinction: a hum-in-the-background passive is Sustained Spell. An active, attention-demanding second task is Divided Attention. When in doubt, the Storyguide asks: "Does this second thing require you to be consciously attending to it this round?" If yes: Divided Attention.
@@ -3816,8 +3815,8 @@ Grapple and cast: if the casting roll fails and the working collapses, the physi
 > Pilot: Pilot 3 + Cunning 4 = 7 dice → 7 − 2 = 5 dice. Difficulty 2 (evasive flight).
 > Weapon Array: Technology 2 + Cunning 4 = 6 dice → 6 − 2 = 4 dice. Difficulty 1.
 > 
-> Pilot (5 dice, Diff 2): 8, 8, 7, 4, 2 = 3 hits. Evasion holds.
-> Weapon (4 dice, Diff 1): 9, 7, 4, 3 = 2 hits. 1 Trick Hit. Weapon connects; Breach hit damages the target's hull.
+> Pilot (5 dice, Diff 2): 10, 8, 7, 6, 5 = 3 hits. Evasion holds.
+> Weapon (4 dice, Diff 1): 10, 7, 6, 5 = 2 hits. 1 Trick Hit. Weapon connects; Breach hit damages the target's hull.
 > 
 > Failure bleed check: the Pilot roll succeeded, so no cascade. Had the Pilot roll failed, the Storyguide might rule: "The lurch off-course threw your weapon alignment. Your next weapons roll comes at +1 Difficulty as you reacquire the target." Failure in one task reaching into the other is the signature risk of Divided Attention.
 
@@ -3832,7 +3831,7 @@ Grapple and cast: if the casting roll fails and the working collapses, the physi
 > Hacking (data intrusion): Technology 4 + Cunning 4 = 8 dice → 8 − 2 = 6 dice. Difficulty 2 (encrypted vault).
 > 
 > Illusion (4 dice, Diff 2): 9, 8, 4, 3 = 2 hits. The illusion holds — the camera sees a stable empty rack.
-> Hack (6 dice, Diff 2): 9, 8, 8, 7, 3, 2 = 4 hits. 2 Trick Hits. Encryption falls. Spend 1 Trick Hit → clean extraction, no access log entry. Spend 1 Trick Hit → bonus data layer unlocked.
+> Hack (6 dice, Diff 2): 10, 10, 7, 6, 5, 4 = 4 hits. 2 Trick Hits. Encryption falls. Spend 1 Trick Hit → clean extraction, no access log entry. Spend 1 Trick Hit → bonus data layer unlocked.
 > 
 > Paradox: 0 for both (both Coincidental in context). No bleed — both tasks succeeded cleanly.
 > 
@@ -3902,7 +3901,7 @@ Combat Tricks are not abstract mechanical bonuses — they are specific narrativ
 - Knockdown: The target is knocked Prone. They are immediately on the ground and must spend a Minor Action to stand. See Status Conditions for the full mechanical effects of Prone.
 - Stagger: The target loses their next Minor Action. They are momentarily disrupted, their footing broken, their next move slightly slower. Does not affect their Major Action.
 - Wound: A specific hit to a meaningful location — the weapon hand, the dominant eye, the knee, the throat. The Storyguide determines an appropriate and specific penalty. A slashed weapon hand means -2 dice to all weapon attacks until treated. A blow to the knee means movement reduced to one step per Spotlight. This is a powerful option but requires vivid narration.
-- Setup: The next ally who attacks this target gains +1 die on that attack. Represents an opening created by your attack — you drew their defense, exposed a flank, distracted their guard.
+- Setup: The next ally who attacks this target gains Enhancement +1 on that attack. Represents an opening created by your attack — you drew their defense, exposed a flank, distracted their guard.
 - Pin: The target cannot move from their current position until they spend a Major Action to break free. Represents a specific physical restraint — a knife driven through a sleeve into a wall, a tackle that traps legs, a spell-anchoring effect.
 - Disrupt: Against a mage maintaining an active spell, this forces a Concentration roll (Composure + Resolve, Difficulty equal to hits scored) or the active spell collapses. This is the main mundane counter to sustained magical effects and is extremely valuable.
 - Expose: Remove one point of the target's active dodge bonus for the rest of the round. Represents breaking through their defensive form.
@@ -4106,9 +4105,9 @@ A Tag is a bracketed label: [Fast], [Brutal], [Loud], [Concealed], [Reload 2], [
 
 **Invoking a Tag:**
 
-A player may invoke a relevant Tag on their weapon or piece of equipment to gain +2 dice to a roll where that Tag is genuinely applicable, or to claim an automatic success on a less important task related to the Tag's nature. Invoking a Tag costs 1 Momentum (a shared resource described in Chapter 2) or can be granted freely by the Storyguide when the fiction particularly calls for it. You can only invoke each Tag once per Spotlight.
+A player may invoke a relevant Tag on their weapon or piece of equipment to gain Enhancement +1 (an automatic hit, applied after the roll and only if it lands at least one hit) where that Tag is genuinely applicable, or to claim an automatic success on a less important task related to the Tag's nature. Invoking a Tag costs 1 Momentum (a shared resource described in Chapter 2) or can be granted freely by the Storyguide when the fiction particularly calls for it. You can only invoke each Tag once per Spotlight, and Enhancement from all sources is capped at +5.
 
-The key word is "relevant." A [Fast] knife does not give +2 dice to a disarm attempt against a slow opponent — it gives +2 dice when speed is genuinely the decisive factor: acting before a slower weapon can be drawn, striking before a mage completes a verbal component, interrupting an action where a split-second advantage changes the outcome. Players who invoke Tags carelessly (trying to apply them in situations where they do not logically apply) should be gently redirected by the Storyguide.
+The key word is "relevant." A [Fast] knife does not give Enhancement +1 to a disarm attempt against a slow opponent — it gives Enhancement +1 when speed is genuinely the decisive factor: acting before a slower weapon can be drawn, striking before a mage completes a verbal component, interrupting an action where a split-second advantage changes the outcome. Players who invoke Tags carelessly (trying to apply them in situations where they do not logically apply) should be gently redirected by the Storyguide.
 
 **Compelling a Tag:**
 
@@ -4116,7 +4115,7 @@ The Storyguide may compel a Tag — introduce a narrative complication arising n
 
 Compels should feel like natural consequences of what the Tag describes, not arbitrary punishments. A [Loud] weapon being compelled to attract witnesses makes complete sense. A [Reload 2] weapon being compelled to run dry at the worst possible moment is classic drama. A [Concealed] weapon being compelled because the character forgot to re-conceal it after using it makes logical sense. The best compels are things the player looks at and thinks "yeah, of course, that would happen."
 
-> INLINE EXAMPLE — Tag invoke: Rosamund's combat knife is tagged [Fast] and [Concealed]. She is in initiative order against a Syndicate enforcer who is drawing a heavy pistol (tagged [Loud] and [Slow Draw]). Rosamund's player says: "I invoke [Fast] — my knife is already in my hand and I'm striking before his draw clears the holster." The Storyguide agrees: +2 dice to Rosamund's attack roll this Spotlight. She rolls Close Combat + Dexterity + 2. The enforcer's gun is halfway out of the holster when the blade finds him.
+> INLINE EXAMPLE — Tag invoke: Rosamund's combat knife is tagged [Fast] and [Concealed]. She is in initiative order against a Syndicate enforcer who is drawing a heavy pistol (tagged [Loud] and [Slow Draw]). Rosamund's player says: "I invoke [Fast] — my knife is already in my hand and I'm striking before his draw clears the holster." The Storyguide agrees: Enhancement +1 to Rosamund's attack roll this Spotlight. She rolls Close Combat + Dexterity + 2. The enforcer's gun is halfway out of the holster when the blade finds him.
 
 > INLINE EXAMPLE — Tag compel: Silas fires his elephant gun (tagged [Loud], [Devastating], [Reload 2]) at a Nephandi in an apartment building. He drops the Nephandi. The Storyguide offers a compel on [Loud]: "That shot is going to bring every Sleeper on this floor out of their apartments to investigate. You get 1 Momentum. But you have about fifteen seconds before someone calls the police and you're surrounded by witnesses — which means no more magic, no more gun, and a very complicated conversation." Silas's player accepts, gains the Momentum, and the scene pivots to a frantic exit. The gun solved one problem and created three more. That is a well-constructed compel.
 
@@ -4124,11 +4123,11 @@ Compels should feel like natural consequences of what the Tag describes, not arb
 
 The two examples above are the clean cases: an invoke that obviously applies, and a compel that obviously fits. Most tables run into trouble on the messier cases — the moment where a Tag is invoked but doesn't quite fit, or a compel that's technically defensible but feels unfair, or a scene with three Tags all screaming to be invoked at once. Below are worked examples of exactly those moments, because this is where "relies on GM judgment" stops being a throwaway phrase and starts being the actual game being played at the table.
 
-> EDGE CASE — Disputed Invoke, and How to Say No Without Shutting the Player Down: Dex is fighting a Void Engineer technician in a server room. His combat knife is tagged [Fast] and [Concealed]. He's already drawn the knife two Phases ago and is mid-swing. His player says: "I invoke [Fast] for the attack — my knife's just quicker than his reactions." The Storyguide pauses: [Fast]'s actual invoke condition is about *speed being the decisive factor* — beating a slower draw, interrupting an action, seizing initiative advantage — not "my weapon type is generically fast." Dex already has the initiative advantage from the Phase order; nothing about this particular swing is being decided by speed specifically. The Storyguide says: "I don't think [Fast] is doing anything for you here — you're not racing him to anything, you already went first. If he was about to bring his own weapon up and you're beating him to the punch, that's exactly [Fast]. Is that what's happening?" Dex's player reconsiders: "No, he's already down, I'm just finishing him." The Storyguide: "Then it's just a regular attack roll — no Tag needed, and that's fine, not every good moment needs a mechanical bonus attached to it." No Momentum changes hands. The player isn't punished for trying; they're redirected, and the fiction stays honest. This is the failure mode "relies on GM judgment" is actually warning about — a GM who either rubber-stamps every invoke (Tags become free +2 dice on demand, which cheapens them) or who nitpicks every invoke into oblivion (players stop bothering to engage with Tags at all) has broken the subsystem in opposite directions. The fix in both cases is the same habit: ask "what specifically about the fiction right now makes this Tag true," out loud, before ruling.
+> EDGE CASE — Disputed Invoke, and How to Say No Without Shutting the Player Down: Dex is fighting a Void Engineer technician in a server room. His combat knife is tagged [Fast] and [Concealed]. He's already drawn the knife two Phases ago and is mid-swing. His player says: "I invoke [Fast] for the attack — my knife's just quicker than his reactions." The Storyguide pauses: [Fast]'s actual invoke condition is about *speed being the decisive factor* — beating a slower draw, interrupting an action, seizing initiative advantage — not "my weapon type is generically fast." Dex already has the initiative advantage from the Phase order; nothing about this particular swing is being decided by speed specifically. The Storyguide says: "I don't think [Fast] is doing anything for you here — you're not racing him to anything, you already went first. If he was about to bring his own weapon up and you're beating him to the punch, that's exactly [Fast]. Is that what's happening?" Dex's player reconsiders: "No, he's already down, I'm just finishing him." The Storyguide: "Then it's just a regular attack roll — no Tag needed, and that's fine, not every good moment needs a mechanical bonus attached to it." No Momentum changes hands. The player isn't punished for trying; they're redirected, and the fiction stays honest. This is the failure mode "relies on GM judgment" is actually warning about — a GM who either rubber-stamps every invoke (Tags become free Enhancement +1 on demand, which cheapens them) or who nitpicks every invoke into oblivion (players stop bothering to engage with Tags at all) has broken the subsystem in opposite directions. The fix in both cases is the same habit: ask "what specifically about the fiction right now makes this Tag true," out loud, before ruling.
 
 > EDGE CASE — Refusing a Compel, and What That Costs: Continuing the Silas example above — a session later, Silas fires the elephant gun again, this time inside the Chantry's own warded sanctum during a defensive stand against a Technocracy incursion. The Storyguide offers a compel on [Loud]: "Same deal — the noise draws attention, 1 Momentum." Silas's player looks at the pool: the cabal has zero Momentum banked and is one bad roll from a Nephandi finishing the fight. She decides the Momentum isn't worth the complication this time and spends 1 Momentum to refuse — except she has none to spend. Refusing a compel costs 1 Momentum from the player's own pool; if the pool is empty, the compel cannot be refused, full stop — the Storyguide's offer stands and the complication happens regardless of whether the player "wants" it, though they still take the compensating Momentum if they accept it (which, at zero Momentum, is now clearly the better of two options). This is the mechanical teeth behind Momentum scarcity: a cabal that has been spending Momentum freely all session has less leverage to say no to the Storyguide's complications later in that same session. The lesson for the table: refusing is a resource decision, not a free veto, and a GM should never let a player "just say no" to a compel without spending the Momentum the rule actually requires — otherwise compels stop costing anything and the whole exchange collapses into the GM asking permission before every complication.
 
-> EDGE CASE — Multiple Tags, One Roll, and the Order of Operations: Maya (Order of Hermes) casts a Forces effect through her tagged instrument, a signet ring [Focus: Fire] [Attuned] [Fragile], while standing in a burning building (an environmental Tag the Storyguide has put into play: [Structural Collapse Risk]). Her player wants to invoke [Focus: Fire] (the ring's Focus matches the effect's element) AND [Attuned] (the ring has bonded to her over multiple sessions) on the same casting roll. Two Tags can stack on a single roll as long as each is invoked separately (a separate Momentum spend per Tag, per the "up to the +5 Enhancement cap" rule from Chapter Two) and each is independently justified — the Storyguide should make the player state the justification for each one in turn, not accept "I invoke both" as a single bundled sentence. Here: "[Focus: Fire] — this is a fire effect, that's what the ring is for" (clean, +2 dice, 1 Momentum) and "[Attuned] — the ring and I have been through enough that it responds instantly to what I need" (also clean, +2 dice, 1 Momentum, since Attuned's invoke condition is about the bond itself, not the specific effect type). Total: +4 dice for 2 Momentum. The Storyguide could also compel [Fragile] right back in the same exchange — free-standing, not something the player chose, but a live option given the burning building: "The heat's already stressing the ring's setting. I'm compelling [Fragile] — after this casting, the stone cracks. It still works, but the Focus bonus doesn't apply until you get it repaired. 1 Momentum to you." Multiple Tags in one exchange are normal and expected in an important scene; the discipline is making each one earn its keep individually rather than letting a pile of Tags become a single vague "the vibes are right" bonus.
+> EDGE CASE — Multiple Tags, One Roll, and the Order of Operations: Maya (Order of Hermes) casts a Forces effect through her tagged instrument, a signet ring [Focus: Fire] [Attuned] [Fragile], while standing in a burning building (an environmental Tag the Storyguide has put into play: [Structural Collapse Risk]). Her player wants to invoke [Focus: Fire] (the ring's Focus matches the effect's element) AND [Attuned] (the ring has bonded to her over multiple sessions) on the same casting roll. Two Tags can stack on a single roll as long as each is invoked separately (a separate Momentum spend per Tag, per the "up to the +5 Enhancement cap" rule from Chapter Two) and each is independently justified — the Storyguide should make the player state the justification for each one in turn, not accept "I invoke both" as a single bundled sentence. Here: "[Focus: Fire] — this is a fire effect, that's what the ring is for" (clean, Enhancement +1, 1 Momentum) and "[Attuned] — the ring and I have been through enough that it responds instantly to what I need" (also clean, Enhancement +1, 1 Momentum, since Attuned's invoke condition is about the bond itself, not the specific effect type). Total: Enhancement +2 for 2 Momentum. The Storyguide could also compel [Fragile] right back in the same exchange — free-standing, not something the player chose, but a live option given the burning building: "The heat's already stressing the ring's setting. I'm compelling [Fragile] — after this casting, the stone cracks. It still works, but the Focus bonus doesn't apply until you get it repaired. 1 Momentum to you." Multiple Tags in one exchange are normal and expected in an important scene; the discipline is making each one earn its keep individually rather than letting a pile of Tags become a single vague "the vibes are right" bonus.
 
 > EDGE CASE — A Compel That's Too Harsh, and How to Recalibrate Mid-Scene: A newer Storyguide, running the [Autofire] Tag on a PC's SMG, compels it as: "Your gun jams completely and permanently — you can never use it again this chronicle." The player is (understandably) upset — this isn't a complication, it's confiscating a piece of their character sheet with no recourse, and it came out of a Tag that's supposed to produce drama, not attrition. This is a real failure mode worth naming explicitly: a compel should always be *recoverable* within the scene or, at most, the session — a jam that costs a Major Action to clear (per [Autofire]'s actual listed Compel effect, above) is drama; a jam that's permanent is a Difficulty spike disguised as narrative color, and it will make players stop wanting to use tagged gear at all, which defeats the entire point of the Tag system. If a Storyguide realizes mid-scene they've overreached, the correct move is to walk it back openly at the table: "Actually, let me revise that — the gun jams for this scene, clears with a Major Action like the Tag says, I got carried away." This is not a loss of authority; reversing an overcorrected compel in front of the players models exactly the judgment the system asks GMs to exercise, and it costs nothing except a moment's honesty.
 
@@ -4140,19 +4139,19 @@ The following Tags appear on weapons throughout this chapter. Each Tag's mechani
 
 | Tag | Invoke Effect \| Compel Effect |
 | --- | --- |
-| [Fast] | Invoke: +2 dice when speed is the decisive factor — acting before a slower opponent draws, interrupting an action, establishing initiative advantage \| Compel: Your speed leads you to act before thinking — the Storyguide introduces a consequence of haste (wrong target exposed, ally struck, commitment before full information) |
-| [Brutal] | Invoke: +2 dice when intimidation, raw stopping power, or overwhelming force is the operative dynamic \| Compel: The weapon's brutality is witnessed or leaves obvious evidence — forensic trace, traumatized bystanders, Sleepers who cannot rationalize what they saw |
-| [Loud] | Invoke: +2 dice on intimidation rolls — the sound alone is a weapon \| Compel: The sound has attracted attention, alerted enemies, or (in Sleeper areas) generated a Paradox witness situation |
-| [Concealed] | Invoke: +2 dice when surprise, hidden capability, or a social situation turning violent is the context — the weapon was not expected \| Compel: The concealment fails at a critical moment — the weapon is noticed during a pat-down, the profile is visible under clothing, re-concealment was forgotten |
+| [Fast] | Invoke: Enhancement +1 when speed is the decisive factor — acting before a slower opponent draws, interrupting an action, establishing initiative advantage \| Compel: Your speed leads you to act before thinking — the Storyguide introduces a consequence of haste (wrong target exposed, ally struck, commitment before full information) |
+| [Brutal] | Invoke: Enhancement +1 when intimidation, raw stopping power, or overwhelming force is the operative dynamic \| Compel: The weapon's brutality is witnessed or leaves obvious evidence — forensic trace, traumatized bystanders, Sleepers who cannot rationalize what they saw |
+| [Loud] | Invoke: Enhancement +1 on intimidation rolls — the sound alone is a weapon \| Compel: The sound has attracted attention, alerted enemies, or (in Sleeper areas) generated a Paradox witness situation |
+| [Concealed] | Invoke: Enhancement +1 when surprise, hidden capability, or a social situation turning violent is the context — the weapon was not expected \| Compel: The concealment fails at a critical moment — the weapon is noticed during a pat-down, the profile is visible under clothing, re-concealment was forgotten |
 | [Reload X] | Invoke: Not invokable for benefit — this Tag exists primarily to be compelled \| Compel: The weapon runs dry at the worst possible moment; reloading requires X Minor Actions and the character cannot attack during that time |
-| [Area Xm] | Invoke: +2 dice when hitting multiple targets is the goal and all are within the Area radius \| Compel: The area effect catches an ally, an innocent, or a critical piece of the environment the players needed intact |
-| [Armor-Piercing] | Invoke: Automatically reduce target armor by 2 for this attack (this is the primary mechanical effect, always active — additional invoke gives +2 dice on called shots targeting armor gaps) \| Compel: Ammunition is limited; the Storyguide announces this was the last armor-piercing round, or that the round passed through the target and hit something beyond |
-| [Autofire] | Invoke: +2 dice on suppressing fire; or apply hits to up to 3 targets in a line for 1 hit each \| Compel: Ammunition consumed rapidly; weapon overheats and jams (Major Action to clear); burst fire attracts additional attention in a Sleeper environment |
-| [Devastating] | Invoke: +2 dice when the goal is to destroy cover, smash through a barrier, or make the attack psychologically as well as physically overwhelming \| Compel: The devastation is indiscriminate — structural damage, collateral destruction, potential innocent harm |
-| [Silent] | Invoke: +2 dice when remaining undetected or operating without sound is critical \| Compel: The silence is incomplete — someone heard something, or the silence itself (no shot heard) is conspicuous to someone who was watching |
-| [Reach] | Invoke: +2 dice when the character can attack from outside normal melee range — preventing the opponent from reaching them \| Compel: In tight quarters, the weapon's length becomes a liability — cannot maneuver, cannot bring full force to bear |
-| [Two-Handed] | Invoke: +2 dice to damage (the full-body power of a two-handed swing) \| Compel: One hand is now occupied — cannot use a shield, cannot grab or parry with off hand, highly visible and difficult to explain socially |
-| [Shock] | Invoke: +2 dice against opponents in metal armor or with significant metal implants \| Compel: Electrical discharge affects unintended conductive surfaces — water, metal railings, wiring — potentially shocking allies or creating environmental hazard |
+| [Area Xm] | Invoke: Enhancement +1 when hitting multiple targets is the goal and all are within the Area radius \| Compel: The area effect catches an ally, an innocent, or a critical piece of the environment the players needed intact |
+| [Armor-Piercing] | Invoke: Automatically reduce target armor by 2 for this attack (this is the primary mechanical effect, always active — additional invoke gives Enhancement +1 on called shots targeting armor gaps) \| Compel: Ammunition is limited; the Storyguide announces this was the last armor-piercing round, or that the round passed through the target and hit something beyond |
+| [Autofire] | Invoke: Enhancement +1 on suppressing fire; or apply hits to up to 3 targets in a line for 1 hit each \| Compel: Ammunition consumed rapidly; weapon overheats and jams (Major Action to clear); burst fire attracts additional attention in a Sleeper environment |
+| [Devastating] | Invoke: Enhancement +1 when the goal is to destroy cover, smash through a barrier, or make the attack psychologically as well as physically overwhelming \| Compel: The devastation is indiscriminate — structural damage, collateral destruction, potential innocent harm |
+| [Silent] | Invoke: Enhancement +1 when remaining undetected or operating without sound is critical \| Compel: The silence is incomplete — someone heard something, or the silence itself (no shot heard) is conspicuous to someone who was watching |
+| [Reach] | Invoke: Enhancement +1 when the character can attack from outside normal melee range — preventing the opponent from reaching them \| Compel: In tight quarters, the weapon's length becomes a liability — cannot maneuver, cannot bring full force to bear |
+| [Two-Handed] | Invoke: Enhancement +1 to damage (the full-body power of a two-handed swing) \| Compel: One hand is now occupied — cannot use a shield, cannot grab or parry with off hand, highly visible and difficult to explain socially |
+| [Shock] | Invoke: Enhancement +1 against opponents in metal armor or with significant metal implants \| Compel: Electrical discharge affects unintended conductive surfaces — water, metal railings, wiring — potentially shocking allies or creating environmental hazard |
 
 ### Weapons Table — With Tags
 
@@ -4206,7 +4205,7 @@ The character is on the ground — knocked down, tripped, dived behind cover, or
 
 Recovery: Standing up from Prone is a Minor Action in combat. Out of combat, it requires no action — you simply stand.
 
-> INLINE EXAMPLE — Prone in play: Silas has been knocked Prone by a Trick Hit from an Iteration X combat drone. He is surrounded: one melee-capable drone to his left, and the sniper drone on a catwalk above. He chooses to stay Prone. Against the sniper, his Prone position adds +2 Difficulty — the sniper needs more hits to connect. The melee drone has an advantage on attacks against Prone Silas, but Silas's player invokes his knife's [Fast] Tag from the ground: "Even down here, I can drive the blade up into its knee joint before it gets its claws into me." The Storyguide agrees. +2 dice to Silas's attack from the ground.
+> INLINE EXAMPLE — Prone in play: Silas has been knocked Prone by a Trick Hit from an Iteration X combat drone. He is surrounded: one melee-capable drone to his left, and the sniper drone on a catwalk above. He chooses to stay Prone. Against the sniper, his Prone position adds +2 Difficulty — the sniper needs more hits to connect. The melee drone has an advantage on attacks against Prone Silas, but Silas's player invokes his knife's [Fast] Tag from the ground: "Even down here, I can drive the blade up into its knee joint before it gets its claws into me." The Storyguide agrees. Enhancement +1 to Silas's attack from the ground.
 
 ### Stunned
 
@@ -4274,7 +4273,7 @@ The character is on fire. This is as bad as it sounds. Burning causes 1 Aggravat
 
 Recovery: Stop, drop, and roll — roll Athletics, Difficulty 2. On success, the fire is out. On failure, take 1 Aggravated and try again next Spotlight. Alternatively, submerging in water or having a fire suppressant applied (Major Action by self or ally with appropriate material) extinguishes instantly.
 
-> INLINE EXAMPLE — Burning and priority: Silas's coat is on fire from a Nephandi's fire attack. He is Burning. On his Spotlight, his tactical mind says "attack the Nephandi" but the fire says "you are taking 1 Aggravated per round and this coat is going to get to your skin very quickly." He spends his Major Action rolling to extinguish: Athletics 2 + Might 3 = 5 dice. Results: 9, 7, 4, 3, 2 = 2 hits. Difficulty 2. Success. The fire is out. He lost an attack to save himself from 2-3 more Aggravated. Mechanically correct, narratively vivid.
+> INLINE EXAMPLE — Burning and priority: Silas's coat is on fire from a Nephandi's fire attack. He is Burning. On his Spotlight, his tactical mind says "attack the Nephandi" but the fire says "you are taking 1 Aggravated per round and this coat is going to get to your skin very quickly." He spends his Major Action rolling to extinguish: Athletics 2 + Might 3 = 5 dice. Results: 10, 7, 6, 5, 4 = 2 hits. Difficulty 2. Success. The fire is out. He lost an attack to save himself from 2-3 more Aggravated. Mechanically correct, narratively vivid.
 
 ### Bleeding
 
@@ -4504,7 +4503,7 @@ Example: A mage casting a Vulgar Life ●●● body transformation (Paradox: 3 
 > OPTION B: Defend with Forces ●●● (different Sphere)
 >   Roll: Forces 3 + Dexterity 3 = 6 dice. One die fewer, but still strong.
 >   Paradox: Two separate rolls. Life ●●● Vulgar = +3 dice. Forces ●●● Coincidental
->   (deflecting a bullet via kinetic manipulation = plausibly mundane-adjacent) = +0 dice.
+>   (deflecting a bullet via kinetic manipulation = plausibly mundane-adjacent) = Enhancement +1.
 >   Net: Same +3 Paradox dice as without defense. Same as Option A.
 >   Choose this when: Sphere pools are similar — no meaningful difference here.
 > 
@@ -4512,7 +4511,7 @@ Example: A mage casting a Vulgar Life ●●● body transformation (Paradox: 3 
 >   Roll: You only have Life 3. Cannot use ●●●●●. Illustrating the ceiling trap:
 >   If Tobias HAD Life 5 and used it, the combined working rises to Life ●●●●●.
 >   Paradox: Now +5 dice instead of +3. The stronger defense costs MORE Paradox.
->   Choose this only when: the threat is severe enough that the extra dice are required
+>   Choose this only when: the threat is severe enough that the extra Enhancement is required
 >   and you can absorb the Paradox increase.
 > 
 > OPTION D: Defend with Entropy ●● (different Sphere, subtle)
@@ -4529,7 +4528,7 @@ Willpower interacts with Sphere Defense in three distinct ways, each representin
 
 - Willpower as Concentration Insurance: Spend 1 Willpower to automatically pass any single Concentration check this scene, no roll required. This is declared after you see the Difficulty — making it a clutch save that costs your best resource. One use per scene. This is independent of Sphere Defense: you might take a hit, skip the Sphere Defense entirely, and just burn Willpower to keep the casting alive. Sometimes that is the right play. Note: this is the existing rule, reinforced here because its interaction with Sphere Defense matters — if your Sphere Defense partially fails and you face a Concentration check, burning Willpower lets you pass that check automatically, effectively turning a partial defense into a full defense at the cost of both a die and a Willpower.
 - Willpower as Quintessence Substitute: When a mage has no Quintessence remaining, they may spend 1 Willpower instead of 1 Quintessence to fuel a Sphere Defense. This represents burning raw personal essence — the mage's life force, conviction, and identity rather than stored magical energy. It is a worse trade (Willpower is harder to recover mid-combat than Quintessence) but it provides a fallback when the mage's Quintessence pool is depleted. A mage who has burned through all her Quintessence on an extended fight and now faces another attack still has options — at personal cost.
-- Willpower to Boost the Defense Roll: Spend 1 Willpower to add 3 dice to a Sphere Defense roll. This is the standard Storypath Ultra Willpower bonus applied to a defense. It can be combined with the Quintessence cost — a mage can spend 1 Quintessence AND 1 Willpower in the same declaration, getting both the defense and the +3 dice. When a single hit could mean the difference between full and partial defense, this combination can be decisive.
+- Willpower to Boost the Defense Roll: Spend 1 Willpower to add Enhancement +2 to a Sphere Defense roll. This is the standard Storypath Ultra Willpower bonus applied to a defense. It can be combined with the Quintessence cost — a mage can spend 1 Quintessence AND 1 Willpower in the same declaration, getting both the defense and the Enhancement +2. When a single hit could mean the difference between full and partial defense, this combination can be decisive.
 > WILLPOWER BURNS IN PRACTICE
 > 
 > Setup: Kenji (Akashic, Mind 3, Life 2, Arete 3, Willpower 3, Quintessence 1).
@@ -4571,7 +4570,7 @@ Beyond the standard 1 Quintessence cost, a mage can invest more Quintessence in 
 
 - Standard (1 Quintessence): Powers the defense as described. Roll [Sphere] + [Casting Attribute]. No modifier.
 - Enhanced Defense (2 Quintessence): Spend 2 Quintessence to treat the defense as a Rote-quality working — you gain Enhancement +1 on the defense roll. This represents pouring an additional surge of raw magical energy into the working, giving it the precision of a prepared formula even though it is improvised. Most useful when the attacker is powerful and a single extra hit on the defense roll could shift from partial to full.
-- Desperate Surge (all remaining Quintessence, maximum +3 extra): Spend all your remaining Quintessence on this one defense. For each Quintessence spent beyond the base 1, add 1 die to the roll (maximum +3 extra dice at 4 total Quintessence spent). This is a last-resort move that leaves the mage magically depleted — no Quintessence for further defenses, no fueling of subsequent spells, no Quintessence-dependent effects. It should feel like the mage pouring everything into one desperate moment.
+- Desperate Surge (extra Quintessence, maximum Enhancement +2): Spend extra Quintessence on this one defense — gain Enhancement +1 for every 2 Quintessence spent, to the +2 Quintessence maximum. This is a last-resort move that leaves the mage magically depleted — no Quintessence for further defenses, no fueling of subsequent spells, no Quintessence-dependent effects. It should feel like the mage pouring everything into one desperate moment.
 
 #### Sphere Defense in the Spotlight System
 
@@ -4610,7 +4609,7 @@ In Spotlight, the success tiers apply identically: full defense negates the atta
 > 
 > ROLL: Entropy 2 + Cunning 3 = 5 dice. Difficulty 1 (Coincidental).
 >   Cost: 1 Bank Token + 1 Quintessence (pool: 3 remaining).
->   Result: 9, 8, 7, 4, 2 = 3 hits.
+>   Result: 10, 8, 7, 6, 5 = 3 hits.
 > 
 > COMPARE: Siobhan 3 hits vs. Merc 6 hits.
 >   3 < 6 = Partial Defense.
@@ -4621,7 +4620,7 @@ In Spotlight, the success tiers apply identically: full defense negates the atta
 > CONCENTRATION CHECK (partial defense):
 >   Difficulty = 3 (remaining hits), not 6 (original hits).
 >   Roll: Composure 3 + Resolve 5 + Arete 3 = 11 dice vs Difficulty 3.
->   Results: 10, 9, 9, 8, 7, 6, 4, 4, 3, 2, 1 = 7 hits (10=2). Easily passes.
+>   Results: 10, 10, 10, 8, 7, 6, 5, 4, 3, 2, 7 = 7 hits (10=2). Easily passes.
 >   The healing Rote continues.
 > 
 > DAMAGE: 3 hits from the partial burst. Siobhan has Armor 0. Takes 3 Lethal.
@@ -4662,9 +4661,9 @@ In Spotlight, the success tiers apply identically: full defense negates the atta
 | Different Sphere | Two separate Paradox assessments, each on own Coincidental/Vulgar merits. |
 | Willpower: Concentration save | Auto-pass one Concentration check per scene (declared after seeing Difficulty). |
 | Willpower: substitute Quintessence | If Quintessence depleted, spend 1 WP instead of 1 QE to fuel defense. |
-| Willpower: boost roll | +3 dice on the defense roll. Can combine with Quintessence cost. |
+| Willpower: boost roll | Enhancement +1 on the defense roll. Can combine with Quintessence cost. |
 | Enhanced defense | Spend 2 Quintessence total: gain Enhancement +1 on defense roll. |
-| Desperate surge | Spend all remaining QE (max +3 extra): +1 die per extra QE spent. |
+| Desperate surge | Spend all remaining QE: Enhancement +1 per 2 QE spent, to the +2 Quintessence maximum. |
 
 ### Combining Spheres
 
@@ -4795,7 +4794,7 @@ Attacking a vehicle to disable or destroy it requires either: hitting specific c
 
 Grappling — attempting to physically seize, hold, and control another person — is a Major Action. To initiate: roll Athletics + Might against the target's Athletics + Might (opposed roll, both roll simultaneously). On success, both characters are Grappling. While Grappling, neither character can use ranged weapons or two-handed weapons effectively. Both characters can still speak, cast spells, and use items small enough to deploy with one hand.
 
-Each round of grapple, both characters roll Athletics + Might. The winner may choose one of the following outcomes: inflict 1 Bashing (a controlled strike within the grapple), improve their position (setting up advantage for next round — +1 die on the next grapple roll), attempt a specific technique (Takedown: Prone + 1 Bashing; Disarm; Choke-hold: target must make Stamina roll or be Stunned), or attempt to break free themselves.
+Each round of grapple, both characters roll Athletics + Might. The winner may choose one of the following outcomes: inflict 1 Bashing (a controlled strike within the grapple), improve their position (setting up advantage for next round — Enhancement +1 on the next grapple roll), attempt a specific technique (Takedown: Prone + 1 Bashing; Disarm; Choke-hold: target must make Stamina roll or be Stunned), or attempt to break free themselves.
 
 Breaking free from a grapple: Athletics + Might, Difficulty 2. Success ends the grapple. Both characters may act freely next round. Failure maintains the grapple and the initiating character may exploit the failed escape: free Trick Hit.
 
@@ -4897,7 +4896,7 @@ Heavy cover: +2 Difficulty for all attacks against him.
 ROUND 1 — MOSS (Spotlight):
 Moss fires while running — she cannot hold her position while the target moves.
 SMG attack: Ranged 2 + Dexterity 4 = 6 dice. Difficulty 1 + 2 (heavy cover) + 1 (Moss moving) = 4.
-Results: 9, 8, 7, 6, 4, 3 = 3 hits. Needs 4. Shot sparks off the AC unit. Vikram flinches but takes nothing.
+Results: 10, 8, 7, 6, 5, 4 = 3 hits. Needs 4. Shot sparks off the AC unit. Vikram flinches but takes nothing.
 
 ROUND 1 — CARVER (Spotlight):
 Carver stops moving. Minor Action: brace against a ventilation stack (removes +1 Difficulty from next shot).
@@ -4923,7 +4922,7 @@ KEY MECHANICS: [Armor-Piercing] invoke reducing cover effectiveness. Bracing as 
 
 INITIATIVE:
 Maya: Athletics 2 + Cunning 4 = 6 dice → 9, 8, 8, 4, 3, 2 = 3 hits.
-Silas: Athletics 2 + Cunning 2 = 4 dice → 10, 7, 4, 2 = 3 hits (10=2). Tie with Maya; Maya goes first.
+Silas: Athletics 2 + Cunning 2 = 4 dice → 10, 8, 7, 6 = 3 hits (10=2). Tie with Maya; Maya goes first.
 Cyborg 1: Athletics 3 + Cunning 2 = 5 dice → 8, 8, 4, 3, 2 = 2 hits.
 Cyborg 2: Athletics 3 + Cunning 2 = 5 dice → 9, 5, 3, 2, 1 = 1 hit.
 Order: Maya (3), Silas (3, second), Cyborg 1 (2), Cyborg 2 (1).
@@ -4932,14 +4931,14 @@ Order: Maya (3), Silas (3, second), Cyborg 1 (2), Cyborg 2 (1).
 
 MAYA: "I pull Cyborg 2 out of the fight." Correspondence 3 — teleport Cyborg 2 to roof (Vulgar, no witnesses).
 Casting: Correspondence 3 + Cunning 4 = 7 dice. Difficulty 3 (large unwilling mass).
-Results: 10, 9, 8, 7, 4, 3, 2 = 5 hits (10=2). 2 Trick Hits.
+Results: 10, 10, 8, 7, 6, 5, 4 = 5 hits (10=2). 2 Trick Hits.
 Cyborg 2 resists: Stamina 5 + Resolve 3 = 8 dice → 8, 8, 4, 3, 3, 2, 2, 1 = 2 hits. Maya wins convincingly.
 Cyborg 2 vanishes; reappears on the roof 4 stories up. Trick Hit 1: safe landing. Trick Hit 2: roof door is mechanically sealed on the exterior, delaying its return.
 Paradox: +3 dice (Correspondence 3 Vulgar). Maya's pool = 3.
 
-SILAS: "Tesla gauntlet. Focused arc on Cyborg 1." Forces 3 (Vulgar). Invokes [Electrical] Tag on gauntlets: +2 dice vs. metal chassis. Invokes [Precise] Tag: +2 dice on called shot to Cyborg 1's targeting system.
+SILAS: "Tesla gauntlet. Focused arc on Cyborg 1." Forces 3 (Vulgar). Invokes [Electrical] Tag on gauntlets: Enhancement +1 vs. metal chassis. Invokes [Precise] Tag: Enhancement +1 on called shot to Cyborg 1's targeting system.
 Casting: Forces 3 + Might 3 = 6 dice + 2 (Electrical) + 2 (Precise) = 10 dice. Difficulty 1.
-Results: 10, 9, 9, 8, 7, 6, 4, 3, 2, 1 = 7 hits (10=2). 6 Trick Hits.
+Results: 10, 10, 10, 8, 7, 6, 5, 4, 3, 2 = 7 hits (10=2). 6 Trick Hits.
 Paradox: +3 dice (Forces 3 Vulgar). Silas pool = 3.
 Damage: 3 Lethal + 3 (Trick Hit Extra Damage x3) = 6 Lethal. Cyborg 1 Armor 3: takes 3 Lethal. Health: 9 → 6.
 Spend 2 Trick Hits → [Electrical] Trick: targeting system burns out. Cyborg 1 at +2 Difficulty on all attacks next 2 rounds.
@@ -4959,30 +4958,30 @@ Spend 1 Trick Hit → Cyborg 2 also affected (it's on a roof above, still within
 Paradox pool stays at 3. Good. Safe so far.
 
 SILAS: Attacks Cyborg 1 again. Forces 3 + Might 3 = 6 dice + [Charged] Tag (still have 4 charges). No additional invoke. Vulgar: +3 Paradox. Pool = 6.
-Results: 10, 8, 7, 6, 4, 3 = 4 hits (10=2). 3 Trick Hits. 3 Lethal + 3 (Tricks) = 6 Lethal. Armor 3: 3 Lethal through. Health: 6 → 3. Impaired.
+Results: 10, 10, 7, 6, 5, 4 = 4 hits (10=2). 3 Trick Hits. 3 Lethal + 3 (Tricks) = 6 Lethal. Armor 3: 3 Lethal through. Health: 6 → 3. Impaired.
 Spend 1 Trick Hit → Knockdown: Cyborg 1 is Prone. Melee attackers now at -1 Difficulty vs. it.
 
 CYBORG 1: Prone, Impaired, +2 Difficulty from targeting failure, -2 from surge. Fires SMG at Silas anyway.
 SMG: Ranged 3 + Dexterity 4 = 7 dice, -2 (Impaired) -2 (surge) = 3 dice, +2 Difficulty (targeting burn-out) = Difficulty 3.
-Results: 9, 8, 4 = 1 hit. Needs 3. Miss.
+Results: 8, 7, 6 = 1 hit. Needs 3. Miss.
 
 CYBORG 2: Breaches roof door on second attempt. Begins descending stairs. Not on combat floor yet.
 
 ─── ROUND 3 ───
 
 MAYA: "Cyborg 1 is almost down. Lock it." Correspondence 2 — anchor Cyborg 1 to its current position. Vulgar (it is clearly impossible). +2 Paradox. Pool = 5.
-Casting: Correspondence 2 + Cunning 4 = 6 dice. Difficulty 2 (resisted). Results: 9, 8, 7, 4, 3, 2 = 3 hits.
+Casting: Correspondence 2 + Cunning 4 = 6 dice. Difficulty 2 (resisted). Results: 10, 8, 7, 6, 5, 4 = 3 hits.
 Cyborg 1 resists: Stamina 5 + Resolve 3 = 8 dice → 7, 6, 5, 4, 3, 2, 1, 1 = 0 hits. Anchored — Pinned until dispelled.
 
 SILAS: Walks to Cyborg 1. Point blank. Forces 3. Final charge on the gauntlets ([Charged 5] down to 1 charge after this).
 Difficulty 1 - 1 (Prone target in melee) = Difficulty 0 minimum 1. Still 1. 10 dice pool total with Tags.
-Results: 10, 10, 9, 8, 7, 6, 5, 4, 3, 2 = 8 hits (10s = 2 each). Trick Hits: 7.
+Results: 10, 10, 10, 10, 7, 6, 5, 4, 3, 2 = 8 hits (10s = 2 each). Trick Hits: 7.
 Damage: 3 + 7 = 10 Lethal. Armor 3: 7 Lethal through. Cyborg 1 Health: 3 → Incapacitated. Beyond Incapacitated. Systems offline. Not getting up.
 Silas pool = 9. High but... he checks the pool. That is a lot of dice.
 
 CYBORG 2: Enters the parking level. Fresh, undamaged. Fires SMG burst at Silas ([Autofire] invoked by the SG: it targets both mages in a sweep).
 Autofire compelled by SG: "The burst catches both of you. You each take the hit, and I'm going to compel [Loud] — that sustained automatic fire has now definitely triggered the building's security system. You have 4 minutes before guards arrive." Silas's player accepts. Maya's player accepts. Both gain 1 Momentum.
-Silas: Ranged 3 + Dexterity 4 = 7 dice. Results: 9, 9, 8, 7, 4 = 4 hits. 4 Lethal burst. Armor (none): 4 Lethal. Silas Health: 7 → 3. Impaired.
+Silas: Ranged 3 + Dexterity 4 = 7 dice. Results: 10, 10, 7, 6, 5 = 4 hits. 4 Lethal burst. Armor (none): 4 Lethal. Silas Health: 7 → 3. Impaired.
 Maya: Same burst, 1 hit applied to secondary target: 1 Lethal. Maya Health: 6 → 5. No penalty yet. But the building security clock is now running.
 
 ─── RESOLUTION ───
@@ -5005,12 +5004,12 @@ Pool: Might 4 + Cunning 2 = 6 dice → 9, 9, 7, 4, 3, 2 = 2 hits. Difficulty 2: 
 Annika resists: Composure 2 + Resolve 3 = 5 dice → 8, 4, 3, 2, 1 = 1 hit. Fails. Rattled and Staggered.
 
 ROUND 1 — TOBIAS: Iron-tipped rowan-wood staff (Lethal vs. spirits, [Reach], [Attuned] to Spirit-realm entities).
-Close Combat 2 + Might 3 = 5 dice → 10, 9, 7, 4, 2 = 4 hits (10=2). 3 Trick Hits.
-Invokes [Attuned]: +2 dice retroactively recognized — the hit is clearly attuned, the SG confirms the Tag was worth it.
+Close Combat 2 + Might 3 = 5 dice → 10, 10, 7, 6, 5 = 4 hits (10=2). 3 Trick Hits.
+Invokes [Attuned]: Enhancement +1 retroactively recognized — the hit is clearly attuned, the SG confirms the Tag was worth it.
 Damage: 2 Lethal. Spirit Armor 2: 0 through normally.
 But: spend 1 Trick Hit → Wound (spirit anatomy via Spirit 3 knowledge): bypass Spirit Armor entirely. 2 Lethal through.
 Spend 1 Trick Hit → Stagger: Bane loses next Minor Action.
-Spend 1 Trick Hit → Setup: Annika gains +1 die on her next roll against the Bane.
+Spend 1 Trick Hit → Setup: Annika gains Enhancement +1 on her next roll against the Bane.
 Bane Health: 7 → 5.
 
 ROUND 1 — ANNIKA: Rattled (-1 die to Mental) and Staggered (no Minor Action). Uses Major Action: Prime 2 counter-ritual — disrupts the Bane's pattern coherence. Coincidental (sacred counter-ritual in a Node space).
@@ -5018,7 +5017,7 @@ Casting: Prime 2 + Intellect 3 = 5 dice -1 (Rattled) + 1 (Tobias's Setup bonus) 
 Results: 9, 8, 6, 4, 3 = 2 hits. Hits Difficulty 2. Bane: -1 die to all actions until end of next round.
 
 ROUND 2 — BANE (no Minor Action, Staggered): Claws at Tobias.
-Might 4 + Dexterity 3 = 7 dice -1 (Annika disruption) = 6 dice. Results: 9, 8, 7, 4, 3, 2 = 3 hits. 2 Trick Hits.
+Might 4 + Dexterity 3 = 7 dice -1 (Annika disruption) = 6 dice. Results: 10, 8, 7, 6, 5, 4 = 3 hits. 2 Trick Hits.
 2 Aggravated. Spend 2 Tricks → Extra Damage x2: 4 Aggravated. Tobias: Health 6 → 2. Critical.
 
 ROUND 2 — TOBIAS: Critical (-2 dice). 3 dice for staff attack. Results: 8, 7, 4 = 1 hit. No Tricks. Spirit Armor negates. Nothing.
@@ -5028,7 +5027,7 @@ ROUND 2 — ANNIKA: Life 2 healing on Tobias (touch). Intellect 3 + Medicine 2 =
 
 ROUND 3 — BANE: Screams at Annika again. 6 dice, Difficulty 2. Results: 9, 7, 4, 3, 3, 2 = 1 hit. Fails Difficulty 2. Annika stands firm.
 
-ROUND 3 — TOBIAS: Full health (5/6). Spends 1 Momentum — calls Node spirits to his aid. +2 dice. Staff: 7 dice. Results: 10, 9, 9, 8, 7, 4, 2 = 6 hits. 5 Trick Hits.
+ROUND 3 — TOBIAS: Full health (5/6). Spends 1 Momentum — calls Node spirits to his aid. Enhancement +1. Staff: 7 dice. Results: 10, 10, 10, 7, 6, 5, 4 = 6 hits. 5 Trick Hits.
 Spend 1 Trick Hit → Wound (bypass armor): 2 Lethal through.
 Spend 2 Trick Hits → Extra Damage x2: 4 Lethal.
 Spend 2 Trick Hits → Banish (Spirit 3 Trick): Spirit + Presence opposed vs. Bane Willpower. Tobias: 6 dice → 9, 9, 8, 6, 4, 2 = 3 hits. Bane: Willpower 5 → 8, 4, 3, 2, 1 = 1 hit. Tobias wins. Bane takes 4 Lethal AND is partially banished — pushed back to the Umbra for the scene.
@@ -5046,7 +5045,7 @@ The political situation: Magistra Voss has accused Elara of deliberately sabotag
 Elara invokes Conclave law: magical combat on consecrated Conclave ground is forbidden. Doing so risks formal censure, loss of Tradition standing, and — in extreme cases — the Rite of Severance (magical excommunication). The player characters face a fight where winning through violence means losing politically. And yet Voss's Guardians are between them and the door.
 
 INITIATIVE (not for fighting — for social maneuvering; the SG rules this as an extended conflict with initiative determining speaking order and positioning):
-Vikram: Athletics 2 + Cunning 4 = 6 dice → 9, 8, 7, 4, 3, 1 = 3 hits.
+Vikram: Athletics 2 + Cunning 4 = 6 dice → 10, 8, 7, 6, 5, 4 = 3 hits.
 Annika: Athletics 1 + Cunning 2 = 3 dice → 8, 4, 2 = 1 hit.
 Rosamund: Athletics 1 + Cunning 3 = 4 dice → 9, 9, 4, 2 = 2 hits.
 Voss: Athletics 2 + Cunning 4 = 6 dice → 10, 9, 8, 7, 4, 3 = 4 hits. Goes first.
@@ -5059,10 +5058,10 @@ VOSS (ongoing): She also activates a Forces 4 / Mind 2 Effect — an emotional r
 
 VIKRAM (Spotlight): Goes second. Correspondence 3 — spatial awareness in this room. He already knows where everything is. Minor Action: sends a tiny data-package via his phone to a contact who has evidence of Voss's actual involvement. The evidence will arrive in 8 minutes if the contact responds. Major Action: a very subtle Correspondence 1 / Mind 1 combined effect — he marks Voss's position precisely and slips a query into the room's electronic surveillance system. He now knows exactly where she is even if she becomes invisible, and can read the room's emotional state through the cameras. Coincidental (using his phone, natural background tech). Zero Paradox.
 
-ROSAMUND (Spotlight): She speaks — directly and plainly, citing specifics. Presence + Persuasion = 3 + 3 = 6 dice, -1 (Voss's Establish Frame) = 5 dice. Results: 9, 8, 7, 4, 2 = 3 hits. Difficulty 2. 1 Trick Hit.
+ROSAMUND (Spotlight): She speaks — directly and plainly, citing specifics. Presence + Persuasion = 3 + 3 = 6 dice, -1 (Voss's Establish Frame) = 5 dice. Results: 10, 8, 7, 6, 5 = 3 hits. Difficulty 2. 1 Trick Hit.
 Spend Trick Hit → Challenge: she formally challenges Voss's account, citing a specific date and location. This forces Voss to respond in detail — her next Social action must address this specific point or lose credibility with the Conclave observers.
 
-ANNIKA (Spotlight): Mind 2 — reads the emotional truth of Voss's statements. Not reading minds — reading the emotional resonance of what is said versus what is felt. Coincidental (she is a priestess in sacred space; emotional discernment is her vocation). Results: 9, 8, 7, 4, 3 = 3 hits, well above Difficulty 1. "She's afraid," Annika says quietly to Rosamund. "She's afraid of what he found." A nod toward Vikram and his phone.
+ANNIKA (Spotlight): Mind 2 — reads the emotional truth of Voss's statements. Not reading minds — reading the emotional resonance of what is said versus what is felt. Coincidental (she is a priestess in sacred space; emotional discernment is her vocation). Results: 10, 8, 7, 6, 5 = 3 hits, well above Difficulty 1. "She's afraid," Annika says quietly to Rosamund. "She's afraid of what he found." A nod toward Vikram and his phone.
 
 ─── ROUND 2 — VOSS's GUARDIAN MAKES A MOVE ───
 
@@ -5072,7 +5071,7 @@ Vikram's player invokes Advantage here: "We established advantage through Vikram
 
 ROSAMUND: Stands her ground. She does not draw her own weapon. She says, in a voice audible to the Conclave observers: "Guardian. You are standing between an Awakened Elder and those who would defend her, in a Conclave space. Under what authority?" 
 
-Presence + Intimidation = 3 + 3 = 6 dice + 2 (Advantage) = 8 dice. Results: 10, 9, 8, 8, 7, 4, 3, 2 = 6 hits (10=2). Against the Guardian's Composure + Resolve: 2 + 2 = 4 dice → 8, 4, 3, 2 = 1 hit. The Guardian does not retreat, but he takes an involuntary step sideways and glances at Voss for instruction. That glance is noted by every Conclave observer in the room.
+Presence + Intimidation = 3 + 3 = 6 dice + 2 (Advantage) = 8 dice. Results: 10, 10, 10, 7, 6, 5, 4, 3 = 6 hits (10=2). Against the Guardian's Composure + Resolve: 2 + 2 = 4 dice → 8, 4, 3, 2 = 1 hit. The Guardian does not retreat, but he takes an involuntary step sideways and glances at Voss for instruction. That glance is noted by every Conclave observer in the room.
 
 ─── ROUND 3 — THE EVIDENCE ARRIVES ───
 
@@ -5129,25 +5128,25 @@ Rosamund's player: "I invoke [Fast] on my knife. I'm not using it to attack — 
 
 SG: "That's a solid invoke. [Fast] in an initiative-interruption context — you get to move 1 pace and take your Active Dodge before his shot resolves. Spend 1 Momentum."
 
-Rosamund spends 1 Momentum (now 3). She takes Active Dodge as a free response: Athletics 1 + Dexterity 3 = 4 dice → 9, 7, 4, 2 = 2 hits. Attack Difficulty jumps to 1 + 2 = 3. Agent B has 2 hits. Needs 3. Miss. The [Fast] invoke turned a hit into a miss. Worth every Momentum.
+Rosamund spends 1 Momentum (now 3). She takes Active Dodge as a free response: Athletics 1 + Dexterity 3 = 4 dice → 10, 7, 6, 5 = 2 hits. Attack Difficulty jumps to 1 + 2 = 3. Agent B has 2 hits. Needs 3. Miss. The [Fast] invoke turned a hit into a miss. Worth every Momentum.
 
 SILAS's held action FIRES: Agent B raised his weapon — the trigger. Silas fires the elephant gun from the doorway.
-[Brutal] invoked: "This shot needs to stop him completely. He cannot return fire." +2 dice to attack.
-Ranged 2 + Dexterity 3 = 5 dice + 2 [Brutal] invoke = 7 dice. Difficulty 1. Results: 10, 9, 8, 7, 4, 3, 2 = 5 hits (10=2). 4 Trick Hits.
+[Brutal] invoked: "This shot needs to stop him completely. He cannot return fire." Enhancement +1 to attack.
+Ranged 2 + Dexterity 3 = 5 dice + 2 [Brutal] invoke = 7 dice. Difficulty 1. Results: 10, 10, 8, 7, 6, 5, 4 = 5 hits (10=2). 4 Trick Hits.
 5 Lethal base. Armor 2 = 3 Lethal through. Spend 4 Trick Hits → Extra Damage x4: 7 Lethal. Armor 2 = 5 Lethal. Agent B: Health 5 → Incapacitated.
 
 BUT. The SG immediately offers a compel: "[Loud]. That gunshot in an enclosed hallway. The other three agents know exactly where you are, exactly what weapon you have, and exactly where the threat is. Also — your [Reload 2] is now relevant. You fired. Two Minor Actions to reload. Gain 2 Momentum (one for each Tag compelled)."
 
 Silas's player: "Accepted." Gains 2 Momentum (now 4). Silas is now holding an empty elephant gun in a hallway with two more agents incoming.
 
-AGENT A (Spotlight): Charges Silas from the side — he knows the gun is empty. Close Combat 3 + Might 3 = 6 dice. Difficulty 1. Results: 8, 8, 7, 4, 3, 2 = 3 hits. 2 Trick Hits. Unarmed strike: 2 Bashing. Spend 2 Tricks → Disarm: Silas drops the empty gun, AND Knockdown: Silas is Prone.
+AGENT A (Spotlight): Charges Silas from the side — he knows the gun is empty. Close Combat 3 + Might 3 = 6 dice. Difficulty 1. Results: 10, 8, 7, 6, 5, 4 = 3 hits. 2 Trick Hits. Unarmed strike: 2 Bashing. Spend 2 Tricks → Disarm: Silas drops the empty gun, AND Knockdown: Silas is Prone.
 
 Silas: Prone, unarmed (gun on the floor), 2 Bashing. This is the correct consequence of firing [Loud] + [Reload 2] in a building with three more enemies.
 
 ─── ROUND 2 ───
 
-ROSAMUND (Spotlight): "I invoke [Concealed] on my knife. Agent C in the main room — he hasn't seen me yet. He's focused on Silas." +2 dice on an attack that relies on the element of surprise.
-Close Combat 2 + Dexterity 3 = 5 dice + 2 [Concealed] invoke = 7 dice. Difficulty 1. Results: 10, 9, 8, 7, 4, 3, 2 = 5 hits (10=2). 4 Trick Hits.
+ROSAMUND (Spotlight): "I invoke [Concealed] on my knife. Agent C in the main room — he hasn't seen me yet. He's focused on Silas." Enhancement +1 on an attack that relies on the element of surprise.
+Close Combat 2 + Dexterity 3 = 5 dice + 2 [Concealed] invoke = 7 dice. Difficulty 1. Results: 10, 10, 8, 7, 6, 5, 4 = 5 hits (10=2). 4 Trick Hits.
 2 Lethal. Spend 1 → Extra Damage: 3 Lethal. Spend 1 → Stun: Agent C loses next Spotlight. Spend 1 → Knockdown: Prone. Spend 1 → Wound (knife to weapon hand): Agent C drops his pistol. Agent C: Health 5: 3 Lethal marked. Prone. Stunned. Disarmed. He is comprehensively neutralized.
 
 SG: "The [Concealed] invoke worked perfectly because he wasn't watching the right person. But here's a compel — [Concealed] means you haven't re-concealed the knife since using it last round. Agent D in the back room just saw you through the doorway and knows you have a blade. He's now expecting a knife fighter, not an unarmed combatant. Gain 1 Momentum."
@@ -5198,14 +5197,14 @@ MERC C declares: charge into melee with Kenji. SF 1 (movement + unarmed/blade st
 
 All SF 1 actions happen simultaneously, in Initiative order within the phase (Priya rolled highest Initiative: 3 hits; Merc C: 2 hits; Kenji: 1 hit).
 
-PRIYA (SF 1 — cantrip): Forces 1 + Cunning 4 = 5 dice. Difficulty 1. Results: 9, 8, 7, 4, 2 = 3 hits. 2 Trick Hits.
+PRIYA (SF 1 — cantrip): Forces 1 + Cunning 4 = 5 dice. Difficulty 1. Results: 10, 8, 7, 6, 5 = 3 hits. 2 Trick Hits.
 Merc A: EM flicker around his visor optics. -2 dice on all ranged attacks this Round. Spend 1 Trick Hit → Duration extended: -1 die persists next Round as well. Spend 1 Trick Hit → the flicker also catches Merc B (collateral effect of the EM field). Both mercs at -2 dice this Round.
 Paradox: 0. Clean. Done.
 
 MERC C (SF 1 — charge and strike): Charges the 6 meters to Kenji. He arrives BEFORE Kenji's Entropy 3 working resolves. This is the core Phase Initiative tactical reality: Kenji's big spell is SF 3 — it has not happened yet. Merc C is already in his face.
-Tactical knife [Fast][Brutal]: Close Combat 4 + Dexterity 3 = 7 dice. Invokes [Fast]: "I'm faster than his reaction. He was focused on his spell." +2 dice. Total: 9 dice. Difficulty 1.
-Results: 10, 9, 9, 8, 7, 6, 4, 3, 2 = 7 hits (10=2). 6 Trick Hits.
-Damage: 2 Lethal base. [Brutal] invoked (second invoke): +2 dice already spent, but SG rules [Brutal] applies as a damage-amplifier: treat the weapon as dealing an additional 2 Lethal. So 4 Lethal base.
+Tactical knife [Fast][Brutal]: Close Combat 4 + Dexterity 3 = 7 dice. Invokes [Fast]: "I'm faster than his reaction. He was focused on his spell." Enhancement +1 (the 7-dice pool is unchanged; Enhancement adds hits). Difficulty 1.
+Results: 10, 10, 10, 8, 7, 6, 5, 4, 3 = 7 hits (10=2). 6 Trick Hits.
+Damage: 2 Lethal base. [Brutal] invoked (second invoke): Enhancement +1 already spent, but SG rules [Brutal] applies as a damage-amplifier: treat the weapon as dealing an additional 2 Lethal. So 4 Lethal base.
 Spend 3 Trick Hits → Extra Damage x3: 7 Lethal. Armor (none): 7 Lethal. Kenji: Health 6 → Impaired (5 boxes filled).
 Spend 1 Trick Hit → Stagger: Kenji loses 2 dice from Concentration check.
 Spend 1 Trick Hit → Knockdown: Kenji is Prone.
@@ -5220,8 +5219,8 @@ KENJI'S SF 3 SLOT: Empty. The working collapsed at SF 1 due to physical interrup
 
 ─── ROUND 1, SF 2 — MODERATE ACTIONS RESOLVE ───
 
-MERC A (SF 2 — burst fire at Kenji): Kenji is Prone. Ranged 3 + Dexterity 3 = 6 dice, -2 (EM flicker) = 4 dice. Burst: +2 dice = 6 dice. Difficulty 1 - 1 (Prone target) = Difficulty 1 (minimum remains 1).
-Results: 9, 8, 7, 4, 3, 2 = 3 hits. 2 Trick Hits. 3 Lethal burst. Spend 2 Tricks → Extra Damage x2: 5 Lethal. Kenji has no armor.
+MERC A (SF 2 — burst fire at Kenji): Kenji is Prone. Ranged 3 + Dexterity 3 = 6 dice, -2 (EM flicker) = 4 dice. Burst grants Enhancement +1 (hits). Difficulty 1 - 1 (Prone target) = Difficulty 1 (minimum remains 1).
+Results: 10, 8, 7, 6, 5, 4 = 3 hits. 2 Trick Hits. 3 Lethal burst. Spend 2 Tricks → Extra Damage x2: 5 Lethal. Kenji has no armor.
 Kenji already at 5 boxes (Impaired). New hit: 5 Lethal pushes him to Critical, then Incapacitated. Beyond Incapacitated — Kenji is dying.
 
 MERC B (SF 2 — burst fire at Priya): Ranged 3 + Dexterity 3 = 6 dice, -2 (EM flicker) = 4 dice. Burst +2 = 6 dice. Difficulty 1.
@@ -5254,7 +5253,7 @@ Merc C: searches Kenji for documents/data (SF 1 — searching an unconscious tar
 
 ─── ROUND 2, SF 1 ───
 
-PRIYA (scatter-pulse — DIVIDED ATTENTION, −2 dice): Forces 1 + Cunning 4 = 5 dice − 2 = 3 dice. Coincidental. Difficulty 1. Results: 9, 7, 4 = 2 hits. 1 Trick Hit. Electromagnetic scatter: +1 Difficulty on all ranged attacks against her this Round. 1 Trick Hit → scatter radius extended, pushing Merc C back 2 meters from Kenji's position and causing his search action to fail (interrupted). Merc C does not get the data. (At full 5-dice pool she would have had 2 Trick Hits; the Divided Attention cost meant she could not also extend the effect into Round 3.)
+PRIYA (scatter-pulse — DIVIDED ATTENTION, −2 dice): Forces 1 + Cunning 4 = 5 dice − 2 = 3 dice. Coincidental. Difficulty 1. Results: 10, 7, 6 = 2 hits. 1 Trick Hit. Electromagnetic scatter: +1 Difficulty on all ranged attacks against her this Round. 1 Trick Hit → scatter radius extended, pushing Merc C back 2 meters from Kenji's position and causing his search action to fail (interrupted). Merc C does not get the data. (At full 5-dice pool she would have had 2 Trick Hits; the Divided Attention cost meant she could not also extend the effect into Round 3.)
 
 MERC C (search — SF 1): Interrupted by the scatter-pulse. His action collapses.
 
@@ -5266,7 +5265,7 @@ SG: "Simultaneous SF 2 actions resolve in Initiative order: Priya first (she rol
 
 SG RESOLUTION: Priya goes first (Initiative superiority within the phase).
 
-PRIYA'S TELEPORT (DIVIDED ATTENTION, −2 dice): Correspondence 2 + Cunning 4 = 6 dice − 2 = 4 dice. Difficulty 2 (Vulgar). Results: 9, 8, 7, 3 = 3 hits. 1 Trick Hit. Kenji vanishes — reappears in the back seat of their car, two blocks from the rail yard. Spend 1 Trick Hit → gentle landing (he does not take additional damage from teleportation). The car door remains closed — she did not have the extra hit to finesse the arrival details. Paradox: +2 dice. Priya's pool: 2. (At full 6-dice pool she would have had 4 hits and 2 Trick Hits. Divided Attention meant the teleport cleared Difficulty 2 by exactly 1 hit — a lower Cunning would have made it too risky to attempt simultaneously.)
+PRIYA'S TELEPORT (DIVIDED ATTENTION, −2 dice): Correspondence 2 + Cunning 4 = 6 dice − 2 = 4 dice. Difficulty 2 (Vulgar). Results: 10, 8, 7, 6 = 3 hits. 1 Trick Hit. Kenji vanishes — reappears in the back seat of their car, two blocks from the rail yard. Spend 1 Trick Hit → gentle landing (he does not take additional damage from teleportation). The car door remains closed — she did not have the extra hit to finesse the arrival details. Paradox: +2 dice. Priya's pool: 2. (At full 6-dice pool she would have had 4 hits and 2 Trick Hits. Divided Attention meant the teleport cleared Difficulty 2 by exactly 1 hit — a lower Cunning would have made it too risky to attempt simultaneously.)
 
 KENJI IS GONE. Merc A and Merc B's burst fire at a target who is no longer there. Rounds pass through empty air.
 
@@ -5303,13 +5302,13 @@ Initiative: Lena (3), Agent Stone (2), Dario (1), Agent Rivers (0).
 
 ROUND 1 — LENA (Spotlight):
 Lena casts Life 3 — augments her own body. Speed, reflexes, strength all elevated. Coincidental if subtle (she simply moves with uncanny grace). Vulgar if dramatic (she visibly accelerates). She keeps it subtle: Coincidental. Zero Paradox.
-Life 3 + Cunning 3 = 6 dice. Difficulty 1. Results: 9, 9, 8, 7, 4, 2 = 4 hits. 3 Trick Hits.
-Effect: +2 dice to all Athletics and Close Combat pools this scene. Spend 1 Trick Hit → Duration extends to one scene. Spend 1 Trick Hit → +1 die to damage. Spend 1 Trick Hit → she now reads the heartbeats of everyone in the room (Life 3 awareness).
+Life 3 + Cunning 3 = 6 dice. Difficulty 1. Results: 10, 10, 7, 6, 5, 4 = 4 hits. 3 Trick Hits.
+Effect: Enhancement +1 to all Athletics and Close Combat pools this scene. Spend 1 Trick Hit → Duration extends to one scene. Spend 1 Trick Hit → Enhancement +1 to damage. Spend 1 Trick Hit → she now reads the heartbeats of everyone in the room (Life 3 awareness).
 Lena is now augmented. She feels extraordinary.
 
 ROUND 1 — AGENT STONE (Spotlight):
 Fires pistol [Armor-Piercing] at Lena. Ranged 3 + Dexterity 4 = 7 dice. Difficulty 1.
-Results: 10, 9, 8, 7, 4, 3, 2 = 5 hits (10=2). 4 Trick Hits.
+Results: 10, 10, 8, 7, 6, 5, 4 = 5 hits (10=2). 4 Trick Hits.
 Lena: no armor. 4 Lethal base. Spend 4 Tricks → Extra Damage x4: 8 Lethal. Lena: Health 6 → Incapacitated in one shot.
 
 Storyguide pauses. "That is mechanically valid but dramatically terrible. This is why Lena spent her Spotlight augmenting instead of seeking cover. In the Spotlight system, Agent Stone gets a full unimpeded shot. Let's see how Phase Initiative handles the same situation."
@@ -5326,12 +5325,12 @@ Agent Rivers: close combat charge at Dario (SF 1 — movement and strike).
 
 ─── SF 1 — FAST ───
 
-AGENT STONE fires at Lena. Her Life 3 augmentation is Freeform SF 3 (sum of 3 dots) — it has NOT resolved yet. She has no bonuses. Ranged 3 + Dexterity 4 = 7 dice. Results: 9, 8, 7, 4, 3, 2, 1 = 3 hits. 2 Trick Hits. 4 Lethal. Spend 2 Tricks → Extra Damage x2: 6 Lethal. Lena: Health 6 → Critical (5 boxes marked).
+AGENT STONE fires at Lena. Her Life 3 augmentation is Freeform SF 3 (sum of 3 dots) — it has NOT resolved yet. She has no bonuses. Ranged 3 + Dexterity 4 = 7 dice. Results: 10, 8, 7, 6, 5, 4, 3 = 3 hits. 2 Trick Hits. 4 Lethal. Spend 2 Tricks → Extra Damage x2: 6 Lethal. Lena: Health 6 → Critical (5 boxes marked).
 
-LENA — CONCENTRATION CHECK (she was hit during SF 3 spell): Composure 2 + Resolve 3 = 5 dice. -2 (Critical penalty). = 3 dice. Difficulty = Stone's hits: 3. Results: 8, 8, 7 = 3 hits. Exactly matches Difficulty. BARELY PASSES.
+LENA — CONCENTRATION CHECK (she was hit during SF 3 spell): Composure 2 + Resolve 3 = 5 dice. -2 (Critical penalty). = 3 dice. Difficulty = Stone's hits: 3. Results: 10, 8, 7 = 3 hits. Exactly matches Difficulty. BARELY PASSES.
 Lena is bleeding and barely standing, but the Life 3 augmentation did not collapse. It is still winding up.
 
-AGENT RIVERS charges at Dario. Close Combat 4 + Dexterity 3 = 7 dice. [Stun] invoked on shock baton: +2 dice. 9 dice. Difficulty 1. Results: 10, 9, 8, 7, 6, 4, 3, 2, 1 = 6 hits (10=2). 5 Trick Hits.
+AGENT RIVERS charges at Dario. Close Combat 4 + Dexterity 3 = 7 dice. [Stun] invoked on shock baton: Enhancement +1. Difficulty 1. Results: 10, 10, 8, 7, 6, 4, 2 = 5 hits, +1 Enhancement = 6 hits. 5 Trick Hits.
 Baton: Non-Lethal, Stun. Dario: takes 3 Bashing. Spend 2 Tricks → Extra Damage: 5 Bashing. Dario: Health 5 → 5 boxes. Critical. Spend 2 Tricks → Shocked (loses all actions this Round — his SF 3 slot goes dark) and Staggered (-2 dice next Round).
 
 DARIO — CONCENTRATION CHECK: He was hit during SF 3 (Prime barrier). Composure 2 + Resolve 2 = 4 dice, -2 (Critical) = 2 dice. Difficulty = Rivers's hits: 6. Maximum on 2 dice = 4 (two 10s). Impossible. The Prime barrier collapses.
@@ -5339,8 +5338,8 @@ DARIO — CONCENTRATION CHECK: He was hit during SF 3 (Prime barrier). Composure
 ─── SF 3 — SLOW ───
 
 Lena's Life 3 augmentation RESOLVES. Despite being at Critical health, barely conscious, bleeding from a gunshot wound — the biological transformation is complete. It is a testament to her focus that the working survived the Concentration check.
-Life 3 + Cunning 3 = 6 dice, -2 (Critical) = 4 dice. Difficulty 1. Results: 9, 8, 7, 6 = 4 hits. 3 Trick Hits.
-Effect: +2 Athletics, +2 Close Combat, +1 die damage (her body is now operating at non-human efficiency). Her Critical health is now a crisis she is overcoming rather than a crisis that has ended her.
+Life 3 + Cunning 3 = 6 dice, -2 (Critical) = 4 dice. Difficulty 1. Results: 10, 10, 7, 6 = 4 hits. 3 Trick Hits.
+Effect: +2 Athletics, +2 Close Combat, Enhancement +1 damage (her body is now operating at non-human efficiency). Her Critical health is now a crisis she is overcoming rather than a crisis that has ended her.
 Vulgar? She chose subtle — Coincidental. Zero Paradox.
 Spend 1 Trick Hit → she also accelerates her own healing slightly: 1 Bashing healed at end of Round. Spend 1 Trick Hit → heightened pain resistance: Critical penalty reduced to -1 die (not -2) for the rest of the scene via biological override. Spend 1 Trick Hit → her augmented heartbeat awareness now gives her tactical read: she knows exactly how many heart-beats each opponent has left before exhaustion forces a retreat.
 
@@ -5368,7 +5367,7 @@ Agent Rivers: attacks Lena with baton as she charges (SF 1 — reacting to her d
 
 ─── ROUND 2, SF 1 ───
 
-LENA CHARGES RIVERS: Athletics 2 + Close Combat 3 = 5 dice, +2 (augmentation) = 7 dice. Difficulty 1. Results: 10, 9, 9, 8, 7, 4, 3 = 6 hits (10=2). 5 Trick Hits.
+LENA CHARGES RIVERS: Athletics 2 + Close Combat 3 = 5 dice, +2 (augmentation) = 7 dice. Difficulty 1. Results: 10, 10, 10, 7, 6, 5, 4 = 6 hits (10=2). 5 Trick Hits.
 2 Lethal base + 1 (Trick Hit damage bonus from augmentation) = 3 Lethal. Spend 3 Tricks → Extra Damage x3: 6 Lethal. Rivers: Armor 3 = 3 Lethal through. Health 7 → 4. Impaired.
 Spend 1 Trick Hit → Knockdown: Rivers is Prone.
 Spend 1 Trick Hit → Disarm: baton skids across the warehouse floor.
@@ -5464,7 +5463,7 @@ For fast access during play, this summary distills the chapter's core mechanics 
 
 ### Tag Quick Reference
 
-- Invoke: spend 1 Momentum for +2 dice when Tag is relevant. One invoke per Tag per Spotlight.
+- Invoke: spend 1 Momentum for Enhancement +1 when Tag is relevant. One invoke per Tag per Spotlight.
 - Compel: SG offers a narrative complication; player gains 1 Momentum (or spends 1 Momentum to refuse).
 - Tags are always active as fiction — even when not formally invoked, [Loud] weapons make noise.
 
@@ -5497,11 +5496,11 @@ This example demonstrates a character using a named Wonder from Appendix V in co
 
 Barnabas declares: activate the Jovian Thundergloves (free action to speak trigger word), then discharge a thunderbolt arc at all three agents. He targets Agents A, B, and C — all within 12 meters, clustered near their vehicle.
 
-This is a Wonder activation, not a casting roll from his own Sphere. The Gloves use their embedded Effect: Forces ●●● discharge, SF 2 (from the item's Sphere rating, not Barnabas's). Barnabas's dice pool for the attack: Forces 3 + Cunning 4 + Enhancement +2 (Gloves) = 9 dice. Cost: 1 Quintessence.
+This is a Wonder activation, not a casting roll from his own Sphere. The Gloves use their embedded Effect: Forces ●●● discharge, SF 2 (from the item's Sphere rating, not Barnabas's). Barnabas's dice pool for the attack: Forces 3 + Cunning 4 = 7 dice, with Enhancement +2 from the Gloves. Cost: 1 Quintessence.
 
 Barnabas invokes **[Ranged]**: "The arc can jump between conductors. I'm invoking Ranged — the parking garage has metal support columns and wet floor from the rain outside. The bolt can chain between them and hit all three agents."
 
-Storyguide: "+2 dice, making your pool 11. That's a significant invoke — but the [Loud] tag comes into play. The discharge in a concrete garage is going to sound like a cannon shot. Everyone within a block will hear it."
+Storyguide: "Enhancement +1, making your pool 11. That's a significant invoke — but the [Loud] tag comes into play. The discharge in a concrete garage is going to sound like a cannon shot. Everyone within a block will hear it."
 
 Player: "Accepted."
 
@@ -5720,7 +5719,7 @@ Iteration X — Convention Path
 Major Path Name: The Living Weapon
 Associated Skills: Close Combat, Ranged Combat, Technology, Science, Athletics, Pilot
 Associated Attributes: Might, Stamina, Dexterity
-Special Ability: Cybernetic Enhancement — The Iterator begins with 2 cybernetic enhancements (each is an equipment-level upgrade with 2-3 tags, e.g. [Targeting System: +1 die on Ranged Combat], [Reinforced Frame: Armor 1]). Additional enhancements can be acquired through advancement.
+Special Ability: Cybernetic Enhancement — The Iterator begins with 2 cybernetic enhancements (each is an equipment-level upgrade with 2-3 tags, e.g. [Targeting System: Enhancement +1 on Ranged Combat], [Reinforced Frame: Armor 1]). Additional enhancements can be acquired through advancement.
 Primary Sphere: Forces (as "Dimensional Physics")
 ```
 
@@ -5776,7 +5775,7 @@ Void Engineers — Convention Path
 Major Path Name: The Pioneer Beyond the Horizon
 Associated Skills: Pilot, Science, Technology, Athletics, Survival, Ranged Combat
 Associated Attributes: Cunning, Resolve, Dexterity
-Special Ability: Deep Universe Training — The Void Engineer ignores Gauntlet ratings when attempting to perceive or enter the Deep Umbra (beyond the spirit world's inner layers). In standard spirit realms, they gain +2 dice on all Spirit-related rolls.
+Special Ability: Deep Universe Training — The Void Engineer ignores Gauntlet ratings when attempting to perceive or enter the Deep Umbra (beyond the spirit world's inner layers). In standard spirit realms, they gain Enhancement +1 on all Spirit-related rolls.
 Primary Sphere: Correspondence (as "Dimensional Science: Spatial Mechanics")
 ```
 
@@ -5793,7 +5792,7 @@ Nephandi — Key Traits (Antagonist)
 ----------------------------------
 Paradox Healing: A Nephandus may reduce their Paradox Pool by 1 die per box of damage they intentionally cause to a Sleeper victim.
 Sphere Inversion: Their Spheres function normally, but their effects are always cosmetically terrible — healing comes as writhing flesh-growth, mind effects feel like violation.
-Outer Power Bond: Each Nephandus serves a specific Outer Power. They can call on its influence once per session for +3 dice on any roll, but the Power has its own agenda.
+Outer Power Bond: Each Nephandus serves a specific Outer Power. They can call on its influence once per session for Enhancement +2 on any roll, but the Power has its own agenda.
 Barabbi (Tradition-fallen Nephandi): These are the most dangerous kind — they know Tradition protocols, safehouses, and vulnerabilities.
 ```
 
@@ -5873,7 +5872,7 @@ CONTACT (1): former student or community elder |
 SKILLS (6 dots — distribute freely, max 3 in one):
 Available: Integrity, Persuasion, Esoterica, Occult
 Suggested: Integrity ●●●, Persuasion ●●, Esoterica ●
-SPECIAL ABILITY: Divine Resonance — Once per scene, may spend 1 Momentum to add their Prime or Spirit Sphere rating as bonus dice to any social roll made to inspire faith, resolve conflict, or bring peace.
+SPECIAL ABILITY: Divine Resonance — Once per scene, may spend 1 Momentum to add Enhancement equal to their Prime or Spirit Sphere rating (maximum +3) to any social roll made to inspire faith, resolve conflict, or bring peace.
 CONTACTS (3): diocesan priest or interfaith chaplain, choir master or cantor, shelter or relief worker
 SPHERE AFFINITY: Prime, Spirit |
 | Minor Path A: The Path of the Shepherd | ATTRIBUTES (4 dots): Social 4 (Presence, Manipulation)
@@ -5893,7 +5892,7 @@ CONTACT (1): seminary librarian or religious historian |
 SKILLS (6 dots — distribute freely, max 3 in one):
 Available: Culture, Persuasion, Awareness, Esoterica
 Suggested: Culture ●●●, Persuasion ●●, Awareness ●
-SPECIAL ABILITY: Visions — Once per scene, may spend 1 Momentum to see a flash of Time magic — a brief glimpse of immediate past or future, granting +2 dice to the next action taken.
+SPECIAL ABILITY: Visions — Once per scene, may spend 1 Momentum to see a flash of Time magic — a brief glimpse of immediate past or future, granting Enhancement +1 to the next action taken.
 CONTACTS (3): underground event promoter, pharmaceutical researcher or chemist, spiritual retreat facilitator
 SPHERE AFFINITY: Time, Mind |
 | Minor Path A: The Path of the Artist | ATTRIBUTES (4 dots): Social 4 (Presence, Manipulation)
@@ -6035,7 +6034,7 @@ Technocracy agents are built on Convention Paths rather than Tradition Paths. Th
 The Path of the Living Weapon | ATTRIBUTES (10 dots): Physical 6 (Might, Stamina, Dexterity) \| Mental 2 (Resolve) \| Social 2 (Composure)
 SKILLS: Close Combat, Athletics, Technology
 Suggested: Close Combat ●●●, Athletics ●●, Technology ●
-SPECIAL ABILITY: Augmented Reflex — Once per scene, add Iteration X implant rating (1–3) as bonus dice to a single Physical action.
+SPECIAL ABILITY: Augmented Reflex — Once per scene, add Enhancement equal to the Iteration X implant rating (+1 to +3) to a single Physical action.
 CONTACTS: military or security superior, black-market cyberware tech, physical therapy specialist
 SPHERE AFFINITY: Forces, Matter |
 | NWO
@@ -6233,7 +6232,7 @@ Mechanically, the Avatar is a rating from 1 to 5. This rating represents how cle
 | 1 — Whisper | The Avatar communicates in dreams, gut feelings, and synchronicities. The mage may not recognize its voice at all. Once per session, the Storyguide may give the player a cryptic hint about the session's central danger. |
 | 2 — Nudge | The Avatar is clearer. It pushes the mage toward their destiny with stronger feelings of rightness or wrongness. Once per session, the player may ask the Storyguide one yes-or-no question about their character's Essence (the Avatar's type) and receive an honest answer. |
 | 3 — Voice | The Avatar can hold something like a conversation. It appears in meditations, dreams, and moments of stillness. It provides guidance that is specific though rarely direct. Once per session, the mage may ask the Avatar one question and receive a genuinely useful (if cryptically phrased) answer. |
-| 4 — Presence | The Avatar is a palpable companion. Other supernatural beings can sense it. The mage's eyes sometimes shift to show something ancient. Once per scene, the mage may draw on the Avatar's presence for +2 dice on a roll that directly serves their Essence. |
+| 4 — Presence | The Avatar is a palpable companion. Other supernatural beings can sense it. The mage's eyes sometimes shift to show something ancient. Once per scene, the mage may draw on the Avatar's presence for Enhancement +1 on a roll that directly serves their Essence. |
 | 5 — Union | The mage and Avatar are in deep alignment. The Avatar's Essence informs everything the mage does. All magical rolls that serve the Avatar's Essence gain Enhancement +1 automatically. The mage also begins to resist Quiet (remove 1 box at the start of each session automatically). |
 
 ## Avatar Essence
@@ -6502,19 +6501,19 @@ In addition to the Avatar Rating bonuses described in Appendix A, the Dynamic Es
 
 **Invoke [Catalyst]:**
 
-Gain +2 dice whenever your action is the first attempt at a new approach — when you propose a solution no one in the scene has tried, take an action that changes the scene's established momentum, or cast a spell in a way you have never cast it before. The key criterion is genuine novelty: this must be a first, not a variation on an established approach.
+Gain Enhancement +1 whenever your action is the first attempt at a new approach — when you propose a solution no one in the scene has tried, take an action that changes the scene's established momentum, or cast a spell in a way you have never cast it before. The key criterion is genuine novelty: this must be a first, not a variation on an established approach.
 
-Example 1: During a standoff with a Technocratic agent who has the high ground and three Iteration X constructs backing her up, every frontal approach has been neutralized. Marcus (Dynamic Essence, Order of Hermes) announces he is going to use Forces 3 to bend all the light in the room into a single focal point directly behind the agent's eyes — effectively creating a blinding flash from within her own visual field, an approach no one has attempted or even suggested. This is genuinely new. He gains [Catalyst] on the casting roll: +2 dice.
+Example 1: During a standoff with a Technocratic agent who has the high ground and three Iteration X constructs backing her up, every frontal approach has been neutralized. Marcus (Dynamic Essence, Order of Hermes) announces he is going to use Forces 3 to bend all the light in the room into a single focal point directly behind the agent's eyes — effectively creating a blinding flash from within her own visual field, an approach no one has attempted or even suggested. This is genuinely new. He gains [Catalyst] on the casting roll: Enhancement +1.
 
-Example 2: In a negotiation that has been going in circles for three scenes, Yuki (Dynamic Essence, Virtual Adept) realizes that both sides are arguing over terms that have already become obsolete — there's a third option neither side has considered, and she's been holding it back waiting for the right moment. She introduces it now, completely reframing the negotiation. The Storyguide rules this is a Catalyst moment: +2 dice on her Presence + Persuasion roll to reframe the conversation.
+Example 2: In a negotiation that has been going in circles for three scenes, Yuki (Dynamic Essence, Virtual Adept) realizes that both sides are arguing over terms that have already become obsolete — there's a third option neither side has considered, and she's been holding it back waiting for the right moment. She introduces it now, completely reframing the negotiation. The Storyguide rules this is a Catalyst moment: Enhancement +1 on her Presence + Persuasion roll to reframe the conversation.
 
 Example 3: A recurring puzzle in the mage's Chantry has been approached twenty times with standard Pattern Sphere techniques. Devika (Dynamic Essence, Celestial Chorus) ignores the Pattern angle entirely and instead attempts a Prime 2 approach, reweaving the puzzle's underlying Quintessence signature rather than manipulating its physical or informational structure. This is a genuinely new angle. [Catalyst] applies.
 
 **Invoke [Relentless Momentum]:**
 
-Gain +2 dice whenever you are continuing an action across multiple turns or scenes that you began, and each new step escalates the scope or intensity of the previous one. The key criterion is escalation: each subsequent action must be larger, riskier, or more committed than the last.
+Gain Enhancement +1 whenever you are continuing an action across multiple turns or scenes that you began, and each new step escalates the scope or intensity of the previous one. The key criterion is escalation: each subsequent action must be larger, riskier, or more committed than the last.
 
-Example 1: Elena (Dynamic Essence, Cult of Ecstasy) has been building a ritual over three scenes, each component more intense than the last. By the time she reaches the fourth scene — the climax of the working — she has [Relentless Momentum]: +2 dice on the final casting roll, because the ritual has been building exactly the way a Dynamic Avatar loves: gathering speed like a wave.
+Example 1: Elena (Dynamic Essence, Cult of Ecstasy) has been building a ritual over three scenes, each component more intense than the last. By the time she reaches the fourth scene — the climax of the working — she has [Relentless Momentum]: Enhancement +1 on the final casting roll, because the ritual has been building exactly the way a Dynamic Avatar loves: gathering speed like a wave.
 
 Example 2: In a chase sequence, Kalu (Dynamic Essence, Dreamspeakers) has been escalating his Spirit Sphere use with each exchange — first reaching across the Gauntlet to call for information, then briefly pulling a spirit ally into partial manifestation, now attempting to open a Rift large enough to redirect the entire chase into the Umbra. Each action has been bigger than the last. [Relentless Momentum] applies to the Rift opening.
 
@@ -6594,23 +6593,23 @@ A New World Order agent with a Pattern Essence (and yes, they exist) is typicall
 
 **Invoke [Architect]:**
 
-Gain +2 dice whenever you take an action that completes a structure you have been building — whether physical, social, magical, or informational. The key criterion is completion: this action closes the loop, finishes the working, delivers the final piece. The Architect tag rewards follow-through.
+Gain Enhancement +1 whenever you take an action that completes a structure you have been building — whether physical, social, magical, or informational. The key criterion is completion: this action closes the loop, finishes the working, delivers the final piece. The Architect tag rewards follow-through.
 
-Example 1: Isabelle has spent three sessions building an elaborate magical ward around the Chantry, placing each component precisely as her Pattern Avatar indicated. In this session she places the final ward element, completing the structure. [Architect] applies to this final casting: +2 dice, because the Pattern is complete.
+Example 1: Isabelle has spent three sessions building an elaborate magical ward around the Chantry, placing each component precisely as her Pattern Avatar indicated. In this session she places the final ward element, completing the structure. [Architect] applies to this final casting: Enhancement +1, because the Pattern is complete.
 
-Example 2: Over four scenes of negotiation, Li-Jun has been carefully building a social architecture — aligning each faction, neutralizing each opposition, creating a structure in which the agreement she needs becomes the only available option. In this final scene, she delivers the capstone argument that makes the deal inevitable. [Architect] applies to the social roll: +2 dice for completing the structure she built.
+Example 2: Over four scenes of negotiation, Li-Jun has been carefully building a social architecture — aligning each faction, neutralizing each opposition, creating a structure in which the agreement she needs becomes the only available option. In this final scene, she delivers the capstone argument that makes the deal inevitable. [Architect] applies to the social roll: Enhancement +1 for completing the structure she built.
 
-Example 3: A complex Mind 4 ritual requires seven symbolic components assembled in a specific order. Yusuf has been preparing six of them over the past two sessions, each one precisely correct. In this scene, he assembles the final component and begins the ritual. [Architect]: +2 dice, because this is the completion of a designed structure.
+Example 3: A complex Mind 4 ritual requires seven symbolic components assembled in a specific order. Yusuf has been preparing six of them over the past two sessions, each one precisely correct. In this scene, he assembles the final component and begins the ritual. [Architect]: Enhancement +1, because this is the completion of a designed structure.
 
 **Invoke [System Thinker]:**
 
-Gain +2 dice whenever you take an action that exploits your understanding of a system's own logic — when you use a system's rules against itself, exploit a structural weakness that only becomes visible when the whole pattern is understood, or turn a system's designed behavior toward an unintended outcome.
+Gain Enhancement +1 whenever you take an action that exploits your understanding of a system's own logic — when you use a system's rules against itself, exploit a structural weakness that only becomes visible when the whole pattern is understood, or turn a system's designed behavior toward an unintended outcome.
 
-Example 1: The Technocratic surveillance network tracking the group has a designed behavior: it flags anomalies against its baseline. Priya (Pattern Essence, Virtual Adept) realizes that the baseline itself can be manipulated — if you feed the system enough false positives in the right pattern, it recalibrates its baseline to include the anomaly as normal. She exploits the system's own logic. [System Thinker]: +2 dice on the hacking roll.
+Example 1: The Technocratic surveillance network tracking the group has a designed behavior: it flags anomalies against its baseline. Priya (Pattern Essence, Virtual Adept) realizes that the baseline itself can be manipulated — if you feed the system enough false positives in the right pattern, it recalibrates its baseline to include the anomaly as normal. She exploits the system's own logic. [System Thinker]: Enhancement +1 on the hacking roll.
 
 Example 2: A Nephandic ritual requires five participants positioned at specific points. Yusuf (Pattern Essence, Order of Hermes) identifies that one of the five positions can be occupied by a correctly constructed simulacrum — but only if the simulacrum is placed in the specific position, at the specific time, in the specific orientation the ritual's own geometry demands. He uses the ritual's structural requirements against the Nephandi performing it. [System Thinker] applies.
 
-Example 3: During a social encounter with a city bureaucracy, Isabelle (Pattern Essence, Akashic Brotherhood) identifies that the bureaucracy has two contradictory regulations that, if triggered simultaneously, will create a processing deadlock that pauses all enforcement actions for seventy-two hours. She triggers both. [System Thinker]: +2 dice on the bureaucratic maneuvering roll.
+Example 3: During a social encounter with a city bureaucracy, Isabelle (Pattern Essence, Akashic Brotherhood) identifies that the bureaucracy has two contradictory regulations that, if triggered simultaneously, will create a processing deadlock that pauses all enforcement actions for seventy-two hours. She triggers both. [System Thinker]: Enhancement +1 on the bureaucratic maneuvering roll.
 
 **Compel [Completes What Begins]:**
 
@@ -6684,21 +6683,21 @@ Even the Technocratic Union carries Primordial Essences, though they are rarer a
 
 **Invoke [Ancient Voice]:**
 
-Gain +2 dice whenever you communicate something true that cannot be fully explained — when you share a certainty that has no arguable basis, when you provide guidance that turns out to be correct despite having no discernible source, or when you perform a magical action whose mechanism you understand through feeling rather than reasoning. The key criterion is pre-linguistic knowing: you know it before you know why you know it.
+Gain Enhancement +1 whenever you communicate something true that cannot be fully explained — when you share a certainty that has no arguable basis, when you provide guidance that turns out to be correct despite having no discernible source, or when you perform a magical action whose mechanism you understand through feeling rather than reasoning. The key criterion is pre-linguistic knowing: you know it before you know why you know it.
 
-Example 1: The group is evaluating two routes to their destination. Tala (Primordial Essence, Dreamspeaker) looks at both routes on the map, then folds the map, and says "The left route is wrong. Something lives there that we should not disturb before we are ready." She has no information to support this — no divination, no prior knowledge. But she is certain. The player invokes [Ancient Voice]: +2 dice on the Composure + Awareness roll to convince the group to take her counsel seriously.
+Example 1: The group is evaluating two routes to their destination. Tala (Primordial Essence, Dreamspeaker) looks at both routes on the map, then folds the map, and says "The left route is wrong. Something lives there that we should not disturb before we are ready." She has no information to support this — no divination, no prior knowledge. But she is certain. The player invokes [Ancient Voice]: Enhancement +1 on the Composure + Awareness roll to convince the group to take her counsel seriously.
 
 Example 2: During a ritual, Cormac (Primordial Essence, Verbena) abandons the prepared text at a key moment and begins speaking in Old Irish — a language he barely knows — in words that come from somewhere other than his training. The working produces an effect beyond what the ritual as written could produce. [Ancient Voice] applies to the casting roll: the Primordial Essence is communicating directly through the working.
 
-Example 3: In a fight, Ibeya (Primordial Essence, Akashic Brotherhood) does not analyze her opponent. She reads them the way an animal reads another animal: breath pattern, muscle tension, the specific flavor of the threat they pose. Her next action is declared before the opponent's current action is resolved — because she knew what they were going to do before they committed to it. [Ancient Voice]: +2 dice on the initiative roll to act first.
+Example 3: In a fight, Ibeya (Primordial Essence, Akashic Brotherhood) does not analyze her opponent. She reads them the way an animal reads another animal: breath pattern, muscle tension, the specific flavor of the threat they pose. Her next action is declared before the opponent's current action is resolved — because she knew what they were going to do before they committed to it. [Ancient Voice]: Enhancement +1 on the initiative roll to act first.
 
 **Invoke [Instinct Before Intellect]:**
 
-Gain +2 dice on any action taken in the first exchange of a conflict, or in the first moment of a crisis — before there has been time to analyze, plan, or deliberate. The Primordial Essence is at its strongest when the mind has not yet interfered with the body's knowledge.
+Gain Enhancement +1 on any action taken in the first exchange of a conflict, or in the first moment of a crisis — before there has been time to analyze, plan, or deliberate. The Primordial Essence is at its strongest when the mind has not yet interfered with the body's knowledge.
 
-Example 1: An ambush. The group is attacked with no warning. Tala acts before initiative is even rolled — she is already moving, already reaching across the Gauntlet, already calling for help from the Spirit with whom she has a standing relationship. [Instinct Before Intellect]: +2 dice. Her body knew before her mind did.
+Example 1: An ambush. The group is attacked with no warning. Tala acts before initiative is even rolled — she is already moving, already reaching across the Gauntlet, already calling for help from the Spirit with whom she has a standing relationship. [Instinct Before Intellect]: Enhancement +1. Her body knew before her mind did.
 
-Example 2: A social crisis: the Chantry's meeting erupts into conflict between factions. Before any of the politically-minded mages can begin triangulating, Cormac stands up and speaks — something in his voice carries absolute authority, grounded not in argument but in presence. [Instinct Before Intellect]: +2 dice on the Presence roll to quiet the room.
+Example 2: A social crisis: the Chantry's meeting erupts into conflict between factions. Before any of the politically-minded mages can begin triangulating, Cormac stands up and speaks — something in his voice carries absolute authority, grounded not in argument but in presence. [Instinct Before Intellect]: Enhancement +1 on the Presence roll to quiet the room.
 
 **Compel [Beneath All Systems]:**
 
@@ -6770,21 +6769,21 @@ Void Engineers with Questing Essences are, within the Technocratic Union, often 
 
 **Invoke [Singular Purpose]:**
 
-Gain +2 dice on any action that directly advances the Quest — not broadly related to it, but specifically advancing the mage toward the object of the Quest by a measurable step. The key criterion is direct advancement: this action, if successful, brings the mage demonstrably closer to the Quest's destination.
+Gain Enhancement +1 on any action that directly advances the Quest — not broadly related to it, but specifically advancing the mage toward the object of the Quest by a measurable step. The key criterion is direct advancement: this action, if successful, brings the mage demonstrably closer to the Quest's destination.
 
-Example 1: Ezra (Questing Essence, Euthanatos) has been pursuing a specific Nephandic cabal for three sessions. In this session, he has tracked down the cabal's communications network and is attempting to decrypt a message that will reveal their next target. Decrypting this message directly advances the Quest. [Singular Purpose]: +2 dice on the Wits + Technology roll.
+Example 1: Ezra (Questing Essence, Euthanatos) has been pursuing a specific Nephandic cabal for three sessions. In this session, he has tracked down the cabal's communications network and is attempting to decrypt a message that will reveal their next target. Decrypting this message directly advances the Quest. [Singular Purpose]: Enhancement +1 on the Wits + Technology roll.
 
-Example 2: Sister Catherine (Questing Essence, Celestial Chorus) has been given a vision: a child, somewhere in the city, who will die tonight unless she reaches them. Every action she takes tonight has a relationship to this Quest. The specific action of finding the child's location — narrowing the search to a specific block through Mind Sphere use — is direct advancement. [Singular Purpose]: +2 dice.
+Example 2: Sister Catherine (Questing Essence, Celestial Chorus) has been given a vision: a child, somewhere in the city, who will die tonight unless she reaches them. Every action she takes tonight has a relationship to this Quest. The specific action of finding the child's location — narrowing the search to a specific block through Mind Sphere use — is direct advancement. [Singular Purpose]: Enhancement +1.
 
-Example 3: Kenta (Questing Essence, Akashic Brotherhood) has spent his career seeking the third level of a specific kata that his master taught him the first two levels of before dying. He has found a scroll that may contain a description of the third level. Reading and interpreting the scroll is a direct step toward the Quest. [Singular Purpose]: +2 dice on the Wits + Academics roll.
+Example 3: Kenta (Questing Essence, Akashic Brotherhood) has spent his career seeking the third level of a specific kata that his master taught him the first two levels of before dying. He has found a scroll that may contain a description of the third level. Reading and interpreting the scroll is a direct step toward the Quest. [Singular Purpose]: Enhancement +1 on the Wits + Academics roll.
 
 **Invoke [Finds the Way]:**
 
-Gain +2 dice whenever you are navigating — physically or metaphorically — toward something you have never been to before, in circumstances where the route is not obvious. The Questing Avatar has, at a deep level, an orientation toward its object, and this orientation manifests as a directional sense that transcends normal knowledge.
+Gain Enhancement +1 whenever you are navigating — physically or metaphorically — toward something you have never been to before, in circumstances where the route is not obvious. The Questing Avatar has, at a deep level, an orientation toward its object, and this orientation manifests as a directional sense that transcends normal knowledge.
 
-Example 1: The group is lost in an Umbral region they have never visited, looking for a specific node. Ezra has never been here before and has no map. But his Questing Avatar is oriented toward nodes — specifically toward the correct node — and he feels a directional pull. [Finds the Way]: +2 dice on the extended Awareness roll to navigate.
+Example 1: The group is lost in an Umbral region they have never visited, looking for a specific node. Ezra has never been here before and has no map. But his Questing Avatar is oriented toward nodes — specifically toward the correct node — and he feels a directional pull. [Finds the Way]: Enhancement +1 on the extended Awareness roll to navigate.
 
-Example 2: Sister Catherine needs to reach a specific person who has gone to ground in a city she doesn't know. She has no contacts here and no mundane information. But the Quest involves this person, and the Questing Avatar is oriented toward everything related to the Quest. She begins walking. [Finds the Way]: +2 dice on the Wits + Streetwise roll to arrive at the right place.
+Example 2: Sister Catherine needs to reach a specific person who has gone to ground in a city she doesn't know. She has no contacts here and no mundane information. But the Quest involves this person, and the Questing Avatar is oriented toward everything related to the Quest. She begins walking. [Finds the Way]: Enhancement +1 on the Wits + Streetwise roll to arrive at the right place.
 
 **Compel [Cannot Rest Until Done]:**
 
@@ -8176,7 +8175,7 @@ Skills: Artistry (Music) 4, Athletics 2, Close Combat 2, Deception 3, Leadership
 Glamour Pool: 7 points
 ──────────────────────────────────────────────────
 BACKGROUND: A hedonistic musician changeling driven by sensual experience and social connection. Class clown instincts evolved into an impressive catalog of ill-advised hookups. May eventually learn to temper his impulsiveness with wisdom — but that day has not yet come.
-TAGS: As The Fae (Section Two). Satyr kith gift: +2 dice on social rolls where physical appeal and confidence matter.
+TAGS: As The Fae (Section Two). Satyr kith gift: Enhancement +1 on social rolls where physical appeal and confidence matter.
 ```
 
 ### Ghosts and Wraiths
@@ -8195,7 +8194,7 @@ TRICKS:
   Machine Possession: Possess and control mechanical or electronic systems within 10 meters. Contested Cunning vs. Technology rating of system operator, or Difficulty 7 if unattended.
   Aggravated Strike (materialized): Physical attacks inflict aggravated damage when the Spectre channels Shadow energy (spend 2 Corpus).
   Haunt Territory: Within a Spectre's claimed territory, all Resolve rolls by living characters suffer Difficulty +1.
-  Spectre Frenzy: When provoked, Spectre enters violent frenzy — no social rolls, +2 dice Close Combat.
+  Spectre Frenzy: When provoked, Spectre enters violent frenzy — no social rolls, Enhancement +1 Close Combat.
 ──────────────────────────────────────────────────
 TAGS: As Tragic Phantom but with Shadow dominant. Spectres have largely abandoned conscious will to destructive impulse. [Haunt] Creates pervasive atmosphere of dread in claimed territory.
 WEAKNESSES: As Tragic Phantom. Resolution of the underlying trauma that created the Spectre may snap it back to a normal ghost state — or destroy it if the Shadow has consumed too much.
@@ -8243,7 +8242,7 @@ Skills: Awareness 3, Deception 4, Esoterica 3, Empathy 3, Larceny 3
 TRICKS:
   Whisper of Fear: Seed hallucinations and paranoid thoughts. Contested Cunning roll vs. target's Resolve (Difficulty 6); on success, target suffers -1 die to social rolls for the scene.
   Possession: Contested Cunning vs. Resolve. While possessing, reads victim's fears and amplifies existing abuse/fear cycles.
-  Aura Reading: Automatically detects emotional states in any being within 10 meters; +2 dice to Empathy-equivalent perception of mages who scan the possessed area.
+  Aura Reading: Automatically detects emotional states in any being within 10 meters; Enhancement +1 to Empathy-equivalent perception of mages who scan the possessed area.
   Encourage Abuse: Passively raises the probability of conflict and cruelty in their presence (narrative effect; Storyguide discretion).
 ──────────────────────────────────────────────────
 TAGS: [Emotional Parasite] Cannot be harmed by physical weapons while dematerialized. Spirit sphere required for direct harm. [Fear Nourishment] Heals 1 Corpus per scene while in an area of active fear or abuse.
@@ -8333,7 +8332,7 @@ Skills: Awareness 3, Athletics 2, Close Combat 2, Artistry (Weaponsmith / Traps)
 ──────────────────────────────────────────────────
 TRICKS:
   Prepared Loadout: Silver-edged weapons (aggravated to vampires/werewolves), iron implements (aggravated to fae), improvised explosive devices (Artistry 4), trigger-based traps, anti-supernatural compounds (holy water, salt, etc.). Each hunter is prepared for one specific supernatural target type.
-  Team Coordination: When operating with other hunters, +1 die to all rolls when executing pre-planned ambush tactics.
+  Team Coordination: When operating with other hunters, Enhancement +1 to all rolls when executing pre-planned ambush tactics.
 ──────────────────────────────────────────────────
 TAGS: [Fanatic] Social persuasion about mage humanity increases Difficulty by +2. [Prepared] Pre-set sniper positions, ambush plans, and escape routes. [Determined] Immune to Presence-based social rolls from supernatural sources.
 ──────────────────────────────────────────────────
@@ -8372,7 +8371,7 @@ Might 6-8 | Dexterity 2 | Stamina 6-7 | Presence 2 | Cunning 2 | Intellect 1 | R
 Health: 8-9  |  Armor: 0  |  Attack: Claws/Bite Enhancement +2 lethal
 Skills: Awareness 3, Athletics 3, Close Combat 4
 ──────────────────────────────────────────────────
-TAGS: [Predator Instinct] +1 die when attacking fleeing or prone targets.
+TAGS: [Predator Instinct] Enhancement +1 when attacking fleeing or prone targets.
 ```
 
 ```
@@ -9207,7 +9206,7 @@ Hex — Minor Paradox Spirit of Bad Luck
 Spirit Essence: 20 | Resolve: 4 | Cunning: 4 | Manipulation: 4
 Materialized Health: 3 | Initiative: 8
 ──────────────────────────────────────────────────
-TAGS: [Persistent Misfortune] — Attaches itself to a mage like a spiritual parasite. While attached: all Complication results that would be minor become major; all Enhancement dice that exceed pool size by 2+ fail instead of producing extra hits.
+TAGS: [Persistent Misfortune] — Attaches itself to a mage like a spiritual parasite. While attached: all Complication results that would be minor become major; the mage's Enhancement is capped at +1 from all sources (instead of the usual +5) while it remains attached.
 [Difficult to Notice] — Nearly invisible. Detecting it requires Spirit 2 specifically seeking attached spirits, or Awareness + Esoterica vs. Difficulty 3.
 REMOVAL: Entropy 3 (unweave the attachment) or Spirit 3 (banish the spirit). Cannot return for one month after removal.
 NOTE: Hex is the Paradox entity mages notice first and misidentify longest. The streak of bad luck is understood as coincidence long before it is recognized as a spirit.
@@ -9301,10 +9300,10 @@ The Sanctum Rating represents how thoroughly the Chantry is attuned to its holde
 | Sanctum | Effect |
 | --- | --- |
 | • (1) | Basic attunement. The location feels right to magical senses. Coincidental magic performed here generates 1 fewer Paradox die (minimum 0). |
-| •• (2) | Established sanctum. +1 die to all magical workings performed here. Paradox reduction increased to 2 dice for Coincidental, 1 die for Vulgar. |
-| ••• (3) | Developed sanctum. +2 dice to magical workings here. The Gauntlet within the Chantry is 1 lower (easier spirit communication). Paradox reduction: 2 dice for Vulgar. |
-| •••• (4) | Powerful sanctum. +3 dice to magical workings. Gauntlet -2. Paradox reduction: 3 dice for any working. Minor magical effects occur spontaneously in harmony with holders' paradigm. |
-| ••••• (5) | Legendary sanctum. +4 dice to magical workings. Gauntlet -3 (near Horizon-level access). Paradox reduction: 4 dice for any working. The Chantry has developed a personality and responds to threats with spontaneous magical effects. |
+| •• (2) | Established sanctum. Enhancement +1 to all magical workings performed here. Paradox reduction increased to 2 dice for Coincidental, 1 die for Vulgar. |
+| ••• (3) | Developed sanctum. Enhancement +1 to magical workings here. The Gauntlet within the Chantry is 1 lower (easier spirit communication). Paradox reduction: 2 dice for Vulgar. |
+| •••• (4) | Powerful sanctum. Enhancement +2 to magical workings. Gauntlet -2. Paradox reduction: 3 dice for any working. Minor magical effects occur spontaneously in harmony with holders' paradigm. |
+| ••••• (5) | Legendary sanctum. Enhancement +2 to magical workings. Gauntlet -3 (near Horizon-level access). Paradox reduction: 4 dice for any working. The Chantry has developed a personality and responds to threats with spontaneous magical effects. |
 
 The Paradox reduction from Sanctum Rating represents the location's resonance absorbing some of the Consensus backlash — the Chantry's established magical signature makes workings within it feel "right" to the local fabric of reality. This reduction does not apply to workings that directly harm residents of the Chantry or violate its established resonance.
 
@@ -9326,11 +9325,11 @@ The Library Trait represents accumulated knowledge — magical texts, research m
 
 | Library | Effect |
 | --- | --- |
-| • (1) | A basic collection. Provides +1 die to Research rolls on topics related to the holders' Traditions. |
-| •• (2) | A solid reference library. +2 dice to Research. Contains at least one Rote for each of the holders' primary Spheres. Scholars can spend time studying here to learn new Rotes (see below). |
-| ••• (3) | Scholarly resource. +3 dice to Research on any magical topic. Contains rare or unique texts unavailable elsewhere. Other mages may seek access to trade for it. |
-| •••• (4) | Major arcane repository. +4 dice. Contains texts from multiple Traditions and paradigms. The Storyguide may award characters a relevant Lore dot after sustained study here. |
-| ••••• (5) | World-class collection. +5 dice. Texts that don't exist elsewhere in the known world. Any magical question can be researched here given time; the real limit is the researcher's skill. |
+| • (1) | A basic collection. Provides Enhancement +1 to Research rolls on topics related to the holders' Traditions. |
+| •• (2) | A solid reference library. Enhancement +1 to Research. Contains at least one Rote for each of the holders' primary Spheres. Scholars can spend time studying here to learn new Rotes (see below). |
+| ••• (3) | Scholarly resource. Enhancement +2 to Research on any magical topic. Contains rare or unique texts unavailable elsewhere. Other mages may seek access to trade for it. |
+| •••• (4) | Major arcane repository. Enhancement +2. Contains texts from multiple Traditions and paradigms. The Storyguide may award characters a relevant Lore dot after sustained study here. |
+| ••••• (5) | World-class collection. Enhancement +3. Texts that don't exist elsewhere in the known world. Any magical question can be researched here given time; the real limit is the researcher's skill. |
 
 Learning Rotes from the Library: A mage who spends a month studying a relevant text in a Library 2+ Chantry may learn a new Rote at their current Sphere competence level without teaching from another mage. Extended roll: Intellect + Occult, Difficulty 2, minimum 5 hits. This represents slow, independent study rather than direct instruction.
 
@@ -9358,7 +9357,7 @@ The Allies Trait represents people, spirits, and organizations associated with t
 | Allies | Effect |
 | --- | --- |
 | • (1) | A handful of sympathetic Sleepers (a friendly landlord, a local beat cop who "doesn't see things," a neighborhood contact). |
-| •• (2) | A small support network. Local informants, a sympathetic doctor, a spirit-aware local shopkeeper. Provides +2 dice to Contacts rolls within the local area. |
+| •• (2) | A small support network. Local informants, a sympathetic doctor, a spirit-aware local shopkeeper. Provides Enhancement +1 to Contacts rolls within the local area. |
 | ••• (3) | Regional relationships. Connections to local criminal organizations, local government sympathizers, allied Disparate or independent mages in the area. Provides information about regional events automatically. |
 | •••• (4) | Significant institutional connections. A local police precinct commander, a hospital administrator, an allied Tradition cabal who can provide emergency backup. |
 | ••••• (5) | Major alliances. The Chantry is recognized by multiple Tradition cabals and has formal treaties. Emergency aid from allied groups can be summoned within hours. |
@@ -9369,7 +9368,7 @@ The Allies Trait represents people, spirits, and organizations associated with t
 
 Chantry Edges are specific advantages that a Chantry has developed beyond its basic Traits. They represent particular features, histories, or magical properties that provide unique benefits. Chantry Edges are earned through play, not purchased at character creation — they are the result of specific events, investments, or discoveries.
 
-Each Merit has a cost in Chantry points (abstract resources representing time, money, magical effort, and narrative investment). Storyguides should award these organically: when the cabal does something that would reasonably develop the Chantry in a specific direction, the Merit appears.
+Each Advantage has a cost in Chantry points (abstract resources representing time, money, magical effort, and narrative investment). Storyguides should award these organically: when the cabal does something that would reasonably develop the Chantry in a specific direction, the Advantage appears.
 
 ### Architectural Edges
 
@@ -9388,7 +9387,7 @@ Dedicated Workspace (•• Chantry Edge)
 --------------------------------------
 A specific room or area of the Chantry is set up as a dedicated workshop optimized for a particular type of magical work: a laboratory for Matter/Life research, a spirit-circle for Spirit work, a meditation chamber for Mind/Time, an alchemical kitchen, a smithy, a darkroom.
 
-Benefit: Work performed in the Dedicated Workspace gains +1 die beyond the Chantry's normal Sanctum bonus for the specific Sphere or practice the workspace supports. Extended magical workings (Wonder creation, Rote development, high-Sphere rituals) done here are at -1 Difficulty.
+Benefit: Work performed in the Dedicated Workspace gains Enhancement +1 beyond the Chantry's normal Sanctum bonus for the specific Sphere or practice the workspace supports. Extended magical workings (Wonder creation, Rote development, high-Sphere rituals) done here are at -1 Difficulty.
 
 How Earned: Invest significant Resources (minimum 2 dots) in outfitting the space, and use it for at least three significant magical workings in play.
 ```
@@ -9398,7 +9397,7 @@ Ritual Space (••• Chantry Edge)
 --------------------------------
 The Chantry contains a purpose-built ritual space: a stone circle, a prepared temple, a prayer hall, a machine-ritual chamber. This space is architecturally and magically optimized for group workings.
 
-Benefit: Group rituals (involving three or more mages) performed in the Ritual Space gain +1 die per participating mage beyond the first (maximum +4 additional dice). The Ritual Space can also be used as a "battery" for stored group working hits: the cabal may perform a ritual in advance and store up to 5 hits, which can be released as a one-round burst effect when needed.
+Benefit: Group rituals (involving three or more mages) performed in the Ritual Space gain Enhancement +1 per participating mage beyond the first (maximum +4 additional dice). The Ritual Space can also be used as a "battery" for stored group working hits: the cabal may perform a ritual in advance and store up to 5 hits, which can be released as a one-round burst effect when needed.
 
 How Earned: Deliberately construct and dedicate the space through an extended ritual (minimum 8 hits over multiple sessions). The dedication ritual defines the space's magical character and the paradigm it supports.
 ```
@@ -9428,7 +9427,7 @@ Defensible Position (• Chantry Edge)
 -------------------------------------
 The Chantry's physical layout has been deliberately optimized for defense: chokepoints, fields of fire, lines of sight, planned fallback routes, pre-positioned defensive elements.
 
-Benefit: When the Chantry is under physical attack, its defenders gain +1 die to all combat rolls made while within the Chantry's walls. Attackers must contend with a floor plan that favors the defenders — the Storyguide should impose +1 Difficulty on any attacker attempting to advance through the Chantry's chokepoints.
+Benefit: When the Chantry is under physical attack, its defenders gain Enhancement +1 to all combat rolls made while within the Chantry's walls. Attackers must contend with a floor plan that favors the defenders — the Storyguide should impose +1 Difficulty on any attacker attempting to advance through the Chantry's chokepoints.
 
 How Earned: Have the cabal deliberately plan the layout with defense in mind and spend at least one session establishing it in the fiction.
 ```
@@ -9440,7 +9439,7 @@ Node Tap (••••  Chantry Edge — requires Node Access •• +)
 ----------------------------------------------------------
 The Chantry's connection to its Node has been deepened and formalized, with physical and magical infrastructure designed to distribute Node energy throughout the Chantry efficiently.
 
-Benefit: The Node's weekly Primal Energy output is increased by 50% (round up). Additionally, a mage working within the Chantry can draw on the Node directly during a magical working, adding up to 3 Primal Energy per scene as Enhancement dice (1 Primal Energy per additional die) without the normal requirement to physically touch the Node. Tass that forms at the Node automatically flows to a designated collection point within the Chantry.
+Benefit: The Node's weekly Primal Energy output is increased by 50% (round up). Additionally, a mage working within the Chantry can draw on the Node directly during a magical working, spending that Primal Energy as Quintessence for Enhancement (2 Primal Energy per +1, up to Enhancement +2 per scene) without the normal requirement to physically touch the Node. Tass that forms at the Node automatically flows to a designated collection point within the Chantry.
 
 How Earned: Install physical infrastructure (pipes, channels, crystals — matching the paradigm) connecting the Node to the Chantry, and perform a Prime 3 / Spirit 2 extended working (minimum 10 hits) to attune the connection.
 ```
@@ -9480,7 +9479,7 @@ Resonance Specialization (•• Chantry Edge — one Sphere)
 --------------------------------------------------------
 The Chantry has been specifically developed around a single Sphere, with every element — the Ward patterns, the Dedicated Spaces, the Library contents, the Node resonance — focused on amplifying that one type of magic.
 
-Benefit: Magic using the specialized Sphere gains an additional +1 die within the Chantry (on top of the Sanctum Rating bonus). Extended workings using the specialized Sphere are at -1 Difficulty beyond the normal Sanctum reduction. This is the most focused version of magical optimization — a Chantry specialized for Life magic will be extraordinary for healing and transformation but offers no additional benefit for, say, Forces or Correspondence work.
+Benefit: Magic using the specialized Sphere gains an additional Enhancement +1 within the Chantry (on top of the Sanctum Rating bonus). Extended workings using the specialized Sphere are at -1 Difficulty beyond the normal Sanctum reduction. This is the most focused version of magical optimization — a Chantry specialized for Life magic will be extraordinary for healing and transformation but offers no additional benefit for, say, Forces or Correspondence work.
 
 How Earned: Choose the Sphere at Chantry establishment or through sustained single-Sphere focus over a story arc. The specialization becomes embedded in the Chantry's resonance.
 ```
@@ -9502,7 +9501,7 @@ Scrying Chamber (•• Chantry Edge)
 ----------------------------------
 A dedicated space within the Chantry has been set up for Correspondence and Time scrying — a dark room with a large mirror or water basin or electronic sensor array, depending on paradigm, with amplifying materials and a comfortable position for the scryer.
 
-Benefit: Scrying performed from the Scrying Chamber gains +2 dice (Sphere bonus plus the Chamber's focused setup). Extended scrying that would normally require the mage to maintain physical concentration can instead be set to run automatically for up to four hours while the mage is elsewhere — the Chamber maintains the parameters and alerts the mage to anything of note.
+Benefit: Scrying performed from the Scrying Chamber gains Enhancement +1 (Sphere bonus plus the Chamber's focused setup). Extended scrying that would normally require the mage to maintain physical concentration can instead be set to run automatically for up to four hours while the mage is elsewhere — the Chamber maintains the parameters and alerts the mage to anything of note.
 
 How Earned: Outfit the room with appropriate materials (Resources 2) and perform a Correspondence 2 / Prime 1 attunement ritual.
 ```
@@ -9524,7 +9523,7 @@ Ancient History (•••  Chantry Edge)
 ------------------------------------
 The Chantry was established more than a century ago (or occupies a location with deep pre-existing magical history). It carries the accumulated resonance of generations of use.
 
-Benefit: The Chantry's Sanctum Rating counts as 1 higher for the purpose of magical workings (a Sanctum 3 Chantry with Ancient History functions as Sanctum 4 for dice bonuses and Paradox reduction). Additionally, the Library contains historical records going back to the Chantry's founding — information about local supernatural history that is unavailable elsewhere. The Chantry is recognized by local spirits as an ancient institution, granting +1 die to all Spirit-related negotiations conducted within it.
+Benefit: The Chantry's Sanctum Rating counts as 1 higher for the purpose of magical workings (a Sanctum 3 Chantry with Ancient History functions as Sanctum 4 for dice bonuses and Paradox reduction). Additionally, the Library contains historical records going back to the Chantry's founding — information about local supernatural history that is unavailable elsewhere. The Chantry is recognized by local spirits as an ancient institution, granting Enhancement +1 to all Spirit-related negotiations conducted within it.
 
 How Earned: Either establish the Chantry in a location with documented magical history, or maintain a Chantry in active use for multiple story arcs until the passage of (game) time establishes this status.
 ```
@@ -9534,7 +9533,7 @@ Consecrated Ground (••• Chantry Edge)
 --------------------------------------
 The Chantry has been formally consecrated according to a specific spiritual tradition — blessed by a Chorister high priest, dedicated in Verbena blood ritual, purified by Akashic ceremony, aligned in Hermetic sacred geometry, or initialized in Technocratic scientific inauguration ritual. The consecration pervades the physical structure.
 
-Benefit: Beings whose nature is antithetical to the consecration's tradition suffer -2 dice to all rolls while within the Chantry. Nephandi (for any consecration), hostile spirits (for Spirit consecration), and beings of decay (for Life consecration) find the Chantry actively uncomfortable. The Chantry's residents gain +1 die to all Willpower-related rolls (resisting manipulation, maintaining concentration under duress) while within its walls. Healing magic performed within a Consecrated Chantry is at -1 Difficulty.
+Benefit: Beings whose nature is antithetical to the consecration's tradition suffer -2 dice to all rolls while within the Chantry. Nephandi (for any consecration), hostile spirits (for Spirit consecration), and beings of decay (for Life consecration) find the Chantry actively uncomfortable. The Chantry's residents gain Enhancement +1 to all Willpower-related rolls (resisting manipulation, maintaining concentration under duress) while within its walls. Healing magic performed within a Consecrated Chantry is at -1 Difficulty.
 
 How Earned: A formal consecration ceremony performed by a mage of Arete 3+ using the appropriate Sphere (Prime 3, Spirit 3, or Life 3 for most consecrations), with the full cabal present.
 ```
@@ -9587,7 +9586,7 @@ Technocratic Constructs follow the same mechanical framework as Tradition Chantr
 - Connected to the Technocratic administrative structure, providing access to Union resources and intelligence but also subjecting the Construct to Union oversight and political maneuvering.
 Constructs have equivalent Traits: Consensus Rating (Sanctum equivalent, representing how thoroughly the local consensus has been managed), Security (Warding equivalent), Data Archives (Library equivalent), Power Supply (Node Access equivalent), and Personnel (Allies equivalent). The mechanical values translate directly.
 
-Construct-specific Merits include: SIGINT Network (intelligence feeds from Union surveillance infrastructure), Social Processing Suite (specialized space for NWO conditioning procedures), Manufacturing Capability (Matter/Life research and production), and Dimensional Monitoring Station (Void Engineer deep-space observation capability).
+Construct-specific Advantages include: SIGINT Network (intelligence feeds from Union surveillance infrastructure), Social Processing Suite (specialized space for NWO conditioning procedures), Manufacturing Capability (Matter/Life research and production), and Dimensional Monitoring Station (Void Engineer deep-space observation capability).
 
 ---
 
@@ -9624,7 +9623,7 @@ Paradox Reduction: 2 dice for Coincidental, 1 die for Vulgar (Sanctum •••)
 History: Established in 1887 by a hedge witch who fled the UK during a Technocratic crackdown. The house has passed through six generations of caretakers, accumulating deep resonance. Local spirits consider it "the old house" and treat it with a respect they wouldn't extend to any newer establishment.
 ```
 
-> Using Hawthorn House: The cabal returns to the Chantry after a difficult confrontation with an NWO surveillance team. Silas has 4 Lethal damage and is bleeding. Rosamund uses the basement's dedicated workspace (Life working at -1 Difficulty + +1 die from Sanctum + +1 die from Dedicated Workspace = highly favorable conditions). She rolls Intellect 3 + Medicine 3 + 3 bonus dice = 9 dice, Difficulty 1. She rolls 9 dice and gets 5 hits — more than enough to fully heal Silas. The Consecrated Ground's bonus to healing magic (-1 Difficulty, which was already 1, so 0 effective) makes even a difficult working feel straightforward. The spirit guardian manifests briefly to acknowledge the cabal's return — a flicker of light through the hawthorn leaves in the garden. "Welcome home," it doesn't say, but means.
+> Using Hawthorn House: The cabal returns to the Chantry after a difficult confrontation with an NWO surveillance team. Silas has 4 Lethal damage and is bleeding. Rosamund uses the basement's dedicated workspace (Life working at -1 Difficulty + Enhancement +1 from Sanctum + Enhancement +1 from Dedicated Workspace = highly favorable conditions). She rolls Intellect 3 + Medicine 3 + 3 bonus dice = 9 dice, Difficulty 1. She rolls 9 dice and gets 5 hits — more than enough to fully heal Silas. The Consecrated Ground's bonus to healing magic (-1 Difficulty, which was already 1, so 0 effective) makes even a difficult working feel straightforward. The spirit guardian manifests briefly to acknowledge the cabal's return — a flicker of light through the hawthorn leaves in the garden. "Welcome home," it doesn't say, but means.
 
 ### The Atelier — Medium Urban Chantry (Multi-Tradition)
 
@@ -9677,7 +9676,7 @@ Data Archives (Library): ••• (3) — technical and engineering data; NWO s
 Power Supply (Node Access): ••• (3) — technical resonance Node beneath the server room
 Personnel (Allies): •••• (4) — Massachusetts tech sector; local government; university partnerships
 
-Construct Merits:
+Construct Advantages:
   Manufacturing Capability (•••) — on-site fabrication can produce Iteration X Devices; automated repair nanite production
   SIGINT Network (••) — connected to Union surveillance infrastructure for the greater Boston area
   Social Processing Suite (••) — NWO conditioning facility (officially "employee wellness center")
@@ -9698,7 +9697,7 @@ History: Established 2019 over an existing tech startup that Iteration X acquire
 
 ## Chantry Tags (Complications)
 
-Chantry Tags are the counterweight to Merits. They represent problems, vulnerabilities, or complications built into the Chantry's history or situation. Flaws are not chosen at character creation — they are imposed by circumstance, acquired through play, or inherited from the Chantry's history. The Storyguide may introduce a Flaw at any time when the fiction supports it. A Flaw can be removed through dedicated play effort, narrative resolution, or magical reworking, but never simply purchased away.
+Chantry drawback Tags are the counterweight to Advantages. They represent problems, vulnerabilities, or complications built into the Chantry's history or situation. These drawback Tags are not chosen at character creation — they are imposed by circumstance, acquired through play, or inherited from the Chantry's history. The Storyguide may introduce one at any time when the fiction supports it. A Chantry drawback Tag can be removed through dedicated play effort, narrative resolution, or magical reworking, but never simply purchased away.
 
 Every Flaw has a severity rating (one to three dots) and a specific mechanical consequence. More importantly, every Flaw is a story hook — a built-in source of complications that the Storyguide should use regularly, not save for major moments.
 
@@ -9811,7 +9810,7 @@ Chantries, like characters and items, can have Tags. Chantry Tags represent pers
 
 ### Invoking Chantry Tags
 
-A character within the Chantry may Invoke a relevant Chantry Tag once per scene for +2 dice on a roll where the Tag genuinely applies. Invoking a Chantry Tag costs 1 Momentum (from the player pool) or is granted free by the Storyguide when the fiction particularly calls for it. Multiple characters cannot invoke the same Tag in the same scene — only the first invocation applies.
+A character within the Chantry may Invoke a relevant Chantry Tag once per scene for Enhancement +1 on a roll where the Tag genuinely applies. Invoking a Chantry Tag costs 1 Momentum (from the player pool) or is granted free by the Storyguide when the fiction particularly calls for it. Multiple characters cannot invoke the same Tag in the same scene — only the first invocation applies.
 
 ### Compelling Chantry Tags
 
@@ -9819,25 +9818,25 @@ The Storyguide may Compel a Chantry Tag to introduce a complication. The player(
 
 | Chantry Tag | Invoke / Compel |
 | --- | --- |
-| [Consecrated] | Invoke: +2 dice to Willpower resistance rolls, morale checks, or spiritual workings performed here.
+| [Consecrated] | Invoke: Enhancement +1 to Willpower resistance rolls, morale checks, or spiritual workings performed here.
 Compel: Beings with antithetical resonance are drawn to disrupt or defile the Chantry specifically because it is consecrated. |
-| [Hidden Node] | Invoke: +2 dice to conceal magical activity from detection; Technocratic scanning attempts are at +2 Difficulty.
+| [Hidden Node] | Invoke: Enhancement +1 to conceal magical activity from detection; Technocratic scanning attempts are at +2 Difficulty.
 Compel: The hidden Node attracts the attention of precisely the entity the cabal least wants finding it. |
-| [Ancient History] | Invoke: +2 dice to any research roll, spirit negotiation, or historical knowledge check performed within the Chantry.
+| [Ancient History] | Invoke: Enhancement +1 to any research roll, spirit negotiation, or historical knowledge check performed within the Chantry.
 Compel: Something from the Chantry's history resurfaces at an inconvenient moment — an old debt, a forgotten enemy, a promise made by previous inhabitants. |
 | [Known Location] | Invoke: (Cannot be invoked as a benefit — this is a Flaw Tag only.)
 Compel: The Storyguide introduces external observation or threat to the Chantry without setup. The cabal cannot assume they are unobserved. |
-| [Ritual Space] | Invoke: +2 dice to any group ritual or extended magical working performed in the designated area.
+| [Ritual Space] | Invoke: Enhancement +1 to any group ritual or extended magical working performed in the designated area.
 Compel: The Ritual Space's power draws something uninvited — a spirit curious about the working, a Paradox manifestation, a rival who felt the magic from outside. |
-| [Warded] | Invoke: +2 dice to detect supernatural intrusion or unauthorized magical activity within the Chantry's borders.
+| [Warded] | Invoke: Enhancement +1 to detect supernatural intrusion or unauthorized magical activity within the Chantry's borders.
 Compel: The Ward's own resonance interferes with a working the cabal needs to perform — the protection creates an obstacle. |
-| [Living Node] | Invoke: +2 dice to any Quintessence-related roll, Node attunement, or Tass-collection activity.
+| [Living Node] | Invoke: Enhancement +1 to any Quintessence-related roll, Node attunement, or Tass-collection activity.
 Compel: The Node has a mood today. Its output changes character — the Tass forms in a disquieting shape, or the Node's resonance magnifies exactly the wrong emotion in the Chantry's inhabitants. |
 | [Compromised] | Invoke: (Cannot be invoked as a benefit — this is a Flaw Tag only.)
 Compel: The compromise manifests in a specific way this scene: a siphon draws away Quintessence at a critical moment, a tainted working produces unexpected side effects. |
-| [Community Hub] | Invoke: +2 dice to Persuasion, Presence, or Allies rolls conducted from or about the Chantry.
+| [Community Hub] | Invoke: Enhancement +1 to Persuasion, Presence, or Allies rolls conducted from or about the Chantry.
 Compel: The community that relies on the Chantry needs something from the cabal, right now, at the worst possible moment. |
-| [Technocratic Design] | Invoke (Constructs only): +2 dice to Technology or science-related workings performed within; Primal Energy distribution is more efficient (+25% Node output).
+| [Technocratic Design] | Invoke (Constructs only): Enhancement +1 to Technology or science-related workings performed within; Primal Energy distribution is more efficient (+25% Node output).
 Compel: Iteration X engineering tolerances and NWO protocols generate bureaucratic friction at a critical moment. The paperwork demands filing. |
 
 > CHANTRY TAG INVOCATION IN PLAY:
@@ -9853,7 +9852,7 @@ Compel: Iteration X engineering tolerances and NWO protocols generate bureaucrat
 > 
 > Storyguide: "Absolutely. Spend 1 Momentum. The consecration presses down on the
 >   prisoner like a weight — her resistance feels different, more effortful, less
->   confident. You get +2 dice on your next Mind roll against her."
+>   confident. You get Enhancement +1 on your next Mind roll against her."
 > 
 > Later: The Storyguide Compels [Ancient History].
 > 
@@ -9877,7 +9876,7 @@ And when the Chantry is threatened — when it might be lost, damaged, or taken 
 
 ---
 
-For rules on acquiring a Chantry as a Background at character creation, see Chapter 3: Character Creation. The Chantry Background (1-5 dots) represents the cabal's share of a pre-existing Chantry and gives them access to proportional Trait ratings. A cabal that begins with a Chantry at Background 3 has a Medium-size Chantry with Traits averaging at 2-3, and two Merits chosen at character creation. Additional development happens in play.
+For rules on acquiring a Chantry as an Edge at character creation, see Chapter 3: Character Creation. The Chantry Edge (1-5 dots) represents the cabal's share of a pre-existing Chantry and gives them access to proportional Trait ratings. A cabal that begins with a Chantry Edge at 3 dots has a Medium-size Chantry with Traits averaging at 2-3, and two Advantages chosen at character creation. Additional development happens in play.
 
 # Appendix F: The Nine Traditions — Deep Lore
 
@@ -9942,7 +9941,7 @@ Background Cost: 6 | Quintessence: 20 | SPU Primal Pool: 10
 
 These luminous spheres, formed in the heart of the Akashic Record over centuries of practice, serve simultaneously as Quintessence batteries and as aids to focused rote work. No larger than a golf ball, they emit a faint inner light that pulsates in time with the holder's heartbeat. Each Pearl is unique — shaped by the particular enlightenment-journey of the Akashic whose practice caused it to crystallize.
 
-SPU Effect: A Dragon Pearl holds 10 points of Primal Energy. When the holder performs a rote (a pre-planned magical working from their tradition), they may draw on the Pearl to add +1 die to their casting roll. This bonus cannot raise the casting pool above 5 dice beyond the character's Enlightenment rating. Masters do not benefit from additional dice — the Pearl's encouragement is for those still developing their craft. When the Pearl's Primal Energy is depleted, it becomes dormant and must be recharged at a Node.
+SPU Effect: A Dragon Pearl holds 10 points of Primal Energy. When the holder performs a rote (a pre-planned magical working from their tradition), they may draw on the Pearl to add Enhancement +1 to their casting roll. This bonus is subject to the usual +5 Enhancement cap. Masters do not benefit from the extra Enhancement — the Pearl's encouragement is for those still developing their craft. When the Pearl's Primal Energy is depleted, it becomes dormant and must be recharged at a Node.
 ```
 
 ## The Celestial Chorus
@@ -10045,7 +10044,7 @@ Mechanics: The mage must first establish an ongoing compact with a specific tech
 
 This powerful rote, unique to the Akinkanju sect, invokes the adinkra symbol of the Ram's Horns tattooed on the practitioner's body as a portal through which a specific Umbrood spirit — The Voices, a denizen of the Well of Souls — temporarily inhabits the sacred symbols. The practitioner becomes a living fetish-spirit, possessed by ancient wisdom and power.
 
-Mechanics: Activation requires the practitioner to spend 2 Momentum and roll Resolve + Occult at Difficulty 3. On success, for a number of scenes equal to the hits scored, the practitioner gains: immunity to wound penalties (all negatives from health track conditions are suppressed), +3 dice to resist mental coercion (attackers must first overcome this before any other resistance rolls), and regains 1 spent Willpower point at the start of each round. However, the practitioner cannot access their Sphere magic while in this state — previously established effects continue but no new castings are possible. Ending the state prematurely costs 5 Willpower points as the spirit tears itself free of the host.
+Mechanics: Activation requires the practitioner to spend 2 Momentum and roll Resolve + Occult at Difficulty 3. On success, for a number of scenes equal to the hits scored, the practitioner gains: immunity to wound penalties (all negatives from health track conditions are suppressed), Enhancement +2 to resist mental coercion (attackers must first overcome this before any other resistance rolls), and regains 1 spent Willpower point at the start of each round. However, the practitioner cannot access their Sphere magic while in this state — previously established effects continue but no new castings are possible. Ending the state prematurely costs 5 Willpower points as the spirit tears itself free of the host.
 
 ## The Euthanatos (Chakravanti)
 
@@ -10116,7 +10115,7 @@ Background Cost: 3 | Primal Pool: 15
 
 A sacred incense blend originating in African Hermetic practice, combining Imphepho (Helichrysum odoratissimum) with other botanicals charged with Prime and Spirit energy. When burned, the smoke creates a boundary-thinning effect that makes spirit communication significantly easier.
 
-SPU Effect: When burned in a ritual space (a slow-burning bundle lasting one scene), the Imphepho reduces the Difficulty of all Spirit-based magical workings by 1, to a minimum of Difficulty 0. Spirits in the immediate area can be perceived by all present (not just mages) as faint impressions, sounds, and temperature changes. Each use expends 3 Primal Energy from the bundle. Once depleted, the remaining ash can be used as a one-time instant-activation reagent for a single Spirit effect, adding +2 dice to the roll.
+SPU Effect: When burned in a ritual space (a slow-burning bundle lasting one scene), the Imphepho reduces the Difficulty of all Spirit-based magical workings by 1, to a minimum of Difficulty 0. Spirits in the immediate area can be perceived by all present (not just mages) as faint impressions, sounds, and temperature changes. Each use expends 3 Primal Energy from the bundle. Once depleted, the remaining ash can be used as a one-time instant-activation reagent for a single Spirit effect, adding Enhancement +1 to the roll.
 ```
 
 ```
@@ -10126,7 +10125,7 @@ Background Cost: 5 | Primal Pool: 10
 
 A Chinese Taoist alchemical cauldron, brass-fitted and ancient, charged with a combination of Matter, Prime, and Life energies through centuries of alchemical practice. The cauldron is used for the ancient practice of Waidan (outer alchemy) — literally transmuting materials to produce substances of spiritual power.
 
-SPU Effect: When used in an hour-long alchemical working, the Waidan Ding can produce one of the following: a Tass item with 3 Primal Energy; a restorative substance that heals 2 health track boxes when consumed (Life 3 effect); or an alchemical substance that, when ingested, grants +1 die to a specific Sphere for one scene. The mage rolls Intellect + Science (or Craft) at Difficulty 2; each hit beyond the minimum improves the product (more Tass, more healing, longer effect duration). The cauldron expends 1 Primal Energy per use.
+SPU Effect: When used in an hour-long alchemical working, the Waidan Ding can produce one of the following: a Tass item with 3 Primal Energy; a restorative substance that heals 2 health track boxes when consumed (Life 3 effect); or an alchemical substance that, when ingested, grants Enhancement +1 to a specific Sphere for one scene. The mage rolls Intellect + Science (or Craft) at Difficulty 2; each hit beyond the minimum improves the product (more Tass, more healing, longer effect duration). The cauldron expends 1 Primal Energy per use.
 ```
 
 ```
@@ -10180,7 +10179,7 @@ Background Cost: 3 | Primal Pool: 5-10
 
 A hyperadvanced mechanical computer combining Etherite component design with Etheric materials science. Internal components include diamond lattices, organoplastic computation membranes, and ultrahard ceramic buffers — it does mechanically what most computers do electronically. Results display via a micromechanical color screen or a tactile patch on the user's skin. The Rod Logic Computer does not set off metal detectors, is immune to electromagnetic interference, and runs entirely on kinetic energy from being handled.
 
-SPU Effect: Functions as a Focus equivalent — any Etherite who possesses one treats it as their primary instrument for Mind, Correspondence, and Data Sphere effects, gaining +1 die to rolls involving calculation, analysis, spatial mapping, or data retrieval. Structure 5, Armor 2 (advanced materials, compact design). The computer can run several pre-loaded programs simultaneously, each functioning as a stored one-use magical procedure at a specific Sphere level.
+SPU Effect: Functions as a Focus equivalent — any Etherite who possesses one treats it as their primary instrument for Mind, Correspondence, and Data Sphere effects, gaining Enhancement +1 to rolls involving calculation, analysis, spatial mapping, or data retrieval. Structure 5, Armor 2 (advanced materials, compact design). The computer can run several pre-loaded programs simultaneously, each functioning as a stored one-use magical procedure at a specific Sphere level.
 ```
 
 ### Rotes
@@ -10270,7 +10269,7 @@ Background Cost: 3 | Primal Pool: 5-10
 
 The Virtual Adept version of this device is functionally similar to the Etherite version (see Sons of Ether above) but aesthetically distinct: where Etherite models favor brass fittings and Victorian-era design language, Adept models tend toward minimalist organic design, bioluminescent displays, and materials that read as either ultra-futuristic or weirdly natural depending on the observer's paradigm.
 
-SPU Effect: As the Sons of Ether entry above, but additionally grants +1 die to Mind and Data Sphere workings when used as a Focus, reflecting the Adept's integration of digital cognition with organic process. The computer's programs include several pre-loaded Adept rote frameworks.
+SPU Effect: As the Sons of Ether entry above, but additionally grants Enhancement +1 to Mind and Data Sphere workings when used as a Focus, reflecting the Adept's integration of digital cognition with organic process. The computer's programs include several pre-loaded Adept rote frameworks.
 ```
 
 ---
@@ -10361,7 +10360,7 @@ SPU Effects:
 - Online Access: The operative can access all mundane internet functions, perform research and hacking, without external equipment.
 - Digital Web Projection: Via a Data 2 Adjustment, the operative can project sensorially or physically into the Digital Web without external hardware.
 - ES-Phone and PPP Integration: All Iteration X standard apps, tactical databases, and encrypted communication protocols are accessible.
-- Processing Assist: +1 die to all Research rolls as the DEI cross-references relevant data continuously.
+- Processing Assist: Enhancement +1 to all Research rolls as the DEI cross-references relevant data continuously.
 ```
 
 #### Automated Repair Nanites (●●● Invention)
@@ -10591,7 +10590,7 @@ This tension — the Technocracy pushing Consensus Difficulty up, the Traditions
 
 ---
 
-For complete Technocratic character creation guidance, Convention-specific Merit lists, and detailed mission-structure rules, cross-reference Chapter 8: Factions and the Social Game, and the character creation guidelines in Chapter 3. The HOAR rating system described in the Technocracy Reloaded source material makes an excellent template for Storyguides to track how much the Technocracy cares about a specific Tradition mage or cabal — starting at rating 2 (neutral potential asset) and rising or falling based on actions taken in play.
+For complete Technocratic character creation guidance, Convention-specific Edge and Power lists, and detailed mission-structure rules, cross-reference Chapter 8: Factions and the Social Game, and the character creation guidelines in Chapter 3. The HOAR rating system described in the Technocracy Reloaded source material makes an excellent template for Storyguides to track how much the Technocracy cares about a specific Tradition mage or cabal — starting at rating 2 (neutral potential asset) and rising or falling based on actions taken in play.
 
 ## Operative Field Dossier — Adjustments, Procedures, and Devices
 
@@ -10669,7 +10668,7 @@ The following sensory enhancements are permanent biomods or cybernetics availabl
 Augmented Reality Vision — Background Cost 4
 --------------------------------------------
 Primary sense tied to the Digital Web's AR layer. Provides 360-degree awareness within 25 yards that passes through walls and floors — limited to what Web-connected devices can detect.
-[AR Vision] — +2 dice on Investigation or Research rolls involving anything within range that has AR data attached. Provides instant biometric read on individuals in range with Web presence.
+[AR Vision] — Enhancement +1 on Investigation or Research rolls involving anything within range that has AR data attached. Provides instant biometric read on individuals in range with Web presence.
 [Coverage Gaps] — +1 Difficulty to Perception rolls outside Constructs; +2 Difficulty in rural or remote areas with poor Web coverage.
 ```
 
@@ -10677,7 +10676,7 @@ Primary sense tied to the Digital Web's AR layer. Provides 360-degree awareness 
 Near-Infrared Vision — Background Cost 4
 ----------------------------------------
 Perception in the 1000-3000nm light range. Sees IR security beams, targeting lasers, and subsurface biological features invisible to normal sight. No penalty in dim conditions short of total darkness.
-[IR Band] — +1 die on Medical rolls, opposed Social rolls, and rolls to detect non-humans in disguise, within 10 feet.
+[IR Band] — Enhancement +1 on Medical rolls, opposed Social rolls, and rolls to detect non-humans in disguise, within 10 feet.
 [Colorblind] — Cannot perceive color normally. IR lights can illuminate dark areas without alerting targets who lack IR sensitivity.
 ```
 
@@ -10694,7 +10693,7 @@ Emits high-frequency pulses, building a 3D map of surroundings from reflected si
 Thermal Vision — Background Cost 4
 ----------------------------------
 Perceives temperature variation in the 1000-15000nm range. Sees in all lighting conditions, including total darkness. Perceives heat signatures rather than reflected light.
-[Thermal] — +3 dice on Perception rolls to notice hidden features or detect non-humans in disguise within 10 feet. Sees in total darkness.
+[Thermal] — Enhancement +2 on Perception rolls to notice hidden features or detect non-humans in disguise within 10 feet. Sees in total darkness.
 [Reading Penalty] — +2 Difficulty to read conventional print or use standard computer screens. Requires specially made materials for normal document use.
 ```
 
@@ -10790,7 +10789,7 @@ Notable: Distribution has been tightly restricted since an operative named Samae
 Conversation Emulator — Background Cost 6, Enlightenment 3, Primal Energy 10
 ------------------------------------------------------------------------
 A USB-sized device that, when pointed at a target, predicts the likely arc of a future conversation between the operative and that target, including probable objections, emotional hot-points, and likely outcomes.
-Effect: Entropy 2/Time 2. Hits on the activation roll add as bonus dice to all Social rolls made against that target during the following scene.
+Effect: Entropy 2/Time 2. Hits on the activation roll add as Enhancement (to the +5 cap) to all Social rolls made against that target during the following scene.
 [Preview] — Before the conversation begins, the operative may ask the Storyguide one yes/no question about the target's likely response to one specific approach.
 ```
 
@@ -11050,7 +11049,7 @@ HIPSTer — Holographic Imaging Projection System Terrain-Reader
 --------------------------------------------------------------
 Enlightenment 3  |  Primal Energy 15  |  Background Cost 4 pts.
 Sphere Basis: Data 2 / Forces 2
-Provides two simultaneous capabilities: (1) All Attribute + Skill checks for surveillance, mapping, and target tracking gain +2 dice. (2) Provides real-time contextual environmental data, reducing Difficulty of tactical planning and coordination rolls by 1. Detects non-optical targets (thermal, sonic, RF signatures); unaffected by CLN-20 optical distortion. Transmits feed to other agents' ES-Phones or Construct terminals in real time.
+Provides two simultaneous capabilities: (1) All Attribute + Skill checks for surveillance, mapping, and target tracking gain Enhancement +1. (2) Provides real-time contextual environmental data, reducing Difficulty of tactical planning and coordination rolls by 1. Detects non-optical targets (thermal, sonic, RF signatures); unaffected by CLN-20 optical distortion. Transmits feed to other agents' ES-Phones or Construct terminals in real time.
 ```
 
 ```
@@ -11077,7 +11076,7 @@ Pre-Designed Proficiency Packages (PDPPs) — Skill Boost Injectors
 -----------------------------------------------------------------
 Enlightenment 3-5  |  Primal Energy 5-25  |  Background Cost 3-12 pts. per use
 Sphere Basis: Mind 3-5
-Each PDPP provides a temporary boost to a specific Skill for the scene or session. Enlightenment 3 version: +1 die to designated Skill. Enlightenment 4 version: +2 dice. Enlightenment 5 version: +3 dice. Background Cost scales proportionally. Boosted knowledge fades at session end; agent retains no permanent skill improvement.
+Each PDPP provides a temporary boost to a specific Skill for the scene or session. Enlightenment 3 version: Enhancement +1 to designated Skill. Enlightenment 4 version: Enhancement +1. Enlightenment 5 version: Enhancement +2. Background Cost scales proportionally. Boosted knowledge fades at session end; agent retains no permanent skill improvement.
 ```
 
 ```
@@ -11154,7 +11153,7 @@ Variable Atmospheric Pharmacological Emitter (VAPE) — Chemical Delivery System
 ------------------------------------------------------------------------
 Enlightenment 4  |  Primal Energy 20  |  Background Cost 6 pts.
 Sphere Basis: Life 2 / Prime 2
-Disperses a customizable pharmacological aerosol in a 10-meter radius cloud. Effect depends on loaded compound: Sedative — Targets make Stamina roll Difficulty 6 or fall unconscious for 1 hour. Hallucinogenic — As CLN-20 Fun House Gas but operates on the mind rather than optics. Stimulant — +1 die to Stamina and Might for target group for 1 hour. Swappable cartridges allow field reconfiguration between encounters.
+Disperses a customizable pharmacological aerosol in a 10-meter radius cloud. Effect depends on loaded compound: Sedative — Targets make Stamina roll Difficulty 6 or fall unconscious for 1 hour. Hallucinogenic — As CLN-20 Fun House Gas but operates on the mind rather than optics. Stimulant — Enhancement +1 to Stamina and Might for target group for 1 hour. Swappable cartridges allow field reconfiguration between encounters.
 ```
 
 ```
@@ -11179,7 +11178,7 @@ Provides real-time access to the Technocracy's central intelligence database. Ac
 Pocket Drone — Miniature Surveillance Platform
 ----------------------------------------------
 Enlightenment N/A  |  Primal Energy N/A  |  Background Cost 2+ pts. per drone
-Pocket-sized autonomous drone for surveillance and light tactical support. Optional Adjustment upgrades (purchased separately): Data 2 — Eye-in-sky feed; +2 dice to Awareness from drone feed. Forces 4 — Electric discharge; Enhancement +2 lethal against single target at close range. Mind 2 — Reduces Difficulty of observers' Awareness rolls to notice drone by -1.
+Pocket-sized autonomous drone for surveillance and light tactical support. Optional Adjustment upgrades (purchased separately): Data 2 — Eye-in-sky feed; Enhancement +1 to Awareness from drone feed. Forces 4 — Electric discharge; Enhancement +2 lethal against single target at close range. Mind 2 — Reduces Difficulty of observers' Awareness rolls to notice drone by -1.
 ```
 
 ```
@@ -11187,7 +11186,7 @@ Autonomous Investigatory Sampler — Remote Evidence Collection
 -------------------------------------------------------------
 Enlightenment 3  |  Primal Energy 15  |  Background Cost 6 pts.
 Sphere Basis: Data 2 / Forces 2
-Remotely deployed sensor package. Collects environmental, biological, and digital evidence. +2 dice to Investigation and Evidence Collection rolls made from its data feed. Feed is encrypted and transmitted directly to the agent's ES-Phone or Construct terminal.
+Remotely deployed sensor package. Collects environmental, biological, and digital evidence. Enhancement +1 to Investigation and Evidence Collection rolls made from its data feed. Feed is encrypted and transmitted directly to the agent's ES-Phone or Construct terminal.
 ```
 
 ```
@@ -11262,7 +11261,7 @@ C-SAM (2 pts.) — Data 1/Entropy 1/Time 2 Adjustment; tracks target vehicle or 
 K-Gram (1 pt.) — Encrypted tactical image sharing; real-time situational awareness in team operations.
 Manar (1 pt.) — Data 1/Dimensional Science 1/Prime 1; detects supernatural activity in area. Flags unusual Primal Energy signatures and Gauntlet fluctuations within 100m.
 NOT: An App (3 pts.) — Mind 3 Adjustment; removes specific memories from target. Target gets Resolve roll vs. Difficulty 6 to resist; on failure, specific memory is erased.
-VDAS Mobile (3 pts.) — Visual Data Analysis System; +2 dice to Awareness and Investigation.
+VDAS Mobile (3 pts.) — Visual Data Analysis System; Enhancement +1 to Awareness and Investigation.
 ```
 
 ```
@@ -11281,7 +11280,7 @@ SMC Vehicle — Spectre Motor Corporation Technocratic Transport
 Base: Enlightenment 3  |  Primal Energy 15 (via SPECM module)  |  Background Cost 6 pts.
 Sphere Basis: Forces 2+ / Matter 2+ (upgrades vary)
 Standard Technocracy field vehicle available in multiple configurations. Base model is a high-performance sedan. SPECM module included at base cost.
-VEHICLE TYPES AVAILABLE: The Micon Katana — High-performance motorcycle with evasion systems; +2 dice Pilot for chases. The Modular Amalgam Transport Vehicle (MAT-V) — Armored multipurpose vehicle; Armor 3. The Spectre Mark IV — Q Division standard sedan with concealed systems and Armor 2. The Symposium on Wheels (SoW) — Mobile command vehicle with integrated comms and data systems.
+VEHICLE TYPES AVAILABLE: The Micon Katana — High-performance motorcycle with evasion systems; Enhancement +1 Pilot for chases. The Modular Amalgam Transport Vehicle (MAT-V) — Armored multipurpose vehicle; Armor 3. The Spectre Mark IV — Q Division standard sedan with concealed systems and Armor 2. The Symposium on Wheels (SoW) — Mobile command vehicle with integrated comms and data systems.
 HARDPOINTS: Vehicle can mount 1 Hardpoint per 5 pts. of Background Cost (rounded up). Each Hardpoint accepts one weapon, sensor system, or utility Device. Hardpoint cost is in addition to base vehicle cost.
 ```
 
@@ -11296,7 +11295,7 @@ Online Access — Neural Network Interface
 ----------------------------------------
 Enlightenment N/A  |  Primal Energy N/A  |  Background Cost 2 pts.
 Requires: 1 Genetic Tag
-Direct neural interface with computer networks and digital systems. +1 die to all Technology and Data-related rolls when connected to a network. Connection is mental rather than physical; visible as unfocused eyes and slight tremor during deep access.
+Direct neural interface with computer networks and digital systems. Enhancement +1 to all Technology and Data-related rolls when connected to a network. Connection is mental rather than physical; visible as unfocused eyes and slight tremor during deep access.
 ```
 
 ```
@@ -11304,7 +11303,7 @@ Skeletal Enhancement — Reinforced Bone Structure
 ------------------------------------------------
 Enlightenment N/A  |  Primal Energy N/A  |  Background Cost 2 pts.
 Requires: 1 Genetic Tag
-Reinforced skeleton with composite materials. +1 die to soak bashing damage. Immune to bone fractures from falls up to 3 stories. Falls from greater height still deal damage normally.
+Reinforced skeleton with composite materials. Enhancement +1 to soak bashing damage. Immune to bone fractures from falls up to 3 stories. Falls from greater height still deal damage normally.
 ```
 
 ```
@@ -11336,8 +11335,8 @@ Alanson R-25 Hardsuit — Powered Combat Exoskeleton
 --------------------------------------------------
 Enlightenment 4  |  Primal Energy 20  |  Background Cost 8 pts.
 Sphere Basis: Forces 2, Life 2, Matter 3, Prime 2
-BASE SYSTEMS (included at 8-pt. cost): Armor Rating 7 vs. all damage types. Servo-assisted strength: +2 dice to Might-based feats. Temperature Control: Immune to environmental heat/cold damage. Reinforced fists: +2 Enhancement on unarmed strikes. Integrated Communications Interface (ICI): Encrypted link to Construct. Cross-Environment Life Support (CELSS): 12-hour sealed air supply.
-OPTIONAL UPGRADES (additional Background Cost): Enhanced Targeting Capacity (4 pts.): After 1 turn aiming, +2 dice Ranged Combat. Heavy Armor (1 pt.): +3 additional Armor Rating (total Armor 10). HIPAU (9 pts.): Integrated plasma cannon as Implanted Plasma Cannon (Enlightenment 8). SCEMS (4 pts.): Rolls own Enlightenment vs. Difficulty 6 to stabilize incapacitated characters; hits = Health levels restored.
+BASE SYSTEMS (included at 8-pt. cost): Armor Rating 7 vs. all damage types. Servo-assisted strength: Enhancement +1 to Might-based feats. Temperature Control: Immune to environmental heat/cold damage. Reinforced fists: +2 Enhancement on unarmed strikes. Integrated Communications Interface (ICI): Encrypted link to Construct. Cross-Environment Life Support (CELSS): 12-hour sealed air supply.
+OPTIONAL UPGRADES (additional Background Cost): Enhanced Targeting Capacity (4 pts.): After 1 turn aiming, Enhancement +1 Ranged Combat. Heavy Armor (1 pt.): +3 additional Armor Rating (total Armor 10). HIPAU (9 pts.): Integrated plasma cannon as Implanted Plasma Cannon (Enlightenment 8). SCEMS (4 pts.): Rolls own Enlightenment vs. Difficulty 6 to stabilize incapacitated characters; hits = Health levels restored.
 ```
 
 #### Biomods
@@ -11349,7 +11348,7 @@ Enhanced Senses Biomod — Biological Perception Enhancement
 ----------------------------------------------------------
 Background Cost: 1-3 pts. per sense (1 pt. each, 3 pts. for all five)
 Requires: 1 Genetic Tag per 2 pts. of cost
-One or more senses are enhanced beyond human norms. Reduces Difficulty of Awareness rolls for the enhanced sense(s) by 2. At 3 pts. (all senses): reduces Difficulty of all Awareness rolls by 2. Note: Overlaps mechanically with the Acute Senses Merit. Characters may not stack both.
+One or more senses are enhanced beyond human norms. Reduces Difficulty of Awareness rolls for the enhanced sense(s) by 2. At 3 pts. (all senses): reduces Difficulty of all Awareness rolls by 2. Note: Overlaps mechanically with the Acute Senses Edge. Characters may not stack both.
 ```
 
 ```
@@ -11357,7 +11356,7 @@ Enhanced Musculature Biomod — Directed Muscle Development
 ---------------------------------------------------------
 Background Cost: 3 pts.
 Requires: 1 Genetic Tag
-Artificially stimulated muscle fiber density beyond normal human limits. +1 die to Might-based rolls for feats of strength. Visible as unusually developed musculature; may raise social questions in conventional settings.
+Artificially stimulated muscle fiber density beyond normal human limits. Enhancement +1 to Might-based rolls for feats of strength. Visible as unusually developed musculature; may raise social questions in conventional settings.
 ```
 
 ```
@@ -11400,7 +11399,7 @@ Visual Data & Analysis Spectrum (VDAS) — Sensor Suite
 -----------------------------------------------------
 Enlightenment 3-6  |  Primal Energy N/A  |  Background Cost 6 pts.
 Sphere Basis: Data 2+ / Spirit 1+
-A sensor suite (goggles, contact lenses, or implanted). Provides: +2 dice to Awareness rolls under all light conditions. Supernatural Resonance detection: Difficulty 7 to identify active Sphere effects in the scene.
+A sensor suite (goggles, contact lenses, or implanted). Provides: Enhancement +1 to Awareness rolls under all light conditions. Supernatural Resonance detection: Difficulty 7 to identify active Sphere effects in the scene.
 ```
 
 ```
@@ -11474,7 +11473,7 @@ Modifiers to your Initiative Pool apply before rolling. Common modifiers include
 - Heavy armor (full plate, ballistic vest with trauma plates): -1 to -2 dice. The weight and rigidity of serious protection slows your initial reaction.
 - The Staggered condition: -1 die to Initiative Pool in addition to other Staggered penalties.
 - The Blinded condition: -2 dice. Acting on incomplete information is profoundly disorienting.
-- Alert or Prepared Tags from appropriate abilities: +1 or +2 dice. A character who prepared for this specific encounter has already begun moving.
+- Alert or Prepared Tags from appropriate abilities: +1 or Enhancement +1. A character who prepared for this specific encounter has already begun moving.
 - Surprise: A character who is completely unaware of the threat (not merely caught off guard, but genuinely blindsided) does not roll at all in the first round. They have no Action Dice and may not act until Round 2.
 > EXAMPLE — BUILDING THE POOL
 > 
@@ -11597,7 +11596,7 @@ You do not roll new initiative dice between your actions within a round — your
 
 ## Enhancement and Initiative
 
-Some abilities, Edges, specialties, or situational Tags grant Enhancement on initiative rolls. In most Storypath Ultra contexts, Enhancement adds automatic hits before you roll. In the Phase System, Enhancement works differently: each point of Enhancement allows you to shift one Action Die up to two Phases earlier (minimum Phase 1). You distribute Enhancement shifts freely after seeing your roll, before the round begins.
+Some abilities, Edges, specialties, or situational Tags grant Enhancement on initiative rolls. In most Storypath Ultra contexts, Enhancement adds automatic hits after you roll (whenever you land at least one hit). In the Phase System, Enhancement works differently: each point of Enhancement allows you to shift one Action Die up to two Phases earlier (minimum Phase 1). You distribute Enhancement shifts freely after seeing your roll, before the round begins.
 
 You can apply multiple Enhancement points to the same die (shifting it further back) or spread them across different dice (pushing several actions earlier). The only constraint is that no die may be shifted below Phase 1.
 
@@ -11950,7 +11949,7 @@ A Shield Block is an active defense that uses your shield's physical mass and Ta
 
 **Declare:** when an attack has been declared against you and before the attacker rolls.
 **Cost:** spend your Bank Token. You must hold a Bank Token to declare a Shield Block.
-**Invoke:** you may invoke one of your shield's Tags (such as [Block], [Reinforced], [Rigid], or [Ward]) to gain +2 dice on the shield-interposition roll, OR to activate a specific Tag effect as described in Appendix J.
+**Invoke:** you may invoke one of your shield's Tags (such as [Block], [Reinforced], [Rigid], or [Ward]) to gain Enhancement +1 on the shield-interposition roll, OR to activate a specific Tag effect as described in Appendix J.
 
 **Roll:** Shield Skill (or Athletics if untrained) against a Difficulty set by the attack's force — typically the attacker's number of hits.
 
@@ -11965,7 +11964,7 @@ SHIELD BLOCK — SUMMARY
 ----------------------
 WHEN:   Any melee or physical ranged attack. Declare before the roll.
 COST:   Spend your Bank Token. No token = cannot Shield Block.
-INVOKE: One shield Tag for +2 dice or a specific Tag effect (see Appendix J).
+INVOKE: One shield Tag for Enhancement +1 or a specific Tag effect (see Appendix J).
 ROLL:   Shield Skill or Athletics vs. attacker's hits (Difficulty).
 SUCCEED: Full shield Soak applied. Possible Complication on attacker.
 FAIL:   Half Soak (round down) applied. Remainder lands.
@@ -12462,7 +12461,7 @@ She faces a Technocratic Sentinel Construct — a hardened combat drone with a p
 > END OF ROUND: Roll Paradox.
 >   Each working assessed independently:
 >   Forces ● cantrips (×3) — coincidental: +0 Paradox each.
->   "Thunderstrike at Range" Rote — Vulgar with Sleeper witnesses: +2 × Forces ●●● = +6 dice.
+>   "Thunderstrike at Range" Rote — Vulgar with Sleeper witnesses: +2 × Forces ●●● = Enhancement +3.
 >   Total Paradox pool: 6 dice.
 >   Roll: 9, 5, 2, 4, 8, 1. TWO Paradox hits (9 and 8).
 >   The lights in the chamber flicker. Every polished surface briefly shows Seraphine
@@ -12616,15 +12615,14 @@ PARRY (melee only): Spend Bank Token (or use current-Phase die). Contested Melee
   Win = deflect + riposte (1 automatic hit). Lose = eat the attack AND resource still spent.
 
 MOVEMENT: SF 1 (move 1 zone). SF 2 (sprint 2 zones). Moving target: attacker -1 die.
-FULL AUTO: SF 3. +4 dice to attack. Zone effect. Cap applies to small pools.
+FULL AUTO: SF 3. Enhancement +2 to attack. Zone effect. Cap applies to small pools.
 
 SPELLCASTING PARADOX: Each working independent. Vulgar no witnesses: +1 die/Sphere lvl. Vulgar with Sleeper witnesses: +2 dice/Sphere lvl. Coincidental: +0.
 FREEFORM SF = sum of ALL Sphere dots  (Forces ●●● + Corr ●● = 3+2 = SF 5).
 ROTE SF    = highest single Sphere rating − 1 (Forces ●●● + Corr ●● Rote = SF 2).
 Single-sphere freeform (e.g. Forces ●●●) = SF 3 (dot sum). Rote: SF 2 (3−1=2, min 1).
 CASTING POOL: Sphere Skill + Casting Attribute (NOT Arete/Enlightenment). Arete/Enlightenment = cap only.
-Spend Quintessence before rolling: +1 Enhancement die per point spent.
-Max Quintessence spend per cast = Arete/Enlightenment ÷2, rounded up.
+Spend Quintessence before rolling: 2 Quintessence grants Enhancement +1 (hits), maximum Enhancement +2 per cast.
 
 CONCENTRATION CHECK (struck while casting):
   Composure + Resolve vs. Difficulty = attacker hits.
@@ -13006,7 +13004,7 @@ Workshop (Crafts roll, 1 day) = full AP restored.
 
 ## How Tags Work in This System
 
-Tags are the descriptive vocabulary of Storypath Ultra. Every character, object, location, and situation in the game can carry Tags — short, evocative phrases that describe meaningful properties. Tags do not merely flavor the fiction; they have mechanical teeth. A Tag can be invoked to add Enhancement dice to a relevant roll, or compelled against its bearer when the Tag's implications create a complication. The interplay of Tags is how the game's fiction and its mechanics remain inseparable.
+Tags are the descriptive vocabulary of Storypath Ultra. Every character, object, location, and situation in the game can carry Tags — short, evocative phrases that describe meaningful properties. Tags do not merely flavor the fiction; they have mechanical teeth. A Tag can be invoked to add Enhancement (hits) to a relevant roll, or compelled against its bearer when the Tag's implications create a complication. The interplay of Tags is how the game's fiction and its mechanics remain inseparable.
 
 This appendix catalogs all Tags used in the Mage: The Ascension Storypath Ultra conversion, organized by category. Some Tags are drawn directly from the core Storypath Ultra rules; others are new additions specific to this conversion, created to handle armor condition, magical properties, and the Phase Initiative System. Where a Tag is new to this conversion, it is noted as such.
 
@@ -13061,7 +13059,7 @@ Introduced in Appendix X (Disparate Crafts — Fractured Traditions), each of th
 - **Seven Made One** (Bata'a) — invoke on Clan-Sphere workings and Ring Shout rites; compel through les Mystères' demands and a Chwal's divided will.
 - **The Great Work** (Solificati) — invoke on transmutation, refinement, and laboratory work; compel when the pursuit of the Work pulls the alchemist from the crisis at hand.
 - **Streetwise Survivor** (Orphans) — invoke on disguised coincidental magic and low-profile survival; compel when isolation or an untrained gap shows.
-- **It's Just an App** (Orphans) — invoke to reframe a working as ordinary technology (halving botch Paradox per the Technomancer merit).
+- **It's Just an App** (Orphans) — invoke to reframe a working as ordinary technology (halving botch Paradox per the Technomancer Edge).
 - **The Map Is the Territory**, **Living Map**, **Ward Anchor** (the example Cartographers' Compact) — sample Tags from Appendix X's "build your own Craft" worked example.
 
 New **wonder and weapon Tags** referenced across Appendices X, V, and R — [Bane Weapon: Undead & Shapechangers], [Bane Weapon: Supernatural], [Bound Spirit: Djinni], [Nigh-Indestructible], [Autonomous], [Mana Reservoir], [Sèvitè: +N Clan Sphere], and [Conjure-Staff] — are priced by the tag-value hierarchy in "Tag Design and Pricing" (below) and built through the crafting rules in Appendix S.
@@ -13137,7 +13135,7 @@ Common examples of scope creep, and how to correct them:
 
 ### Worked Example — The Hacker's Eye Tag
 
-A Virtual Adept player wants to build a custom Cutting-Edge Device: a pair of smart glasses with an integrated Enlightened OS. The player proposes a tag called "Hacker's Eye" and describes it as: "Invoke for +2 dice on any Correspondence casting OR any Technology roll."
+A Virtual Adept player wants to build a custom Cutting-Edge Device: a pair of smart glasses with an integrated Enlightened OS. The player proposes a tag called "Hacker's Eye" and describes it as: "Invoke for Enhancement +1 on any Correspondence casting OR any Technology roll."
 
 This tag has three separate problems:
 
@@ -13219,7 +13217,7 @@ A tag is a descriptive label that has two mechanical functions: it can be **invo
 
 This means every tag must be designed with both functions in mind. A tag that can be invoked but never meaningfully compelled is a one-sided advantage. A tag that is always being compelled but never meaningfully invoked is a punishment, not a character element. Good tags are genuinely double-edged: the same quality that helps you in one context creates problems in another, and neither function feels forced.
 
-The second thing a tag is not: a tag is not a description. [Blue Eyes] is a description. [Mesmerizing Gaze] is a tag — because it tells you something about when it invokes (+2 dice on an attempt to hold someone's attention), something about when it compels (the Storyguide can trigger it to make you unnervingly visible when you need to be anonymous), and something about the character's relationship to their own nature. The test is not "does this describe something real?" but "does this generate interesting mechanical and narrative moments at the table?"
+The second thing a tag is not: a tag is not a description. [Blue Eyes] is a description. [Mesmerizing Gaze] is a tag — because it tells you something about when it invokes (Enhancement +1 on an attempt to hold someone's attention), something about when it compels (the Storyguide can trigger it to make you unnervingly visible when you need to be anonymous), and something about the character's relationship to their own nature. The test is not "does this describe something real?" but "does this generate interesting mechanical and narrative moments at the table?"
 
 ---
 
@@ -13251,7 +13249,7 @@ The tag's benefit applies constantly, with no activation required and no resourc
 
 **Pricing passive tags:** Passive tags are priced at their specific scope. A passive +1 to soak is worth one tag slot because it is always-on but narrow in effect. A passive +2 to soak is worth two tag slots. A passive benefit that applies to two different action types is worth two tag slots even if each component is modest — the constant availability of both effects is the premium.
 
-**The passive trap:** Do not give passive tags broad scope. A tag that passively grants Enhancement on all social rolls is dominating — it fires in every social scene, every session, with no cost. The same benefit as an invoke-mode tag (1 Momentum for +2 dice, once per Spotlight) is a fair price for breadth. A passive tag should be narrow enough that it only fires in a specific subset of situations, so the constant-availability premium is balanced by genuine specificity.
+**The passive trap:** Do not give passive tags broad scope. A tag that passively grants Enhancement on all social rolls is dominating — it fires in every social scene, every session, with no cost. The same benefit as an invoke-mode tag (1 Momentum for Enhancement +1, once per Spotlight) is a fair price for breadth. A passive tag should be narrow enough that it only fires in a specific subset of situations, so the constant-availability premium is balanced by genuine specificity.
 
 > **Example — Passive tag designed correctly:**
 > The [Surgical Grip] tag on a scalpel-form ritual knife. Invoke: not applicable — passive. Effect: when used in a Life-sphere medical working, treat the knife as a Dedicated Instrument (see Instruments), granting Enhancement +1 without requiring the mage to spend the normal dedication downtime. This applies only in Life medical workings with the knife in hand — a very specific intersection of conditions. The always-on benefit is real but narrow. One tag slot.
@@ -13260,18 +13258,18 @@ The tag's benefit applies constantly, with no activation required and no resourc
 
 #### Mode 2: Standard Invoke (1 Momentum)
 
-The player spends 1 Momentum when the tag is genuinely relevant to the current action and gains +2 dice. One invoke per tag per Spotlight. The Storyguide may grant a free invoke when the fiction particularly calls for it — no Momentum required.
+The player spends 1 Momentum when the tag is genuinely relevant to the current action and gains Enhancement +1. One invoke per tag per Spotlight. The Storyguide may grant a free invoke when the fiction particularly calls for it — no Momentum required.
 
 This is the baseline activation mode. It is the mode assumed when a tag is described without specifying otherwise. It is the cheapest activation cost and the most common one in play.
 
 **When to use standard invoke mode:** For character tags that represent cultivated skill or meaningful reputation. For item tags that describe a specific situational advantage. For anything where the benefit should be deliberate — the player should have to notice the relevance and choose to spend.
 
-**The invoke constraint — once per Spotlight:** You cannot invoke the same tag twice on the same action or in the same Spotlight. If [Fast] applies to your attack, you get one +2 dice bonus for [Fast] this Spotlight, regardless of how fast the action actually is. This prevents invoke stacking on a single die roll.
+**The invoke constraint — once per Spotlight:** You cannot invoke the same tag twice on the same action or in the same Spotlight. If [Fast] applies to your attack, you get one Enhancement +1 bonus for [Fast] this Spotlight, regardless of how fast the action actually is. This prevents invoke stacking on a single die roll.
 
 **The free invoke:** The Storyguide can offer a free invoke at any time when the tag is dramatically perfect. "You're using your [Former Military Sniper] tag — this is exactly the kind of long-distance elimination you were trained for. Take the invoke, no cost." Free invokes are gifts from the fiction; they reward good positioning, clever setup, and Tags that were earned narratively rather than just purchased.
 
 > **Example — Standard invoke tag designed correctly:**
-> [Unnerving Precision] on a Euthanatos mage's character sheet. Invoke: spend 1 Momentum when making a social roll that benefits from projecting lethal certainty — negotiating from a position of "I can end this" rather than "please cooperate." Effect: +2 dice. Compel: the Storyguide introduces a moment where the mage's precision reads as cold rather than confident — a potential ally is frightened rather than impressed, or a normally cooperative NPC finds a reason to distance themselves. One character tag slot (free — character tags do not cost Advancement Points unless linked to a Background).
+> [Unnerving Precision] on a Euthanatos mage's character sheet. Invoke: spend 1 Momentum when making a social roll that benefits from projecting lethal certainty — negotiating from a position of "I can end this" rather than "please cooperate." Effect: Enhancement +1. Compel: the Storyguide introduces a moment where the mage's precision reads as cold rather than confident — a potential ally is frightened rather than impressed, or a normally cooperative NPC finds a reason to distance themselves. One character tag slot (free — character tags do not cost Advancement Points unless linked to a Background).
 
 ---
 
@@ -13279,9 +13277,9 @@ This is the baseline activation mode. It is the mode assumed when a tag is descr
 
 The tag produces a specific effect — often replacing a roll entirely or generating an automatic result — that can only be triggered once per scene. This mode costs 1 Momentum to activate in most cases, or 0 Momentum if the Path or Wonder's design specifies it fires without cost.
 
-This is the mode used for Path special abilities ("Once per scene, spend 1 Momentum to diagnose any illness by touch, no roll required") and for Wonders with limited activations. It is more powerful than a standard invoke because it bypasses the dice entirely — instead of +2 dice on a roll you might fail, you simply succeed at the specific thing the tag covers.
+This is the mode used for Path special abilities ("Once per scene, spend 1 Momentum to diagnose any illness by touch, no roll required") and for Wonders with limited activations. It is more powerful than a standard invoke because it bypasses the dice entirely — instead of Enhancement +1 on a roll you might fail, you simply succeed at the specific thing the tag covers.
 
-**The power-cost relationship:** A once-per-scene effect that replaces a roll is worth approximately one Momentum spend per activation. A once-per-scene effect that adds more than +2 dice (say, adds your full Sphere rating as bonus dice) costs 1 Momentum and carries a once-per-scene limit that together constitute the full price. A once-per-scene effect that also requires a Quintessence expenditure in addition to Momentum is in the territory of Wonder activation rather than tag activation.
+**The power-cost relationship:** A once-per-scene effect that replaces a roll is worth approximately one Momentum spend per activation. A once-per-scene effect that adds more than Enhancement +1 (say, adds your full Sphere rating as bonus dice) costs 1 Momentum and carries a once-per-scene limit that together constitute the full price. A once-per-scene effect that also requires a Quintessence expenditure in addition to Momentum is in the territory of Wonder activation rather than tag activation.
 
 **Pricing once-per-scene tags:** These are one-slot tags for narrow, specific effects. If the once-per-scene effect is broad — replacing any social roll, diagnosing any condition regardless of cause — it is a two-slot tag, because the breadth of what it covers compensates for the frequency limit. A once-per-scene tag that covers a very narrow specific circumstance can be modestly broad in what it produces, because the circumstance is the real constraint.
 
@@ -13332,7 +13330,7 @@ Every tag must have a viable compel. This is not optional — a tag without a ge
 
 | Tag | What makes it an asset | What makes it a problem (compel) |
 |---|---|---|
-| [Precise] | +2 dice on careful, targeted actions | You cannot respond to a situation that requires broad, improvised action — the need for precision becomes paralysis |
+| [Precise] | Enhancement +1 on careful, targeted actions | You cannot respond to a situation that requires broad, improvised action — the need for precision becomes paralysis |
 | [Loud] | Devastating presence; enemies know you are serious | You announce your position; Sleepers call the police; ambush impossible |
 | [Known to the Consilium] | Opens doors, grants credibility | Creates accountability; cannot operate anonymously; rivals know where to find you |
 | [Former Soldier] | Training fires in crisis situations | The training also fires in situations where it should not — threat assessment as paranoia, discipline as emotional distance |
@@ -13345,7 +13343,7 @@ A compel that is purely punishing ("your tag fires and you lose an action for no
 **Designing compels for always-on passive tags:** Passive tags still need compels, but the compel targets the tag's descriptive reality rather than its activation. A [Surgical Grip] knife can be compelled when the mage needs to conceal the knife's nature — its obviously medical precision form makes it recognizable as a ritual instrument to anyone who knows what they are looking at. The compel does not deactivate the passive benefit; it generates a narrative complication alongside it.
 
 > **Worked Example — Compel for a Wonder tag:**
-> A Verbena mage carries an enchanted bone needle used for healing workings. Tag: [Drawn to Wounds]. Standard invoke: +2 dice on Life healing workings with the needle in hand. Compel: the Storyguide notices that a significant NPC in the scene has an old wound that has never fully healed — something the bone needle's resonance picks up on. "The needle pulls toward the wound. You feel the old hurt in your own hand, an echo of whatever injury this person carries. You can ignore it — spend 1 Momentum — or you can let it draw your attention to this person right now, gain 1 Momentum, and deal with the fact that you are suddenly very aware of a stranger's pain at the worst possible moment for that awareness." The player accepts: 1 Momentum gained. The scene now has a thread the Storyguide did not plan and the player chose to pull on. That is a working compel.
+> A Verbena mage carries an enchanted bone needle used for healing workings. Tag: [Drawn to Wounds]. Standard invoke: Enhancement +1 on Life healing workings with the needle in hand. Compel: the Storyguide notices that a significant NPC in the scene has an old wound that has never fully healed — something the bone needle's resonance picks up on. "The needle pulls toward the wound. You feel the old hurt in your own hand, an echo of whatever injury this person carries. You can ignore it — spend 1 Momentum — or you can let it draw your attention to this person right now, gain 1 Momentum, and deal with the fact that you are suddenly very aware of a stranger's pain at the worst possible moment for that awareness." The player accepts: 1 Momentum gained. The scene now has a thread the Storyguide did not plan and the player chose to pull on. That is a working compel.
 
 ---
 
@@ -13355,7 +13353,7 @@ Follow these steps in order when creating a new tag.
 
 **Step 1 — Name the quality.** What single characteristic does this tag describe? Name it in a way that is evocative and specific. Not [Good Fighter] (too vague) but [Relentless Pressure] or [Duelist's Economy]. Not [Smart] but [Reads the Room] or [Pattern Analyst]. The name should already suggest both its invoke and its compel.
 
-**Step 2 — Write the invoke.** Complete this sentence: "I invoke this tag when _____, and the benefit is _____." The when should be specific enough that not every scene qualifies. The benefit should be either +2 dice, access to a specific Trick at reduced cost, or a clearly bounded special effect. If you cannot write the invoke sentence without using the word "or" between two different action types, the tag is covering too much ground.
+**Step 2 — Write the invoke.** Complete this sentence: "I invoke this tag when _____, and the benefit is _____." The when should be specific enough that not every scene qualifies. The benefit should be either Enhancement +1, access to a specific Trick at reduced cost, or a clearly bounded special effect. If you cannot write the invoke sentence without using the word "or" between two different action types, the tag is covering too much ground.
 
 **Step 3 — Determine the activation mode.** Is this passive (always true), standard invoke (1 Momentum), once per scene, once per session, or resource-cost? Match the mode to the power of the effect. Passive requires the narrowest scope. Once per session tolerates the broadest scope per activation. Resource-cost requires the benefit to match the currency's scarcity.
 
@@ -13365,8 +13363,8 @@ Follow these steps in order when creating a new tag.
 |---|---|
 | Passive: +1 Enhancement to one specific action type | 1 slot |
 | Passive: any benefit covering two action types | 2 slots |
-| Invoke: +2 dice to one specific action type | 1 slot |
-| Invoke: +2 dice to two action types ("or") | 2 slots |
+| Invoke: Enhancement +1 to one specific action type | 1 slot |
+| Invoke: Enhancement +1 to two action types ("or") | 2 slots |
 | Invoke: +1 Enhancement to non-primary item action | 2 slots |
 | Invoke: +2 Enhancement to any action | 2 slots |
 | Once per scene: replace one specific roll entirely | 1 slot |
@@ -13391,11 +13389,11 @@ The NWO field agent concept: a specialist in social manipulation who has spent f
 
 **Step 1 — Name the quality:** [The Mask Fits].
 
-**Step 2 — Write the invoke:** "I invoke [The Mask Fits] when I am maintaining a false identity or persona under scrutiny — when someone is actively trying to see through the cover. +2 dice to any social roll made to sustain the deception."
+**Step 2 — Write the invoke:** "I invoke [The Mask Fits] when I am maintaining a false identity or persona under scrutiny — when someone is actively trying to see through the cover. Enhancement +1 to any social roll made to sustain the deception."
 
 **Step 3 — Activation mode:** Standard invoke, 1 Momentum.
 
-**Step 4 — Cost:** One action type (maintaining a deception under scrutiny), +2 dice. One tag slot.
+**Step 4 — Cost:** One action type (maintaining a deception under scrutiny), Enhancement +1. One tag slot.
 
 **Step 5 — Write the compel:** "The Storyguide compels [The Mask Fits] when the agent encounters someone from their actual past — someone who knew them before the masks, who calls them by their real name or references something only the real person would know. The mask slips. Not all the way, but enough. The agent gains 1 Momentum and has to navigate the moment where the person they were and the person they perform intersect dangerously."
 
@@ -13411,7 +13409,7 @@ The item concept: a ritual dagger that has drawn blood in hundreds of workings a
 
 **Step 1 — Name the quality:** [Blood Memory].
 
-**Step 2 — Write the invoke:** "I invoke [Blood Memory] when performing a Life or Prime working in which the knife has already drawn blood this scene. +2 dice to the casting roll, as the accumulated resonance of past sacrifices amplifies the current working."
+**Step 2 — Write the invoke:** "I invoke [Blood Memory] when performing a Life or Prime working in which the knife has already drawn blood this scene. Enhancement +1 to the casting roll, as the accumulated resonance of past sacrifices amplifies the current working."
 
 **Step 3 — Activation mode:** Standard invoke, 1 Momentum.
 
@@ -13449,7 +13447,7 @@ The scene: a warehouse fire started by a Nephandi's Entropy working. The Storygu
 
 **Mistake 4 — The compel-immune tag.** Some tags feel impossible to compel because they describe purely physical properties. [Fireproof] on a wonder — when does the Storyguide compel that? Design answer: the [Fireproof] tag's compel is not about the fire, it's about what the fireproofing implies. "The Wonder is fireproof, which means it was designed for fire environments — and right now you need something delicate, precise, and subtle, and the hammer you are holding is emphatically not that." Every passive physical tag has a compel in what it implies about the object's nature and intended use.
 
-**Mistake 5 — The undeclared double-cost tag.** The single most common practical mistake. A player proposes a tag that grants +2 dice on two different action types and the Storyguide approves it as a single-slot tag because both action types seem related. The item becomes more powerful than intended, the budget miscounts, and future items feel underpowered by comparison. Declare double-cost explicitly whenever the tag covers more than one action category, and track it clearly on the item sheet.
+**Mistake 5 — The undeclared double-cost tag.** The single most common practical mistake. A player proposes a tag that grants Enhancement +1 on two different action types and the Storyguide approves it as a single-slot tag because both action types seem related. The item becomes more powerful than intended, the budget miscounts, and future items feel underpowered by comparison. Declare double-cost explicitly whenever the tag covers more than one action category, and track it clearly on the item sheet.
 
 ---
 
@@ -13457,11 +13455,11 @@ The scene: a warehouse fire started by a Nephandi's Entropy working. The Storygu
 TAG CREATION — QUICK REFERENCE CHECKLIST
 -----------------------------------------
 1. NAME: Does the name evoke both invoke and compel without explanation?
-2. INVOKE: One sentence. One action type. No "or." Benefit: +2 dice, Trick access, or bounded special effect.
+2. INVOKE: One sentence. One action type. No "or." Benefit: Enhancement +1, Trick access, or bounded special effect.
 3. MODE: Passive / Standard Invoke / Once Per Scene / Once Per Session / Resource Cost
 4. COST (slot count):
-   +2 dice, one action type = 1 slot
-   +2 dice, two action types = 2 slots
+   Enhancement +1, one action type = 1 slot
+   Enhancement +1, two action types = 2 slots
    +2 Enhancement (any) = 2 slots
    +1 Enhancement to non-primary action = 2 slots
    Once-per-scene special effect, narrow = 1 slot
@@ -13504,13 +13502,13 @@ MAGICAL TAGS — PARADOX TRIGGERS:
 
 ---
 
-## Character Flaw Tags (Complications)
+## Character Drawback Tags (Complications)
 
-These Tags represent the drawbacks a character carries. Like all Flaw-type Tags they are **compel-only** — never invoked for advantage, only compelled against their bearer, who earns Momentum when the Tag complicates her scene. Taking one at creation grants no build points; its value is the Momentum it returns in play.
+These Tags represent the drawbacks a character carries. Like all drawback Tags they are **compel-only** — never invoked for advantage, only compelled against their bearer, who earns Momentum when the Tag complicates her scene. Taking one at creation grants no build points; its value is the Momentum it returns in play.
 
 ### Addiction
 
-*Compel-only.* You are dependent on a substance. The severity reflects how debilitating the addiction is and how hard it is to obtain the substance. If you do not feed your habit, you suffer increasing penalties (–1 to –3 dice on non-addiction-related rolls) and may act rashly to obtain your substance. With Storyguide approval, this Flaw can be bought off through extended in-game recovery and roleplay.
+*Compel-only.* You are dependent on a substance. The severity reflects how debilitating the addiction is and how hard it is to obtain the substance. If you do not feed your habit, you suffer increasing penalties (–1 to –3 dice on non-addiction-related rolls) and may act rashly to obtain your substance. With Storyguide approval, this Drawback can be bought off through extended in-game recovery and roleplay.
 
 ### Child
 
@@ -13522,7 +13520,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Aging
 
-*Compel-only.* You are significantly older than your apparent peak. For each point, your body shows measurable age-related decline: minor stiffness (minor), reduced Attribute maximums by 1 (moderate), reduced by 2 (major), or severe decline including regular health complications (severe). Supernatural longevity does not automatically negate this Flaw.
+*Compel-only.* You are significantly older than your apparent peak. For each point, your body shows measurable age-related decline: minor stiffness (minor), reduced Attribute maximums by 1 (moderate), reduced by 2 (major), or severe decline including regular health complications (severe). Supernatural longevity does not automatically negate this Drawback.
 
 ### Easily Intoxicated
 
@@ -13558,7 +13556,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Mayfly Curse
 
-*Compel-only.* Time is brutally compressed for you. At ●●●●●, your lifespan is measured in months or a few years rather than decades; you age rapidly under stress. For variable, your natural lifespan is weeks, and only extraordinary magick or intervention keeps you alive. This Flaw pairs with supernatural origins — a Time Paradox flaw, a Nephandic curse, or a faerie bargain gone wrong.
+*Compel-only.* Time is brutally compressed for you. At ●●●●●, your lifespan is measured in months or a few years rather than decades; you age rapidly under stress. For variable, your natural lifespan is weeks, and only extraordinary magick or intervention keeps you alive. This Drawback pairs with supernatural origins — a Time Paradox drawback, a Nephandic curse, or a faerie bargain gone wrong.
 
 ---
 
@@ -13646,11 +13644,11 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Whimsy
 
-*Compel-only.* You are prone to wild, seemingly random impulses. Once per session, the Storyguide may invoke this Flaw to have your character pursue an impulsive tangent unless you succeed on a Willpower roll (Difficulty 6).
+*Compel-only.* You are prone to wild, seemingly random impulses. Once per session, the Storyguide may invoke this Drawback to have your character pursue an impulsive tangent unless you succeed on a Willpower roll (Difficulty 6).
 
 ### Amnesia
 
-*Compel-only.* Large portions of your past are simply gone. You do not know your full backstory — the Storyguide holds information your character does not. This Flaw creates story hooks and may occasionally surface at inconvenient moments as fragments of suppressed memory.
+*Compel-only.* Large portions of your past are simply gone. You do not know your full backstory — the Storyguide holds information your character does not. This Drawback creates story hooks and may occasionally surface at inconvenient moments as fragments of suppressed memory.
 
 ### Curiosity
 
@@ -13662,7 +13660,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Intemperate
 
-*Compel-only.* Self-control is not your strong suit. When tempted by pleasures your character enjoys, you must succeed on a Willpower roll (Difficulty 7) to resist indulging. This Flaw can overlap with Addiction and amplify its effects.
+*Compel-only.* Self-control is not your strong suit. When tempted by pleasures your character enjoys, you must succeed on a Willpower roll (Difficulty 7) to resist indulging. This Drawback can overlap with Addiction and amplify its effects.
 
 ### Obsession
 
@@ -13710,11 +13708,11 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Extreme Kink
 
-*Compel-only.* Your personal desires or appetites run to extremes that can create social, legal, or supernatural complications. Work with your Storyguide to define its nature. Once per session, this Flaw may create an opportunity for the Storyguide to introduce complications based on your appetites.
+*Compel-only.* Your personal desires or appetites run to extremes that can create social, legal, or supernatural complications. Work with your Storyguide to define its nature. Once per session, this Drawback may create an opportunity for the Storyguide to introduce complications based on your appetites.
 
 ### Feral Mind
 
-*Compel-only.* Your thinking is more instinctual than rational. Add +1 Difficulty to rolls requiring sustained logic, planning, or intellectual subtlety. In combat or under stress, however, you may add 1 die to purely instinctual reactions (Alertness, Dodge).
+*Compel-only.* Your thinking is more instinctual than rational. Add +1 Difficulty to rolls requiring sustained logic, planning, or intellectual subtlety. In combat or under stress, however, you may add Enhancement +1 to purely instinctual reactions (Alertness, Dodge).
 
 ### Flashbacks
 
@@ -13722,7 +13720,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Hatred
 
-*Compel-only.* You have a deep, consuming hatred of a specific person, group, or type of being. When confronted by the object of your hatred, you must spend a Willpower point to avoid acting on that hatred immediately. The Storyguide may use this Flaw to create dramatic confrontations.
+*Compel-only.* You have a deep, consuming hatred of a specific person, group, or type of being. When confronted by the object of your hatred, you must spend a Willpower point to avoid acting on that hatred immediately. The Storyguide may use this Drawback to create dramatic confrontations.
 
 ### Lifesaver
 
@@ -13738,7 +13736,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Ability Deficit
 
-*Compel-only.* One specific Ability that should be within your character's reach is simply beyond you. Choose an Ability with Storyguide approval: you may never purchase it, and if it is ever required for a roll, you always roll at the unskilled penalty (+1 Difficulty). This Flaw represents a genuine cognitive or physical block, not mere lack of training.
+*Compel-only.* One specific Ability that should be within your character's reach is simply beyond you. Choose an Ability with Storyguide approval: you may never purchase it, and if it is ever required for a roll, you always roll at the unskilled penalty (+1 Difficulty). This Drawback represents a genuine cognitive or physical block, not mere lack of training.
 
 ---
 
@@ -13760,7 +13758,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Cultural Other
 
-*Compel-only.* Your background, ethnicity, religion, or identity marks you as an outsider in the dominant culture of your setting. The severity varies of discrimination and the practical disadvantages it creates. This Flaw has genuine in-world social consequences that the Storyguide should apply consistently.
+*Compel-only.* Your background, ethnicity, religion, or identity marks you as an outsider in the dominant culture of your setting. The severity varies of discrimination and the practical disadvantages it creates. This Drawback has genuine in-world social consequences that the Storyguide should apply consistently.
 
 ### Dark Secret
 
@@ -13768,7 +13766,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Debts
 
-*Compel-only.* You owe significant favours or financial obligations to one or more powerful individuals. Periodically the Storyguide will call these debts in at inconvenient moments. Failing to meet an obligation may escalate the Flaw's impact.
+*Compel-only.* You owe significant favours or financial obligations to one or more powerful individuals. Periodically the Storyguide will call these debts in at inconvenient moments. Failing to meet an obligation may escalate the Drawback's impact.
 
 ### Discredited
 
@@ -13820,7 +13818,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Special Responsibility
 
-*Compel-only.* You have an ongoing obligation — a ward, a Node, a protected community — that requires regular time and attention. Neglecting this responsibility creates story complications. The Storyguide will invoke this Flaw when your responsibility is at risk.
+*Compel-only.* You have an ongoing obligation — a ward, a Node, a protected community — that requires regular time and attention. Neglecting this responsibility creates story complications. The Storyguide will invoke this Drawback when your responsibility is at risk.
 
 ### Sympathizer
 
@@ -13844,7 +13842,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Double Agent
 
-*Compel-only.* You serve two masters. Both believe you are loyal to them. The Storyguide knows the full situation; your character may or may not. This Flaw creates ongoing tension and will eventually demand a crisis of loyalty.
+*Compel-only.* You serve two masters. Both believe you are loyal to them. The Storyguide knows the full situation; your character may or may not. This Drawback creates ongoing tension and will eventually demand a crisis of loyalty.
 
 ### Failure
 
@@ -13856,7 +13854,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Old Flame
 
-*Compel-only.* A past romantic relationship complicates your life. The other person may still have feelings, bear a grudge, or simply appear at the worst possible times. The Storyguide will use this Flaw as a social complication at dramatic moments.
+*Compel-only.* A past romantic relationship complicates your life. The other person may still have feelings, bear a grudge, or simply appear at the worst possible times. The Storyguide will use this Drawback as a social complication at dramatic moments.
 
 ### Troublemaker
 
@@ -13900,7 +13898,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Mr. Red Tape
 
-*Compel-only.* Bureaucratic systems simply do not work for you. Every institutional process takes three times longer than expected, requires additional documentation, and involves unexpected complications. The Storyguide may invoke this Flaw whenever official channels are involved.
+*Compel-only.* Bureaucratic systems simply do not work for you. Every institutional process takes three times longer than expected, requires additional documentation, and involves unexpected complications. The Storyguide may invoke this Drawback whenever official channels are involved.
 
 ### Overextended
 
@@ -13920,7 +13918,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 ### Fifth Degree
 
-*Compel-only.* You carry the formal censure of your sect at the highest level. You are barred from all sect resources, your name is a warning to new initiates, and the most loyal members of your sect will actively oppose you. This Flaw can only be bought off through extraordinary acts of service and formal restoration — a significant story arc.
+*Compel-only.* You carry the formal censure of your sect at the highest level. You are barred from all sect resources, your name is a warning to new initiates, and the most loyal members of your sect will actively oppose you. This Drawback can only be bought off through extraordinary acts of service and formal restoration — a significant story arc.
 
 ---
 
@@ -13928,7 +13926,7 @@ These Tags represent the drawbacks a character carries. Like all Flaw-type Tags 
 
 *Compel-only.* Your character has an uncanny quality — a cyborg, clone, artificial person, heavily modified human, or something else that does not quite read as "natural" to other people. Even people who cannot articulate why feel that something is off.
 
-Subtract 2 dice from social rolls in situations where naturalness, spontaneous humanity, or emotional authenticity are important. This Flaw is automatically included when a character takes 3 or more dots of the Enhancement Background through non-Technocracy methods.
+Subtract 2 dice from social rolls in situations where naturalness, spontaneous humanity, or emotional authenticity are important. This Drawback is automatically included when a character takes 3 or more dots of the Enhancement Background through non-Technocracy methods.
 
 **Tags:** [Uncanny], [Isolated]
 
@@ -13942,15 +13940,15 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 
 ### Financial Partner
 
-*Compel-only.* *Prerequisite: Resources •••• or higher.* One or more individuals monitor and limit your Resources. At moderate (major if your Resources are 7 or higher), the Partner can temporarily reduce your Resources Background by the Flaw's value once per story arc. At major (severe if Resources 7+), the Partner can scrutinize and cap your access outright: you must justify major expenditures, and they can block any that run against their interests. Repeatedly evading them may provoke a hostile takeover — anything from litigation to assassination.
+*Compel-only.* *Prerequisite: Resources •••• or higher.* One or more individuals monitor and limit your Resources. At moderate (major if your Resources are 7 or higher), the Partner can temporarily reduce your Resources Background by the Drawback's value once per story arc. At major (severe if Resources 7+), the Partner can scrutinize and cap your access outright: you must justify major expenditures, and they can block any that run against their interests. Repeatedly evading them may provoke a hostile takeover — anything from litigation to assassination.
 
 ### Anachronism
 
-*Compel-only.* Your beliefs, mannerisms, and expectations are radically out of step with your surroundings — whether from time travel, temporal Paradox, unusually assertive past lives, or deliberate affectation. At minor, occasional awkwardness. At moderate, you struggle with modern technology and social norms, adding +2 Difficulty to relevant rolls. At major, you may be unable to process certain contemporary concepts at all and require a companion to navigate the modern world. This Flaw can be bought down through acclimation during play.
+*Compel-only.* Your beliefs, mannerisms, and expectations are radically out of step with your surroundings — whether from time travel, temporal Paradox, unusually assertive past lives, or deliberate affectation. At minor, occasional awkwardness. At moderate, you struggle with modern technology and social norms, adding +2 Difficulty to relevant rolls. At major, you may be unable to process certain contemporary concepts at all and require a companion to navigate the modern world. This Drawback can be bought down through acclimation during play.
 
 ### Apprentice
 
-*Compel-only.* You are responsible for a student whose behaviour and competence directly affect your reputation and wellbeing. At minor, an ideal cooperative student who takes little time. At major, a clueless student who consumes significant time and creates social problems. At extreme, an obstinate, dangerous, and disgraceful liability. The apprentice is a full character with their own agenda; with sustained effort and Storyguide approval, you can buy this Flaw down as your apprentice improves.
+*Compel-only.* You are responsible for a student whose behaviour and competence directly affect your reputation and wellbeing. At minor, an ideal cooperative student who takes little time. At major, a clueless student who consumes significant time and creates social problems. At extreme, an obstinate, dangerous, and disgraceful liability. The apprentice is a full character with their own agenda; with sustained effort and Storyguide approval, you can buy this Drawback down as your apprentice improves.
 
 ### The Bard's Tongue
 
@@ -13978,7 +13976,7 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 
 ### Gremlin
 
-*Compel-only.* A troublesome entity — a malfunctioning construct, a mischievous spirit, a vitally-bonded companion who causes chaos — shares your life and creates regular problems. At minor, trivial annoyances. At major, notable damage to property and relationships. At extreme, a being of significant power whose effects are inescapably destructive. Unlike an outright enemy, you bear responsibility to this creature — how you treat it shapes how this Flaw evolves during play.
+*Compel-only.* A troublesome entity — a malfunctioning construct, a mischievous spirit, a vitally-bonded companion who causes chaos — shares your life and creates regular problems. At minor, trivial annoyances. At major, notable damage to property and relationships. At extreme, a being of significant power whose effects are inescapably destructive. Unlike an outright enemy, you bear responsibility to this creature — how you treat it shapes how this Drawback evolves during play.
 
 ### Locked Vidare
 
@@ -13990,15 +13988,15 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 
 ### Throwback
 
-*Compel-only.* Past-life memories or traumas surface and affect your present behaviour. For each point in this Flaw, the Storyguide rolls one die (Difficulty 8) when a triggering situation arises; the more hits, the stronger the past life's influence. Three hits or more requires a Willpower roll (Difficulty 8) to suppress the reaction. Flashbacks, inappropriate language, phobic responses from ancient traumas — all are possible expressions of this Flaw.
+*Compel-only.* Past-life memories or traumas surface and affect your present behaviour. For each point in this Drawback, the Storyguide rolls one die (Difficulty 8) when a triggering situation arises; the more hits, the stronger the past life's influence. Three hits or more requires a Willpower roll (Difficulty 8) to suppress the reaction. Flashbacks, inappropriate language, phobic responses from ancient traumas — all are possible expressions of this Drawback.
 
 ### Uncanny
 
-*Compel-only.* You are unmistakably memorable in a deeply unsettling way. Each point in this Flaw adds 1 die to any attempt by others to notice, recognise, or track you. At minor, you stand out in a crowd. At extreme, people fear you simply for existing. You may attempt to suppress your uncanniness with an Intelligence + Subterfuge roll, but some manifestations (disembodied voices, dying grass in your shadow) cannot easily be concealed.
+*Compel-only.* You are unmistakably memorable in a deeply unsettling way. Each point in this Drawback adds Enhancement +1 to any attempt by others to notice, recognise, or track you. At minor, you stand out in a crowd. At extreme, people fear you simply for existing. You may attempt to suppress your uncanniness with an Intelligence + Subterfuge roll, but some manifestations (disembodied voices, dying grass in your shadow) cannot easily be concealed.
 
 ### Vulnerability
 
-*Compel-only.* A specific substance or condition causes you extraordinary harm. The base Flaw has two potential severity levels: Weakening (1 aggravated health level per turn of contact) or Mortal Peril (3 aggravated health levels per turn). The point cost depends on how common the substance is and which severity applies. Work with your Storyguide to define the substance and its availability in your setting.
+*Compel-only.* A specific substance or condition causes you extraordinary harm. The base Drawback has two potential severity levels: Weakening (1 aggravated health level per turn of contact) or Mortal Peril (3 aggravated health levels per turn). The point cost depends on how common the substance is and which severity applies. Work with your Storyguide to define the substance and its availability in your setting.
 
 ### Bizarre Hunger
 
@@ -14018,11 +14016,11 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 
 ### Jinx / Infernal Contraption
 
-*Compel-only.* Devices, machinery, and technology regularly malfunction in your presence — not by your choice. The severity reflects how powerful and how frequent the jinx effect is. At moderate, occasional minor glitches. At variable, sophisticated electronics fail reliably near you. At variable, your very presence is an environmental hazard to complex technology. This Flaw can also apply to magickal Wonders you did not craft yourself.
+*Compel-only.* Devices, machinery, and technology regularly malfunction in your presence — not by your choice. The severity reflects how powerful and how frequent the jinx effect is. At moderate, occasional minor glitches. At variable, sophisticated electronics fail reliably near you. At variable, your very presence is an environmental hazard to complex technology. This Drawback can also apply to magickal Wonders you did not craft yourself.
 
-### Permanent Paradox Flaw
+### Permanent Paradox Drawback
 
-*Compel-only.* You carry a fixed Paradox manifestation that will not go away without extraordinary magickal intervention. At moderate, a minor persistent quirk (mild Echoes, a cosmetic oddity). At severe, a significant ongoing manifestation (Strangeness, a notable physical alteration). At variable, a major permanent flaw (a constant vulnerability, a visible inhuman feature, or a recurring Paradox backlash). Work with your Storyguide to define the specific manifestation.
+*Compel-only.* You carry a fixed Paradox manifestation that will not go away without extraordinary magickal intervention. At moderate, a minor persistent quirk (mild Echoes, a cosmetic oddity). At severe, a significant ongoing manifestation (Strangeness, a notable physical alteration). At variable, a major permanent drawback (a constant vulnerability, a visible inhuman feature, or a recurring Paradox backlash). Work with your Storyguide to define the specific manifestation.
 
 ### Branded
 
@@ -14042,7 +14040,7 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 
 ### Oathbreaker
 
-*Compel-only.* You have violated a significant metaphysical oath and your reputation among the Awakened reflects this. Until you undergo appropriate atonement, you suffer +1 Difficulty to all Social rolls with Awakened beings who know of your oath-breaking. Some will refuse to swear oaths with you at all. The Flaw can be bought off only through genuine in-game atonement, not experience points alone.
+*Compel-only.* You have violated a significant metaphysical oath and your reputation among the Awakened reflects this. Until you undergo appropriate atonement, you suffer +1 Difficulty to all Social rolls with Awakened beings who know of your oath-breaking. Some will refuse to swear oaths with you at all. The Drawback can be bought off only through genuine in-game atonement, not experience points alone.
 
 ### Prone to Quiet
 
@@ -14050,7 +14048,7 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 
 ### Beast Within
 
-*Compel-only.* An animalistic, violent force inhabits your soul. When under significant stress — physical danger, emotional extremity, or extreme hunger — you must spend a Willpower point or partially lose control to this inner beast. While the beast has partial control, you add 2 dice to physical attack rolls but cannot perform complex magick, take subtle social actions, or refrain from violence once it begins.
+*Compel-only.* An animalistic, violent force inhabits your soul. When under significant stress — physical danger, emotional extremity, or extreme hunger — you must spend a Willpower point or partially lose control to this inner beast. While the beast has partial control, you add Enhancement +1 to physical attack rolls but cannot perform complex magick, take subtle social actions, or refrain from violence once it begins.
 
 ### Blood Magick
 
@@ -14062,11 +14060,11 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 
 ### Dark Fate
 
-*Compel-only.* Your future contains something terrible and more or less inevitable. The Storyguide knows what it is; you may sense it but not see it clearly. This Flaw grants immunity to Derangements caused by that specific fate's proximity — you have made a kind of peace with the knowledge. However, attempts to use magick to change or avoid your fate require an additional success on the casting roll and may be impossible in certain ways.
+*Compel-only.* Your future contains something terrible and more or less inevitable. The Storyguide knows what it is; you may sense it but not see it clearly. This Drawback grants immunity to Derangements caused by that specific fate's proximity — you have made a kind of peace with the knowledge. However, attempts to use magick to change or avoid your fate require an additional success on the casting roll and may be impossible in certain ways.
 
 ### Faithless
 
-*Compel-only.* You have broken faith with the divine source of your magick. Until you atone and formally re-dedicate yourself to your Path, your Sphere ratings are effectively capped at Rank 1. You can perceive the Awakened world but cannot access your full power. Buying off this Flaw requires in-game atonement appropriate to your Paradigm plus the five-point experience cost.
+*Compel-only.* You have broken faith with the divine source of your magick. Until you atone and formally re-dedicate yourself to your Path, your Sphere ratings are effectively capped at Rank 1. You can perceive the Awakened world but cannot access your full power. Buying off this Drawback requires in-game atonement appropriate to your Paradigm plus the five-point experience cost.
 
 ### Immortal Enemy
 
@@ -14082,7 +14080,7 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 
 ### Sphere Inept
 
-*Compel-only.* One specific Sphere eludes you completely. It costs 130% of normal (rounded up) to advance in that Sphere. Rank 1 costs 13 XP instead of 10. Ranks 2–5 cost proportionally more. This Flaw manifests in your practice and backstory — someone inept at Time has a genuinely dysfunctional relationship with schedules and timing.
+*Compel-only.* One specific Sphere eludes you completely. It costs 130% of normal (rounded up) to advance in that Sphere. Rank 1 costs 13 XP instead of 10. Ranks 2–5 cost proportionally more. This Drawback manifests in your practice and backstory — someone inept at Time has a genuinely dysfunctional relationship with schedules and timing.
 
 ### Phylactery
 
@@ -14090,7 +14088,7 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 
 ### Taint of Corruption
 
-*Compel-only.* Evil has an intimate hold on your soul — possibly since birth, as with widderslainte Nephandi — and you are "of the Wyrm" whether or not you act on it. Malignant magick costs –2 Difficulty to cast (to the usual limit). Beneficial or protective magick costs +2 Difficulty. Your aura crackles with corruption visible to Prime and Spirit perception. Werewolves and similar beings may react with violent hostility. Pursuing a life of good despite this Flaw is genuinely heroic; purging the Taint entirely is a story-defining quest.
+*Compel-only.* Evil has an intimate hold on your soul — possibly since birth, as with widderslainte Nephandi — and you are "of the Wyrm" whether or not you act on it. Malignant magick costs –2 Difficulty to cast (to the usual limit). Beneficial or protective magick costs +2 Difficulty. Your aura crackles with corruption visible to Prime and Spirit perception. Werewolves and similar beings may react with violent hostility. Pursuing a life of good despite this Drawback is genuinely heroic; purging the Taint entirely is a story-defining quest.
 
 ---
 
@@ -14432,7 +14430,7 @@ His Arete of ●●●● (4) means no Sphere can exceed 4 dots. He cannot attem
 
 After building Sasha through Paths, the player spends his 5 Edge dots on the advantages that define him, then considers a drawback Tag or two. This section walks through every decision and shows exactly how each Edge and Tag functions -- mechanically and narratively -- during the encounter in Part Six.
 
-Recall the shape of the system: an **Edge** is a dot-rated advantage bought at creation; each names when it helps (an Invoke, adding Enhancement dice) and often when it can complicate you (a Compel). A **drawback Tag** is compel-only -- the Storyguide has standing permission to compel it, it costs nothing to take, and it refunds nothing. Its worth is the Momentum it hands you when it bites.
+Recall the shape of the system: an **Edge** is a dot-rated advantage bought at creation; each names when it helps (an Invoke, adding Enhancement) and often when it can complicate you (a Compel). A **drawback Tag** is compel-only -- the Storyguide has standing permission to compel it, it costs nothing to take, and it refunds nothing. Its worth is the Momentum it hands you when it bites.
 
 ### Sasha's Edges
 
@@ -14442,12 +14440,12 @@ Sasha Volkov -- Step Five: 5 Edge Dots
 EDGE POOL: 5 dots
 
 EDGE 1 -- Combat Veteran (Edge ●●●)
-  INVOKE: +2 dice on any combat-adjacent Awareness or initiative roll (spotting ambushes, reading enemy positioning, assessing threat priority). Once per scene.
+  INVOKE: Enhancement +1 on any combat-adjacent Awareness or initiative roll (spotting ambushes, reading enemy positioning, assessing threat priority). Once per scene.
   COMPEL: Storyguide may trigger a "soldier first, mage second" reflex -- Sasha defaults to close combat or direct action instead of a more elegant magical solution. Costs 1 Momentum to override.
   Why Sasha has it: Seven years of post-Awakening life have not erased fifteen years of military muscle memory. When the shooting starts, his body knows what to do before his mind catches up.
 
 EDGE 2 -- Iron Stomach (Edge ●)
-  INVOKE: +1 die on Stamina-based rolls involving deprivation, harsh conditions, or resisting ingested substances (poisons, drugs, contaminated food). Once per session.
+  INVOKE: Enhancement +1 on Stamina-based rolls involving deprivation, harsh conditions, or resisting ingested substances (poisons, drugs, contaminated food). Once per session.
   COMPEL: Storyguide may describe Sasha as genuinely indifferent to food quality, comfort, or environmental conditions -- useful for characterisation and occasionally inconvenient when social situations demand otherwise.
   Why Sasha has it: A veteran of rough deployments learns not to be precious about what he eats or where he sleeps.
 
@@ -14467,9 +14465,9 @@ Here is the precise mechanical effect of each Edge during the Cold Storage encou
 > 
 > PLAYER: "I want to invoke Combat Veteran. Sasha is assessing UNIT-7's attack pattern and Cross's positioning before he commits to a Phase."
 > 
-> STORYGUIDE: "That's exactly the kind of threat-assessment Combat Veteran covers. +2 Enhancement dice on your Awareness roll to read the tactical situation."
+> STORYGUIDE: "That's exactly the kind of threat-assessment Combat Veteran covers. Enhancement +1 on your Awareness roll to read the tactical situation."
 > 
-> Roll: Awareness 3 + Cunning 3 + 2 Enhancement = 8 dice. Difficulty 1. Result: [5, 5, 4, 4, 3, 2, 2, 1] = 4 hits, 3 net. The Storyguide reveals UNIT-7's priority target (Cross, not Sasha), the NWO agent's suppressed weapon, and the freezer unit as cover. This information directly shapes Sasha's Round 1 plan.
+> Roll: Awareness 3 + Cunning 3 = 6 dice. Roll [10, 8, 4, 3, 2, 1] = 3 hits, +1 Enhancement (Combat Veteran) = 4 hits. Difficulty 1 → 3 net. The Storyguide reveals UNIT-7's priority target (Cross, not Sasha), the NWO agent's suppressed weapon, and the freezer unit as cover. This information directly shapes Sasha's Round 1 plan.
 > 
 > Note: [Combat Veteran] is now spent for this scene. The Invoke is once-per-scene, not once-per-round. The player chose the right moment.
 
@@ -14483,15 +14481,15 @@ Here is the precise mechanical effect of each Edge during the Cold Storage encou
 > 
 > This is the Compel version: the Storyguide uses [Iron Stomach] as characterisation -- a moment that costs nothing mechanically but defines who Sasha is. No dice needed. No Momentum spent. Just a man who has stopped being precious about comfort.
 > 
-> If the protein bar had been doctored (a possible situation in a different scene), the Invoke would have applied: +1 die on the Stamina roll to resist the effects.
+> If the protein bar had been doctored (a possible situation in a different scene), the Invoke would have applied: Enhancement +1 on the Stamina roll to resist the effects.
 
 > COMPELLED CONDITION TAG -- [Unsettled] (acquired mid-encounter)
 > 
-> Context: Sasha gains [Unsettled] as a Paradox Backlash consequence at the end of the encounter. This is not a purchased Flaw -- it is a condition Tag, which functions identically.
+> Context: Sasha gains [Unsettled] as a Paradox Backlash consequence at the end of the encounter. This is not a purchased Drawback -- it is a condition Tag, which functions identically.
 > 
 > INVOKE (player-triggered): "I want to invoke [Unsettled]. Sasha's psychological edge gives him a kind of hyper-clarity -- he can feel the wrongness in the room, which means he can feel what is wrong about Cross's cover story when she starts talking."
 > 
-> STORYGUIDE: "I'll allow it. +2 dice on your Integrity roll to detect her deception. The universe is whispering to you. Just not comfortably."
+> STORYGUIDE: "I'll allow it. Enhancement +1 on your Integrity roll to detect her deception. The universe is whispering to you. Just not comfortably."
 > 
 > COMPEL (Storyguide-triggered, next session): "Sasha, I'm Compelling [Unsettled]. You've been in the Chantry for three hours and you can't sit still. Every sound makes you flinch. Sifu Chowdhury has noticed. She wants to talk, and you know exactly what she wants to say -- that you're running too hot. Do you spend 1 Momentum to push through it, or do you accept the Compel and let that conversation happen?"
 > 
@@ -14561,7 +14559,7 @@ Avatar rating contributes to his maximum Quintessence: Avatar 3 + 3 = 6 maximum.
 
 Sasha’s Avatar Essence is Pattern (see Appendix C: Avatar Essences). This reflects his nature as a builder and maintainer of systems — military discipline, monastic practice, the patient development of skill over decades.
 
-Pattern Essence Invoke: When Sasha acts to preserve, restore, or complete an existing structure (protecting his Chantry, healing a wounded ally, maintaining a vow), he may Invoke his Pattern Essence to add 2 dice to the roll as Enhancement.
+Pattern Essence Invoke: When Sasha acts to preserve, restore, or complete an existing structure (protecting his Chantry, healing a wounded ally, maintaining a vow), he may Invoke his Pattern Essence for Enhancement +1 on the roll.
 
 Pattern Essence Compel: When Sasha faces a situation that requires improvisation, deviation from established method, or destroying something he has built, the Storyguide may Compel his Essence. He hesitates, double-checks, seeks a methodical solution when speed is required. He may resist the Compel by spending 1 Willpower.
 
@@ -14577,15 +14575,15 @@ MEMBERS: 4 mages (Sasha + 3 others)
 
 CHANTRY TRAITS
 Node Rating: ●● (2) — 2 Quintessence per hour for any resident, up to 2 per day
-Library Rating: ●●● (3) — +1 die to Occult and Esoterica research rolls
-Warding Rating: ●● (2) — +2 dice to detect supernatural intrusion
+Library Rating: ●●● (3) — Enhancement +1 to Occult and Esoterica research rolls
+Warding Rating: ●● (2) — Enhancement +1 to detect supernatural intrusion
 
-CHANTRY MERITS
+CHANTRY ADVANTAGES
 [Consecrated]: Beings hostile to the Akashic tradition suffer -2 dice within; residents gain +1 to Willpower resistance rolls
 [Hidden Node]: The basement Node is shielded from Technocratic scanning (Difficulty +2 to detect)
 [Training Ground]: Residents who spend a full session practicing within the Dojo may mark 1 advancement tick on a physical skill
 
-CHANTRY FLAW
+CHANTRY DRAWBACK
 [Known Location]: The Technocracy has the Dojo on a watch list. Not raided yet, but surveillance is active. This is why tonight’s encounter is happening.
 ```
 
@@ -14658,9 +14656,9 @@ Phases run from Phase 1 (highest priority) downward. Rote SF = highest Sphere do
 
 | Participant | Initiative Roll / Result |
 | --- | --- |
-| Sasha | Athletics 3 + Cunning 3 = 6 dice → rolls [4, 3, 3, 2, 2, 1] = 2 hits → 4 AD (2 base + 2 hits) |
-| Agent Cross | 3 dice → rolls [4, 3, 1] = 1 hit → 3 AD |
-| UNIT-7 | 3 dice → rolls [4, 2, 1] = 1 hit → 3 AD |
+| Sasha | Athletics 3 + Cunning 3 = 6 dice → rolls [8, 8, 4, 3, 2, 1] = 2 hits → 4 AD (2 base + 2 hits) |
+| Agent Cross | 3 dice → rolls [8, 3, 1] = 1 hit → 3 AD |
+| UNIT-7 | 3 dice → rolls [8, 2, 1] = 1 hit → 3 AD |
 
 *Mechanical note: Action Dice represent moment-to-moment initiative. More AD = more actions, more flexibility. Sasha’s monastic conditioning gives him the edge here. Spending 2 AD for a complex action (like a rote + movement) is valid; spending 1 AD for a simple strike is also valid.*
 
@@ -14672,7 +14670,7 @@ Sasha enters through the loading bay. The warehouse is dark, cold, and full of i
 
 **PLAYER (Sasha): “Sasha immediately casts Iron Skin. He breathes out slowly, centering himself, and his skin takes on a faint golden sheen — chi hardening his body from the inside. He spends 2 AD: one for the rote, one to move to cover behind a heavy shelving unit.”**
 
-Mechanical note: Iron Skin is a Rote (Life ●●). Rotes have a Speed Factor equal to the highest Sphere used minus 1 (minimum 1) — Life ●● Rote: SF 1 (2−1=1) in this case. SF 1 is inclusive, meaning the action resolves in the declaring Phase itself. Sasha declares it in Phase 1; it resolves in Phase 1 (same Phase — SF 1 = zero delay). He spends 1 AD for the cast (SF 1 = window of 1 Phase), plus 1 AD for the move. His casting pool is Life 2 + Resolve 4 = 6 dice. He chooses not to spend Quintessence this round, conserving resources. Difficulty is 1 (rote in non-stressful conditions; he has cover). He rolls [4, 4, 3, 3, 2, 1] = 3 hits. Iron Skin succeeds with 3 hits, granting him [Armored 2] — the tag absorbs 2 damage from each incoming hit. Sasha has 2 AD remaining. BOTCH NOTE: One 1 appeared in this roll. With 6 dice and 3 hits, no botch is possible — any hit prevents a botch entirely. If Sasha had rolled [1, 1, 1, 1, 2, 4] instead (0 hits, 4 ones out of 6 = 67%), that would be a Botch. At 0 Paradox dice, his threshold is 4 ones from 6 casting dice. The Iron Skin would invert — Life magic rebounds, and Sasha would take 1 Lethal as his own chi disrupts. The Paradox Pool gains 2 dice. He would begin Round 2 both injured and more susceptible to future botches.
+Mechanical note: Iron Skin is a Rote (Life ●●). Rotes have a Speed Factor equal to the highest Sphere used minus 1 (minimum 1) — Life ●● Rote: SF 1 (2−1=1) in this case. SF 1 is inclusive, meaning the action resolves in the declaring Phase itself. Sasha declares it in Phase 1; it resolves in Phase 1 (same Phase — SF 1 = zero delay). He spends 1 AD for the cast (SF 1 = window of 1 Phase), plus 1 AD for the move. His casting pool is Life 2 + Resolve 4 = 6 dice. He chooses not to spend Quintessence this round, conserving resources. Difficulty is 1 (rote in non-stressful conditions; he has cover). He rolls [10, 8, 3, 3, 2, 1] = 3 hits. Iron Skin succeeds with 3 hits, granting him [Armored 2] — the tag absorbs 2 damage from each incoming hit. Sasha has 2 AD remaining. BOTCH NOTE: One 1 appeared in this roll. With 6 dice and 3 hits, no botch is possible — any hit prevents a botch entirely. If Sasha had rolled [1, 1, 1, 1, 2, 4] instead (0 hits, 4 ones out of 6 = 67%), that would be a Botch. At 0 Paradox dice, his threshold is 4 ones from 6 casting dice. The Iron Skin would invert — Life magic rebounds, and Sasha would take 1 Lethal as his own chi disrupts. The Paradox Pool gains 2 dice. He would begin Round 2 both injured and more susceptible to future botches.
 
 **PHASE 2 — CROSS ACTS**
 
@@ -14682,15 +14680,15 @@ Mechanical note: Cross’s scan is improvised Mind 3 magic (she doesn’t have a
 
 **STORYTELLER (UNIT-7): “The HIT Mark doesn’t wait for orders. It detects the biometric signature of movement and closes at full speed, crashing through a shelving unit.”**
 
-Mechanical note: UNIT-7 spends 1 AD to move and 1 AD to make a charge attack (declared this Phase, resolves this Phase since it’s a mundane action). Charge: Close Combat 4 + Might 5 = 9 dice, Difficulty 2 (Sasha is behind cover, granting him +1 Difficulty to the attack). The charge gives UNIT-7 +2 Enhancement dice = 11 dice total. Roll: [5, 5, 4, 4, 4, 4, 3, 3, 2, 1, 1] = 6 hits. After Difficulty 2, that’s 4 net hits. Damage: base 4 hits + 4 bonus damage from cyborg strength = 8 damage before defenses.
+Mechanical note: UNIT-7 spends 1 AD to move and 1 AD to make a charge attack (declared this Phase, resolves this Phase since it’s a mundane action). Charge: Close Combat 4 + Might 5 = 9 dice, Difficulty 2 (Sasha is behind cover, granting him +1 Difficulty to the attack). The charge grants UNIT-7 Enhancement +2. Roll: [10, 8, 8, 5, 4, 3, 2, 1, 1] = 4 hits, +2 Enhancement = 6 hits. After Difficulty 2, that’s 4 net hits. Damage: base 4 hits + 4 bonus damage from cyborg strength = 8 damage before defenses.
 
 **PLAYER (Sasha): “Sasha sees it coming and rolls with it, deflecting the strike into the shelving rather than taking it clean. He’s using the momentum against the machine.”**
 
-Mechanical note: Sasha defends actively — spending 1 AD (his third action of the round) for a dodge/parry. His defense pool: Close Combat 4 + Dexterity 4 = 8 dice (parry, using martial skill to redirect the strike). He is not spending Willpower here. Difficulty 2 (the HIT Mark is fast). Roll: [5, 4, 4, 3, 3, 2, 1, 1] = 3 hits. Net hits after Difficulty: 1. Defense reduces incoming damage by 2 per hit = 2 damage absorbed. Remaining damage: 8 - 2 = 6. Now apply [Armored 2] tag (Iron Skin resolves in Phase 3, but it was declared in Phase 1 — does it apply? RAW: the Rote’s protection begins at Phase 3. The attack happened in Phase 2. Iron Skin is NOT yet active.
+Mechanical note: Sasha defends actively — spending 1 AD (his third action of the round) for a dodge/parry. His defense pool: Close Combat 4 + Dexterity 4 = 8 dice (parry, using martial skill to redirect the strike). He is not spending Willpower here. Difficulty 2 (the HIT Mark is fast). Roll: [10, 8, 4, 3, 3, 2, 1, 1] = 3 hits. Net hits after Difficulty: 1. Defense reduces incoming damage by 2 per hit = 2 damage absorbed. Remaining damage: 8 - 2 = 6. Now apply [Armored 2] tag (Iron Skin resolves in Phase 3, but it was declared in Phase 1 — does it apply? RAW: the Rote’s protection begins at Phase 3. The attack happened in Phase 2. Iron Skin is NOT yet active.
 
 Therefore: 6 damage hits Sasha. He marks 6 boxes on his Health track (10 total, 6 filled). He enters the IMPAIRED band (boxes 6–7, −1 die to all rolls). He is hurting but still fighting — the real crisis arrives in Rounds 2 and 3.
 
-Tags triggered: Sasha gains the [Bloodied] condition tag from entering the Impaired band. Invoke [Bloodied]: “Fighting through pain” — once per scene, add 2 dice to a Resolve-based roll. Compel [Bloodied]: Storyguide may impose −1 additional die on one physical action where injury logically impedes movement. Note: the IMPAIRED band already applies −1 die to all rolls; this tag stacks on top when compelled.
+Tags triggered: Sasha gains the [Bloodied] condition tag from entering the Impaired band. Invoke [Bloodied]: “Fighting through pain” — once per scene, Enhancement +1 on a Resolve-based roll. Compel [Bloodied]: Storyguide may impose −1 additional die on one physical action where injury logically impedes movement. Note: the IMPAIRED band already applies −1 die to all rolls; this tag stacks on top when compelled.
 
 ### Round 2
 
@@ -14698,23 +14696,23 @@ Everyone draws new Action Dice for Round 2. Sasha is at 6/10 Health boxes, [Bloo
 
 | Participant | New Initiative / AD |
 | --- | --- |
-| Sasha | 6 dice → [5, 4, 4, 3, 2, 1] = 3 hits → 5 AD |
-| Agent Cross | 3 dice → [4, 3, 2] = 1 hit → 3 AD |
-| UNIT-7 | 3 dice → [5, 4, 1] = 2 hits → 4 AD |
+| Sasha | 6 dice → [10, 8, 4, 3, 2, 1] = 3 hits → 5 AD |
+| Agent Cross | 3 dice → [8, 3, 2] = 1 hit → 3 AD |
+| UNIT-7 | 3 dice → [8, 8, 1] = 2 hits → 4 AD |
 
 *Mechanical note: Sasha's Resolve-driven focus pays off here — despite being critically wounded, his initiative does not suffer a mechanical penalty from [Bloodied] until it is Compelled (the IMPAIRED band's -1 die applies to rolls, not to initiative draws). He has 5 AD, more than either opponent. This matters enormously: he can act early AND often.*
 
 **PLAYER (Sasha): “Sasha is bleeding internally and knows it. He’s not going to survive another hit. He is going to throw everything at the HIT Mark right now. He spends 2 AD to cast Thunder Palm — all the Forces chi in his body directed through one strike. He’s going to try to overload the machine’s systems.”**
 
-Mechanical note: Thunder Palm is a Rote (Forces ●●, SF 1 — highest dot 2, minus 1 = 1). Declared in Phase 1, resolves in Phase 2. Pool = Forces 2 + Resolve 4 = 6 dice. Sasha also invokes his [Bloodied] tag: “fighting through pain” — +2 Enhancement dice. Pool becomes 8 dice. He also spends 1 Quintessence for +1 Enhancement die = 9 dice total. Quintessence drops from 5 to 4. Difficulty 2 (UNIT-7’s [Construct] tag raises difficulty by 1 against bioelectric effects — but the Storyguide rules that electromagnetic disruption is not bioelectric; standard Difficulty 2). Roll: [5, 5, 5, 4, 4, 3, 3, 2, 1] = 5 hits. 3 net hits after Difficulty. Thunder Palm deals +3 bonus damage and applies [Stun] on 3+ hits.
+Mechanical note: Thunder Palm is a Rote (Forces ●●, SF 1 — highest dot 2, minus 1 = 1). Declared in Phase 1, resolves in Phase 2. Pool = Forces 2 + Resolve 4 = 6 dice. Sasha also invokes his [Bloodied] tag (“fighting through pain”) for Enhancement +1, and spends 2 Quintessence for a further Enhancement +1 (Enhancement +2 total). Quintessence drops from 5 to 3. Difficulty 2 (UNIT-7’s [Construct] tag raises difficulty by 1 against bioelectric effects — but the Storyguide rules that electromagnetic disruption is not bioelectric; standard Difficulty 2). Roll: [10, 8, 5, 4, 3, 2] = 3 hits, +2 Enhancement = 5 hits — 3 net after Difficulty. Thunder Palm deals +3 bonus damage and applies [Stun] on 3+ hits.
 
 Thunder Palm total damage: 3 net hits + 3 bonus = 6 damage. UNIT-7’s [Armored 2] tag absorbs 2 = 4 net damage. UNIT-7 has 10 Health; it marks 4 boxes (6 remaining). Additionally, [Stun] applies: UNIT-7 must spend 1 AD next Phase to shake off the electromagnetic disruption or suffer -2 dice to its next action. Sasha has 3 AD remaining.
 
-BOTCH SCENARIO — THUNDER PALM: Sasha's pool was 9 dice (8 casting + 1 Quintessence) with 2 Paradox dice in reserve. His actual roll was [5,5,5,4,4,3,3,2,1] = 5 hits — nowhere near a botch. But suppose it had been [1,1,1,1,1,2,3,2,4] = 1 hit with 5 ones: still not a botch (1 hit prevents it). For a botch: 0 hits AND more than half the total dice (9 casting + 2 Paradox = 11 total, threshold = 6+ ones) showing 1s. A roll like [1,1,1,1,1,1,2,3,3] with 0 hits and 6 ones would qualify. Result: Thunder Palm inverts — the Forces chi misfires outward in a visible flash of kinetic energy (Vulgar in this Sleeper warehouse). Sasha takes 2 Lethal damage from the rebound, 2 Paradox dice are added immediately to the existing 2 (now 4 total), and the Storyguide makes a Paradox roll immediately. With 4 dice, even a modest result produces a Backlash. UNIT-7 gets a free action as the explosion gives it an opening. Sasha's desperate gamble becomes the fight's turning point in the worst way.
+BOTCH SCENARIO — THUNDER PALM: Sasha's casting pool was 6 dice (Enhancement adds hits, never dice, so the +2 Enhancement does not change the botch math) with 2 Paradox dice in reserve. His actual roll was [10, 8, 5, 4, 3, 2] = 3 hits — nowhere near a botch. But suppose it had been [8, 1, 1, 1, 1, 2] = 1 hit with four 1s: still not a botch (a single hit prevents it). For a botch: 0 hits AND more than half of all dice (6 casting + 2 Paradox = 8 total, threshold = 5+ ones) showing 1s. A casting roll of [1, 1, 1, 1, 1, 2] — 0 hits and 5 ones across the 8 dice — would qualify. Result: Thunder Palm inverts — the Forces chi misfires outward in a visible flash of kinetic energy (Vulgar in this Sleeper warehouse). Sasha takes 2 Lethal damage from the rebound, 2 Paradox dice are added immediately to the existing 2 (now 4 total), and the Storyguide makes a Paradox roll immediately. With 4 dice, even a modest result produces a Backlash. UNIT-7 gets a free action as the explosion gives it an opening. Sasha's desperate gamble becomes the fight's turning point in the worst way.
 
 **PLAYER (Sasha): “While UNIT-7 is reeling, Sasha turns to Cross. He doesn’t have time to be subtle. He’s casting Spatial Whisper — Correspondence 1 — to pinpoint her exact location behind the crates. He needs to know where she is before she fires.”**
 
-Mechanical note: Spatial Whisper is a Rote (Correspondence ●, SF 1 — minimum 1). Declared Phase 2, resolves Phase 3. Pool = Correspondence 1 + Intellect 3 = 4 dice, Difficulty 1 (simple location sense, no opposition). Roll: [5, 4, 3, 1] = 2 hits. Success: Sasha now knows Cross’s precise location. He marks this as a positioning advantage — the Storyguide grants him +1 Enhancement die on any directed action against Cross this round (he knows exactly where to aim). Sasha has 2 AD remaining. Sasha has now accumulated 2 Paradox dice from Round 1 and Round 2 combined: one from Iron Skin (Coincidental, minor), one from Thunder Palm (Coincidental, minor in an industrial area late at night with no witnesses). The Storyguide decides not to trigger Paradox yet — the pool sits at 2.
+Mechanical note: Spatial Whisper is a Rote (Correspondence ●, SF 1 — minimum 1). Declared Phase 2, resolves Phase 3. Pool = Correspondence 1 + Intellect 3 = 4 dice, Difficulty 1 (simple location sense, no opposition). Roll: [9, 8, 3, 1] = 2 hits. Success: Sasha now knows Cross’s precise location. He marks this as a positioning advantage — the Storyguide grants him Enhancement +1 on any directed action against Cross this round (he knows exactly where to aim). Sasha has 2 AD remaining. Sasha has now accumulated 2 Paradox dice from Round 1 and Round 2 combined: one from Iron Skin (Coincidental, minor), one from Thunder Palm (Coincidental, minor in an industrial area late at night with no witnesses). The Storyguide decides not to trigger Paradox yet — the pool sits at 2.
 
 **PHASE 3 — ROTES RESOLVE, UNIT-7 RECOVERS**
 
@@ -14722,9 +14720,9 @@ Thunder Palm and Iron Skin both resolve this Phase. UNIT-7 spends 1 AD to shake 
 
 **STORYTELLER (Cross): “Cross drops the scan — it’s pointless, he’s clearly hostile — and fires twice from behind the crates. Two shots, center mass.”**
 
-Mechanical note: Cross spends 1 AD per shot = 2 shots. First shot: Firearms 3 + Dexterity 3 + 1 (positioning, suppressed) = 7 dice, Difficulty 2 (Sasha is at cover). Roll: [5, 5, 4, 4, 3, 2, 1] = 5 hits, 3 net hits after Difficulty 2. Damage: 3 hits + pistol rating 2 = 5 damage. Sasha’s [Armored 2] from Iron Skin absorbs 2 = 3 net damage. Sasha marks 3 more boxes (6+3=9). He is at 9/10 Health boxes — CRITICAL band (boxes 8–9, −2 dice to all rolls). One more clean hit ends the fight.
+Mechanical note: Cross spends 1 AD per shot = 2 shots. First shot: Firearms 3 + Dexterity 3 + 1 (positioning, suppressed) = 7 dice, Difficulty 2 (Sasha is at cover). Roll: [10, 9, 8, 8, 3, 2, 1] = 5 hits, 3 net hits after Difficulty 2. Damage: 3 hits + pistol rating 2 = 5 damage. Sasha’s [Armored 2] from Iron Skin absorbs 2 = 3 net damage. Sasha marks 3 more boxes (6+3=9). He is at 9/10 Health boxes — CRITICAL band (boxes 8–9, −2 dice to all rolls). One more clean hit ends the fight.
 
-CRITICAL MOMENT: Second shot incoming. Sasha spends his final 2 AD to dodge. Defense pool: Close Combat 4 + Dexterity 4 = 8 dice, Difficulty 2. He also spends 1 Willpower: +2 Enhancement dice = 10 dice. Roll: [5, 5, 4, 4, 4, 3, 3, 2, 2, 1] = 5 hits, 3 net. Second shot’s result: [5, 4, 3, 2, 1, 1, 1] = 2 hits, 0 net after Difficulty 2 (defense negates entirely). Sasha barely avoids the second bullet. Willpower drops from 7 to 6.
+CRITICAL MOMENT: Second shot incoming. Sasha spends his final 2 AD to dodge. Defense pool: Close Combat 4 + Dexterity 4 = 8 dice, Difficulty 2. He also spends 1 Willpower for Enhancement +1. Roll: [10, 9, 8, 5, 4, 3, 2, 1] = 4 hits, +1 Enhancement = 5 hits, 3 net. Second shot’s result: [8, 8, 4, 3, 2, 1, 1] = 2 hits, 0 net after Difficulty 2 (defense negates entirely). Sasha barely avoids the second bullet. Willpower drops from 7 to 6.
 
 **PLAYER (Sasha): “Sasha is done trading hits. One more hit and he’s down. He’s going to do something desperate. Can I attempt a dynamic Forces effect — not a Rote — to overload the warehouse power grid and cut the lights?”**
 
@@ -14748,9 +14746,9 @@ Round 3 Initiative:
 
 | Participant | AD |
 | --- | --- |
-| Sasha | 6 dice → [5, 5, 4, 3, 2, 2] = 3 hits → 5 AD |
+| Sasha | 6 dice → [10, 8, 4, 3, 2, 2] = 3 hits → 5 AD |
 | Agent Cross | 3 dice → [3, 2, 1] = 0 hits → 2 AD |
-| UNIT-7 | 4 dice → [5, 4, 4, 2] = 3 hits → 5 AD |
+| UNIT-7 | 4 dice → [10, 8, 4, 2] = 3 hits → 5 AD |
 
 **PLAYER (Sasha): “Before I declare — can Sasha attack Cross AND simultaneously use his other arm to check UNIT-7’s advance? He senses both their positions through Spatial Whisper. Both hands, two different opponents.”**
 
@@ -14778,9 +14776,9 @@ Tag creation note: [Ambidextrous] was created collaboratively mid-encounter when
 
 Mechanical note: Divided Attention — two simultaneous physical actions, both hands engaged on different tasks. With [Ambidextrous] invoked: both pools take −1 instead of −2. Strike on Cross: Close Combat 4 + Dexterity 4 + 1 (Spatial Whisper positioning) = 9 dice → 9 − 1 = 8 dice, Difficulty 2. Fending check on UNIT-7: Close Combat 4 + Dexterity 4 = 8 dice → 8 − 1 = 7 dice, Difficulty 2. Without [Ambidextrous] the pools would have been 7 and 6 — the Tag recovered 1 die on each action.
 
-Strike on Cross (8 dice, Diff 2): [5, 5, 5, 4, 4, 3, 2, 1] = 5 hits, 3 net. Damage: 3 hits + Unarmed +1 = 4 damage. Cross has no armor. She marks 4 boxes (1 Health remaining). The Storyguide has Cross take the [Bloodied] tag.
+Strike on Cross (8 dice, Diff 2): [10, 9, 8, 8, 4, 3, 2, 1] = 5 hits, 3 net. Damage: 3 hits + Unarmed +1 = 4 damage. Cross has no armor. She marks 4 boxes (1 Health remaining). The Storyguide has Cross take the [Bloodied] tag.
 
-Fending check on UNIT-7 (7 dice, Diff 2): [5, 5, 4, 4, 3, 2, 1] = 4 hits, 2 net. Sasha is not attempting to damage UNIT-7 — the goal is disruption. 2 net hits: UNIT-7 is pushed back 1 meter and its next attack comes at +1 Difficulty as it recovers. Not devastating, but it bought Sasha a moment and kept both threats managed simultaneously.
+Fending check on UNIT-7 (7 dice, Diff 2): [10, 8, 8, 4, 3, 2, 1] = 4 hits, 2 net. Sasha is not attempting to damage UNIT-7 — the goal is disruption. 2 net hits: UNIT-7 is pushed back 1 meter and its next attack comes at +1 Difficulty as it recovers. Not devastating, but it bought Sasha a moment and kept both threats managed simultaneously.
 
 **STORYTELLER (Cross): “Cross is badly hurt. She’s not going to make it through a second round of this. She spends both her remaining AD on a desperate gambit: a Mind ●●● compulsion, targeting Sasha directly. She’s going to try to make him believe UNIT-7 is his ally.”**
 
@@ -14790,7 +14788,7 @@ PARADOX NOTE: Cross is casting vulgar-adjacent (coercive mind control on a mage 
 
 **STORYTELLER (UNIT-7): “The HIT Mark ignores Cross’s condition entirely and advances on Sasha. Full hydraulic strike.”**
 
-Mechanical note: UNIT-7 has 5 AD, spends 2 (movement + strike). Attack: Close Combat 4 + Might 5 = 9 dice, Difficulty 2. Roll: [5, 4, 4, 4, 3, 3, 2, 1, 1] = 5 hits, 3 net. Damage: 3 hits + 4 strength bonus = 7 damage. [Armored 2] from Iron Skin absorbs 2 = 5 net damage to Sasha.
+Mechanical note: UNIT-7 has 5 AD, spends 2 (movement + strike). Attack: Close Combat 4 + Might 5 = 9 dice, Difficulty 2. Roll: [10, 9, 8, 8, 4, 3, 2, 1, 1] = 5 hits, 3 net. Damage: 3 hits + 4 strength bonus = 7 damage. [Armored 2] from Iron Skin absorbs 2 = 5 net damage to Sasha.
 
 Sasha is at 9/10 Health boxes — CRITICAL band (−2 dice) — before this hit. 5 net damage would push him to 14, far past the Incapacitation threshold at box 10. This is the defining moment.
 
@@ -14800,7 +14798,7 @@ Sasha is at 9/10 Health boxes — CRITICAL band (−2 dice) — before this hit.
 
 **PLAYER: “He meets UNIT-7’s strike with both forearms crossed. At the moment of contact, the force peels sideways — not stopped, but redirected. The shelving behind him buckles instead of his spine.”**
 
-Mechanical note: Forces ● improvised (defensive). SF 1 (sum of 1 dot), resolves this Phase. Pool = Forces 2 + Resolve 4 = 6 dice, Difficulty 2. Sasha spends 1 Quintessence (drops to 3) and his last 2 AD. On 2 hits after Difficulty, the deflection reduces incoming damage by (hits) x 2 = up to 4 damage. Roll: [5, 5, 4, 4, 3, 2] = 4 hits, 2 net. Damage reduction: 2 x 2 = 4. Total damage to Sasha: 5 - 4 = 1. [Armored 2] absorbs the remaining 1. Net damage to Sasha: 0. He survives by the thinnest possible margin.
+Mechanical note: Forces ● improvised (defensive). SF 1 (sum of 1 dot), resolves this Phase. Pool = Forces 2 + Resolve 4 = 6 dice, Difficulty 2. Sasha spends 1 Quintessence (drops to 3) and his last 2 AD. On 2 hits after Difficulty, the deflection reduces incoming damage by (hits) x 2 = up to 4 damage. Roll: [10, 8, 8, 4, 3, 2] = 4 hits, 2 net. Damage reduction: 2 x 2 = 4. Total damage to Sasha: 5 - 4 = 1. [Armored 2] absorbs the remaining 1. Net damage to Sasha: 0. He survives by the thinnest possible margin.
 
 Paradox pool update: Sasha has now cast three times this scene (Iron Skin, Thunder Palm, Spatial Whisper) plus two improvised effects. His Paradox pool is at 4 dice. The Storyguide rules the scene is ending — Paradox fires.
 
@@ -14898,7 +14896,7 @@ ARMOR: Bulletproof Hoodie — Soak 4, [Ballistic] tag. The burst fire carries [B
 
 Player: "I'm invoking [Concealable] on the Hoodie. I had this on when I walked into the building — security checked me twice and missed it. I want to narrate that IX-7 is briefly confused why the rounds aren't dropping me — it buys me a moment."
 
-Storyguide: "Take your +2 dice on the next social/deceive action if you try to bluff past them. That works."
+Storyguide: "Take your Enhancement +1 on the next social/deceive action if you try to bluff past them. That works."
 
 But then:
 
@@ -15461,9 +15459,9 @@ Traditions: Akashayana, Virtual Adepts, Order of Hermes. Conventions: NWO. Spher
 
 The mage activates a passive spatial awareness of their immediate environment, perceiving the precise positions of all combatants within the battlefield as a continuous, updating spatial map. Unlike Wanderer's Eye (which projects the mage's senses elsewhere), Battlefield Sense is local and ambient — a constant peripheral awareness of who stands where, which cover exists, which angles are exposed, and what movement patterns suggest about intentions. The mage does not need to look at individual combatants to know their positions; the spatial sense updates continuously, making ambushes and flanking maneuvers extremely difficult to execute against a mage running Battlefield Sense.
 
-Each hit from the casting roll reduces the difficulty of the mage's next three attack or defense actions by -1 (maximum -3 total). The mage can also use Battlefield Sense to coordinate allies: by sharing the spatial picture through brief verbal or gestural cues, the mage grants allies +1 die to their Initiative for one scene (this is a separate, no-roll benefit from the Tagging of [Sensory] — invoking the tag to share data with an ally costs a point of Momentum). The Virtual Adepts describe this as "running the combat HUD" — a real-time overlay of tactical data. Akashayana practitioners speak of perceiving the chi-patterns of movement, reading the battlefield through spatial intuition cultivated over years of training. NWO field commanders use it as standard operational awareness. Order of Hermes mages call it the "Tactician's Lens" and consider it fundamental pre-battle preparation.
+Each hit from the casting roll reduces the difficulty of the mage's next three attack or defense actions by -1 (maximum -3 total). The mage can also use Battlefield Sense to coordinate allies: by sharing the spatial picture through brief verbal or gestural cues, the mage grants allies Enhancement +1 to their Initiative for one scene (this is a separate, no-roll benefit from the Tagging of [Sensory] — invoking the tag to share data with an ally costs a point of Momentum). The Virtual Adepts describe this as "running the combat HUD" — a real-time overlay of tactical data. Akashayana practitioners speak of perceiving the chi-patterns of movement, reading the battlefield through spatial intuition cultivated over years of training. NWO field commanders use it as standard operational awareness. Order of Hermes mages call it the "Tactician's Lens" and consider it fundamental pre-battle preparation.
 
-Examples: With 1 hit, the mage simply knows the exact positions of all combatants in the immediate area and cannot be surprised by anyone already in the fight. With 3 hits, the mage can predict the likely paths of incoming attacks one action before they arrive, applying the -3 difficulty reduction to defense. With 5 hits, the mage perceives the full battlefield at a hundred-meter radius and can direct allies through the combat with a precision that gives each of them a +1 die bonus to Initiative and removes the standard flanking bonus from enemies who try it.
+Examples: With 1 hit, the mage simply knows the exact positions of all combatants in the immediate area and cannot be surprised by anyone already in the fight. With 3 hits, the mage can predict the likely paths of incoming attacks one action before they arrive, applying the -3 difficulty reduction to defense. With 5 hits, the mage perceives the full battlefield at a hundred-meter radius and can direct allies through the combat with a precision that gives each of them a Enhancement +1 bonus to Initiative and removes the standard flanking bonus from enemies who try it.
 
 Coincidental in all circumstances — extraordinary tactical awareness is entirely plausible.
 
@@ -15487,7 +15485,7 @@ Rapid sequential teleportation — the mage appears at one location for a fracti
 
 The Blink is explicitly a combat and evasion technique. During a Blink sequence, the mage is effectively impossible to attack — they are never in one place long enough for opponents to respond to their position. After the Blink sequence ends, the mage is wherever the final micro-teleport placed them. Virtual Adepts describe this as frame-by-frame combat — existing only at the moment of action, vanishing from consequence. Akashayana call it the flash-step, a technique they claim requires not spatial manipulation but pure speed of chi so extreme it crosses into teleportation. The technique requires significant Arete and high Correspondence mastery because chaining teleports demands perfect spatial accuracy — an error in the chain materializes the mage inside solid matter, an outcome that is both immediately fatal and spectacularly Paradox-generating.
 
-Examples: With 2 hits (minimum), the mage makes one Blink: appears at a target, makes one attack with a +2 dice bonus (the opponent has no Defense against a teleporting attacker), then vanishes to a pre-selected location. With 4 hits, the mage chains two Blinks — attack two separate targets, appear in cover after. With 6 hits, the mage Blinks through an entire room, striking three separate targets and ending in an unexpected position.
+Examples: With 2 hits (minimum), the mage makes one Blink: appears at a target, makes one attack with a Enhancement +1 bonus (the opponent has no Defense against a teleporting attacker), then vanishes to a pre-selected location. With 4 hits, the mage chains two Blinks — attack two separate targets, appear in cover after. With 6 hits, the mage Blinks through an entire room, striking three separate targets and ending in an unexpected position.
 
 Vulgar in all circumstances — sequential teleportation is one of the most reality-defying things a mage can do in front of Sleepers.
 
@@ -15759,7 +15757,7 @@ Coincidental in virtually all circumstances — technology fails. Vulgar only if
 
 Traditions: Verbena, Dreamspeakers, Cult of Ecstasy. Spheres: Entropy 2. SF: 1. Difficulty: 2 (Rote). Tags: [Boost], [Subtle], [Lasting].
 
-Rather than pushing entropy onto others, the mage channels the flow of fate to smooth fortune for a chosen target (often themselves). The target gains +2 dice on one category of rolls (social, physical, or mental — chosen at casting) for the scene, as probability subtly bends in their favor: the cab arrives early, the guard looks the other way, the dice fall right. This rote does not guarantee success; it simply makes success more likely by nudging coincidence. With 4+ hits, the mage may choose two categories. The boost feels natural to the beneficiary — they think they are simply having a good day.
+Rather than pushing entropy onto others, the mage channels the flow of fate to smooth fortune for a chosen target (often themselves). The target gains Enhancement +1 on one category of rolls (social, physical, or mental — chosen at casting) for the scene, as probability subtly bends in their favor: the cab arrives early, the guard looks the other way, the dice fall right. This rote does not guarantee success; it simply makes success more likely by nudging coincidence. With 4+ hits, the mage may choose two categories. The boost feels natural to the beneficiary — they think they are simply having a good day.
 
 Coincidental in all circumstances.
 
@@ -15767,7 +15765,7 @@ Coincidental in all circumstances.
 
 Traditions: Euthanatos. Spheres: Entropy 2, Time 1. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: Entropy. Tags: [Sensory], [Subtle].
 
-The mage reads the threads of fate binding a specific person or situation, perceiving whether the current trajectory moves toward fortune or doom. This does not provide specific prophetic visions — it is a directional sense, like a compass pointing toward catastrophe. The mage knows whether a planned action is likely to succeed or fail (better than 50-50 chance or worse), whether a person is marked for near-term danger, and whether a location carries recent violent Resonance. With 5 hits, the mage can share this reading with allies, granting +1 die to the relevant roll for everyone briefed on the warning. The Euthanatos call this reading "seeing the thread" — it is a core diagnostic skill taught early in their tradition.
+The mage reads the threads of fate binding a specific person or situation, perceiving whether the current trajectory moves toward fortune or doom. This does not provide specific prophetic visions — it is a directional sense, like a compass pointing toward catastrophe. The mage knows whether a planned action is likely to succeed or fail (better than 50-50 chance or worse), whether a person is marked for near-term danger, and whether a location carries recent violent Resonance. With 5 hits, the mage can share this reading with allies, granting Enhancement +1 to the relevant roll for everyone briefed on the warning. The Euthanatos call this reading "seeing the thread" — it is a core diagnostic skill taught early in their tradition.
 
 Coincidental at all times.
 
@@ -17096,7 +17094,7 @@ Coincidental in all circumstances — appears as charisma, presence, or simply a
 
 Traditions: Akashayana, Verbena, Dreamspeakers. Spheres: Mind 2. SF: 1. Difficulty: 2 (Rote). Tags: [Mental], [Boost], [Area].
 
-The mage performs a ritually charged action — a dance, a chant, a battle cry, a war drum, a formal invocation — that projects a surge of martial focus and heightened combat readiness into nearby allies. The performance must be actual and sustained (not a moment's thought, but a genuine ceremonial action); the duration of the preparation determines the depth of the effect. Each hit on the casting grants participating allies +1 die on attack rolls (maximum +3) and reduces their fear-based penalties by the same amount. Duration: one scene or combat.
+The mage performs a ritually charged action — a dance, a chant, a battle cry, a war drum, a formal invocation — that projects a surge of martial focus and heightened combat readiness into nearby allies. The performance must be actual and sustained (not a moment's thought, but a genuine ceremonial action); the duration of the preparation determines the depth of the effect. Each hit on the casting grants participating allies Enhancement +1 on attack rolls (maximum +3) and reduces their fear-based penalties by the same amount. Duration: one scene or combat.
 
 The Akashayana war dance is a formalized ki-projection ceremony taught within specific lineages; improper or disrespectful performance weakens the effect. The Verbena use bardic traditions, hunting songs, and the old battle-chants of their ancestral warrior cultures; the result is functionally identical but paradigmatically distinct. Dreamspeakers often invoke ancestral warrior spirits as part of the dance, creating a minor Spirit component to the working (though pure Mind 2 achieves the same mechanical result). The mage themselves can participate in the war dance's benefits but must maintain the performance to sustain the effect — if they stop dancing or chanting to engage directly in combat, the Effect immediately begins fading. Maximum 10 participants can be included without additional Sphere investment.
 
@@ -17510,7 +17508,7 @@ The Thought Anchor reflects the mage's essential character rather than their mom
 
 Two Anchors overlap when their practitioners move close to each other in the Radiance. The interaction is determined by the emotional and philosophical relationship between the two: persons with strong positive connection find their Anchors blending into a shared landscape that incorporates elements of both, creating a space where both feel at ease. Persons whose deep natures are fundamentally incompatible — a Euthanatos whose Anchor manifests as a charnel house and a Celestial Chorus practitioner whose Anchor manifests as sunlit cathedral — find their Anchors unable to merge, pulling apart from each other and potentially separating the practitioners physically as the Anchors' incompatible natures repel. Storytellers who use the Radiance in play can treat Anchor interaction as a direct visualization of the characters' actual relationship — the Anchors do not lie.
 
-The Thought Anchor carries significant tactical implications within the Radiance itself. Because the Anchor shapes local Quintessential flows slightly in the practitioner's direction, it functions as a mild stabilizing effect on any magic the practitioner casts within it: the Radiance's standard enhancement (all magical Effects add two dice to the casting pool, but often go far beyond the mage's intentions) is tempered within the Anchor. Effects cast from within the practitioner's Thought Anchor space still gain the additional dice, but the wild overshoot of the Radiance's standard effect is reduced by the Anchor's stabilizing influence — the excess Quintessential amplification is channeled into the Anchor's maintenance rather than into the spell's output. This makes careful magic actually possible within the Radiance for a practitioner who has established their Anchor.
+The Thought Anchor carries significant tactical implications within the Radiance itself. Because the Anchor shapes local Quintessential flows slightly in the practitioner's direction, it functions as a mild stabilizing effect on any magic the practitioner casts within it: the Radiance's standard enhancement (all magical Effects gain Enhancement +1, but often go far beyond the mage's intentions) is tempered within the Anchor. Effects cast from within the practitioner's Thought Anchor space still gain the additional Enhancement, but the wild overshoot of the Radiance's standard effect is reduced by the Anchor's stabilizing influence — the excess Quintessential amplification is channeled into the Anchor's maintenance rather than into the spell's output. This makes careful magic actually possible within the Radiance for a practitioner who has established their Anchor.
 
 Examples: With 3 hits establishing the Thought Anchor on entering the Radiance: the practitioner survives the initial sensory assault (which would otherwise require a Willpower roll at difficulty 7 to avoid being paralyzed for one scene) and establishes a stable zone approximately three meters in diameter around themselves, reflecting their deep nature as a visible landscape. Other travelers nearby perceive the Anchor as a distinct environmental pocket — obviously different from the chaos around it. With 5 hits on a sustained Anchor in extended Radiance travel: the Anchor is large enough to contain a small group (five persons), provides meaningful shelter from the Radiance's worst sensory assaults for everyone within it, and travels with the practitioner as they move. With a botch during Anchor establishment in the Radiance: the mage's own suppressed unconscious material floods into the Anchor space rather than their essential self — the landscape produced is the mage's shadow rather than their character, populated by fears, shames, and suppressed memories made visible. Leaving the Radiance immediately is strongly advised.
 
@@ -17725,7 +17723,7 @@ Traditions: Celestial Chorus, Order of Hermes, Verbena, Dreamspeakers. Spheres: 
 
 The mage suffuses a target with Quintessential vitality — filling their Quintessence pool completely and providing ongoing metaphysical benefits for the duration. At Prime 4, the target ignores wound penalties while the Quintessential sustenance holds their Pattern together; the penalty for being at three Health Levels above Incapacitated is suppressed, allowing the target to function at full effectiveness while badly injured. At Prime 5, the effect becomes more permanent — the target's Pattern is reinforced at a fundamental level, providing longer-lasting resilience. Adding Entropy 2 channels the Quintessential energy specifically through probability manipulation, making the blessed target more likely to succeed at challenges through statistical fortune as well as raw power.
 
-Each hit on the casting determines the extent of the benefit: 1 hit refills the target's Quintessence pool to maximum; 3 hits also grants the wound-penalty immunity for the scene; 5 hits with Entropy 2 additionally provides +1 die to all of the target's rolls for the scene as fortune itself favors them. The blessing feels like genuine divine favor or natural luck to the recipient — and functionally it is, as the Quintessential sustenance and probability adjustment are real metaphysical effects. The Celestial Chorus performs this through laying-on-of-hands and formal blessing; Verbena through anointing and spoken charm; Dreamspeakers through invocation of helping spirits.
+Each hit on the casting determines the extent of the benefit: 1 hit refills the target's Quintessence pool to maximum; 3 hits also grants the wound-penalty immunity for the scene; 5 hits with Entropy 2 additionally provides Enhancement +1 to all of the target's rolls for the scene as fortune itself favors them. The blessing feels like genuine divine favor or natural luck to the recipient — and functionally it is, as the Quintessential sustenance and probability adjustment are real metaphysical effects. The Celestial Chorus performs this through laying-on-of-hands and formal blessing; Verbena through anointing and spoken charm; Dreamspeakers through invocation of helping spirits.
 
 Examples: Before a critical ritual, the mage blesses all participants — their Quintessence pools are refilled and wound penalties suppressed for the working. A Celestial Chorus mage blesses a dying ally with 5 hits + Entropy 2 — the ally fights on at full effectiveness despite lethal wounds, feeling the genuine presence of divine favor sustaining them.
 
@@ -18511,7 +18509,7 @@ Coincidental in all circumstances. Mass media influence is the most normalized f
 
 Conventions: Iteration X, NWO. Spheres: Forces 2, Time 1, Entropy 1. SF: 1. Difficulty: 2 (Rote). Sig. Sphere: Forces. Tags: [Damage], [Subtle].
 
-The operative's fire-superiority Procedure: a compound of micro-temporal perception (Time 1), probabilistic combat targeting (Entropy 1), and enhanced ballistic force (Forces 2) that together produce combat accuracy substantially beyond ordinary skill. Time 1 provides the Perfect Moment for trigger pull — calculating the exact millisecond when the target is most exposed. Entropy 1 reads the probability distribution of the fight and highlights the actions most likely to succeed, effectively eliminating suboptimal options before the conscious mind reaches them. Forces 2 then optimizes the round's trajectory and terminal energy. Mechanically, the combined Effect reduces attack difficulty by -2 and adds two dice to the damage roll. This Procedure requires no special equipment — it runs on the operative's own Enlightened Science rather than hardware. Iteration X armorer-operatives use it as a baseline combat enhancement before engaging Tradition targets; NWO field operatives employ it when guaranteed results matter more than discretion. Unlike Hot-Shotting, which requires prepared ammunition, the Golden Gunman can be applied to any firearm with standard ammunition. The two Procedures stack: an operative running Golden Gunman while firing Hot-Shot rounds is a severe threat to any target without Aggravated-damage resistance.
+The operative's fire-superiority Procedure: a compound of micro-temporal perception (Time 1), probabilistic combat targeting (Entropy 1), and enhanced ballistic force (Forces 2) that together produce combat accuracy substantially beyond ordinary skill. Time 1 provides the Perfect Moment for trigger pull — calculating the exact millisecond when the target is most exposed. Entropy 1 reads the probability distribution of the fight and highlights the actions most likely to succeed, effectively eliminating suboptimal options before the conscious mind reaches them. Forces 2 then optimizes the round's trajectory and terminal energy. Mechanically, the combined Effect reduces attack difficulty by -2 and adds Enhancement +1 to the damage roll. This Procedure requires no special equipment — it runs on the operative's own Enlightened Science rather than hardware. Iteration X armorer-operatives use it as a baseline combat enhancement before engaging Tradition targets; NWO field operatives employ it when guaranteed results matter more than discretion. Unlike Hot-Shotting, which requires prepared ammunition, the Golden Gunman can be applied to any firearm with standard ammunition. The two Procedures stack: an operative running Golden Gunman while firing Hot-Shot rounds is a severe threat to any target without Aggravated-damage resistance.
 
 Coincidental in all circumstances — excellent marksmanship is entirely mundane.
 
@@ -18639,7 +18637,7 @@ The mage transforms another human into an animal — five hits for a full transf
 
 Spheres: Life 3 / Matter 3 / Mind 2 / Prime 2. SF: 2. Difficulty: 3 (Rote). Casting pool: Life Skill + Resolve. Costs 3 Quintessence.
 
-The caster becomes a ten-foot, iron-skinned, four-armed killing machine: Strength rises to 6, each hit grants soak dice against lethal and aggravated, the extra arms add +4 dice to unarmed and Melee attacks, and a supernatural fear aura forces onlookers to resist (Willpower, difficulty 6, minimum 3 hits). Grossly Vulgar.
+The caster becomes a ten-foot, iron-skinned, four-armed killing machine: Strength rises to 6, each hit grants soak dice against lethal and aggravated, the extra arms add Enhancement +2 to unarmed and Melee attacks, and a supernatural fear aura forces onlookers to resist (Willpower, difficulty 6, minimum 3 hits). Grossly Vulgar.
 
 ### Warp-Spasm
 
@@ -19481,7 +19479,7 @@ THE DICE POOL
 -------------
 BUILDING A POOL
   Pool = Attribute + Skill   |   Magic = Sphere Rating + Casting Attribute
-  Enhancement dice: add to pool from Tags, Quintessence, Willpower, or circumstance.
+  Enhancement: added as hits (only if you land at least one hit) from Tags, gear, circumstance, or spent resources; +5 cap.
 
 ROLLING AND COUNTING HITS
   Roll all dice. Count dice showing 8 or higher.
@@ -19502,7 +19500,7 @@ COMPLICATIONS — Narrative disadvantages from failed or costly rolls.
 
 MOMENTUM — Shared resource (starts at 3).
   +1 Momentum when a player fails a roll.
-  Spend 1 Momentum to: invoke a Tag (+2 dice), buy a bonus Minor Action, trigger a Trick,
+  Spend 1 Momentum to: invoke a Tag (Enhancement +1), buy a bonus Minor Action, trigger a Trick,
   or assist an ally. Storyguide has a separate pool for NPCs and narrative twists.
 ```
 
@@ -19530,8 +19528,7 @@ ARETE (Traditions) / ENLIGHTENMENT (Technocracy) — A cap, NOT a dice pool. Ran
   Arete/Enlightenment does NOT add dice to your casting pool.
 
 QUINTESSENCE — Magical fuel. Max = Avatar + 3 (or Arete/Enlightenment + 1 without Avatar).
-  Spend 1 Quintessence before rolling: +1 Enhancement die.
-  Max spend per casting = Arete/Enlightenment ÷ 2 (round up).
+  Spend Quintessence before rolling: 2 Quintessence = Enhancement +1 (hits), max +2 per casting.
 
 ROTE vs. FREEFORM — WHICH TO USE?
   Rote: prepared working codified by the Tradition or Convention.
@@ -19583,12 +19580,12 @@ PARADOX POOL & TRIGGERS
 ADDING TO THE POOL
   Vulgar with Sleeper witnesses:    +2 dice per Sphere dot of highest Sphere used.
   Vulgar without witnesses:         +1 die per Sphere dot of highest Sphere used.
-  Coincidental (any):               +0 dice. Pool unchanged.
+  Coincidental (any):               Enhancement +1. Pool unchanged.
   Rote advantage: shifts one step toward Coincidental.
     Vulgar w/ witnesses → Vulgar w/o witnesses (saves 1 die per dot).
     Vulgar w/o witnesses → Coincidental (saves Paradox entirely).
     Coincidental Rote → no Paradox at all.
-  Botch (0 hits on casting roll): +1 die to pool regardless of category.
+  Botch (0 hits on casting roll): Enhancement +1 to pool regardless of category.
   Failed casting (hits < Difficulty, not a Botch): no Paradox, effect simply fails.
 
 TRIGGERING THE ROLL
@@ -19604,7 +19601,7 @@ PARADOX DIE RESULTS (read EACH die individually — all results apply at once)
   3   — Backlash Wound: mage suffers 1 Bashing damage (bypasses armor).
   4   — Sensory Bleed: vivid hallucination for the scene; −1 die to all actions taken.
   5   — Paradox Flare: mage's next casting this session is automatically Vulgar.
-          Also adds +1 die to the freshly-reset pool immediately.
+          Also adds Enhancement +1 to the freshly-reset pool immediately.
   6–7 — Backwash: current or most recent effect gains a twisted side-effect chosen by
           Storyguide. Each 6 or 7 result also removes 1 die from the pool (consumed/spent).
   8   — Paradox Drain: reality partially forgives — remove 2 dice from pool.
@@ -19614,7 +19611,7 @@ PARADOX DIE RESULTS (read EACH die individually — all results apply at once)
   10  — Catastrophe (choose one at Storyguide discretion or player election):
           (a) 2 Aggravated damage to the mage.
           (b) Major Backlash — a significant narrative complication lasting a story arc.
-          (c) +3 dice added to the freshly-reset pool (cascade risk).
+          (c) Enhancement +2 added to the freshly-reset pool (cascade risk).
 
 QUIET TRACK (5 boxes total)
   1 box: Static — minor perceptual glitches, echoes, wrong-color shadows. No mechanical penalty.
@@ -19712,7 +19709,7 @@ HEALTH TRACK — Band Structure (7 + Stamina boxes total)
 
 COMMON TRICK HITS (1 Trick Hit each unless noted)
   Extra Damage   Disarm   Knockdown   Stagger (lose Minor Action)
-  Wound (apply condition)   Setup (+1 die to ally's next roll)   Expose (lower cover)
+  Wound (apply condition)   Setup (Enhancement +1 to ally's next roll)   Expose (lower cover)
 
 ARMOR  (reduces Bashing and Lethal; does NOT reduce Aggravated)
   Light (+1 Armor)  Medium (+2, -1 Athletics/Stealth)  Heavy (+3, -2 Athletics/Stealth)
@@ -19970,7 +19967,7 @@ The standard military and paramilitary longarm. Single-fire SF 1 is identical to
 Not concealable. Not subtle. An assault rifle in an urban environment immediately establishes the situation as Vulgar for any magical actions taken in that scene — the Consensus is already being violated by the presence of visible military hardware.
 
 Invoke (burst): "Burst Fire — I take the shot with +2 Enhancement to hit."
-Invoke (full auto): "Full Auto — everyone in the hallway defends. +4 dice."
+Invoke (full auto): "Full Auto — everyone in the hallway defends. Enhancement +2."
 Compel: "Automatic means 30 rounds per magazine. You have fired 18. You have 12 left."
 ```
 
@@ -20412,7 +20409,7 @@ Mundane crafting requires appropriate materials and a reasonable amount of time.
 > 
 > --- SECOND ATTEMPT: MASTER WORK (Difficulty 2, double time, exceptional materials) ---
 > 
-> Tomás decides the blade deserves better. He sources iron from a meteorite fragment held by an elder smith (exceptional material), spends four days on the forge (double time = +1 Enhancement die to pool), and focuses his full craft on the work.
+> Tomás decides the blade deserves better. He sources iron from a meteorite fragment held by an elder smith (exceptional material), spends four days on the forge (double time = Enhancement +1), and focuses his full craft on the work.
 > 
 > MASTER WORK ROLL (Difficulty 2): 5 dice + 1 (double time) = 6 dice.
 > 
@@ -20669,7 +20666,7 @@ The following table summarizes when a crafted Wonder generates Paradox in play. 
 > Henrique is a Euthanatoi mage (Arete ●●●, Entropy ●●●, Life ●●) working on a Cutting-Edge Talisman — a carved obsidian crescent intended to help him read the flow of death energy in a target and channel it into a precise strike. His design:
 >   Enhancement: +2 (specialized — only on Entropy-aligned attack actions)
 >   Tags: [Concealable], [Wounding]
->   Effect: Entropy ●●● (sense death resonance in targets; once per scene, add +2 dice to a single attack against a target whose death-state Henrique has read)
+>   Effect: Entropy ●●● (sense death resonance in targets; once per scene, add Enhancement +1 to a single attack against a target whose death-state Henrique has read)
 > Total build points: 2 + 2 + 1 = 5. Exactly at Cutting-Edge maximum.
 > 
 > --- MILESTONE 1 (Foundation — Difficulty 2): ROLL 6 dice → 4 hits ---
@@ -20703,7 +20700,7 @@ The following table summarizes when a crafted Wonder generates Paradox in play. 
 >   Enhancement: +2 (specialized — Entropy attack actions only)
 >   Tags: [Concealable], [Wounding], [Enchanted]
 >   Flaw: Minor Backlash (triggers only when the Entropy Effect is invoked and the activation roll botches)
->   Effect: Entropy ●●● — spend 1 Quintessence to read a target's death-resonance (Difficulty 2). On success, add +2 dice to one attack against that target before end of scene. Cost: 1 Quintessence per activation.
+>   Effect: Entropy ●●● — spend 1 Quintessence to read a target's death-resonance (Difficulty 2). On success, add Enhancement +1 to one attack against that target before end of scene. Cost: 1 Quintessence per activation.
 > 
 > --- HOW THE FLAW PLAYS OUT IN COMBAT ---
 > 
@@ -20718,7 +20715,7 @@ The following table summarizes when a crafted Wonder generates Paradox in play. 
 > 
 > Phase 3: Henrique attacks normally — no Enhancement bonus, since the Effect failed. He rolls his base Dexterity + Melee pool (4 dice). Gets 2 hits. Samir soaks 1 via his Wards (Warded tag on his jacket absorbs 1). Samir takes 1 Lethal damage.
 > 
-> The Backlash did not end the fight, but it cost Henrique an action, inflicted 1 Lethal on himself, and removed the +2 dice advantage he was counting on. This is the correct weight for a Minor Flaw — consequential but not catastrophic, and most importantly it happened at exactly the wrong moment.
+> The Backlash did not end the fight, but it cost Henrique an action, inflicted 1 Lethal on himself, and removed the Enhancement +1 advantage he was counting on. This is the correct weight for a Minor Flaw — consequential but not catastrophic, and most importantly it happened at exactly the wrong moment.
 > 
 > RECOVERY: At the end of the session, Henrique can attempt to repair the Flaw with a second Quick Fix roll (Wits + Crafts, Difficulty 3). If he gets 3+ hits, he can permanently remove Minor Backlash. He decides to try — and fails again with 2 hits. The crescent stays flawed. He may need another full Milestone 3 crafting session dedicated solely to Flaw removal, or he learns to live with it.
 
@@ -21247,7 +21244,7 @@ In addition to the standard vehicle tags (Fast, Maneuverable, All-terrain, etc.)
 | Tag | Effect  \|  Sphere Required  \|  Invoke / Compel |
 | --- | --- |
 | Resonant (Vehicle) | The vehicle carries strong magical Resonance tied to a Tradition, place, or purpose. Mages of compatible Resonance gain +1 Enhancement on all Sphere castings while inside. Incompatible mages suffer –1 Enhancement.  \|  Any Sphere ●  \|  Invoke: "Resonant with Verbena — I cast Life ●●● from inside. +1 Enhancement." Compel: "Resonant with Verbena — the Technocratic scanner detects unusual energy emanating from this vehicle." |
-| Warded (Vehicle) | The vehicle's interior is warded against specific threat types (spirits, scrying, mental intrusion). The ward provides Cover (+2 dice) against covered threat types. The warding requires maintenance — if the ward Resonance is violated, it must be recast.  \|  Prime ●● + relevant Sphere ●●  \|  Invoke: "Warded against scrying — their Correspondence ●●● cannot locate us while we are inside." Compel: "The ward registers as a magical anomaly on their scanners. They know something is here even if they cannot see what." |
+| Warded (Vehicle) | The vehicle's interior is warded against specific threat types (spirits, scrying, mental intrusion). The ward provides Cover (Enhancement +1) against covered threat types. The warding requires maintenance — if the ward Resonance is violated, it must be recast.  \|  Prime ●● + relevant Sphere ●●  \|  Invoke: "Warded against scrying — their Correspondence ●●● cannot locate us while we are inside." Compel: "The ward registers as a magical anomaly on their scanners. They know something is here even if they cannot see what." |
 | Cloaked | The vehicle is invisible or disguised to targeted perception — Sleepers or specific magic users see what the enchantment wants them to see (a different make/model, an empty parking space, nothing at all). The Cloaked tag fails when the vehicle interacts physically with the perceived environment — a Cloaked car cannot drive through traffic without becoming visible.  \|  Correspondence ●● (misdirection) or Mind ●●● (illusion)  \|  Invoke: "Cloaked — the surveillance camera recorded nothing. We were invisible." Compel: "The Cloaked tag works on perception. The parking ticket on the windshield means someone touched the car. The cloak broke." |
 | Awakened (Vehicle) | The vehicle has a degree of spiritual awareness — it responds to mental commands, recognizes its designated operator, and has rudimentary preferences. An Awakened vehicle will not harm its owner even when operated by others, and will make choices (route, speed, evasion) that prioritize the owner's survival.  \|  Spirit ●●● or Prime ●●●●  \|  Invoke: "Awakened — the bike knows I am in danger. It revs and positions itself between me and the shooter." Compel: "Awakened means it has opinions. It refuses to enter the Nephandi-tainted zone. You must park outside." |
 
@@ -21537,7 +21534,7 @@ Environmental factors apply as Tags: Difficult Terrain applies its standard effe
 > Action: Ram. Pool = Dexterity ●●● (3) + Drive ●●● (3) = 6 dice. Difficulty 3 (Sasha has evasive position).
 > Roll: [9, 8, 7, 5, 4, 3] → 4 hits, 1 net hit above Difficulty.
 > Ram damage = Attacker Size + Speed Advantage = 3 + 0 = 3 damage to the motorcycle.
-> But Sasha's Evasive Maneuver granted +3 dice to vehicle defense rolls this round.
+> But Sasha's Evasive Maneuver granted Enhancement +2 to vehicle defense rolls this round.
 > Defensive Drive (Sasha): Pool = Dexterity 4 + Drive 3 + 3 (Evasive bonus) = 10 dice. Difficulty 3.
 > Roll: [9, 8, 8, 7, 6, 5, 4, 3, 2, 1] → 6 hits, 3 net. Reduces incoming damage by 3 hits = 3 absorbed.
 > Net ram damage: 3 - 3 = 0. Sasha threads through just in time. The van clips a shelving unit instead.
@@ -21670,7 +21667,7 @@ Orphan mages — those who Awaken without factional affiliation — have the gre
 
 "Caul-Born" is not a phrase you will hear from Council mages or Technocrats. Among the Fallen, those who Awakened on the Nephandic Path from the beginning are considered pure in their devotions — or at least as pure as the Fallen get. Unlike barabbi, they have no previous loyalty to discard. Unlike widderslainte, they do not grow up conflicted about who and what they are. Caul-Born Nephandi are who they are because they want to be that way. Their Arts are Black Arts by design, not modification, and their beliefs are held sincerely. Thus, Caul-Born mages maintain bone-deep loyalty to their Fallen cause. With very few exceptions, they hold very few regrets.
 
-Mechanically, Caul-Born Nephandi begin play with Qlippothic Resonance already present in their aura (see the Edges, Powers & Tags below). They cannot claim the Innocuous Aura merit without substantial in-chronicle work, because their passage through the dark was their entry into existence as a mage. They compensate with genuine fanaticism: Caul-Born receive a free reroll on any Resolve + Composure check to resist coercion, seduction away from the Fallen Path, or social engineering that would compromise their Nephandic identity. They chose this. They are not going back.
+Mechanically, Caul-Born Nephandi begin play with Qlippothic Resonance already present in their aura (see the Edges, Powers & Tags below). They cannot claim the Innocuous Aura Power without substantial in-chronicle work, because their passage through the dark was their entry into existence as a mage. They compensate with genuine fanaticism: Caul-Born receive a free reroll on any Resolve + Composure check to resist coercion, seduction away from the Fallen Path, or social engineering that would compromise their Nephandic identity. They chose this. They are not going back.
 
 ## The Descent Track
 
@@ -21681,7 +21678,7 @@ The Descent Track has five stages. Each stage represents how deeply a Nephandus 
 ```
 The Descent Track — Five Stages
 -------------------------------
-STAGE ONE — Novitiate: The Caul has been survived. The mage knows what she is. Her Resonance has begun to darken. She gains access to Nephandic Merits (see below). She is, from the perspective of other mages, a dangerous unknown.
+STAGE ONE — Novitiate: The Caul has been survived. The mage knows what she is. Her Resonance has begun to darken. She gains access to Nephandic Edges and Powers (see below). She is, from the perspective of other mages, a dangerous unknown.
 
 STAGE TWO — Initiate: She has committed her first major atrocity in service to the Fallen cause and survived the consequences. Her Resonance is now unmistakably Qlippothic to any mage with Prime 2+ who reads her aura without concealment. She gains one additional Sphere Trick that functions only within the Qlippothic resonance of her practice.
 
@@ -21704,7 +21701,7 @@ The following Edges, Powers, and Tags are available only to Nephandic characters
 
 Every human being has a repressed shadow — a collection of things about themselves they refuse to acknowledge, either because those things feel too awful or too good to admit. Mages who have traveled through the Qlippothic depths develop a frightening degree of insight into these shadows, and a fiendish gift for exploiting them.
 
-Mechanically: This Merit subtracts 2 from the Difficulty of any Social roll the Nephandus makes when exploiting someone's shadow aspect — the egotist's need for validation, the lonely person's hunger for connection, the guilty person's terror of exposure. This deduction can lower Difficulty beyond the standard -3 modifier limit, giving the Fallen an inhuman edge. The Merit does not work on people who have no shadow (extremely unlikely) or on mages who have undergone successful Seeking against their shadow self.
+Mechanically: This Edge subtracts 2 from the Difficulty of any Social roll the Nephandus makes when exploiting someone's shadow aspect — the egotist's need for validation, the lonely person's hunger for connection, the guilty person's terror of exposure. This deduction can lower Difficulty beyond the standard -3 modifier limit, giving the Fallen an inhuman edge. The Edge does not work on people who have no shadow (extremely unlikely) or on mages who have undergone successful Seeking against their shadow self.
 
 ### Innocuous Aura (Power)
 
@@ -21712,11 +21709,11 @@ Most Nephandi have been visibly marked by their Caul passage. This mage has some
 
 ### Abyssal Mastery (Power)
 
-The Fallen mage with this Merit has aligned herself so deeply with the Void that its rigors hold no threat for her. She can endure the cold vacuum of deep space and the Deep Umbra without life support, food, water, or breathable atmosphere. No matter how long she spends in the darkest Umbral reaches, she retains her mortal form upon return. Additionally, she may use Spirit 5 to escape directly into the Qlippoth — a feat most Masters cannot successfully attempt — reaching any Qlipha she has previously attained.
+The Fallen mage with this Power has aligned herself so deeply with the Void that its rigors hold no threat for her. She can endure the cold vacuum of deep space and the Deep Umbra without life support, food, water, or breathable atmosphere. No matter how long she spends in the darkest Umbral reaches, she retains her mortal form upon return. Additionally, she may use Spirit 5 to escape directly into the Qlippoth — a feat most Masters cannot successfully attempt — reaching any Qlipha she has previously attained.
 
 ### Saint of the Pit (Power)
 
-She has gone where few Nephandi have gone and come back speaking of it. Her reputation among infernal entities is such that all but the most powerful Goetic powers and dark totems defer to her commands. Rules-wise, this Merit lowers the Difficulty of all Social rolls by 3 whenever the Nephandus wants to compel obedience, drive a bargain, demand a favor, or frighten an infernal entity. The greatest arch-demons and Qlippothic godheads remain immune, though they treat her with respect. In the mortal world, any character with three or more dots in Occult, Lore (Nephandi), or relevant Esoterica has heard of this mage. What they do with that knowledge is their problem.
+She has gone where few Nephandi have gone and come back speaking of it. Her reputation among infernal entities is such that all but the most powerful Goetic powers and dark totems defer to her commands. Rules-wise, this Power lowers the Difficulty of all Social rolls by 3 whenever the Nephandus wants to compel obedience, drive a bargain, demand a favor, or frighten an infernal entity. The greatest arch-demons and Qlippothic godheads remain immune, though they treat her with respect. In the mortal world, any character with three or more dots in Occult, Lore (Nephandi), or relevant Esoterica has heard of this mage. What they do with that knowledge is their problem.
 
 ### Qlippothic Radiance (compel-only Tag)
 
@@ -21726,14 +21723,14 @@ The Shells have left a discernible mark that this character cannot conceal. Anyo
 
 The Caul passage cracked something in this mage that never fully healed. She is not merely strange — she is fractured in ways that occasionally override her own control. Once per session, the Storyguide may trigger a Sanity check (see Appendix K) against a Difficulty equal to her current Descent Stage + 2. On a failure, she acts on Qlippothic instinct rather than conscious choice for a number of rounds equal to the margin of failure. She does not become catatonic; she becomes something worse: utterly, genuinely herself, stripped of any civilized veneer she maintains for operational purposes.
 
-### Infernal Investments — Variable Merit (Flaw Bundled)
+### Infernal Investments — Variable Edge (Drawback Bundled)
 
 The Nephandus has bound herself to an infernal patron — a Goetic demon, a Qlippothic entity, or a representative of Those Who Dwell Behind the Stars. This relationship grants her access to Investment Traits (see below) but comes with mandatory Demonic Investment Flaws that reflect the cost of the relationship.
 
 Optional Rule: Infernal Pacts. A Storyguide who wants to make Infernal Investments a concrete mechanical system can treat them as a structured pact with specific terms. The demon provides Investment Traits worth up to (its Might score × 2) points. In return, the Nephandus owes Service, Moth into Flame, or Hellfire — one Flaw per two Investment Traits received. Service means the demon can call on the Nephandus for specific tasks at any time, and refusing costs a Willpower point and adds a Paradox die. Moth into Flame means the Nephandus is compelled to investigate anything that looks like a path to greater power, even obvious traps. Hellfire means she has internalized some of the infernal resonance: when she botches a vulgar working, one Paradox die is replaced by a Hellfire die that deals unsoakable Aggravated damage to the nearest sentient being — which may be her.
 
 ```
-Sample Investment Traits (Merit side)
+Sample Investment Traits (Edge side)
 -------------------------------------
 Luciferian Charm (+3): Difficulty on all resistance rolls against this mage's social influence is increased by 2 for anyone who would find her physically attractive.
 Occult Awareness (+2): She gains a free reroll on any Perception + Awareness roll involving supernatural phenomena.
@@ -21953,7 +21950,7 @@ This appendix catalogs the persistent advantages a character can hold — **Edge
 
 **Edges** are dot-rated advantages, valued from ● to ●●●. Each dot is worth roughly one of: +1 Enhancement to a broad set of actions, +2 Enhancement to one specific roll, access to a Trick, or a comparable standing benefit. A character begins play with about five dots of Edges (some granted innately by her Paths, the rest chosen freely) and buys more with experience. A *mundane* advantage never exceeds three dots — if it seems to want a fourth, it is simply scaled back to ●●●, because ordinary talent has a ceiling.
 
-**Powers** are the genuinely supernatural or superhuman capabilities that sit above the Edge band: innate spirit-sight, true immortality, a bound guardian spirit, faith that turns back the Fallen. Powers are bought at a flat experience cost and are **Storyguide-gated** — a player takes one only with the Storyguide's agreement, because each reshapes what the character fundamentally is. (Reality-altering magic is handled separately, by the Spheres; the Powers here are the smaller innate knacks that ordinary Edges cannot contain.)
+**Powers** are the genuinely supernatural or superhuman capabilities that sit above the Edge band: innate spirit-sight, true immortality, a bound guardian spirit, faith that turns back the Fallen. Powers are bought at a flat experience cost and are **Storyguide-gated** — a player takes one only with the Storyguide's agreement, because each reshapes what the character fundamentally is. (Reality-altering magic is handled separately, by the Spheres; the Powers here are the smaller innate knacks that ordinary Edges cannot contain.) Each Power's cost is listed in its entry; where none is given, a Power costs 5 experience points by default.
 
 **Rated traits** — the old Backgrounds (Resources, Contacts, Allies, a Chantry, a Node) — are Edges at ● to ●●●; at ●●●● to ●●●●● they become Powers, because a resource that large is a force in its own right.
 
@@ -21963,7 +21960,7 @@ These broadly useful Edges suit a character of any faction, calling, or concept.
 
 ### Fast Reflexes (Edge ● or ●●)
 
-You react before others have finished flinching. At ●, add 1 die to Initiative rolls; at ●●, add 2 dice and you are never treated as surprised so long as you are conscious.
+You react before others have finished flinching. At ●, Enhancement +1 to Initiative rolls; at ●●, Enhancement +2 and you are never treated as surprised so long as you are conscious.
 
 ### Multitasking (Edge ●●)
 
@@ -21981,7 +21978,7 @@ One of your senses is preternaturally sharp. At ●, choose one sense (sight, he
 
 ### Alcohol / Drug Tolerance (Edge ●–●●)
 
-Your body processes intoxicants unusually well. At ●, you can drink twice the normal amount before suffering penalties. At ●●, even extreme intoxication produces only mild impairment, and you resist drug-induced effects (including magickal ones) with an extra die on relevant resistance rolls.
+Your body processes intoxicants unusually well. At ●, you can drink twice the normal amount before suffering penalties. At ●●, even extreme intoxication produces only mild impairment, and you resist drug-induced effects (including magickal ones) with Enhancement +1 on relevant resistance rolls.
 
 ### Ambidextrous (Edge ●)
 
@@ -22009,15 +22006,15 @@ Your bloodline carries an aristocratic heritage recognised in certain social cir
 
 ### Sterile (Edge ●)
 
-As a Merit: you are infertile by choice or by nature, which prevents certain supernatural vulnerabilities or obligations tied to bloodline. As a Flaw: the condition is unwanted and may affect your character's emotional state and story relationships.
+As an Edge: you are infertile by choice or by nature, which prevents certain supernatural vulnerabilities or obligations tied to bloodline. As a drawback Tag: the condition is unwanted and may affect your character's emotional state and story relationships.
 
 ### Enchanting Feature (Edge ●●)
 
-One physical feature — eyes, voice, hands, etc. — is strikingly beautiful or compelling. Add 1 die to Social rolls in situations where that feature is noticeable or relevant.
+One physical feature — eyes, voice, hands, etc. — is strikingly beautiful or compelling. Add Enhancement +1 to Social rolls in situations where that feature is noticeable or relevant.
 
 ### Physically Impressive (Edge ●●)
 
-Your build or bearing is commanding. You gain 1 die on Intimidation rolls and on Social rolls where physical presence matters. Witnesses are less likely to start fights with you without provocation.
+Your build or bearing is commanding. You gain Enhancement +1 on Intimidation rolls and on Social rolls where physical presence matters. Witnesses are less likely to start fights with you without provocation.
 
 ### Poison Resistance (Edge ●●)
 
@@ -22025,19 +22022,19 @@ Your system metabolises toxins rapidly. Reduce the Difficulty of Stamina rolls t
 
 ### Poker Face (Edge ●●)
 
-Your expressions betray nothing you do not wish to reveal. Add 2 dice to rolls to resist being read by Empathy, Mind Sphere effects that detect emotions, or mundane interrogation.
+Your expressions betray nothing you do not wish to reveal. Add Enhancement +1 to rolls to resist being read by Empathy, Mind Sphere effects that detect emotions, or mundane interrogation.
 
 ### Daredevil (Edge ●●●)
 
-When attempting risky physical actions, you add 3 dice to your pool. Additionally, once per scene you may reroll a failed physical stunt roll and take the better result. Botches on physical stunts become simple failures when this Merit is in play.
+When attempting risky physical actions, you add Enhancement +2 to your pool. Additionally, once per scene you may reroll a failed physical stunt roll and take the better result. Botches on physical stunts become simple failures when this Edge is in play.
 
 ### Hypersensitivity (Edge ●●●)
 
-Your senses are preternaturally sharp across the board — you can detect things others miss — but the same sensitivity leaves you vulnerable. You gain 2 dice on all Awareness rolls. However, sudden loud noises, intense lights, and extreme smells can briefly disorient you (Storyguide may impose a 1-turn penalty in such circumstances).
+Your senses are preternaturally sharp across the board — you can detect things others miss — but the same sensitivity leaves you vulnerable. You gain Enhancement +1 on all Awareness rolls. However, sudden loud noises, intense lights, and extreme smells can briefly disorient you (Storyguide may impose a 1-turn penalty in such circumstances).
 
 ### Nightsight (Edge ●●●)
 
-You can see clearly in near-darkness, as if lit by a full moon. You suffer no Difficulty penalties for dim or moonlit conditions. Total darkness still blinds you, though magical or technological night-vision can supplement this Merit.
+You can see clearly in near-darkness, as if lit by a full moon. You suffer no Difficulty penalties for dim or moonlit conditions. Total darkness still blinds you, though magical or technological night-vision can supplement this Edge.
 
 ### Huge Size (Edge ●●●)
 
@@ -22049,7 +22046,7 @@ You can continue acting despite wounds that would incapacitate most people. You 
 
 ### Too Tough to Die (Edge ●●●)
 
-When your health levels are reduced to Incapacitated or beyond by bashing or lethal damage, make a reflexive Stamina roll (Difficulty 8). Each hit on that roll gives you one extra round of consciousness and action before you collapse. This Merit does not apply to aggravated damage.
+When your health levels are reduced to Incapacitated or beyond by bashing or lethal damage, make a reflexive Stamina roll (Difficulty 8). Each hit on that roll gives you one extra round of consciousness and action before you collapse. This Edge does not apply to aggravated damage.
 
 ---
 
@@ -22057,15 +22054,15 @@ When your health levels are reduced to Incapacitated or beyond by bashing or let
 
 ### Artistically Gifted (Edge ●)
 
-You have a natural gift for artistic expression — painting, music, writing, or another creative medium. Add 1 die to relevant Expression or Craftsmanship rolls and reduce the Difficulty of artistic creation tasks by 1.
+You have a natural gift for artistic expression — painting, music, writing, or another creative medium. Add Enhancement +1 to relevant Expression or Craftsmanship rolls and reduce the Difficulty of artistic creation tasks by 1.
 
 ### Common Sense (Edge ●)
 
-Once per session, you may ask the Storyguide "What is the most sensible course of action here?" and receive an honest answer. This Merit reflects exceptional practical reasoning, not supernatural intuition.
+Once per session, you may ask the Storyguide "What is the most sensible course of action here?" and receive an honest answer. This Edge reflects exceptional practical reasoning, not supernatural intuition.
 
 ### Computer Aptitude (Edge ●)
 
-Computers are intuitive for you. Add 1 die to Computer rolls and reduce their Difficulty by 1. You can troubleshoot unfamiliar systems more quickly than others.
+Computers are intuitive for you. Add Enhancement +1 to Computer rolls and reduce their Difficulty by 1. You can troubleshoot unfamiliar systems more quickly than others.
 
 ### Concentration (Edge ●)
 
@@ -22073,7 +22070,7 @@ Distractions do not easily break your focus. You ignore the standard +1 Difficul
 
 ### Expert Driver (Edge ●)
 
-You have exceptional skill with vehicles of a chosen type (cars, motorcycles, boats, aircraft, etc.). Add 2 dice to all relevant Drive or Pilot rolls and reduce Difficulty by 1 for high-stress maneuvers with that vehicle type.
+You have exceptional skill with vehicles of a chosen type (cars, motorcycles, boats, aircraft, etc.). Add Enhancement +1 to all relevant Drive or Pilot rolls and reduce Difficulty by 1 for high-stress maneuvers with that vehicle type.
 
 ### Language (Edge ●)
 
@@ -22081,19 +22078,19 @@ You are fluent in an additional language beyond those your character begins with
 
 ### Lightning Calculator (Edge ●)
 
-Complex mathematics, mental arithmetic, and pattern-recognition tasks come effortlessly. You need no tools to perform calculations others would need computers for. Add 2 dice to Intelligence rolls involving numbers, codes, or logical sequences.
+Complex mathematics, mental arithmetic, and pattern-recognition tasks come effortlessly. You need no tools to perform calculations others would need computers for. Add Enhancement +1 to Intelligence rolls involving numbers, codes, or logical sequences.
 
 ### Mechanical Aptitude (Edge ●)
 
-Machines speak to you intuitively. Add 1 die to Craftsmanship or Technology rolls involving mechanical devices and reduce Difficulty by 1 for diagnosing mechanical problems.
+Machines speak to you intuitively. Add Enhancement +1 to Craftsmanship or Technology rolls involving mechanical devices and reduce Difficulty by 1 for diagnosing mechanical problems.
 
 ### Time Sense (Edge ●)
 
-You always know the approximate time without consulting a clock, and you have an excellent internal sense of duration. Add 1 die to Time Sphere effects that involve timing, and reduce the Difficulty of rolls where precise timing matters by 1.
+You always know the approximate time without consulting a clock, and you have an excellent internal sense of duration. Add Enhancement +1 to Time Sphere effects that involve timing, and reduce the Difficulty of rolls where precise timing matters by 1.
 
 ### Code of Honor (Edge ●●)
 
-You have a personal moral code you adhere to strictly. Once per session, when you are tempted to act against your code, you may call on this Merit to succeed on a Willpower roll to resist without spending a Willpower point. Additionally, other characters who recognise your code may trust you more readily.
+You have a personal moral code you adhere to strictly. Once per session, when you are tempted to act against your code, you may call on this Edge to succeed on a Willpower roll to resist without spending a Willpower point. Additionally, other characters who recognise your code may trust you more readily.
 
 ### Eidetic Memory (Edge ●●)
 
@@ -22101,7 +22098,7 @@ You remember everything you have seen, heard, or read with near-perfect recall. 
 
 ### Inner Strength (Edge ●●)
 
-Your sense of self is unusually robust. Add 1 die to Willpower rolls and to resistance rolls against mental domination, emotional manipulation, or Quiet-inducing phenomena.
+Your sense of self is unusually robust. Add Enhancement +1 to Willpower rolls and to resistance rolls against mental domination, emotional manipulation, or Quiet-inducing phenomena.
 
 ### Natural Linguist (Edge ●●)
 
@@ -22109,7 +22106,7 @@ You pick up languages with extraordinary speed. Halve the time and experience re
 
 ### Hyperfocus (Edge ●●●)
 
-When you dedicate yourself entirely to a single task, you exceed ordinary limits. On any extended roll where you spend an entire scene on a single task without interruption, add 2 dice to each roll in the extended action. You cannot benefit from Hyperfocus if you are multitasking.
+When you dedicate yourself entirely to a single task, you exceed ordinary limits. On any extended roll where you spend an entire scene on a single task without interruption, add Enhancement +1 to each roll in the extended action. You cannot benefit from Hyperfocus if you are multitasking.
 
 ### Iron Will (Edge ●●●)
 
@@ -22125,11 +22122,11 @@ You bridge the gap between scientific and mystical worldviews seamlessly. You ca
 
 ### Berserker (Edge ●●●)
 
-When wounded (at Hurt or worse) or deliberately enraged, you may enter a battle fury. In this state add 2 dice to all physical attack and damage rolls. While berserk, you cannot perform fine motor actions (surgery, lockpicking, magick requiring concentration), and Storyguide may require a Willpower roll (Difficulty 7) to stop attacking once enemies are incapacitated. The fury ends when all opponents are down or when you spend a Willpower point to pull yourself back.
+When wounded (at Hurt or worse) or deliberately enraged, you may enter a battle fury. In this state add Enhancement +1 to all physical attack and damage rolls. While berserk, you cannot perform fine motor actions (surgery, lockpicking, magick requiring concentration), and Storyguide may require a Willpower roll (Difficulty 7) to stop attacking once enemies are incapacitated. The fury ends when all opponents are down or when you spend a Willpower point to pull yourself back.
 
 ### Judge's Wisdom (Edge ●●●)
 
-Your moral and situational insight is uncanny. Once per session, you may ask the Storyguide whether a course of action is ethically sound within the context of your character's beliefs and receive an honest answer. Additionally, add 2 dice to any Social roll where your role is adjudicating, mediating, or rendering judgment.
+Your moral and situational insight is uncanny. Once per session, you may ask the Storyguide whether a course of action is ethically sound within the context of your character's beliefs and receive an honest answer. Additionally, add Enhancement +1 to any Social roll where your role is adjudicating, mediating, or rendering judgment.
 
 ### Self-Confident (Edge ●●●)
 
@@ -22157,7 +22154,7 @@ Someone of influence owes you a substantial favour. The Storyguide defines the n
 
 ### Pitiable (Edge ●)
 
-Something about you — your appearance, your manner, your situation — evokes sympathy in others. Once per session, you may invoke this Merit to reduce the Difficulty of a Social roll by 2 when appealing to a target's compassion. Storyguide may rule this has no effect on sociopaths or those with specific grudges.
+Something about you — your appearance, your manner, your situation — evokes sympathy in others. Once per session, you may invoke this Edge to reduce the Difficulty of a Social roll by 2 when appealing to a target's compassion. Storyguide may rule this has no effect on sociopaths or those with specific grudges.
 
 ### Prestigious Mentor (Edge ●)
 
@@ -22165,19 +22162,19 @@ Your mentor is respected or feared within the Awakened community. You gain a fre
 
 ### Regal Bearing (Edge ●)
 
-You carry yourself with natural authority. Add 1 die to Leadership rolls and to Social rolls where projecting authority or gravitas matters. Those who observe you instinctively assume you are in charge.
+You carry yourself with natural authority. Add Enhancement +1 to Leadership rolls and to Social rolls where projecting authority or gravitas matters. Those who observe you instinctively assume you are in charge.
 
 ### Unobtrusive (Edge ●)
 
-You blend into crowds and situations naturally, without obvious effort. Add 1 die to Stealth rolls in social situations and reduce by 1 the Difficulty of remaining unnoticed in places you have some right to be.
+You blend into crowds and situations naturally, without obvious effort. Add Enhancement +1 to Stealth rolls in social situations and reduce by 1 the Difficulty of remaining unnoticed in places you have some right to be.
 
 ### Animal Magnetism (Edge ●●)
 
-You possess natural charisma that is hard to resist. Add 1 die to all Persuasion and Seduction rolls. In social situations, people are instinctively well-disposed toward you on first meeting.
+You possess natural charisma that is hard to resist. Add Enhancement +1 to all Persuasion and Seduction rolls. In social situations, people are instinctively well-disposed toward you on first meeting.
 
 ### Confidence (Edge ●●)
 
-Your self-assurance is palpable and contagious. Add 1 die to Leadership rolls and to Social rolls where projecting certainty helps. Allies within your presence gain 1 die on their next Willpower roll when inspired by your confidence.
+Your self-assurance is palpable and contagious. Add Enhancement +1 to Leadership rolls and to Social rolls where projecting certainty helps. Allies within your presence gain Enhancement +1 on their next Willpower roll when inspired by your confidence.
 
 ### Hideaway / Safehouse (Edge ●●)
 
@@ -22185,7 +22182,7 @@ You have access to a secure location known only to you and a trusted few. The lo
 
 ### Natural Leader (Edge ●●)
 
-People follow you instinctively. Add 2 dice to Leadership rolls and to rolls made to coordinate group actions. Allies gain 1 automatic hit on their morale-related Willpower rolls when following your direct orders.
+People follow you instinctively. Add Enhancement +1 to Leadership rolls and to rolls made to coordinate group actions. Allies gain 1 automatic hit on their morale-related Willpower rolls when following your direct orders.
 
 ### Officially Dead (Edge ●●)
 
@@ -22193,11 +22190,11 @@ According to governmental records, you do not exist. You are free of most mundan
 
 ### Perfect Liar (Edge ●●)
 
-Your deceptions are flawless in delivery. Add 2 dice to Subterfuge rolls to lie convincingly. When you fail a deception roll, the failure is not obvious — the target simply remains uncertain rather than immediately recognising the lie.
+Your deceptions are flawless in delivery. Add Enhancement +1 to Subterfuge rolls to lie convincingly. When you fail a deception roll, the failure is not obvious — the target simply remains uncertain rather than immediately recognising the lie.
 
 ### Prestige (Edge ●●)
 
-You have an established and positive reputation within a specific community (your Tradition, a regional Sleeper community, an academic field, etc.). Add 1 die to Social rolls within that community and reduce Difficulty by 1 for requests made of members of that community.
+You have an established and positive reputation within a specific community (your Tradition, a regional Sleeper community, an academic field, etc.). Add Enhancement +1 to Social rolls within that community and reduce Difficulty by 1 for requests made of members of that community.
 
 ### Property (Edge ●●)
 
@@ -22209,7 +22206,7 @@ You have access to ongoing institutional funding for your work. You do not need 
 
 ### Sanctity (Edge ●●)
 
-People instinctively trust your moral sincerity. Add 1 die to Social rolls in situations where being perceived as honest or morally upright matters. Characters who perceive you through supernatural senses note a sense of genuine conviction or purity around you.
+People instinctively trust your moral sincerity. Add Enhancement +1 to Social rolls in situations where being perceived as honest or morally upright matters. Characters who perceive you through supernatural senses note a sense of genuine conviction or purity around you.
 
 ### Secret Code Language (Edge ●●)
 
@@ -22221,11 +22218,11 @@ You have a wide and active social network across multiple communities. Once per 
 
 ### Subculture Insider (Edge ●●)
 
-You are deeply embedded in a specific subculture (hacker community, underground art scene, religious order, criminal network, etc.). Add 2 dice to Social rolls within that subculture and gain access to its resources and information networks.
+You are deeply embedded in a specific subculture (hacker community, underground art scene, religious order, criminal network, etc.). Add Enhancement +1 to Social rolls within that subculture and gain access to its resources and information networks.
 
 ### Dark Triad (Edge ●●●)
 
-You possess a calculated, manipulative edge that some find terrifying and others find compelling. Add 2 dice to rolls involving manipulation, intimidation, and strategic deception. However, those with high Empathy or supernatural perception may find you unsettling; reduce Difficulty of their attempts to sense your true nature by 1.
+You possess a calculated, manipulative edge that some find terrifying and others find compelling. Add Enhancement +1 to rolls involving manipulation, intimidation, and strategic deception. However, those with high Empathy or supernatural perception may find you unsettling; reduce Difficulty of their attempts to sense your true nature by 1.
 
 ### Local Hero (Edge ●●●)
 
@@ -22233,11 +22230,11 @@ Within a specific community or neighbourhood, you are celebrated and trusted. Lo
 
 ### Noted Messenger (Edge ●●●)
 
-You are known and trusted as a reliable neutral courier between factions. Both sides in a conflict will generally allow you to pass safely and will not interfere with your deliveries. Breaking this neutrality forfeits the Merit permanently.
+You are known and trusted as a reliable neutral courier between factions. Both sides in a conflict will generally allow you to pass safely and will not interfere with your deliveries. Breaking this neutrality forfeits the Edge permanently.
 
 ### Rising Star (Edge ●●●)
 
-Senior members of your organisation or Tradition recognise your potential. You gain +1 die to Social rolls with mentors and superiors and are granted more latitude than other mages of your rank. However, expectations are high — failure is more visible and more costly.
+Senior members of your organisation or Tradition recognise your potential. You gain Enhancement +1 to Social rolls with mentors and superiors and are granted more latitude than other mages of your rank. However, expectations are high — failure is more visible and more costly.
 
 ### Ties (Edge ●●●)
 
@@ -22245,7 +22242,7 @@ You have formal or informal connections to a powerful organisation outside your 
 
 ### Master of Red Tape (Edge ●●●)
 
-You understand bureaucratic systems so deeply that you can make them work for you. Once per session, you may navigate an institutional obstacle (government, corporate, or organisational) that would stall ordinary characters entirely. Add 3 dice to all rolls involving bureaucratic manipulation, filing official requests, or blocking others through procedural means.
+You understand bureaucratic systems so deeply that you can make them work for you. Once per session, you may navigate an institutional obstacle (government, corporate, or organisational) that would stall ordinary characters entirely. Add Enhancement +2 to all rolls involving bureaucratic manipulation, filing official requests, or blocking others through procedural means.
 
 ### True Love (Edge ●●●)
 
@@ -22273,7 +22270,7 @@ Plants thrive in your care, growing faster and healthier than they normally woul
 
 ### Bardic Gift (Edge ●●)
 
-Your creative performance carries genuine supernatural resonance. When you perform music, poetry, or storytelling for an audience, add 1 die to the rolls of any allies who witness the performance on their next action. Additionally, mundane audiences find your performances unusually moving or memorable.
+Your creative performance carries genuine supernatural resonance. When you perform music, poetry, or storytelling for an audience, add Enhancement +1 to the rolls of any allies who witness the performance on their next action. Additionally, mundane audiences find your performances unusually moving or memorable.
 
 ### Circumspect Avatar (Edge ●●)
 
@@ -22293,7 +22290,7 @@ Your physical aging has effectively stopped. You will not age further under norm
 
 ### Celestial Affinity (Edge ●●●)
 
-You are attuned to the movements of celestial bodies. Add 1 die to all casting rolls when performing magick during astronomically significant moments (solstices, eclipses, planetary alignments). You always know the current phase of the moon, the position of major planets, and the presence of any astronomical anomaly.
+You are attuned to the movements of celestial bodies. Add Enhancement +1 to all casting rolls when performing magick during astronomically significant moments (solstices, eclipses, planetary alignments). You always know the current phase of the moon, the position of major planets, and the presence of any astronomical anomaly.
 
 ### Cloak of the Seasons (Edge ●●●)
 
@@ -22301,7 +22298,7 @@ Your magickal practice shifts with the seasons, reflecting the natural world's c
 
 ### Cyclic Magick (Edge ●●●)
 
-Your magickal power waxes and wanes in a regular cycle tied to a natural phenomenon — lunar phases, tidal patterns, solar cycles. During your peak, add 2 dice to all casting rolls. During your trough, subtract 1 die. The Storyguide tracks the cycle and tells you where you currently stand.
+Your magickal power waxes and wanes in a regular cycle tied to a natural phenomenon — lunar phases, tidal patterns, solar cycles. During your peak, add Enhancement +1 to all casting rolls. During your trough, subtract 1 die. The Storyguide tracks the cycle and tells you where you currently stand.
 
 ### Danger Sense (Edge ●●●)
 
@@ -22309,7 +22306,7 @@ You have a preternatural awareness of imminent threat. The Storyguide will give 
 
 ### Hands of Daedalus (Edge ●●●)
 
-You have an extraordinary gift for craft and construction. When creating physical items — wonders, tools, structures, or art — add 2 dice to all Craftsmanship rolls and reduce Difficulty by 1. Items you create are exceptionally durable and function better than comparable items made by others.
+You have an extraordinary gift for craft and construction. When creating physical items — wonders, tools, structures, or art — add Enhancement +1 to all Craftsmanship rolls and reduce Difficulty by 1. Items you create are exceptionally durable and function better than comparable items made by others.
 
 ### Lucky (Edge ●●●)
 
@@ -22325,7 +22322,7 @@ A powerful supernatural entity — a great spirit, a Loa, a higher being — has
 
 ### Natural Channel (Edge ●●●)
 
-Magical energy flows through you unusually freely. Reduce the Difficulty of Prime Sphere rolls to sense or channel Quintessence by 1. You may also serve as a natural conduit in group rituals, allowing other mages in the ritual to add 1 die to their contributions.
+Magical energy flows through you unusually freely. Reduce the Difficulty of Prime Sphere rolls to sense or channel Quintessence by 1. You may also serve as a natural conduit in group rituals, allowing other mages in the ritual to add Enhancement +1 to their contributions.
 
 ### Natural Shapeshifter (Edge ●●●)
 
@@ -22353,7 +22350,7 @@ You have a close relationship with a supernatural being — a werewolf, a vampir
 
 ### Stormwarden / Quantum Voyager (Edge ●●● / Power ●●●●●)
 
-At ●●●, you are particularly attuned to storms, chaos, and turbulent natural phenomena; reduce the Difficulty of Forces-based magick during storms or chaotic conditions by 1 and gain 1 additional die on Awareness rolls in such conditions. At ●●●●●, this attunement extends to dimensional instability; you are at ease in the Deep Umbra or during reality fluctuations, and the usual disorientation penalties in such environments do not apply to you.
+At ●●●, you are particularly attuned to storms, chaos, and turbulent natural phenomena; reduce the Difficulty of Forces-based magick during storms or chaotic conditions by 1 and gain Enhancement +1 on Awareness rolls in such conditions. At ●●●●●, this attunement extends to dimensional instability; you are at ease in the Deep Umbra or during reality fluctuations, and the usual disorientation penalties in such environments do not apply to you.
 
 ## Backgrounds (Rated Edges & Powers)
 
@@ -22527,7 +22524,7 @@ Cult Dot Ratings
 
 ### Destiny (Edge ●–●●● / Power ●●●●–●●●●●)
 
-A sense of preordained purpose recognized by fate, spirits, or the cosmos. Once per game session, you may roll your Destiny dots against Difficulty 6; each hit adds 1 die to a single important action.
+A sense of preordained purpose recognized by fate, spirits, or the cosmos. Once per game session, you may roll your Destiny dots against Difficulty 6; each hit adds Enhancement +1 to a single important action.
 
 ```
 Destiny Dot Ratings
@@ -22797,7 +22794,7 @@ Powers cost a flat amount of experience and require Storyguide approval. Unless 
 
 ### Deathwalker (Power)
 
-You walk comfortably in the spaces between life and death. You can perceive and communicate with spirits and ghosts as per the Medium Merit. Additionally, once per session, you may ask a recently deceased spirit one question that it would have known in life (Difficulty 7 Awareness roll to establish contact). Entropy and Spirit Sphere effects you perform in the presence of death or at sites of recent mortality gain 1 extra die.
+You walk comfortably in the spaces between life and death. You can perceive and communicate with spirits and ghosts as per the Medium Edge. Additionally, once per session, you may ask a recently deceased spirit one question that it would have known in life (Difficulty 7 Awareness roll to establish contact). Entropy and Spirit Sphere effects you perform in the presence of death or at sites of recent mortality gain Enhancement +1.
 
 ### Fae Blood (Power)
 
@@ -22809,7 +22806,7 @@ You have close blood ties to one of the shapechanger breeds. You are recognised 
 
 ### Twin Souls (Power)
 
-Your soul is twined with another — possibly a twin, a past life echo, or a metaphysical soulmate. You may share dreams, sense each other's distress across any distance, and once per session communicate a single simple concept to each other without any medium. If your twin is present in a scene, add 1 die to all rolls made to protect or assist them. If your twin is harmed, make a Willpower roll (Difficulty 6) or be temporarily distracted by sympathetic pain.
+Your soul is twined with another — possibly a twin, a past life echo, or a metaphysical soulmate. You may share dreams, sense each other's distress across any distance, and once per session communicate a single simple concept to each other without any medium. If your twin is present in a scene, add Enhancement +1 to all rolls made to protect or assist them. If your twin is harmed, make a Willpower roll (Difficulty 6) or be temporarily distracted by sympathetic pain.
 
 ### Umbral Affinity (Power)
 
@@ -22821,19 +22818,19 @@ Supernatural bonds do not take hold on you. Blood bonds, binding oaths with magi
 
 ### Ghoul (Power)
 
-You have consumed vampire vitae and receive ongoing doses that sustain a partial blood bond and a small set of vampiric benefits. You age slowly (roughly one year for every decade), can spend a Willpower point to gain 1 die on Strength or Stamina rolls for one scene, and heal at double the normal rate. However, you must periodically receive vitae to maintain these benefits, and you carry a low-level blood bond to your vampire benefactor.
+You have consumed vampire vitae and receive ongoing doses that sustain a partial blood bond and a small set of vampiric benefits. You age slowly (roughly one year for every decade), can spend a Willpower point to gain Enhancement +1 on Strength or Stamina rolls for one scene, and heal at double the normal rate. However, you must periodically receive vitae to maintain these benefits, and you carry a low-level blood bond to your vampire benefactor.
 
 ### Clear Sighted (Power)
 
 Illusions and glamours cannot deceive you. You automatically succeed on all rolls to see through magical deceptions, illusions, and mind-altering perceptual effects. If a mage is trying to hide their magical working behind a coincidental facade, you recognise it as magical. You cannot be made to believe in something that is not real.
 
-### "Immortal" (Power)
+### "Immortal" (Power ●●●●●)
 
-At ●●●●●: your body does not age and recovers from nearly any physical injury given enough time. You can still be killed by sufficient trauma, decapitation, or magick that destroys the soul, but you do not die of ordinary causes. For 7 points: your immortality extends to significant trauma recovery — even injuries that would permanently scar or cripple others heal fully over days or weeks.
+Rated ●●●●● — the dot cap — and bought for a flat **7 experience points** (above the standard 5-XP Power cost, reflecting its potency). Your body does not age and recovers from nearly any physical injury given enough time. You can still be killed by sufficient trauma, decapitation, or magick that destroys the soul, but you do not die of ordinary causes. The recovery is thorough: even injuries that would permanently scar or cripple others heal fully over days or weeks.
 
 ### Inner Knight (Power)
 
-You have a calling — a deep, genuine sense of duty toward a cause greater than yourself — that manifests as spiritual fortitude. Add 2 dice to all Willpower rolls when acting directly in service of your calling. Once per session, spend a Willpower point to gain immunity to supernatural fear or despair for the rest of the scene.
+You have a calling — a deep, genuine sense of duty toward a cause greater than yourself — that manifests as spiritual fortitude. Add Enhancement +1 to all Willpower rolls when acting directly in service of your calling. Once per session, spend a Willpower point to gain immunity to supernatural fear or despair for the rest of the scene.
 
 ### Legendary Attributes (Power)
 
@@ -22853,15 +22850,15 @@ Vitality radiates from you. Plants and animals within a few yards of you grow he
 
 ### Guardian Angel (Power)
 
-A powerful spiritual protector watches over you. Once per story, when you would die from physical trauma, the Guardian Angel intervenes — the damage is real but you survive at Incapacitated rather than dying outright. The Storyguide determines the nature of the angel's intervention. This Merit does not prevent all death — soul destruction, Gilgul, and similar fates lie outside the angel's purview.
+A powerful spiritual protector watches over you. Once per story, when you would die from physical trauma, the Guardian Angel intervenes — the damage is real but you survive at Incapacitated rather than dying outright. The Storyguide determines the nature of the angel's intervention. This Power does not prevent all death — soul destruction, Gilgul, and similar fates lie outside the angel's purview.
 
 ### Nine Lives (Power)
 
-Once per story (not per session), when you would die from any cause, you do not. The Storyguide and player collaborate on how you survived. This Merit can be invoked up to nine times across the character's lifetime — keep a tally. After nine survivals, the Merit is gone permanently.
+Once per story (not per session), when you would die from any cause, you do not. The Storyguide and player collaborate on how you survived. This Power can be invoked up to nine times across the character's lifetime — keep a tally. After nine survivals, the Power is gone permanently.
 
 ### Sphere Natural (Power)
 
-One Sphere comes to you with uncanny ease. That Sphere costs 75% of the normal experience cost to advance. Your casting rolls with that Sphere gain 1 additional die at all ranks. Describe the Sphere and its resonance with your character's nature or backstory.
+One Sphere comes to you with uncanny ease. That Sphere costs 75% of the normal experience cost to advance. Your casting rolls with that Sphere gain Enhancement +1 at all ranks. Describe the Sphere and its resonance with your character's nature or backstory.
 
 ### Avatar Companion (Power)
 
@@ -23012,7 +23009,7 @@ Strength Enhancement: +2 Strength for Strength-based actions. Maximum running sp
 
 Modular add-ons (each adds tags or effects):
   CELSS (life support, 3 pts.): enclosed helmet, space/underwater/hazmat capable, 1 QE/hour
-  ETC targeting (4 pts.): after 1 Phase engaging target, +4 dice to ranged attacks
+  ETC targeting (4 pts.): after 1 Phase engaging target, Enhancement +2 to ranged attacks
   Heavy Armor upgrade (1 pt.): Soak becomes 10, maximum run drops to 10 yards, Heavy (–2 dice)
   HIPAU plasma cannon (9 pts.): 6-die aggravated Forces/Prime blast, 1 QE per shot
   NSRM nanite repair (3 pts.): minor repairs in minutes, major in 1–2 hours
@@ -23109,7 +23106,7 @@ The standard-issue smartphone platform for Technocratic field operatives. Looks 
 
 Available apps (each is a separate micro-Wonder that runs on the ES-Phone platform):
   City Eye (2 pts.): Data ●●, Mind ● — tracks any person through city camera networks; predicts movement.
-  C-SAM (2 pts.): Data ●, Entropy ●, Time ●● — vicinity threat assessment; +2 dice on combat initiative.
+  C-SAM (2 pts.): Data ●, Entropy ●, Time ●● — vicinity threat assessment; Enhancement +1 on combat initiative.
   K-Gram (1 pt.): Dimensional Science ● — Kirlian camera detects extradimensional entities.
   Manar (1 pt.): Data ●, Prime ● — detects magic within 100 feet.
   NOT: An App (3 pts.): Mind ●●● — selective memory erasure (the NOT function, via phone interface).
@@ -23162,7 +23159,7 @@ Arete: 6  |  Quintessence: 30  |  Sphere: Forces ●●●, Prime ●●, Corres
 
 Insulated gauntlets of metal, leather, and glass that draw power from remote Tesla coils via quantum gates. The Correspondence ●●● connection means the Tesla coils can be anywhere in the world. The Worn tag means the gauntlets cannot be disarmed or knocked away.
 
-Attacks: Forces ●●● + Prime ●● deliver 6 dice of aggravated electrical damage on a successful strike. The Electrical Damage tag means armor without electrical resistance does not apply Soak. The Brutal tag produces dramatic wound descriptions. The Wounding tag gives access to the Wound Trick (1 hit: inflict Bleeding status). Additionally, the gauntlets add +3 dice to unarmed bashing strikes even without activating the electrical discharge.
+Attacks: Forces ●●● + Prime ●● deliver 6 dice of aggravated electrical damage on a successful strike. The Electrical Damage tag means armor without electrical resistance does not apply Soak. The Brutal tag produces dramatic wound descriptions. The Wounding tag gives access to the Wound Trick (1 hit: inflict Bleeding status). Additionally, the gauntlets add Enhancement +2 to unarmed bashing strikes even without activating the electrical discharge.
 
 In hand-to-hand combat, the mage can deliver a single 6-die static blast per scene without depleting the Tesla coil connection. Each additional discharge costs 1 Quintessence. Two turns between discharges (minimum). Vulgar in any observed situation.
 
@@ -23415,7 +23412,7 @@ Typical Users: Verbena; historically Daedaleans and Werwolf hunters
 A mystically preserved werewolf paw on an iron chain that channels the berserker fury and regenerative power of Garou kind. Invoking the Talisman requires rolling its Casting Pool (Difficulty 6) and spending 1 Quintessence. Each hit grants 1 dot of Might (Strength) lasting until scene's end. Its Life 3 effects activate automatically while worn and charged:
 
 - Automatically heal 1 health level of bashing or lethal damage per turn.
-- Wearer gains the Berserker Merit (with its associated Feral Mind and Stress Atavism aspects).
+- Wearer gains the Berserker Edge (with its associated Feral Mind and Stress Atavism aspects).
 - Grow sharp claws dealing Might +1 lethal damage.
 - Soak lethal and aggravated damage as if wearing armour (Storyguide determines exact values).
 Downside: Any Garou or Kinfolk within 2–3 yards can detect this Talisman on a successful Awareness roll (Difficulty 8). Their response is hostile — no social mitigation possible. Additional Flaws: Short Fuse, Witch-Hunted. The low Background Cost (2 pts.) reflects these significant drawbacks.
@@ -23487,7 +23484,7 @@ Using a single Effect at a time is seamless. Switching between two Effects impos
 
 **Effect:** The wearer activates one installed perceptual Effect as a Minor Action. Each Effect corresponds to a specific Rank 1 Sphere application — the Storyguide and player define which one at item creation and it does not change. Only one Effect may be active at a time without penalty.
 
-**Invoke:** [Perceptual] when the wearer is trying to see through an active deception (illusion, concealment, disguise); adds +2 dice to the Awareness or Investigation roll.
+**Invoke:** [Perceptual] when the wearer is trying to see through an active deception (illusion, concealment, disguise); adds Enhancement +1 to the Awareness or Investigation roll.
 **Compel:** [Perceptual] when the wearer's enhanced vision reveals something they were unprepared for — an ally's emotional distress, the Paradox resonance on an innocent, the structural weakness in the floor they are standing on — forcing a decision or reaction the wearer would rather have avoided.
 
 **Crafting Note:** Any Sphere that has a Rank 1 visual perception application can be built into Trushades. Common choices: Forces 1 (electromagnetic spectrum), Life 1 (biological detection), Matter 1 (material analysis), Mind 1 (surface emotional reading), Prime 1 (Quintessence sensing). Each additional Effect beyond the first adds +1 to the Background Cost and +3 to the total hits needed in the Investment roll. Maximum three Effects.
@@ -23502,7 +23499,7 @@ Using a single Effect at a time is seamless. Switching between two Effects impos
 **Quintessence Capacity:** 10–25 (depending on dot rating)
 **Tags:** [Enchanted], [Concealable], [Stealth], [Electronic Interference]
 
-A compact device — resembling a pager, a chunky wristwatch, or a carved stone pendant — that bends attention away from its bearer. Forces 2 shifts the bearer slightly out of optimal light and sound frequencies; Mind 2 reinforces the perceptual blur at a cognitive level, making witnesses instinctively categorise the bearer as unimportant background. The combined effect functions mechanically as the Arcane 3 Merit while active.
+A compact device — resembling a pager, a chunky wristwatch, or a carved stone pendant — that bends attention away from its bearer. Forces 2 shifts the bearer slightly out of optimal light and sound frequencies; Mind 2 reinforces the perceptual blur at a cognitive level, making witnesses instinctively categorise the bearer as unimportant background. The combined effect functions mechanically as the Arcane 3 Edge while active.
 
 The side effect is significant: the Bafflejack also disrupts nearby electronic devices. Phones become unreliable, cameras miss keyframes, and networked devices suffer intermittent failures. This is nearly untraceable as sabotage — it resembles ordinary interference — but it creates problems in environments with critical electronic infrastructure. An Etherite field medic using one during surgery would be committing malpractice.
 
@@ -23510,7 +23507,7 @@ Each point of Quintessence sustains the Effect for one hour. Running all four av
 
 **Effect:** While active and charged, the bearer gains the mechanical benefit of Arcane 3 — a +3 increase to Difficulty for any attempt to notice, track, photograph, or remember the bearer. Electronic surveillance automatically suffers interference within 10 yards.
 
-**Invoke:** [Stealth] when the bearer is attempting to enter or exit a location without being observed; adds +2 dice to the Stealth roll.
+**Invoke:** [Stealth] when the bearer is attempting to enter or exit a location without being observed; adds Enhancement +1 to the Stealth roll.
 **Compel:** [Electronic Interference] when the bearer's Bafflejack is causing a problem they did not intend — disrupting an ally's communication, corrupting a critical data transfer, or drawing attention precisely because of the interference pattern it creates.
 
 **Crafting Note:** Forces 2 + Mind 2 + Prime 4. Each dot beyond the base adds an additional Effect and 5 more Quintessence capacity. The electronic interference is a built-in side effect of the Forces component and cannot be removed without rebuilding the item from scratch.
@@ -23533,7 +23530,7 @@ Urban Tradition mages — Virtual Adepts, Hollow Ones, some Akashayana — produ
 
 **Effect:** Provides 4 soak dice against lethal slashing and piercing damage only. Blunt trauma, fire, electricity, and aggravated damage are not affected. The Hoodie is visually indistinguishable from mundane clothing.
 
-**Invoke:** [Armored] when a blade, bullet, or similar piercing/slashing attack is the threat; add 4 dice to the soak roll.
+**Invoke:** [Armored] when a blade, bullet, or similar piercing/slashing attack is the threat; Enhancement +2 on the soak roll.
 **Compel:** [Armored] when the bearer's confidence in the Hoodie leads them to take risks they would not otherwise take — walking into a gunfight, dismissing a blade threat — and the threat turns out to be blunt, fire, or aggravated, bypassing the protection entirely.
 
 **Crafting Note:** Matter 3 + Prime 4 (for the enchantment), standard Foundation roll using Crafts or Technology. The fabric must be of reasonable quality — cheap synthetic fibres restructure poorly and lose coherence within months. A good-quality cotton-polyester blend lasts years.
@@ -23554,7 +23551,7 @@ The Mind 2 Procedures woven into the fabric establish a low-level Empathic Bond 
 
 **Effect:** −3 Difficulty to Social rolls (Persuasion, Etiquette, Leadership, Negotiation) while worn. Provides 2 soak dice against bashing and lethal damage. Conceals items up to handgun size against casual search. With the Florian add-on: +2 additional dice to Presence or Manipulation-based rolls.
 
-**Invoke:** [Social] when the wearer is attempting to establish dominance, credibility, or trust in a formal or professional environment; adds +2 dice.
+**Invoke:** [Social] when the wearer is attempting to establish dominance, credibility, or trust in a formal or professional environment; adds Enhancement +1.
 **Compel:** [Social] when the wearer is in an environment where the suit is conspicuous — a combat zone, a working-class neighbourhood, an informal situation — drawing attention to their affiliations rather than smoothing them over.
 
 **Crafting Note:** Mind 2 + Matter 2 + appropriate Technocratic Procedures. The tailoring Foundation roll uses Crafts (Tailoring) at Difficulty 7. The Florian add-on is a separate optional modification requiring Mind 3 and an additional 2 pts. Background Cost.
@@ -23577,7 +23574,7 @@ The system requires a Union database connection to function at full capability; 
 
 **Effect:** The wearer can perform biometric identification, run background checks, cross-reference Union intelligence, and track tagged individuals within database range as Minor Actions. Full functionality requires Union network access. Local-only mode: biometric identification and real-time analysis still function.
 
-**Invoke:** [Perceptual] when the wearer is attempting to identify a person, read an environment, or locate a target using the VDAS feed; adds +2 dice to Investigation or Awareness.
+**Invoke:** [Perceptual] when the wearer is attempting to identify a person, read an environment, or locate a target using the VDAS feed; adds Enhancement +1 to Investigation or Awareness.
 **Compel:** [Networked] when the VDAS connection reveals something Union command did not want the operative to see — an inconsistency in their orders, a flagged contact who is a registered ally, a classified data trail — creating a conflict between the operative's personal judgment and their institutional role.
 
 **Crafting Note:** Enlightenment 3 minimum; Enlightenment 6 for the full implant version. The cybernetic implant version requires Skeletal Enhancement as a prerequisite (M20 p. 659) and the same installation procedure as other cybernetics. Data is from the Union's classified network — non-Technocratic users will find the database access returns null.
@@ -23594,11 +23591,11 @@ The system requires a Union database connection to function at full capability; 
 
 The R-25 is the Technocracy's standard heavy-engagement powered armour — the sort of thing that enters firefights with therianthrope packs, Reality Deviant incursion events, and other situations where standard Composite Armour is insufficient. It is not subtle. It is not designed to be subtle. Operatives deploying in an R-25 are communicating a clear message about what category of problem they have been sent to solve.
 
-Base capabilities: 7 soak dice against all damage types (bashing, lethal, aggravated), +2 Might dice (Strength enhancement), −2 Dexterity dice (bulk penalty), integrated communication infrastructure (ICI: radio, internet, VDAS, GPS, phone, video uplink). Optional modular upgrades, each requiring separate Background Cost: CELSS life-support module (3 pts.: hazmat, underwater, extreme environment; 1 Quintessence/hour), ETC targeting enhancement (4 pts.: +4 dice to ranged attack after one targeting turn), Heavy Armor module (1 pt.: +3 soak for 10 total, −3 Dexterity, 10-yard run speed maximum), HIPAU plasma cannon (9 pts.: Forces 3/Prime 2, 6-die aggravated damage, 1 Quintessence/shot), NSRM self-repair nanites (3 pts.: Enlightenment roll at Difficulty 7 for temporary field repair), SCEMS life support (4 pts.: Life 2 Heal Self, 4-die pool at Difficulty 6, 1 Quintessence/use), SPECM power modules (5 pts. each: +10 Quintessence capacity, maximum 2 per suit).
+Base capabilities: 7 soak dice against all damage types (bashing, lethal, aggravated), +2 Might dice (Strength enhancement), −2 Dexterity dice (bulk penalty), integrated communication infrastructure (ICI: radio, internet, VDAS, GPS, phone, video uplink). Optional modular upgrades, each requiring separate Background Cost: CELSS life-support module (3 pts.: hazmat, underwater, extreme environment; 1 Quintessence/hour), ETC targeting enhancement (4 pts.: Enhancement +2 to ranged attack after one targeting turn), Heavy Armor module (1 pt.: +3 soak for 10 total, −3 Dexterity, 10-yard run speed maximum), HIPAU plasma cannon (9 pts.: Forces 3/Prime 2, 6-die aggravated damage, 1 Quintessence/shot), NSRM self-repair nanites (3 pts.: Enlightenment roll at Difficulty 7 for temporary field repair), SCEMS life support (4 pts.: Life 2 Heal Self, 4-die pool at Difficulty 6, 1 Quintessence/use), SPECM power modules (5 pts. each: +10 Quintessence capacity, maximum 2 per suit).
 
-**Effect:** 7 soak dice (all types), +2 dice to Strength-based physical actions, −2 dice to Dexterity-based actions. ICI grants communication and tactical network access. Each module adds its listed effect when installed.
+**Effect:** 7 soak dice (all types), Enhancement +1 to Strength-based physical actions, −2 dice to Dexterity-based actions. ICI grants communication and tactical network access. Each module adds its listed effect when installed.
 
-**Invoke:** [Armored (Heavy)] when the suit's protection is directly relevant — soaking a major attack, absorbing an environmental hazard, breaching fortified structures; adds +2 dice to the relevant roll.
+**Invoke:** [Armored (Heavy)] when the suit's protection is directly relevant — soaking a major attack, absorbing an environmental hazard, breaching fortified structures; adds Enhancement +1 to the relevant roll.
 **Compel:** [Conspicuous] when the R-25's bulk, noise, and appearance creates social problems — it cannot pass through a civilian environment unnoticed, cannot be worn during infiltration, and draws Paradox attention the moment it enters a Sleeper-heavy area.
 
 **Crafting Note:** Enlightenment 4 required to operate. Full manufacture requires Technocratic facilities; field modification of modular components is possible with appropriate tools and a Crafts (Engineering) roll. A solo mage cannot build an R-25 — it is an institutional product.
@@ -23619,7 +23616,7 @@ These are used by Virtual Adept sympathisers and Syndicate internal affairs inve
 
 **Effect:** Single-use Data Effect — retrieve financial transaction records and flag unusual patterns for a target within 50 yards. Self-erases on activation. Generates 3 Paradox if directly witnessed by a skeptical Sleeper.
 
-**Invoke:** [Technological] when the investigative goal is financial — corruption, embezzlement, money laundering — and the target has left an electronic footprint; adds +2 dice to the relevant Investigation or Data roll.
+**Invoke:** [Technological] when the investigative goal is financial — corruption, embezzlement, money laundering — and the target has left an electronic footprint; adds Enhancement +1 to the relevant Investigation or Data roll.
 **Compel:** [Single-Use] when the card has been used and the character needs it again — they have exhausted this resource and must find another approach.
 
 **Crafting Note:** Enlightenment 5. Requires Data 2 / Forces 1 / Mind 2 and an extended Foundation roll (Crafts or Technology, Difficulty 8). Approximately 5 cards per extended crafting session. Each card is individually programmed — mass production is possible only with substantial Technocratic infrastructure.
@@ -23705,7 +23702,7 @@ The gas is officially described as an "atmospheric refraction agent" in Union pr
 
 **Effect:** 20-foot radius, 30–60 minutes duration. All optical sensors (visual, IR, UV, camera) non-functional in the cloud. Entropy 2 applies: one minor accident per person per scene in the affected area (Storyguide's call on specifics). No damage to living targets.
 
-**Invoke:** [Non-Lethal] when the operational goal is to blind surveillance or create confusion without casualties; adds +2 dice to Stealth or Subterfuge rolls made while the gas is active.
+**Invoke:** [Non-Lethal] when the operational goal is to blind surveillance or create confusion without casualties; adds Enhancement +1 to Stealth or Subterfuge rolls made while the gas is active.
 **Compel:** [Area] when the gas blinds or trips the operative's own allies, catches a civilian in the affected zone, or persists in a ventilation system longer than expected.
 
 **Crafting Note:** Forces 2 + Entropy 2 + Prime 2. Foundation roll: Crafts (Chemistry) or Technology at Difficulty 7. Manufactured in batches; shelf life of approximately 18 months before the refraction compound degrades.
@@ -23726,7 +23723,7 @@ Uses: sealing doors permanently (without obviously cutting through material), ma
 
 **Effect:** Permanently bonds any two surfaces within one application (6 sq. in.). Bond is unbreakable by conventional means. Inert if not used within [hits] turns of activation.
 
-**Invoke:** [Technological] when the goal is to permanently seal, jam, or adhere something in a way that cannot be explained away — stops a door, secures equipment, prevents mechanisms from operating; adds +2 dice to the relevant action.
+**Invoke:** [Technological] when the goal is to permanently seal, jam, or adhere something in a way that cannot be explained away — stops a door, secures equipment, prevents mechanisms from operating; adds Enhancement +1 to the relevant action.
 **Compel:** [Consumable] when the tube is empty at a critical moment, or when the permanent nature of the bond creates an unanticipated problem — the operative has just permanently sealed the only exit.
 
 **Crafting Note:** Matter 3 + Life 3 + Prime 2. Volatile — requires sealed storage. Foundation roll: Crafts (Chemistry), Difficulty 8. The Life component prevents the bond from failing at biological interfaces (skin, organic materials) — removing it requires Life 4 and surgery.
@@ -23747,7 +23744,7 @@ Both versions require one action to apply to a target vehicle; this is typically
 
 **Effect:** HIPSTer: tracking rolls targeting the marked vehicle are at −2 Difficulty. HIPSDTer: additionally establishes a live Data connection for real-time positioning (3 free successes on any subsequent tracking action).
 
-**Invoke:** [Tracking] when the operative is following the marked vehicle and environmental conditions (night, crowds, interference) would normally make tracking difficult; adds +2 dice or removes Difficulty modifier.
+**Invoke:** [Tracking] when the operative is following the marked vehicle and environmental conditions (night, crowds, interference) would normally make tracking difficult; adds Enhancement +1 or removes Difficulty modifier.
 **Compel:** [Tracking] when the target vehicle is discovered, the tracker disc found and removed — or when the Data connection from the HIPSDTer is detected by a technologically savvy target who then uses it to set an ambush.
 
 **Crafting Note:** Forces 2 + Correspondence 2 + Prime 2 (HIPSTer); add Data 2 for HIPSDTer. Foundation: Crafts (Electronics), Difficulty 7. Battery life: approximately 72 hours continuous operation.
@@ -23768,7 +23765,7 @@ LIAM requires an activation roll (Correspondence 2 Procedure) to acquire and mai
 
 **Effect:** Guided detonation — Correspondence lock required. Damage on impact: hits rolled = dice of aggravated damage. Blast radius extends to [hits] yards. Loss of lock = random detonation.
 
-**Invoke:** [Guided] when the target is behind cover, around a corner, or in a location the operative cannot directly engage; LIAM bypasses the cover requirement and adds +2 dice to the attack.
+**Invoke:** [Guided] when the target is behind cover, around a corner, or in a location the operative cannot directly engage; LIAM bypasses the cover requirement and adds Enhancement +1 to the attack.
 **Compel:** [Dangerous] when the Correspondence lock breaks mid-flight — the Storyguide determines where LIAM goes when it loses guidance.
 
 **Crafting Note:** Correspondence 2 + Forces 3 + Prime 2. Foundation: Crafts (Engineering), Difficulty 9. The micro-thruster fuel limits flight time to approximately 90 seconds from activation — if LIAM has not detonated within that window, it falls inert.
@@ -23833,7 +23830,7 @@ Uses: luring targets out of position, creating decoy targets, maintaining cover 
 
 **Effect:** Projects a human-sized, fully audible holographic illusion from wherever the drone is positioned. Illusion is visually and aurally convincing but has no physical substance. 15 minutes maximum operation; self-destructs on depletion.
 
-**Invoke:** [Concealment] when the TMBL-WD is being used to create a distraction, draw a target to a specific location, or maintain a false presence somewhere the operative is not; adds +2 dice to the Subterfuge or Persuasion roll.
+**Invoke:** [Concealment] when the TMBL-WD is being used to create a distraction, draw a target to a specific location, or maintain a false presence somewhere the operative is not; adds Enhancement +1 to the Subterfuge or Persuasion roll.
 **Compel:** [Consumable] when the unit runs out of power at the worst possible moment, or when the physical insubstantiality of the projection is discovered by a target who reaches for it.
 
 **Crafting Note:** Forces 3 + Prime 2. Foundation: Crafts (Engineering), Difficulty 8. The self-destruct mechanism is a Q Division safety feature — recovering a malfunctioning TMBL-WD requires a Crafts roll at Difficulty 9 before the shredder activates.
@@ -23921,7 +23918,7 @@ Against Wonders: the target gets a soak roll (Wonder's relevant Arete or Enlight
 
 **Effect:** Disables car-sized or smaller machines on 1 success; may permanently damage simple machines on 3+ successes. Wonders get a soak roll. Non-mechanical Wonders are immune.
 
-**Invoke:** [Anti-Technology] when the target's equipment or vehicle is a meaningful threat and the operative needs to shut it down quickly; adds +2 dice to the Enlightenment roll.
+**Invoke:** [Anti-Technology] when the target's equipment or vehicle is a meaningful threat and the operative needs to shut it down quickly; adds Enhancement +1 to the Enlightenment roll.
 **Compel:** [Anti-Technology] when the UND's pulse affects something the operative needed — their own equipment, an ally's vehicle, a piece of infrastructure that was keeping something dangerous contained.
 
 **Crafting Note:** Entropy 2 + Forces 2 + Matter 2 + Prime 3. Foundation: Crafts (Engineering), Difficulty 7. Standard Q Division procurement. Issued routinely to operatives.
@@ -24011,11 +24008,11 @@ The Sleepteacher can also function as the first phase of Social Conditioning (Mi
 
 Not manufactured but accumulated — Dragon Pearls are personal Tass batteries that form and mature across multiple reincarnations of an Akashic mage. The Pearl's form varies entirely by individual: some are literal pearl-like spheres, others are carved jade discs, others simple smooth stones worn to a particular finish by decades of handling. All are identifiable by Prime sense as extraordinary concentrations of carefully tended personal Quintessence.
 
-The functional Periapt element is straightforward: Prime 3 activates storage or withdrawal. The additional effect is what distinguishes Dragon Pearls from ordinary Periapts: with a single action, the Pearl grants +1 die to Arete rolls for any Rote the mage already knows. This cannot push the roll above five dice and does not apply to spontaneous Effects — only to practised Rotes. The bonus represents the accumulated expertise of multiple lifetimes crystallised into the Pearl's resonance.
+The functional Periapt element is straightforward: Prime 3 activates storage or withdrawal. The additional effect is what distinguishes Dragon Pearls from ordinary Periapts: with a single action, the Pearl grants Enhancement +1 to Arete rolls for any Rote the mage already knows. This cannot push the roll above five dice and does not apply to spontaneous Effects — only to practised Rotes. The bonus represents the accumulated expertise of multiple lifetimes crystallised into the Pearl's resonance.
 
-**Effect:** Functions as a Quintessence Periapt (Prime 3 to use). Additionally: +1 die to Arete rolls for known Rotes (maximum 5 dice total). Does not apply to improvised Effects.
+**Effect:** Functions as a Quintessence Periapt (Prime 3 to use). Additionally: Enhancement +1 to Arete rolls for known Rotes (to the +5 Enhancement cap). Does not apply to improvised Effects.
 
-**Invoke:** [Resonant (personal)] when the character is performing a Rote deeply connected to their Tradition practice and long history; the Pearl's stored lifetime-experience adds +2 dice to the roll.
+**Invoke:** [Resonant (personal)] when the character is performing a Rote deeply connected to their Tradition practice and long history; the Pearl's stored lifetime-experience adds Enhancement +1 to the roll.
 **Compel:** [Resonant (personal)] when the Pearl's unique resonance signature draws attention from someone who recognises it — a rival Akashic, an ancestor's enemy, a spirit who has history with the mage's lineage.
 
 **Crafting Note:** Dragon Pearls are not crafted — they accumulate. A new Akashic mage cannot acquire one at character creation; it is an earned Wonder that represents chronicle history. The Storyguide may allow a starting Dragon Pearl if the character's backstory includes a deep Tradition history.
@@ -24061,7 +24058,7 @@ The two functions cannot be used simultaneously — the same stick of incense ca
 
 **Effect:** Summoning mode: −1 Gauntlet, spirits visible to all Awakened present, −2 Difficulty to Umbrood interaction rolls. Protection mode: +2 Difficulty to hostile spirits' actions in warded area, −1 die from hostile Rage attacks.
 
-**Invoke:** [Resonant (Ancestor Spirits)] when the mage is attempting to commune with, negotiate with, or draw information from ancestor spirits; the incense's resonance adds +2 dice to the Spirit roll.
+**Invoke:** [Resonant (Ancestor Spirits)] when the mage is attempting to commune with, negotiate with, or draw information from ancestor spirits; the incense's resonance adds Enhancement +1 to the Spirit roll.
 **Compel:** [Consumable] when the supply is burned out during a critical ritual, or when the incense's distinctive scent draws attention from a party who associates it with a specific practitioner or practice.
 
 **Crafting Note:** Spirit 3 + Prime 2. Foundation: Crafts (ritual preparation, 1-week process including harvest timing, prayer cycles, and infusion). The specific plant material matters — commercial imphepho incense produces no magical effect. The authentic material must be sourced and prepared ceremonially.
@@ -24103,7 +24100,7 @@ The Dümerang Effect is automatic: when the blade is thrown, dropped, or knocked
 
 **Effect:** Deals aggravated damage (use base blade damage + enhancements). Indestructible by mundane means. Auto-returns to wielder's grip on any hit (Forces 2 Effect activates automatically when blade leaves hand).
 
-**Invoke:** [Returning] when the blade has been disarmed, thrown, or dropped and needs to return at a dramatically appropriate moment; the auto-return adds +2 dice to the next attack.
+**Invoke:** [Returning] when the blade has been disarmed, thrown, or dropped and needs to return at a dramatically appropriate moment; the auto-return adds Enhancement +1 to the next attack.
 **Compel:** [Indestructible] when a situation calls for the ability to destroy or alter the blade — and it cannot be destroyed. The blade is also identifiable as Etheric manufacture by anyone with relevant knowledge, creating problems in settings where Etherite association is politically inconvenient.
 
 **Crafting Note:** Forces 2 + Prime 4. Foundation: Crafts (Smithing), Difficulty 9, using Hollow Earth Etheric alloy sourced from Etherite contacts or the Hollow Earth itself. The alloy cannot be replicated — it must be the genuine article. Once forged, the blade's form is permanent.
@@ -24145,7 +24142,7 @@ The Verbena produce these commonly and distribute them freely within Crafts circ
 
 **Effect:** Light candle + Meditation roll: reduce Shroud by 3 in immediate area. All Awakened present can see and communicate with ghosts. Extinguish to end. Botch: hostile spirit attraction.
 
-**Invoke:** [Resonant (Ancestors/Death)] when the character is attempting to communicate with or learn from the dead; the candle establishes the connection, adding +2 dice to the Spirit or Awareness roll.
+**Invoke:** [Resonant (Ancestors/Death)] when the character is attempting to communicate with or learn from the dead; the candle establishes the connection, adding Enhancement +1 to the Spirit or Awareness roll.
 **Compel:** [Resonant (Ancestors/Death)] when the open Shroud connection draws something the character did not intend to contact — a hostile ghost, an Umbrood predator, or a spirit with its own agenda for the practitioners.
 
 **Crafting Note:** Spirit 2 + Prime 2. Foundation: Crafts (Candlemaking + icon painting), Difficulty 6. The painted image must accurately represent the specific spirit or category of spirit the candle is intended for. A generic "ancestor" candle works as a broad invitation; a specific candle painted with an accurate ancestor portrait is far more reliable.
@@ -24189,7 +24186,7 @@ Non-coven-members who attempt to use a Grand Book of Shadows find it unhelpful a
 
 **Effect:** Coven members: −1 Difficulty Research/Occult (−1 more for coven-specific topics), +1 free Lore/scene from consultation, −2 Difficulty to coven ward rituals. Optional: Familiar Background proxy for coven Paradox distribution.
 
-**Invoke:** [Communal] when the coven is working together and the shared knowledge of the Book is relevant — a historical mystery, a Spirit's identity, a ritual the coven has performed before; +2 dice to the relevant roll.
+**Invoke:** [Communal] when the coven is working together and the shared knowledge of the Book is relevant — a historical mystery, a Spirit's identity, a ritual the coven has performed before; Enhancement +1 to the relevant roll.
 **Compel:** [Communal] when the Book creates conflict within the coven — disagreement about who has authority to write in it, a new entry that contradicts existing doctrine, or the Book's presence revealing coven membership to an uninvited observer.
 
 **Crafting Note:** Prime 4 + Mind 3. Foundation: Crafts (Bookbinding + Illumination), Difficulty 9. The Book requires continuous contributions from coven leadership to maintain its potency — a coven without active leadership finds the Book's effects gradually degrading. A Grand Book of Shadows that has been abandoned for more than a decade functions only as historical record.
@@ -24235,7 +24232,7 @@ Available as a hypertech Device (nanite-film version) or a mystic Talisman (ench
 
 **Effect:** Full-body cosmetic transformation to any human-baseline appearance. Success: desired look. Failure: obvious errors. Botch: stuck in uncontrolled transformation for 1 hour per remaining Quintessence. Costs 1 Quintessence per transformation.
 
-**Invoke:** [Concealable] when the wearer needs to pass as a specific individual or adopt a new appearance entirely; the transformation is convincing and adds +2 dice to disguise-related Subterfuge or Stealth rolls.
+**Invoke:** [Concealable] when the wearer needs to pass as a specific individual or adopt a new appearance entirely; the transformation is convincing and adds Enhancement +1 to disguise-related Subterfuge or Stealth rolls.
 **Compel:** [Dangerous (on botch)] when the mask has botched — the Storyguide imposes the worst possible transformation for the worst possible duration. The mask cannot be voluntarily removed while a botch Effect is active.
 
 **Crafting Note:** Life 2 + Prime 4 (Talisman) or Matter 3 + Life 2 + Mind 1 (Device/hypertech). Foundation: Crafts (Biology) or Crafts (Nanofabrication), Difficulty 9. The Device version requires Technocratic manufacturing infrastructure; the Talisman version requires Verbena or Euthanatoi expertise in organic enchantment.
@@ -24267,7 +24264,7 @@ All require two hands, minimum Strength 3, and cannot be concealed under any cir
 
 **Effect:** Passive: extreme lethal/bashing damage (see table). Active Talisman properties: 1 Quintessence/turn each, per listed effect.
 
-**Invoke:** [Brutal] when the situation calls for extreme physical violence and the weapon's impossible damage output is the decisive factor; adds +2 dice to the damage roll.
+**Invoke:** [Brutal] when the situation calls for extreme physical violence and the weapon's impossible damage output is the decisive factor; adds Enhancement +1 to the damage roll.
 **Compel:** [Conspicuous] when the weapon's size and appearance make any form of subtlety impossible — the character cannot enter a social environment, cannot explain the weapon's presence, and is immediately identified as an extreme threat by any observer.
 
 **Crafting Note:** Forces 2 + Matter 2 + Prime 4 (base Trinket). Each optional Talisman property adds the listed Spheres to the crafting requirement. Foundation: Crafts (Smithing/Weaponry), Difficulty 8–10 depending on configuration. Origin is typically Nephandic manufacture or deep Umbral corruption — players who want one should expect a story attached.
@@ -24361,7 +24358,7 @@ A New World Order product, available through Syndicate social channels to operat
 
 **Effect:** Smoker of an offered cigarette gains a −2 Difficulty reduction on social approach rolls directed toward them by the offeror for the remainder of the scene. Does not affect non-smokers or Awakened targets with active Prime sense.
 
-**Invoke:** [Subtle] when the operative needs to establish initial rapport with a Sleeper target and the cigarette offer is plausible in context; adds +2 dice to the opening social roll.
+**Invoke:** [Subtle] when the operative needs to establish initial rapport with a Sleeper target and the cigarette offer is plausible in context; adds Enhancement +1 to the opening social roll.
 **Compel:** [Subtle] when the Mind Effect is detected (Prime 1 scan, a suspicious target who notices the resonance) or when the offer of a cigarette is culturally inappropriate or suspicious in context, drawing attention rather than deflecting it.
 
 **Crafting Note:** Mind 2 + Prime 2. Foundation: Crafts (Agriculture/Tobacco preparation), extended cultivation process — approximately 6 months from seed to finished product. Mass production requires Syndicate agricultural infrastructure.
@@ -24402,7 +24399,7 @@ Stats: Safe Speed 100 / Max 300 mph / Maneuver 10 / Crew 1 (+1 passenger)
        Durability 10 / Structure 15 / Weapons I
 ```
 
-A black-polymer 1980s muscle car, possibly haunted by a dead Jhonisset. It reaches 300 mph, grants +3 dice in Drive (Mind 3), and is protected by four dots of Primium countermeasures woven into a Primium roll cage.
+A black-polymer 1980s muscle car, possibly haunted by a dead Jhonisset. It reaches 300 mph, grants Enhancement +2 in Drive (Mind 3), and is protected by four dots of Primium countermeasures woven into a Primium roll cage.
 
 ---
 
@@ -24589,7 +24586,7 @@ Quintessence: 10 (each dose is Tass = 1 Quintessence)
 Background Cost: 6 pts.
 Resources Prerequisite: 5+
 Effect: acts like cocaine (extra actions at reduced pools) but costs only 1
-health level of Bashing. Non-absorbers gain +2 dice for Expression rolls
+health level of Bashing. Non-absorbers gain Enhancement +1 for Expression rolls
 while high. Botching the stimulant Stamina roll deals 5 levels of Lethal
 (heavy metals)
 ```
@@ -24604,7 +24601,7 @@ Quintessence: 10
 Background Cost: 4 pts.
 Resources Prerequisite: 5+
 Effect: tea/coffee infusers cut from Collage canvas; the beverage grants
-+1 die for any Mental roll for the hour after drinking
+Enhancement +1 for any Mental roll for the hour after drinking
 ```
 
 ---
@@ -24972,7 +24969,7 @@ When two or more creatures who share a tier act at the same Phase against the sa
 
 > WORKED EXAMPLE — THE VOLLEY IN ACTION
 >
-> Continuing the Loading Dock fight: at Phase 6 (Red), both Syndicate enforcers act together against Miriam, who is nearest the door. Enforcer base attack pool (Close Combat + Might, brass knuckles): 5 dice. Two enforcers acting together: Enhancement +1 → 5 dice +1 automatic hit. They roll 5 dice: 8, 7, 4, 3, 1 = 2 hits, plus the +1 Enhancement hit = 3 hits total against Miriam's Defense of 2. One hit gets through as a Trick Hit as well. Miriam takes a solid strike, and the table resolved "two guys jump her" in one roll instead of two.
+> Continuing the Loading Dock fight: at Phase 6 (Red), both Syndicate enforcers act together against Miriam, who is nearest the door. Enforcer base attack pool (Close Combat + Might, brass knuckles): 5 dice. Two enforcers acting together: Enhancement +1 → 5 dice +1 automatic hit. They roll 5 dice: 10, 7, 6, 5, 4 = 2 hits, plus the +1 Enhancement hit = 3 hits total against Miriam's Defense of 2. One hit gets through as a Trick Hit as well. Miriam takes a solid strike, and the table resolved "two guys jump her" in one roll instead of two.
 >
 > Three rounds later, one enforcer has been Incapacitated by Miriam's counter-punch. The remaining enforcer, now a Volley of one, attacks alone — plain pool, no Enhancement bonus, exactly as if he had always been solo. The mechanical shrinkage matches the fictional one exactly.
 
@@ -25108,7 +25105,7 @@ The source leaves the Alliance's origin deliberately open, and so does this appe
 
 Each Craft below follows the format of Appendix F. **Identity** gives the lore and the feel. **Paradigm** states the belief that governs what is Coincidental for that Craft. **Practice & Instruments** lists how they work magic and with what (and, where the culture demands it, what is **taboo** to use). **Affinity Spheres** names the Spheres the Craft favors — treated exactly like the Sphere Affinity line in the Tradition Path Tables of Chapter Eight. **SPU Mechanics** defines the Craft's signature **Tag** (invoke/compel, per Appendix J) and any faction-wide rule. **Concepts** offers ready archetypes. **Edges, Powers & Tags** converts the source's traits. **Signature Rotes** uses the Appendix N template. **Wonders & Items** covers unique gear.
 
-A note on converting old traits: where *Forbidden and Forgotten Orders* granted a flat bonus ("+2 dice," "−1 difficulty"), this appendix keeps the number but frames it as **Enhancement** (bonus dice, capped as normal), a **Difficulty** reduction, or an invocable **Tag**, whichever fits Storypath Ultra best. Point costs in parentheses are the original M20 values, retained for players porting existing characters; in SPU, a Craft Tag is acquired like any other Tag at character creation or through play.
+A note on converting old traits: where *Forbidden and Forgotten Orders* granted a flat bonus ("Enhancement +1," "−1 difficulty"), this appendix keeps the number but frames it as **Enhancement** (bonus dice, capped as normal), a **Difficulty** reduction, or an invocable **Tag**, whichever fits Storypath Ultra best. Point costs in parentheses are the original M20 values, retained for players porting existing characters; in SPU, a Craft Tag is acquired like any other Tag at character creation or through play.
 
 ---
 
@@ -25533,7 +25530,7 @@ You were born into a long matriline of Sisters. Reduce the Difficulty of Social 
 
 ### Blessing of Artemis (Edge ●●●)
 
-You were born on Elaphebolia (Feb 26). You may call on Artemis for **+2 dice (Enhancement +2) on all Dexterity rolls for the rest of the scene**; once used, it cannot be used again until the following **moonrise.** Displease or anger the goddess and the blessing is withdrawn until you make amends through roleplay or a quest.
+You were born on Elaphebolia (Feb 26). You may call on Artemis for **Enhancement +1 (Enhancement +2) on all Dexterity rolls for the rest of the scene**; once used, it cannot be used again until the following **moonrise.** Displease or anger the goddess and the blessing is withdrawn until you make amends through roleplay or a quest.
 
 ### Vessel of Themis (compel-only Tag)
 
@@ -25599,7 +25596,7 @@ These derive from Chinese star-signs in *Zi Wei Dou Shu*, the Purple Star (Polar
 
 ### Wenqu (Edge ●●)
 
-The star Megrez. **+2 dice (Enhancement +2)** on Expression rolls involving poetry, fiction, or the spoken word, and on artistic Crafts rolls.
+The star Megrez. **Enhancement +1 (Enhancement +2)** on Expression rolls involving poetry, fiction, or the spoken word, and on artistic Crafts rolls.
 
 ### Wuqu (Edge ●●)
 
@@ -25713,11 +25710,11 @@ The Mande cuts their own palm, pours the preferred "drank" and goofer dust into 
 
 ### Sèvitè (Power)
 
-A conjure-staff signifying the bond between les Mystères and the Chwal — carved with clan runes and symbols, stained with the Chwal's goofer dust, les Mystères' "drank," and the Chwal's own blood. It must be completed within three days of the bonding rite, or the Chwal perishes. The Sèvitè **adds +3 dice (Enhancement +3, dedicated) to rolls in the Chwal's affinity Sphere**, and as a weapon **grants +4 dice on attack rolls.** Model it as a personalized Wonder with **[Sèvitè: +3 Clan Sphere]** and **[Conjure-Staff: +4 Attack]**.
+A conjure-staff signifying the bond between les Mystères and the Chwal — carved with clan runes and symbols, stained with the Chwal's goofer dust, les Mystères' "drank," and the Chwal's own blood. It must be completed within three days of the bonding rite, or the Chwal perishes. The Sèvitè **adds Enhancement +2 (Enhancement +3, dedicated) to rolls in the Chwal's affinity Sphere**, and as a weapon **grants Enhancement +2 on attack rolls.** Model it as a personalized Wonder with **[Sèvitè: +3 Clan Sphere]** and **[Conjure-Staff: +4 Attack]**.
 
 ### Mojo Bag (Edge ●)
 
-A bag of amulets, tokens, coins, and clan-specific ingredients — goofer dust with real snakeskin, the spirit of Damballah, and more. It must be "fed" as its clan demands. It **grants +1 die on rolls in the bearer's Clan affinity Sphere.**
+A bag of amulets, tokens, coins, and clan-specific ingredients — goofer dust with real snakeskin, the spirit of Damballah, and more. It must be "fed" as its clan demands. It **grants Enhancement +1 on rolls in the bearer's Clan affinity Sphere.**
 
 ## Solificati
 
@@ -25923,7 +25920,7 @@ This is the heart of the SPU conversion and the step where old-edition instincts
 
 **Converting old traits to Tags — a cheat sheet.** When you port existing M20 material into this system:
 
-- A Merit that grants a **flat dice bonus** ("+2 dice to X") → an invoke of the Craft Tag (or a narrow specialty Tag) worth **Enhancement +1 or +2** on X.
+- A Merit that grants a **flat dice bonus** ("Enhancement +1 to X") → an invoke of the Craft Tag (or a narrow specialty Tag) worth **Enhancement +1 or +2** on X.
 - A Merit that **lowers difficulty** ("−1 difficulty to Y") → a **−1 Difficulty** invoke, or fold it into the faction rule.
 - A Flaw that imposes a **penalty or obligation** → a **compel** on the Craft Tag, or a standalone **[Flaw Tag]** that can *only* be compelled (never invoked), exactly as item Flaws work in Appendix S.
 - A **Background** that grants access, materiel, or allies (Vatican Connections, Web of Faith, Sèvitè) → keep it a Background, but give any wielded object a Wonder **Tag** so it behaves consistently in play.
