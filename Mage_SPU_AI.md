@@ -1784,7 +1784,7 @@ One of the most common questions new mages ask their Mentors — and new players
 
 You need RELIABILITY. A Rote reduces Difficulty to the highest Sphere dot involved (rather than adding all Sphere dots together). If your most-used combat effect is Forces ●●● + Correspondence ●●, freeform casting has Difficulty 5. That same effect as a Rote has Difficulty 3. Under pressure, that gap is the difference between success and catastrophe.
 
-You need SPEED. Rote Speed Factor = highest Sphere dot − 1 (minimum 1). Freeform SF = the sum of all Sphere dots. A Forces ●●● / Correspondence ●● Rote activates at SF 2 (Phase 3 of initiative). The same improvised effect activates at SF 4 (Phase 5). In a firefight, acting earlier can mean the Technocrat does not get a shot off at all.
+You need SPEED. Rote Speed Factor = highest Sphere dot − 1 (minimum 1). Freeform SF = the spell's Difficulty (highest Sphere dot + number of Spheres). A Forces ●●● / Correspondence ●● Rote activates at SF 2 (Phase 3 of initiative). The same improvised effect activates at SF 5 (Phase 6). In a firefight, acting earlier can mean the Technocrat does not get a shot off at all.
 
 You are under STRESS. Freeform casting under physical duress adds +1 Difficulty (injured, distracted, in danger). Rotes are rehearsed to the point of reflex and carry no stress penalty unless the Storyguide rules the situation is truly extreme. A mage who knows their Rotes can keep casting through chaos that would paralyze a less disciplined practitioner.
 
@@ -2190,7 +2190,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > 
 > Kezia must cross 20m of open floor in an instant to intercept an escaping NWO operative.
 > 
-> Pool: Correspondence ●●● (3) + Intellect ●●● (3) = 6 dice.  SF: 3 (freeform = sum of Sphere dots).  Difficulty: 3.
+> Pool: Correspondence ●●● (3) + Intellect ●●● (3) = 6 dice.  SF: 4 (freeform = Difficulty).  Difficulty: 4.
 > Roll: [10, 10, 7, 6, 5, 4] = 4 hits (10 = 2), 1 net hit.  She folds the 20m gap and steps through.
 > Result: Teleportation to any visible point within Medium range (up to 60m).  Default range for Correspondence ●●● = Medium.
 > VULGAR — the spatial fold is briefly visible as a shimmer in the air.  With no Sleepers present, Paradox risk is minimal.
@@ -2200,7 +2200,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > 
 > Kezia needs to eavesdrop on a Syndicate board meeting happening in a penthouse across the city.  She sits in her parked car three kilometres away and extends her senses through folded space.
 > 
-> Pool: Correspondence ●●●● (4) + Intellect ●●● (3) = 7 dice.  SF: 4 (freeform = sum of Sphere dots used).  Difficulty: 4.
+> Pool: Correspondence ●●●● (4) + Intellect ●●● (3) = 7 dice.  SF: 5 (freeform = Difficulty).  Difficulty: 5.
 > Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits (10 = 2), 1 net hit.  Kezia establishes a stable sensory window inside the boardroom — she can see and hear everything for the scene.
 > Result: Full sight and hearing at any known location within Extreme range (1,000+ meters).  Default range for Correspondence ●●●● = Extreme.
 > VULGAR — the boardroom gains a faint spatial distortion visible to Awakened eyes.  With only Sleepers present, Paradox risk is moderate (SF 4).  Kezia keeps her focus shallow and closes the window the moment the meeting ends.
@@ -2211,7 +2211,7 @@ Space itself is a canvas. The mage can be in two places simultaneously, reshape 
 > 
 > The cabal needs an extraction route from the Technocracy's underground facility.  Kezia will open a walkable portal between the server room and the Chantry basement three kilometres away — large enough for a person with gear to step through upright.
 > 
-> Pool: Correspondence ●●●●● (5) + Intellect ●●● (3) = 8 dice.  SF: 5 (freeform).  Difficulty: 5.
+> Pool: Correspondence ●●●●● (5) + Intellect ●●● (3) = 8 dice.  SF: 6 (freeform = Difficulty).  Difficulty: 6.
 > Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 1 net hit.  A rippling vertical aperture, roughly 2m tall, opens between the two points.  It holds for the full scene (roughly 10 minutes).
 > Result: A two-way, traversable portal between two known locations within any range.  Both endpoints are anchored spatially — anyone or anything that passes through arrives at the other location instantly.
 > HIGHLY VULGAR — the portal is unmistakably magical.  Any Sleepers who witness it must either be Dazzled (Mind) or controlled otherwise.  SF 5 means the Storyguide draws five cards; a bad hand here could mean immediate Paradox backlash.  Kezia has salted the extraction route — the moment the last person is through, she collapses the portal and lets the spatial fold snap shut.
@@ -2354,7 +2354,7 @@ At Entropy 5, the mage sees and can manipulate the grand sweep of fate and decay
 > 
 > The NWO handler across the table is about to run a long con — a carefully constructed narrative that will take weeks to unravel.  Vivienne decides to collapse the probability threads holding his plan together before a single thread is spun.
 > 
-> Pool: Entropy ●●●● (4) + Cunning ●●● (3) = 7 dice.  SF: 4 (freeform).  Difficulty: 4.
+> Pool: Entropy ●●●● (4) + Cunning ●●● (3) = 7 dice.  SF: 5 (freeform = Difficulty).  Difficulty: 5.
 > Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits (10 = 2), 1 net hit.  Vivienne threads entropy through the handler's web of contacts and contingencies.  For the remainder of the scene, any Extended action he initiates gains an automatic complication on each roll — phones go to voicemail, cab drivers take wrong turns, passwords stop working.
 > Result: Applies the [Jinxed] tag to one target for the scene.  All Extended actions the target attempts accrue one automatic Complication per roll regardless of successes.
 > VULGAR if performed overtly; COINCIDENTAL if Vivienne simply sits back and watches.  With SF 4, Paradox risk is real.  She keeps her face neutral and sips her wine.
@@ -2365,7 +2365,7 @@ At Entropy 5, the mage sees and can manipulate the grand sweep of fate and decay
 > 
 > The Syndicate's eastern distribution hub — a converted warehouse coordinating financial instruments, shipping manifests, and corporate cover identities — represents years of careful construction.  Vivienne intends to pull a single thread and watch all of it unravel.
 > 
-> Pool: Entropy ●●●●● (5) + Cunning ●●● (3) = 8 dice.  SF: 5 (freeform).  Difficulty: 5.
+> Pool: Entropy ●●●●● (5) + Cunning ●●● (3) = 8 dice.  SF: 6 (freeform = Difficulty).  Difficulty: 6.
 > Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 1 net hit.  Vivienne collapses the probability architecture of the entire hub.  Over the next 24 hours: shipping routes flag customs inspections, cover identities trigger fraud alerts, financial transfers are frozen by automated compliance systems.  None of it is supernatural — every failure is technically mundane.  But every failure is inevitable.
 > Result: Triggers a cascading entropy event through a connected system (a corporation, a supply chain, a criminal network).  The effects unfold over hours or days as coincidences stack.  No single event is traceable to magic.
 > HIGHLY VULGAR in perception — any Awakened observing the aftermath will sense the entropy signature.  To Sleepers, it looks like spectacularly bad luck.  SF 5 means substantial Paradox risk; Vivienne has spent weeks building coincidental cover for this moment.  She is not in the building when it falls apart.
@@ -2530,7 +2530,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 > 
 > Elias (Virtual Adepts, Forces ●●●●, Resolve ●●●●) is on the roof of a parking structure.  A Void Engineer drop-squad is rappelling down the facing building.  He needs to take them off the ropes without touching the lines himself.
 > 
-> Pool: Forces ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4.
+> Pool: Forces ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 5 (freeform = Difficulty).  Difficulty: 5.
 > Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 2 net hits.  A focused bolt of electrical force leaps from Elias's outstretched hand.  Base damage: Forces ●●●● = 4 Lethal.  Each net hit adds +1.  Total: 6 Lethal against the lead agent.
 > Result: Ranged electrical attack.  Default range for Forces ●●●● = Long (61–1,000 meters, line of sight).  The bolt cauterizes as it burns — the agent's rappel harness fuses and he can't move his right arm.
 > VULGAR — a lightning bolt from a clear sky at night is not easily explained.  SF 4 means the Storyguide draws four cards; Paradox backlash is possible.  Elias has a Faraday suit prop and three Technocracy-style gadgets on his person; if challenged, he claims directed-energy prototype.
@@ -2541,7 +2541,7 @@ At this level, the mage can reshape energy on a civilizational scale. Earthquake
 > 
 > The cabal is defending a mountain chantry.  A Technocracy strike team is approaching through a forest valley below.  Elias (Virtual Adepts, Forces ●●●●●, Resolve ●●●●) reaches into the atmosphere and reshapes the local weather pattern.  A cold front is already building to the north — he accelerates it by three hours.
 > 
-> Pool: Forces ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
+> Pool: Forces ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 6 (freeform = Difficulty).  Difficulty: 6.
 > Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (10 = 2), 2 net hits.  A storm rolls in within ten minutes instead of three hours.  Visibility drops to 20m.  Wind gusts exceed 60 kph.  The forest valley becomes a kill zone for anything not protected from the elements.
 > Result: Alters local weather patterns over a 5-km radius for the scene (or longer with sustained concentration).  Can create storms, fog banks, electrical activity, temperature extremes, or conversely calm existing weather.  All environmental modifiers from the storm (reduced visibility, wind interference with ranged attacks, slippery ground) apply to everyone in the area.
 > COINCIDENTAL if a weather system already exists in the region (he accelerated something real).  VULGAR if he conjures weather from nothing — a thunderstorm from a clear sky in the desert, for instance, has no natural explanation.  SF 5 with the coincidental cover of the existing cold front keeps Paradox risk manageable.
@@ -2687,7 +2687,7 @@ The mage is a god of biology. They create life at will, can bring the dead back 
 > 
 > Rosamund (Verbena, Life ●●●●, Resolve ●●●●) is treating a fellow mage whose arm was burned by a Technocracy laser — Aggravated damage, the worst kind.  She places her hands on the wound and works for a full minute of ritual chanting, drawing life-force from a fresh-cut branch she carries as a focus.
 > 
-> Pool: Life ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4.
+> Pool: Life ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 5 (freeform = Difficulty).  Difficulty: 5.
 > Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 2 net hits.  Rosamund heals 2 boxes of Aggravated damage — the burned flesh knits back to healthy skin over about 30 seconds.  The tissue is fully regenerated, not merely closed.
 > Result: Heals Aggravated damage in another living being — 1 box per hit, minimum 1.  This requires physical contact and takes one full minute of concentration (cannot be rushed without an additional Resolve roll).
 > VULGAR — the healing is visible and undeniable.  Skin grows back in real time.  Any Sleeper witnessing this is immediately aware something impossible has happened.  Rosamund's ritual aesthetic (chanting, herbal focus) makes the magic look like folklore rather than obvious power — some Storyguides may rule this reduces the Paradox pool by one die.
@@ -2698,7 +2698,7 @@ The mage is a god of biology. They create life at will, can bring the dead back 
 > 
 > Rosamund (Verbena, Life ●●●●●, Resolve ●●●●) needs to cross hostile territory — a forest controlled by a rival Tradition's territorial spirits who will respond to magic but not to animals.  She fully transforms into a large grey wolf, retaining her intelligence, memories, and Sphere access.
 > 
-> Pool: Life ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
+> Pool: Life ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 6 (freeform = Difficulty).  Difficulty: 6.
 > Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (each 10 = 2), 2 net hits.  Rosamund's body reshapes over about 3 seconds — bones remodel, mass redistributes, sensory organs transform.  She is now a 45-kilogram grey wolf with full human consciousness.
 > Result: Complete physical transformation into any natural animal form up to twice the caster's original mass.  The character retains full mental capacity and may still cast Sphere effects.  Physical attributes shift to match the animal form (Storyguide assigns appropriate values).  Duration: scene, or until voluntarily released.
 > HIGHLY VULGAR — full shapeshifting is unmistakably magical.  In front of Sleepers, this is a category-one Paradox event.  Rosamund performs the transformation inside a ring of standing stones on a moonlit night — Verbena ritual aesthetics that her Avatar uses as a focus.  Even so, SF 5 draws five cards from the Storyguide.
@@ -2834,7 +2834,7 @@ The mage commands matter absolutely. They can create matter from nothing (techni
 > 
 > Karl needs a significant quantity of platinum to build a critical component for his Etheric Resonance Coil.  Platinum is expensive and traceable.  He has a large bar of lead.  He intends to transmute it.
 > 
-> Pool: Matter ●●●● (4) + Intellect ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4.
+> Pool: Matter ●●●● (4) + Intellect ●●●● (4) = 8 dice.  SF: 5 (freeform = Difficulty).  Difficulty: 5.
 > Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 2 net hits.  Karl reconfigures the atomic lattice of 500 grams of lead.  The bar's grey, dull surface becomes the bright, cool silver of platinum.  Density and tensile properties match perfectly.  A mass spectrometer would confirm: this is platinum.
 > Result: Transforms one non-living material into another of comparable mass and volume — permanently.  The transmuted material is real in every measurable sense.  Default volume for Matter ●●●● = several kilograms.
 > VULGAR — any witness sees lead become platinum.  Karl performs this in his locked laboratory with blackout curtains.  Even so, the Technocracy's Reality Anchor in the building's basement may register the resonance shift.  SF 4 makes this risky; Karl has prepared a Paradox sink (a Tass reserve he can expend if the backlash triggers).
@@ -2845,7 +2845,7 @@ The mage commands matter absolutely. They can create matter from nothing (techni
 > 
 > The cabal is trapped behind a solid steel blast door — 15 centimetres of hardened ballistic steel, magnetically sealed.  There is no time to cut it.  Karl places both palms flat on the surface and reduces its atomic bonds to nothing.
 > 
-> Pool: Matter ●●●●● (5) + Intellect ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
+> Pool: Matter ●●●●● (5) + Intellect ●●●● (4) = 9 dice.  SF: 6 (freeform = Difficulty).  Difficulty: 6.
 > Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (10 = 2), 2 net hits.  A 2-metre section of the blast door simply ceases to exist.  The remaining steel does not fall — there is no remaining steel at the edges of the removed section.  The metal is gone at the subatomic level.  No rubble.  No debris.  A clean rectangular void.
 > Result: Permanently unmakes a volume of non-living material up to the size of a large vehicle (or roughly 3 cubic metres of solid matter).  The material does not move or transform — it ceases to exist.  This effect is instantaneous and irreversible.
 > HIGHLY VULGAR — matter does not simply vanish.  Even Sleepers who are not present will notice the impossible-clean edge where the door was.  SF 5 is maximum Paradox pressure; Karl burns an Arete-fuelled Tass immediately after to absorb the worst of the backlash.  He walks through the void without looking back.
@@ -2982,7 +2982,7 @@ The mage can affect entire groups simultaneously, create entirely new consciousn
 > 
 > The NWO interrogator has a piece of information Sasha needs — the location of a safehouse.  The interrogator has been conditioned against telepathic probing (he has a basic mental shield, which Sasha must overcome).  Sasha does not have time for subtlety.
 > 
-> Pool: Mind ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (Freeform).  Difficulty: 4 (base, matching Mind ●●●●'s casting scope — this does not change because of the shield; see Opposition, below).  Opposition: the interrogator's Mental Shield (Mind 1, per the Mental Shield Rote above) banked 1 hit on the casting that raised it. Per that Rote's own rule, a Mental Shield never adds to the intruder's Difficulty or SF — Sasha's hits must simply exceed the Shield's 1 banked hit for the intrusion to get through at all; if they don't, the compulsion fails outright and the interrogator immediately senses the attempt.
+> Pool: Mind ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 5 (Freeform = Difficulty).  Difficulty: 5 (base, matching Mind ●●●●'s casting scope — this does not change because of the shield; see Opposition, below).  Opposition: the interrogator's Mental Shield (Mind 1, per the Mental Shield Rote above) banked 1 hit on the casting that raised it. Per that Rote's own rule, a Mental Shield never adds to the intruder's Difficulty or SF — Sasha's hits must simply exceed the Shield's 1 banked hit for the intrusion to get through at all; if they don't, the compulsion fails outright and the interrogator immediately senses the attempt.
 > Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2).  Sasha's 6 hits comfortably exceed the Shield's 1 banked hit — the shield fails to stop her.  Per the Mental Shield Rote, the interrogator would only have sensed the attempt if his own shield-casting had scored 3+ hits; his banked 1 hit falls well short of that, so he notices nothing.  Against her own base Difficulty 4, that leaves 2 net hits for the compulsion itself.  The compulsion takes hold: for the next hour, the interrogator believes he has already given the safehouse location willingly and feels no conflict about it.  He tells Sasha the address without hesitation.
 > Result: Implants a single complex belief or command that overrides the target's free will for up to one hour.  The target acts on the compulsion as if it were their own idea.  After the effect ends, they may notice a gap in their memory (Intellect + Awareness, Difficulty 4, to notice).
 > VULGAR against a resisting target.  Even against a willing one, altering conscious thought is not coincidental.  Sasha does not perform this lightly — it leaves psychic fingerprints that a skilled Mind mage can detect.
@@ -2993,7 +2993,7 @@ The mage can affect entire groups simultaneously, create entirely new consciousn
 > 
 > The Technocracy is rolling out a new Consensus-reinforcement broadcast through the local cell network.  It will dampen Awakening potential for everyone in a six-block radius.  Sasha cannot stop the signal — but he can counter it.  He will broadcast a single, wordless emotional state to every person in the area: wonder.  The specific flavour of wonder that precedes questioning what you have been told to believe.
 > 
-> Pool: Mind ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
+> Pool: Mind ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 6 (freeform = Difficulty).  Difficulty: 6.
 > Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (each 10 = 2), 2 net hits.  The broadcast radiates outward — not through technology but through the Tapestry itself.  Every person within a 500m radius experiences a sudden, sourceless moment of open curiosity.  Some stop walking.  Some put down their phones.  For about ninety seconds, the Technocracy's reinforcement signal has nothing to reinforce: the minds it targets are briefly, genuinely elsewhere.
 > Result: Broadcasts a single emotion or simple (non-verbal) impulse to every sapient being within Extreme range (500m+, scaled to ●●●●●).  Cannot convey complex thoughts — only raw emotional states or simple urges (stop, look, feel joy, feel fear).  Duration: one turn per net hit (2 turns here, roughly 90 seconds).
 > HIGHLY VULGAR — no natural phenomenon makes hundreds of people simultaneously experience the same emotion.  Any Technocracy instruments monitoring the area will detect the mental resonance spike immediately.  Sasha performs this from a rooftop, using a prepared ritual chalk array as a focus.  He is moving before the effect even settles.
@@ -3125,7 +3125,7 @@ The mage exists in direct communion with the pattern-nature of reality. They can
 > 
 > An enemy mage has crafted a Wonder — a prototype Reality Emitter that passively suppresses coincidental magic in a two-block radius.  The device is protected by a Prime Ward (Prime ●●●).  Brother Thomas must dismantle both the ward and the device's enchantment before the cabal can operate freely.
 > 
-> Pool: Prime ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (Freeform).  Difficulty: 4 (base, matching Prime ●●●●'s casting scope — this does not change because of the Ward; see Opposition, below).  Opposition: the Prime Ward (rating 3) protecting the device.  A Ward never inflates the caster's Difficulty or SF — it contests directly, on its own separate roll of dice equal to its rating, exactly as described under the Prime ●●● Ward Trick above. Thomas's hits must exceed the Ward's hits before any of his hits can affect the Wonder underneath.
+> Pool: Prime ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 5 (Freeform = Difficulty).  Difficulty: 5 (base, matching Prime ●●●●'s casting scope — this does not change because of the Ward; see Opposition, below).  Opposition: the Prime Ward (rating 3) protecting the device.  A Ward never inflates the caster's Difficulty or SF — it contests directly, on its own separate roll of dice equal to its rating, exactly as described under the Prime ●●● Ward Trick above. Thomas's hits must exceed the Ward's hits before any of his hits can affect the Wonder underneath.
 > Opposed Roll: Thomas rolls his full 8-dice pool: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2).  The Ward rolls its rating (3 dice): [8, 5, 2] = 1 hit.  Thomas's hits exceed the Ward's by 5 (6 − 1 = 5) — the Ward collapses.  He turns 2 of those 5 net hits against the Wonder itself, stripping 2 Enhancement points permanently, and holds the remaining 3 in reserve for the Free Hit Spend below.
 > Result: Dismantles active magical workings.  Each net hit removes one Enhancement point or one active enchantment from the target.  Against a Ward, the Ward must be overcome first (a separate opposed roll, never a Difficulty or SF penalty) before the Wonder beneath can be reached.
 > VULGAR — the disenchantment is visible to Awakened sight as Quintessence threads unravelling.  To Sleepers it looks like the device simply powers down.  SF 4 means moderate Paradox risk; Thomas conducts this as a formal prayer-exorcism, which his tradition's Focus allows.
@@ -3136,7 +3136,7 @@ The mage exists in direct communion with the pattern-nature of reality. They can
 > 
 > The Chantry's Quintessence reserves are critically low after sustaining a Paradox storm.  Brother Thomas needs to create physical Tass — raw, storable Quintessence in solid form — to replenish the cabal's reserves.  He cannot draw on a Node (there is none accessible).  He will weave it from ambient Quintessence threads in the Tapestry itself.
 > 
-> Pool: Prime ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (freeform).  Difficulty: 5.
+> Pool: Prime ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 6 (freeform = Difficulty).  Difficulty: 6.
 > Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (10 = 2), 2 net hits.  Thomas spends an hour in deep prayer, drawing ambient Quintessence from the Tapestry and condensing it into a physical form — in his case, small wafers of golden bread that glow faintly to Awakened sight.  Each wafer holds 1 point of Quintessence.  He creates 5 wafers (base 3 from effect + 2 from net hits).
 > Result: Creates physical Tass from ambient Quintessence.  Base yield: Prime dots (5) ÷ 2 = 3 points, rounded down.  Each net hit adds +1.  Total: 5 Tass.  The Tass holds indefinitely and can be used by any mage as a Quintessence source.
 > HIGHLY VULGAR — creating matter ex nihilo from magical energy is one of the most overt magical acts possible.  Witnesses see golden light coalesce into physical objects.  SF 5 is maximum Paradox pressure.  Thomas performs this in the Chantry's sanctified inner room with every ward and protection the cabal can muster.  Even so, the act leaves a Quintessence signature that a skilled Prime-user could track for days.
@@ -3282,7 +3282,7 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > 
 > Ahanu needs to enter the Penumbra — the spirit reflection of a warehouse where a corrupted Bane spirit has taken up residence.  The Gauntlet here is thick (rating 4) because the area is heavily industrialised.  He must push through it alone.
 > 
-> Pool: Spirit ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 4 (Freeform).  Difficulty: 4 (= the local Gauntlet rating).  Opposition: none beyond the Difficulty itself — per the Step Sideways Sphere Trick (Spirit 3, above), crossing the Gauntlet is a standard hits-vs-Difficulty roll where Difficulty always equals the Gauntlet's rating at that location. This is not a separate opposed dice pool and not automatic successes subtracted afterward; it is simply this roll's Difficulty, exactly like any other Freeform effect.
+> Pool: Spirit ●●●● (4) + Resolve ●●●● (4) = 8 dice.  SF: 5 (Freeform = Difficulty).  Difficulty: 4 (= the local Gauntlet rating).  Opposition: none beyond the Difficulty itself — per the Step Sideways Sphere Trick (Spirit 3, above), crossing the Gauntlet is a standard hits-vs-Difficulty roll where Difficulty always equals the Gauntlet's rating at that location. This is not a separate opposed dice pool and not automatic successes subtracted afterward; it is simply this roll's Difficulty, exactly like any other Freeform effect.
 > Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2).  Against Difficulty 4, that leaves 2 net hits.  He pushes through — the physical world blurs and the Penumbra assembles itself around him.  The warehouse, in spirit-space, is a rusted hulk of grinding gears and poisoned light.
 > Result: Crosses the Gauntlet and enters the Penumbra (or returns to the physical world).  The crossing is solo — bringing others requires additional Sphere dots or a prepared crossing point.
 > VULGAR — from the physical world's perspective, Ahanu simply vanishes.  Any Sleeper watching would have no framework for what they just saw.  SF 4 means Paradox risk is meaningful.  Ahanu leaves a bundle of tobacco and cedar at the crossing point — a traditional offering to ease the spirit-road.
@@ -3293,7 +3293,7 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > 
 > The cabal is under attack from a Bane-possessed hunter who cannot be harmed by physical means.  Ahanu decides to drag the entire confrontation into the Penumbra — he will tear the Gauntlet open wide enough for everyone present (four cabal members, two antagonists) to cross simultaneously.
 > 
-> Pool: Spirit ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 5 (Freeform).  Difficulty: 3 (= the local Gauntlet rating — thinner than average here, because the area sits near a small natural Node).  Opposition: none beyond the Difficulty itself, per the same Gauntlet-crossing rule as Umbra Step above: Difficulty always equals the Gauntlet's local rating, with no separate opposed roll or automatic-successes step layered on top.
+> Pool: Spirit ●●●●● (5) + Resolve ●●●● (4) = 9 dice.  SF: 6 (Freeform = Difficulty).  Difficulty: 3 (= the local Gauntlet rating — thinner than average here, because the area sits near a small natural Node).  Opposition: none beyond the Difficulty itself, per the same Gauntlet-crossing rule as Umbra Step above: Difficulty always equals the Gauntlet's local rating, with no separate opposed roll or automatic-successes step layered on top.
 > Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (each 10 = 2).  Against Difficulty 3, that leaves 4 net hits.  The Gauntlet tears open — a ragged aperture roughly 3m wide and 2m tall, edges crackling with spirit-energy.  The Penumbra is visible through it.  Everyone within 10m is drawn into the crossing unless they actively resist (Resolve + Awareness, Difficulty 4).
 > Result: Opens the Gauntlet for mass crossing.  The tear remains open for [net hits] turns (4 turns here, about 30 seconds).  Anyone who enters the aperture crosses to the Penumbra.  The tear is visible from both sides.
 > HIGHLY VULGAR — a visible hole in reality that pulls people through it is beyond any mundane explanation.  SF 5 in a Gauntlet area means serious Paradox exposure.  Ahanu does not celebrate his own audacity; he knows exactly what this costs him.
@@ -3429,7 +3429,7 @@ The mage can travel through time personally, create stable time loops, or alter 
 > 
 > The NWO extraction team is about to reach a door that, once opened, will trigger a cascade Chen cannot stop.  She has 8 dice and one idea: freeze the team leader in place long enough for the cabal to reach him first.
 > 
-> Pool: Time ●●●● (4) + Intellect ●●●● (4) = 8 dice.  SF: 4 (freeform).  Difficulty: 4.
+> Pool: Time ●●●● (4) + Intellect ●●●● (4) = 8 dice.  SF: 5 (freeform = Difficulty).  Difficulty: 5.
 > Roll: [10, 10, 10, 7, 6, 5, 4, 3] = 6 hits (10 = 2), 2 net hits.  Chen anchors the team leader in a personal temporal loop — from his perspective, nothing passes.  From everyone else's perspective, he simply stops: mid-stride, one hand reaching for the door handle, completely motionless.  He experiences zero subjective time and will not remember these moments at all.  Duration: 2 rounds (one per net hit).
 > Result: Freezes one non-resisting target in personal temporal stasis for [net hits] rounds.  The target is effectively removed from the initiative order for that duration.  They cannot act, be harmed (the stasis also prevents damage from entering the frozen moment), or communicate.  When they unfreeze, they have no memory of missing time.
 > HIGHLY VULGAR — a person standing perfectly motionless while the world moves around them is not explainable.  SF 4 means meaningful Paradox risk.  Chen performs this from around a corner; no Sleepers have line of sight to the frozen agent.  She counts the rounds quietly and moves.
@@ -3440,7 +3440,7 @@ The mage can travel through time personally, create stable time loops, or alter 
 > 
 > The cabal made a critical error three minutes ago: they triggered an alarm that has now brought Technocracy reinforcements.  Professor Chen proposes the most dangerous thing she has ever done: rewind those three minutes of local time for everyone present, allowing the cabal to act differently.
 > 
-> Pool: Time ●●●●● (5) + Intellect ●●●● (4) = 9 dice.  SF: 5 (Freeform).  Difficulty: 5 (base, matching Time ●●●●●'s casting scope — the same pattern used for every other Sphere's top-dot Freeform effect; see Chapter Four).  Opposition: none — Rewind targets local time itself, not a resisting person or ward, so there is nothing to oppose the roll.
+> Pool: Time ●●●●● (5) + Intellect ●●●● (4) = 9 dice.  SF: 6 (Freeform = Difficulty).  Difficulty: 6 (base, matching Time ●●●●●'s casting scope — the same pattern used for every other Sphere's top-dot Freeform effect; see Chapter Four).  Opposition: none — Rewind targets local time itself, not a resisting person or ward, so there is nothing to oppose the roll.
 > Roll: [10, 10, 10, 8, 7, 6, 5, 4, 3] = 7 hits (10 = 2), 2 net hits (7 hits − Difficulty 5).  Chen collapses the last three minutes of local time.  The reinforcements have not arrived.  The alarm has not triggered.  The cabal stands where they were three minutes ago — but with their memories of what happened intact.  They know exactly what went wrong and can choose differently.
 > Result: Rewinds local time by up to [net hits × 2] minutes (4 minutes here) for all beings within Short range.  Memory of the rewound events is preserved for the caster only, unless they spend a Quintessence point to share the memory with each additional target.  The timeline branches — the original timeline is sealed off.
 > HIGHLY VULGAR — temporal reversal is one of the most profound violations of the Consensus possible.  SF 5 means the maximum Paradox pressure.  The Storyguide draws five cards.  If even one is a botch card, reality backlashes immediately.  Chen has spent two Tass beforehand as a Paradox buffer, and she is very pale when she finishes.  "We have four minutes," she says quietly.  "Do not make the same mistake."
@@ -3479,8 +3479,8 @@ SWITCH TO PHASE INITIATIVE (Appendix H) WHEN:
 
 MAGIC SPEED FACTORS (for Phase Initiative only):
   Rote SF     = highest Sphere dot rating used.   (SF 2 for a Forces 2 Rote)
-  Freeform SF = total Sphere dots used.            (SF 5 for Corr 2 + Forces 3)
-  Lower SF resolves first. Rote SF = highest dot − 1 (min 1). Freeform SF = sum of dots. Being hit before your spell resolves: Concentration check or Sphere Defense.
+  Freeform SF = Difficulty (highest dot + number of Spheres).   (SF 5 for Corr 2 + Forces 3)
+  Lower SF resolves first. Rote SF = highest dot − 1 (min 1). Freeform SF = highest dot + number of Spheres. Being hit before your spell resolves: Concentration check or Sphere Defense.
 
 QUICK ANSWER: 95% of sessions use Spotlight. Phase Initiative is a powerful option,
   not a requirement. When in doubt, use Spotlight.
@@ -3980,9 +3980,11 @@ Aggravated heals very slowly: 1 box per week of rest; 1 box per day with sustain
 
 Against Armor: Standard physical armor does NOT reduce Aggravated damage. It passes through body armor, magical tactical weaves, and mundane protection as if they were not there. Only specially enchanted armor — constructed with Matter 4 at minimum, Life 4 for biological integration, or Prime 3 for pattern-level resistance — provides any protection against Aggravated damage, and even then only at a reduced rate (see Appendix I).
 
-Converting Damage: The Health track converts damage types when it fills. If all boxes fill with Bashing and more Bashing arrives, the overflow converts to Lethal (the body cannot absorb more impact without tissue damage). If all boxes fill with Lethal and more Lethal arrives, the overflow converts to Aggravated (wounds this severe begin attacking the pattern itself). This conversion mechanic means that sustained beatings, even with ostensibly non-lethal strikes, can become life-threatening.
+Converting Damage: The Health track converts damage types as it fills, always in the direction of greater severity, and it never skips a step. If every box is filled with Bashing and more Bashing arrives, the character drops unconscious and the incoming damage begins converting the track to Lethal, one box at a time from the left — the body can no longer absorb impact without tissue damage. This is why a sustained beating with ostensibly non-lethal strikes can still kill: enough fists will convert a full Bashing track into a full Lethal one just as surely as a blade would. Bashing never converts directly to Aggravated; it must pass through Lethal first, and Lethal only becomes Aggravated through the slow deterioration of an untended mortal wound (see Bleeding Out, below) — not from the simple arrival of one more hit.
 
-> INLINE EXAMPLE — Aggravated from Paradox: Maya pushed her Paradox Pool to 9 dice over the course of a combat. The Paradox explodes during the scene's resolution. Among the results: a Catastrophe — 3 Aggravated damage to Maya directly. Her Health track is already showing 4 Lethal from the fight. Now it shows 3 Aggravated on top of that. She is Incapacitated, her last boxes filled with Aggravated. She will be unconscious for days and needs Life 4 healing to make meaningful recovery. Without it, she heals 1 box per week — and she has 3 boxes of Aggravated to clear. Three weeks of healing time from a single Paradox backlash.
+What happens once the track fills with Lethal, or with Aggravated, is the subject of the three sections below — Incapacitation, Bleeding Out, and Death. In brief: a track whose final box is filled by Lethal drops the character into a dying state on a countdown of rounds, while a track whose final box is filled by Aggravated kills outright, with no countdown at all. The type of the box that closes the track is what matters, not the makeup of the boxes before it.
+
+> INLINE EXAMPLE — Aggravated from Paradox: Maya (Stamina 2, nine-box track) pushed her Paradox Pool to 9 dice over the course of a combat. The Paradox explodes during the scene's resolution. Among the results: a Catastrophe — 3 Aggravated damage to Maya directly. Her Health track is already showing 4 Lethal from the fight. Now it shows 3 Aggravated on top of that: seven boxes filled, the last three of them Aggravated. That puts her deep in the Critical band (−2 dice), reeling and barely upright but still conscious, with only two boxes left before her track closes. Note how close she is to the edge: because the boxes at the leading end of her track are Aggravated, any hit that fills her final box would kill her *outright* — an Aggravated-closed track grants no Bleeding Out countdown. She survives this backlash, but one more solid blow ends her with no clock to save her. And the Aggravated is not going away soon: she needs Life 4 healing to make meaningful recovery, and without it she heals 1 box per week — three boxes of Aggravated to clear, three weeks of healing time from a single Paradox backlash.
 
 ---
 
@@ -3998,7 +4000,7 @@ The four bands are: BRUISED (2 + Stamina boxes, no penalty), IMPAIRED (2 boxes, 
 
 ### Marking Damage and Track Penalties
 
-Damage is marked on the Health track from left to right. The track holds both Bashing (marked as B) and Lethal (marked as L) in the same boxes. Aggravated (marked as A) occupies boxes just like the others but cannot be reduced by armor, takes the longest to heal, and converts all remaining Lethal to Aggravated when it begins filling the track at the end.
+Damage is marked on the Health track from left to right. The track holds both Bashing (marked as B) and Lethal (marked as L) in the same boxes. Aggravated (marked as A) occupies boxes just like the others but cannot be reduced by armor and takes the longest to heal. Aggravated is also the only damage type that kills outright the instant it fills the final box, bypassing the dying countdown entirely — a wound this severe is attacking the pattern itself, not merely the body (see Death, below).
 
 As boxes fill, the character accumulates physical penalties that affect everything they do. These penalties are cumulative and automatic — they do not require the Storyguide to remind players, though players sometimes forget them in the heat of play.
 
@@ -4036,15 +4038,48 @@ These penalties apply regardless of damage type. Three boxes of Bashing gives th
 
 When the last box of the Health track is filled, the character is Incapacitated. They fall unconscious, collapse in agony, or are simply no longer capable of voluntary action. They cannot take actions. They cannot defend. They are, for all combat purposes, removed from the fight.
 
-What happens next depends on the nature of the damage. An Incapacitated character whose track is filled mostly or entirely with Bashing will regain consciousness on their own at the end of the scene — bruised, aching, and furious, but functional. An Incapacitated character whose last boxes are Lethal or Aggravated needs immediate medical attention. Without it, their condition deteriorates: treat as 1 Lethal box per hour converting to Aggravated as wounds go untreated. A character who reaches full Aggravated damage on all boxes dies.
+What happens next depends entirely on the type of damage in the box that closed the track — the killing blow, not the makeup of the whole track. The Storyguide reads that final box and nothing else: a track that is nine-tenths Bashing but whose last box was filled by a knife is treated as a Lethal incapacitation, because it was Lethal that closed it.
+
+If the final box is Bashing, the character is simply knocked out — unconscious, aching, and furious, but in no mortal danger. They come around on their own at the end of the scene, and their Bashing fades over the following hours. This is the good outcome. A brawl that ends in nothing but Bashing ends with everyone alive.
+
+If the final box is Lethal, the character is not merely down but dying. They enter the Bleeding Out state described in the very next section, and a countdown begins. They will die without intervention — but there is a window, and the length of that window is what the next section is about.
+
+If the final box is Aggravated, see Death, below. There is no countdown for an Aggravated-closed track; the character is simply dead the instant it fills.
 
 The Storyguide should narrate Incapacitation vividly. This is a dramatic moment — the moment when a player character is no longer in control of their own fate. What do the enemies do? What do the allies do? Does an NWO agent pick up the incapacitated mage's phone? Does a fleeing Nephandi stop to ensure the kill? These choices define the story that follows.
 
+### Bleeding Out
+
+When the final box of the Health track is closed by Lethal damage, the character is Incapacitated and *dying*. They are not dead — but without intervention they will be. This is the Bleeding Out state, and it runs on a visible, ticking clock that everyone at the table watches count down.
+
+**The Death Clock.** The instant a character enters Bleeding Out, set a Death Clock equal to that character's **Stamina in rounds** (minimum 1). This is the number of full Rounds the character has before the wound becomes mortal. Write it down where the players can see it — this is a dramatic device, not a hidden Storyguide number. A tough character (high Stamina) clings to life longer, which is thematically exactly right: the same reserve that widens the Bruised band and lets them soak more punishment also lets them hold on longer at the edge of death. A frail character (Stamina 1) has a single round — brutal, but that is the price of a weak body.
+
+**How the clock runs.** At the **end of each Round** the character remains untreated and Bleeding Out, two things happen together:
+
+- The Death Clock ticks down by one.
+- The **rightmost Lethal box on the track converts to Aggravated** — the wound deepening from its most grievous point inward, the body beginning to fail at the pattern level.
+
+The character **dies** the moment the Death Clock reaches **0**, *or* the moment the entire track has converted to Aggravated — whichever comes first. (For most characters the clock reaches 0 first; the track-conversion clause only matters for very high-Stamina characters whose clock outlasts their Lethal boxes, and it guarantees that no one lingers in Bleeding Out indefinitely.)
+
+**Stopping the clock — a roll.** The Death Clock can be frozen. Doing so requires the same action described under The Stabilization Rule later in this chapter: an ally spends a Major Action and rolls **Medicine + Intellect against Difficulty 2**, or applies any **Life 2+** magical healing. On a success the clock stops immediately — the character stays Incapacitated but is now *stable* and will not die from these wounds. On a failure the clock keeps ticking, and the ally may try again next Round if there is still time. A single point of Life 1 healing, or any effect that removes the [Bleeding] condition, does **not** by itself stop the Death Clock — Life 1 diagnoses and stops fresh bleeding, but stabilizing a dying body against a mortal wound needs a real medical success or Life 2 or higher. Life 3+ does more than stabilize: it heals Lethal boxes outright, and enough healing to clear the character out of the Incapacitated band restores them to consciousness.
+
+**Finishing an Incapacitated character.** A Bleeding Out character is helpless. An opponent who chooses to spend an action deliberately killing them — a coup de grâce, a bullet to the head, a blade across the throat — kills them automatically, no clock and no roll required. This is a deliberate narrative choice by that opponent, and the Storyguide should make it feel like one: the fleeing Nephandus who stops to make sure, the Technocrat who decides a witness cannot be left alive. It is one of the most consequential decisions an antagonist makes in a fight, and it should never be resolved as an afterthought.
+
+**Out of combat.** The Stamina-round clock represents the acute crisis of an active scene. Once the immediate danger has passed — the fight is over, the character has been dragged somewhere safe, and no one is actively finishing them — a still-unstabilized dying character shifts to the slower deterioration rate: **1 Lethal box converts to Aggravated per hour** until they are stabilized or dead. This is the "they'll be dead before we reach the Chantry" clock, and it is what turns a survived fight into a desperate drive across town.
+
+> INLINE EXAMPLE — Bleeding Out, the clock, and a save: Priya (Stamina 3) takes a burst of rifle fire that fills her final Health box with Lethal. She is Incapacitated and Bleeding Out. Death Clock = 3 rounds. **End of Round 1, untreated:** clock → 2, and her rightmost Lethal box converts to Aggravated (her track now reads …[L][L][A], the Aggravated marking the deepest wound). **End of Round 2, untreated:** clock → 1, a second box converts to Aggravated. It is now genuinely down to the wire — one more round and she is gone. **Round 3:** her ally Marcus reaches her, drops prone beside her, and spends his Major Action on first aid — Medicine 2 + Intellect 3 = 5 dice against Difficulty 2. He rolls 3 hits. Success. The Death Clock **freezes**. Priya is still Incapacitated, still carrying 2 Aggravated and several Lethal, still needs a Chantry — but she is *stable*, and she will live. Marcus's action, one round before the clock ran out, is the difference between a wounded ally and a dead one.
+
+> INLINE EXAMPLE — When the clock runs out: Dario (Stamina 1) is gut-shot in an ambush and his last box fills with Lethal. Death Clock = 1 round — the harsh reality of a frail body. His allies are pinned across the room behind cover, two full moves away. **End of the Round, untreated:** the clock ticks from 1 to 0. Dario dies before anyone can reach him. The lesson is not subtle: a low-Stamina mage who goes down in the open, out of reach of help, is very likely to die, and players learn quickly to protect their fragile members or invest in Stamina and Emergency Tass. Had Dario been carrying a single Verbena moonwater packet (Life 2 Tass, activated as a Minor Action), he or an adjacent ally could have spent it to stabilize him even with the clock at 1 — the packet is a Life 2 effect and freezes the clock automatically. Unplanning mages die regretting it.
+
+> INLINE EXAMPLE — The coup de grâce: Kenji is Incapacitated and Bleeding Out on the gravel, Death Clock at 2. A mercenary standing over him does not wait for the clock. He spends his action to put a round through Kenji's head — a deliberate killing action against a helpless target. Kenji dies immediately; the clock is irrelevant. But the merc's player (or the Storyguide running him) should feel the weight of that choice, because Kenji's Paradox Pool was sitting at 6 dice. Killing a mage with a loaded Paradox Pool is not free (see Paradox Nova, below) — the merc has just triggered a backlash that will make the next several seconds very unpleasant for everyone standing near the body, himself included.
+
 ### Death
 
-A character dies when their Health track fills completely with Aggravated damage. This is not automatic on reaching Incapacitation from Lethal damage — it requires either sustained untreated conversion of Lethal to Aggravated over hours, direct Aggravated damage piled onto a track already at the limit, or deliberate killing action by an opponent against an already-Incapacitated character.
+A character dies the instant either of two things happens: their Death Clock reaches 0 while Bleeding Out, or their Health track's final box is closed by **Aggravated** damage. Aggravated kills outright with no countdown — a wound this severe is not merely bleeding, it is unmaking the pattern faster than any body or bandage can answer. This is why the sources of Aggravated damage (werewolf claws, Prime pattern strikes, the fire and toxin of Bane spirits, and the Catastrophe results of a Paradox backlash) are the things a mage fears most, and why the armor that stops bullets does nothing against them.
 
-Player character death should be a dramatic moment, not an arithmetic surprise. The Storyguide should always signal clearly when death is a realistic possibility: describe the severity of wounds, remind players of their current track state, and let the fiction carry the weight of what is happening. Death in Mage is meaningful. It ends a character's story at the table, but it does not end their story in the world — former players can choose to have their character's death have lasting narrative consequences, and mages who die with significant Paradox pools have a tendency to make their exits spectacular.
+There are, then, exactly three roads to death in this system, and it is worth stating them plainly so no table argues the point mid-crisis. A character dies if (1) their Bleeding Out Death Clock reaches 0, (2) their track is closed by a fresh box of Aggravated, or (3) an opponent deliberately finishes them while they are Incapacitated and helpless. A track full of Lethal, by itself, is not death — it is Bleeding Out, and Bleeding Out is survivable if help arrives in time. This is the deliberate design line of the whole system: Lethal buys a countdown and a chance; Aggravated does not.
+
+Player character death should be a dramatic moment, not an arithmetic surprise. The Storyguide should always signal clearly when death is a realistic possibility: describe the severity of wounds, call out the Death Clock aloud each Round it ticks, remind players of their current track state, and let the fiction carry the weight of what is happening. The clock exists precisely so that death never arrives silently — by the time it reaches 0, every player at the table has watched it count down and has had the chance to act. Death in Mage is meaningful. It ends a character's story at the table, but it does not end their story in the world — former players can choose to have their character's death have lasting narrative consequences, and mages who die with significant Paradox pools have a tendency to make their exits spectacular.
 
 ---
 
@@ -4313,6 +4348,16 @@ Not all psychological damage is equal. Three types of damage mark boxes on the Q
 
 When all boxes on the Quiet Track are filled with Shock damage and more Shock arrives, the leftmost Shock box upgrades to Trauma (/ becomes X). When all boxes are filled with Trauma and more Trauma arrives, the leftmost Trauma box upgrades to Void (X becomes *). Chronic low-level horror is genuinely dangerous — enough accumulated Shock will eventually become Trauma, enough Trauma will eventually become Void.
 
+**Full Quiet — Episode, Unraveling, and Marauder**
+
+Filling the Full Quiet box works exactly like closing the Health track, and it is the *type of the mark that closes it* that decides the outcome — the mental mirror of Bashing, Lethal, and Aggravated. The one deliberate difference is tempo: where the body's Bleeding Out clock ticks in **rounds**, the mind's clock ticks in **scenes**, because a psychological collapse plays out across a story, not a firefight.
+
+- **Closed by Shock** (the mental "knocked out") → a Quiet episode that passes. The mage is overwhelmed and becomes an NPC for the episode, then recovers through the normal resolution paths (see Appendix K: Resolving Full Quiet).
+- **Closed by Trauma** (the mental "Bleeding Out") → the mage is *Unraveling*. Set an Unraveling Clock equal to the mage's **Composure in scenes** (minimum 1). At the end of each scene they remain un-grounded, the clock ticks down by one and the rightmost Trauma box converts to Void. An ally can freeze the clock by spending a scene grounding them — roll **Composure + Empathy** (the helper's) or apply **Mind 2+** magic against Difficulty 2. Grounding is to the mind what stabilization is to the body.
+- **Closed by Void** (the mental "Death") → the mage crosses the **Marauder Threshold** immediately, with no clock and no roll. They are lost as a player character and become a Marauder NPC. This is the exact mirror of an Aggravated-closed Health track: instant, irreversible in the moment, and — like Aggravated — overwhelmingly a Paradox risk.
+
+The mage crosses the Marauder Threshold (mental death) when the Unraveling Clock reaches 0, when the track fills entirely with Void, or the instant a Void mark closes the track. See Appendix K: Sanity for the full Unraveling and Marauder rules, grounding actions, and whether a Marauder can ever be brought back.
+
 **Paradox and the Quiet Track**
 
 Paradox is the primary source of Void damage. A Paradox Cascade result deals 1 Void to the Quiet Track in addition to its other effects. Spending time in a Paradox Realm deals 1 Void per day inside the Realm. Witnessing another mage's Quiet episode (Fracture band or higher) deals 1 Shock to observers. A Paradox Catastrophe deals 2–3 Void directly. These are the wounds that change a mage permanently — the deep scars of pushing too hard against the Tapestry.
@@ -4362,7 +4407,7 @@ Emergency Tass — pre-charged Life 2 Tass objects — represent prepared magica
 
 ### The Stabilization Rule
 
-Any character at Incapacitated with Lethal damage filling their track can be stabilized — their condition frozen against further deterioration — with a successful Medicine + Intellect roll at Difficulty 2, or any Life 2 magical effect applied to healing. A stabilized character is not healing; they are simply not worsening. They need no further attention to survive the immediate crisis but also do not recover without additional care. Stabilization is the difference between "they'll live if we get them to the Chantry" and "they'll be dead before we reach the car."
+Any character who is Incapacitated and Bleeding Out (their track closed by Lethal) can be stabilized — their condition frozen against further deterioration — with a successful Medicine + Intellect roll at Difficulty 2, or any Life 2 magical effect applied to healing. This is the exact roll referenced under Bleeding Out: a success **stops the Death Clock** where it stands. A stabilized character is not healing; they are simply not worsening. They remain Incapacitated, they keep whatever Lethal and Aggravated boxes they had accumulated, and they need no further attention to survive the immediate crisis — but they also do not recover without additional care. Stabilization is the difference between "they'll live if we get them to the Chantry" and "they'll be dead before we reach the car." Note the difference in Difficulty between this action and ordinary in-combat first aid: binding a wound to stabilize a Bleeding Out character against death (Difficulty 2) is harder than simply freezing a Lethal box on a still-conscious ally (Difficulty 1), because the patient is dying under your hands.
 
 ---
 
@@ -4402,7 +4447,7 @@ When a mage is in the middle of a casting — particularly a Full-Round or exten
 
 This rule makes mages in combat highly vulnerable to disruption. A mage channeling a powerful combined-Sphere effect is presenting a high-value target: disrupt the casting and you neutralize a dangerous working before it materializes. NWO agents are specifically trained in disruption protocols — fire a burst at the mage's center mass the moment they begin a complex gesture and the mage must either fail the Concentration roll or spend their action on defense instead of casting.
 
-> INLINE EXAMPLE — Concentration under fire: Annika is casting a complex Prime 3 + Forces 2 working (Freeform SF 5, sum of 3+2 dots) that will seal the Nephandi's access to the Node. The working is Full-Round. On the Round she casts, the Nephandi fires two shots at her. Both hit — 4 Lethal total, reduced to 2 Lethal through her Mage Armor. The Concentration Difficulty equals the original attack hits (let's say the attacker scored 3 hits before armor). Annika rolls Composure 2 + Resolve 3 + Arete 2 = 7 dice against Difficulty 3. Results: 8, 7, 4, 3, 2, 1, 1 = 1 hit. She fails. The sealing working collapses. Two Lethal are marked. And 5 Paradox dice are added to her pool from the incomplete Vulgar working. Her next Spotlight begins with a Paradox Pool roll forced by the Complication on the collapsed working.
+> INLINE EXAMPLE — Concentration under fire: Annika is casting a complex Prime 3 + Forces 2 working (Freeform SF 5 = Difficulty: highest 3 + 2 Spheres) that will seal the Nephandi's access to the Node. The working is Full-Round. On the Round she casts, the Nephandi fires two shots at her. Both hit — 4 Lethal total, reduced to 2 Lethal through her Mage Armor. The Concentration Difficulty equals the original attack hits (let's say the attacker scored 3 hits before armor). Annika rolls Composure 2 + Resolve 3 + Arete 2 = 7 dice against Difficulty 3. Results: 8, 7, 4, 3, 2, 1, 1 = 1 hit. She fails. The sealing working collapses. Two Lethal are marked. And 5 Paradox dice are added to her pool from the incomplete Vulgar working. Her next Spotlight begins with a Paradox Pool roll forced by the Complication on the collapsed working.
 
 ### Sphere Defense — Defensive Casting
 
@@ -4907,11 +4952,11 @@ ROUND 2 — VIKRAM (Spotlight):
 6 boxes filled. He cannot function through this wound. Sees a skylight.
 "Through the glass." Athletics 2 + Dexterity 3 = 5 dice, -2 (Critical penalty) = 3 dice. Difficulty 2.
 Result: 8, 6, 4 = 1 hit. Just barely threads the gap and crashes through.
-Fall: 3m drop = 1 Bashing. Track is full — Bashing converts to Lethal. Vikram is Incapacitated, in the stairwell, out of the agents' sight.
+Fall: 3m drop = 1 Bashing. His track is already full of Lethal, so the Bashing converts to Lethal and closes the last box that was still open — Vikram is now Incapacitated and Bleeding Out, crumpled in the stairwell, out of the agents' sight. His Death Clock (Stamina 2) is running: two rounds before the wound turns mortal unless he is stabilized.
 
-The agents must descend through the building — losing their tactical position — to follow. The mission clock has shifted in Vikram's favor even as he lies bleeding.
+The agents must descend through the building — losing their tactical position — to follow. The mission clock has shifted in Vikram's favor even as he lies bleeding — but so has his own Death Clock, and his allies now have a hard, countable window to reach him before it reaches zero.
 
-KEY MECHANICS: [Armor-Piercing] invoke reducing cover effectiveness. Bracing as a tactical Minor Action. Critical wound creating the desperate exit decision. Incapacitated-but-alive creating a story pivot rather than a story end.
+KEY MECHANICS: [Armor-Piercing] invoke reducing cover effectiveness. Bracing as a tactical Minor Action. Critical wound creating the desperate exit decision. Bleeding Out — alive but on a ticking Death Clock — creating a story pivot (will an ally reach him in time?) rather than a story end.
 
 ### Example 3: Magical Combat with Full Paradox — The Parking Structure
 
@@ -4984,9 +5029,9 @@ Maya: Same burst, 1 hit applied to secondary target: 1 Lethal. Maya Health: 6 �
 ─── RESOLUTION ───
 Silas is Impaired and has a gauntlet with 1 charge remaining. Maya has 5 Paradox dice. Cyborg 2 is fully functional. Security arriving in 4 minutes.
 "We run," Maya says. They run. The Paradox pool rolls as they exit.
-Maya: 5 dice → results 3, 7, 9, 1, 10. Results: 3 (Backlash Wound: 1 Bashing to Maya), 9 (Spirit Touch: Paradox Spirit inbound), 10 (Catastrophe: 3 Aggravated to Maya — she convulses mid-sprint). Silas catches her. They make it to the car. Maya is Incapacitated from Aggravated damage. Silas drives.
+Maya: 5 dice → results 3, 7, 9, 1, 10. Results: 3 (Backlash Wound: 1 Bashing to Maya), 9 (Spirit Touch: Paradox Spirit inbound), 10 (Catastrophe: 3 Aggravated to Maya — she convulses mid-sprint). Maya was at 5 boxes remaining; the 1 Bashing and 3 Aggravated leave her with exactly one box left. She is in the Critical band, barely conscious, carrying 3 fresh Aggravated — but her track is not closed, so she is alive. This is how narrowly it went: had that Catastrophe filled her final box with Aggravated, Maya would have died on the spot, no Bleeding Out countdown, no chance for Silas to stabilize her. Instead Silas catches her, half-carries her to the car, and drives — she is out of the fight but she is breathing.
 
-KEY MECHANICS: Tag invokes from magical instruments. Multi-round tactical coordination. Paradox accumulating until it becomes the dominant threat. Compel on [Autofire] creating a time pressure. Paradox Nova risk narrowly avoided (Maya survived). Security clock from [Loud] compel reshaping the post-combat scene.
+KEY MECHANICS: Tag invokes from magical instruments. Multi-round tactical coordination. Paradox accumulating until it becomes the dominant threat. Compel on [Autofire] creating a time pressure. Paradox Nova risk narrowly avoided (Maya survived — one box short of an Aggravated-closed track, which would have been instant death). Security clock from [Loud] compel reshaping the post-combat scene.
 
 ### Example 4: Mixed Tactical Scene — Spirit Incursion
 
@@ -5174,7 +5219,7 @@ KEY MECHANICS DEMONSTRATED: Every Tag in this example was invoked or compelled a
 
 > SYSTEM: Phase Initiative (Appendix H). This example assumes the group has switched to the tactical variant for this scene.
 
-PHASE INITIATIVE REMINDER: At start of each Round, all participants DECLARE their actions simultaneously — before anyone acts. Actions then resolve in Speed Factor (SF) order: SF 1 (fast) → SF 2 (moderate) → SF 3 (slow) → SF 4+ (very slow). Rote SF = highest Sphere dot − 1 (min 1). Freeform SF = sum of all Sphere dots. Being hit during a slow action triggers a Concentration check (or Sphere Defense) for spellcasters.
+PHASE INITIATIVE REMINDER: At start of each Round, all participants DECLARE their actions simultaneously — before anyone acts. Actions then resolve in Speed Factor (SF) order: SF 1 (fast) → SF 2 (moderate) → SF 3 (slow) → SF 4+ (very slow). Rote SF = highest Sphere dot − 1 (min 1). Freeform SF = Difficulty (highest Sphere dot + number of Spheres). Being hit during a slow action triggers a Concentration check (or Sphere Defense) for spellcasters.
 
 SCENE: Kenji (Euthanatos, Entropy 3, Life 2, Health 6) and Priya (Virtual Adept, Correspondence 2, Forces 3, Health 5) are ambushed in a Seattle rail yard by three Black Dog Security mercs. No civilian witnesses — this is a corporate kill zone cleared before the ambush. The mercs: Merc A (assault rifle [Autofire] [Loud] [Reload 3], Ranged 3, Dexterity 3, Health 5, Armor 2), Merc B (same loadout), Merc C (close combat specialist: Close Combat 4, Might 4, Dexterity 3, Health 6, Armor 2, tactical knife [Fast][Brutal]).
 
@@ -5182,9 +5227,9 @@ SCENE: Kenji (Euthanatos, Entropy 3, Life 2, Health 6) and Priya (Virtual Adept,
 
 All parties declare simultaneously before any dice are rolled:
 
-KENJI declares: "Entropy 3 — Probability Cascade on all three mercs. I'm targeting their weapon systems and coordination simultaneously. The effect will degrade all their attack pools by 2 dice for the rest of the scene." Entropy 3 improvised effect, no Rote. Speed Factor: 3 (slow — Freeform SF = sum of dots = 3). VULGAR (clearly impossible degradation of physical systems in view of... wait, are there witnesses? No. Vulgar with no witnesses: +3 Paradox dice to his pool). This is a big play and Kenji knows it.
+KENJI declares: "Entropy 3 — Probability Cascade on all three mercs. I'm targeting their weapon systems and coordination simultaneously. The effect will degrade all their attack pools by 2 dice for the rest of the scene." Entropy 3 improvised effect, no Rote. Speed Factor: 4 (Freeform SF = Difficulty = Entropy 3 + 1 Sphere = 4). VULGAR (clearly impossible degradation of physical systems in view of... wait, are there witnesses? No. Vulgar with no witnesses: +3 Paradox dice to his pool). This is a big play and Kenji knows it.
 
-PRIYA declares: "Forces 1 cantrip — electromagnetic flicker around Merc A's eyes. Not blindness, just a momentary disruption of visual acuity." Forces 1, Coincidental (EM interference is everywhere in an industrial rail yard). Speed Factor: 1 (fast — Freeform Forces 1, sum=1, SF 1). Zero Paradox.
+PRIYA declares: "Forces 1 cantrip — electromagnetic flicker around Merc A's eyes. Not blindness, just a momentary disruption of visual acuity." Forces 1, Coincidental (EM interference is everywhere in an industrial rail yard). Speed Factor: 2 (Freeform Forces ●: highest 1 + 1 Sphere = SF 2). Zero Paradox.
 
 MERC A declares: burst fire at Kenji. SF 2 (burst fire = moderate).
 MERC B declares: burst fire at Priya. SF 2.
@@ -5315,14 +5360,14 @@ VERSION B: PHASE INITIATIVE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Declaration:
-Lena: Life 3 augmentation. SF 3 (Freeform: sum of 3 dots = SF 3).
-Dario: Prime 3 — create a Quintessence barrier. SF 3 (Freeform: sum of 3 dots = SF 3).
+Lena: Life 3 augmentation. SF 4 (Freeform = Difficulty: Life 3 + 1 Sphere = 4).
+Dario: Prime 3 — create a Quintessence barrier. SF 4 (Freeform = Difficulty: Prime 3 + 1 Sphere = 4).
 Agent Stone: single shot at Lena (he declares before seeing what she's doing). SF 1 (pistol single shot = fast).
 Agent Rivers: close combat charge at Dario (SF 1 — movement and strike).
 
 ─── SF 1 — FAST ───
 
-AGENT STONE fires at Lena. Her Life 3 augmentation is Freeform SF 3 (sum of 3 dots) — it has NOT resolved yet. She has no bonuses. Ranged 3 + Dexterity 4 = 7 dice. Results: 10, 8, 7, 6, 5, 4, 3 = 3 hits. 2 Trick Hits. 4 Lethal. Spend 2 Tricks → Extra Damage x2: 6 Lethal. Lena: Health 6 → Critical (5 boxes marked).
+AGENT STONE fires at Lena. Her Life 3 augmentation is Freeform SF 4 (Life 3 + 1 Sphere) — it has NOT resolved yet. She has no bonuses. Ranged 3 + Dexterity 4 = 7 dice. Results: 10, 8, 7, 6, 5, 4, 3 = 3 hits. 2 Trick Hits. 4 Lethal. Spend 2 Tricks → Extra Damage x2: 6 Lethal. Lena: Health 6 → Critical (5 boxes marked).
 
 LENA — CONCENTRATION CHECK (she was hit during SF 3 spell): Composure 2 + Resolve 3 = 5 dice. -2 (Critical penalty). = 3 dice. Difficulty = Stone's hits: 3. Results: 10, 8, 7 = 3 hits. Exactly matches Difficulty. BARELY PASSES.
 Lena is bleeding and barely standing, but the Life 3 augmentation did not collapse. It is still winding up.
@@ -5352,12 +5397,12 @@ Agent Rivers: fresh. Dario is down for practical purposes.
 
 ─── ROUND 2 — DECLARE ───
 
-Lena: Life 3 — she pushes the augmentation to regenerate: 1 Lethal removed per Phase this Round. Coincidental (internal biological acceleration). SF 2 (she's sustaining an existing effect — SG rules SF 2 for augmentation maintenance (reduced from new-cast Freeform SF 3)).
+Lena: Life 3 — she pushes the augmentation to regenerate: 1 Lethal removed per Phase this Round. Coincidental (internal biological acceleration). SF 2 (she's sustaining an existing effect — SG rules SF 2 for augmentation maintenance (reduced from new-cast Freeform SF 4)).
 Lena also declares a close combat charge at Agent Rivers (he is between her and Dario). SF 1 (movement + attack).
 
 SG: "Two actions again — SF 1 and SF 2. Legal. You're a Life 3 mage running on overdrive."
 
-Dario declares: Prime 2 — a basic Quintessence strike at Agent Rivers. No longer attempting the barrier. Fast and cheap. Freeform SF 2 (sum of 2 dots = 2). Still in phase. Staggered (-2 dice) but functioning.
+Dario declares: Prime 2 — a basic Quintessence strike at Agent Rivers. No longer attempting the barrier. Fast and cheap. Freeform SF 3 (Difficulty: Prime 2 + 1 Sphere = 3). Still in phase. Staggered (-2 dice) but functioning.
 
 Agent Stone: reloads (SF 1 — two Minor Actions combined as one reload action, SG rules this as an SF 1 action for a prepared professional).
 Agent Rivers: attacks Lena with baton as she charges (SF 1 — reacting to her declared charge, SG rules he can counter-declare within the phase if Initiative is higher — Rivers has 2 hits vs. Lena's 3. She goes first within SF 1).
@@ -5454,7 +5499,10 @@ For fast access during play, this summary distills the chapter's core mechanics 
 ### Damage and Health
 
 - Health track bands: BRUISED (2+Stamina boxes, no penalty) → IMPAIRED (2 boxes, −1 die) → CRITICAL (2 boxes, −2 dice) → INCAPACITATED (1 box). Total = 7+Stamina.
+- Filling the track: final box Bashing = knocked out (wakes end of scene). Final box Lethal = Incapacitated and Bleeding Out. Final box Aggravated = dead outright.
+- Bleeding Out: Death Clock = Stamina in rounds (min 1). Each Round untreated: clock −1 and rightmost Lethal box → Aggravated. Death at clock 0, or when whole track is Aggravated. Stabilize with Medicine + Intellect Diff 2 (or Life 2+) to freeze the clock. An opponent may finish a helpless target automatically.
 - Quiet track bands: STATIC (2+Composure boxes, no penalty) → DISTORTION (2 boxes, −1 die Social/Empathy) → FRACTURE (2 boxes, −1 die ALL) → FULL QUIET (1 box, episode). Damage types: Shock(/), Trauma(X), Void(*).
+- Closing the Quiet track (mirror of the Health track, but paced in scenes): final box Shock = a Quiet episode that passes. Final box Trauma = Unraveling — Unraveling Clock = Composure in scenes (min 1); each scene un-grounded, clock −1 and rightmost Trauma → Void. Ground them with Composure + Empathy Diff 2 (or Mind 2+) to freeze it. Final box Void = cross the Marauder Threshold (mental death) at once. Marauder also on clock 0 or an all-Void track. See Appendix K.
 - Bashing heals in hours. Lethal heals in days. Aggravated heals in weeks.
 - Armor reduces Bashing and Lethal. Armor does NOT reduce Aggravated (unless enchanted).
 
@@ -8608,7 +8656,7 @@ TRICK — Rapid Growth [passive]: If killed by non-fire means, 50% chance to reg
 
 ## Section Fifteen: Named Familiars and Additional Animals
 
-Familiars use the same SPU format as all entities. Casting Rolls for familiars with magical ability use Enlightenment + Casting Attribute vs. Difficulty as normal. Animal attacks use Might + Close Combat + Enhancement modifier.
+Familiars use the same SPU format as all entities. Casting Rolls for familiars with magical ability use Enlightenment + Casting Attribute vs. Difficulty as normal. Animal attacks use Might + Close Combat + Enhancement modifier. For how powerful a Familiar may be at each dot rating, see the Familiar / Companion entry in Appendix V: Edges, Powers, and Wonders.
 
 ```
 Daqqanoenyent (Uncle Whirlwind) — Dreamspeaker Familiar
@@ -11674,7 +11722,7 @@ The number of dice you actually lose depends on where your dice happened to land
 > 
 > Mara has Action Dice at Phases 1, 5, 6, 7, 8, 9, 10.
 > She casts a Forces ●●● + Correspondence ●● freeform spell.
-> Freeform SF = sum of Sphere dots = 3+2 = SF 5.
+> Freeform SF = Difficulty = highest 3 + 2 Spheres = SF 5.
 > 
 > She declares the spell at Phase 1.
 > Resolve Phase = 1 + SF − 1 = 1 + 5 − 1 = Phase 5.
@@ -12137,11 +12185,11 @@ At end of each scene in which Vulgar magic was used, the Storyguide rolls the fu
 
 Every spell's Speed Factor is calculated from the Sphere dots required to cast it. There are two modes of casting, each with its own formula:
 
-**Freeform Magic — SF = Sum of All Sphere Dots**
+**Freeform Magic — SF = Difficulty (Highest Sphere Dot + Number of Spheres)**
 
-Add the dot ratings of every Sphere involved in the effect. A Forces ●●● bolt is SF 3. A Forces ●●● + Correspondence ●● working is SF 5 (3+2). A Mind ●●●● + Life ●●● combination is SF 7 (4+3). There is no +1 overhead penalty — the dot sum already reflects the inherent complexity of the working. The Tapestry does not add an additional surcharge; it simply mirrors the scope of what you're attempting.
+A freeform effect's Speed Factor equals its casting Difficulty: the highest single Sphere dot required, plus the number of Spheres involved. A Forces ●●● bolt is SF 4 (3 + 1 Sphere). A Forces ●●● + Correspondence ●● working is SF 5 (highest 3 + 2 Spheres). A Mind ●●●● + Life ●●● combination is SF 6 (highest 4 + 2 Spheres). Combining Spheres adds a flat +1 each rather than stacking their full ratings — the cost of improvisation scales with how many distinct patterns you juggle, not their raw power.
 
-This still reflects the reality of improvised magic: Forces and Correspondence do not naturally cooperate. The mage must hold every aspect of the working in mind simultaneously while willing the effect into existence. Freeform casting of complex multi-sphere effects is punishing in Phase Initiative — it is intended to be. Rotes exist precisely to avoid this cost. An SF 5 freeform effect is five Phases wide; an SF 2 Rote of the same working is only two Phases wide, freeing three extra dice.
+This still reflects the reality of improvised magic: Forces and Correspondence do not naturally cooperate. The mage must hold every aspect of the working in mind simultaneously while willing the effect into existence. Freeform casting of complex multi-sphere effects is slower in Phase Initiative — it is intended to be. Rotes exist precisely to avoid this cost. An SF 5 freeform effect is five Phases wide; an SF 2 Rote of the same working is only two Phases wide, freeing three extra dice.
 
 **Rotes — SF = Highest Single Sphere Rating Minus One (Minimum 1)**
 
@@ -12155,10 +12203,10 @@ The same Forces ●●● + Correspondence ●● working costs SF 5 improvised 
 
 Consider a mage with Forces ●●●, Correspondence ●●, and Mind ●●●, with Action Dice at Phases 1, 3, 5, 7, 9. Resolve Phase = Declare + SF − 1:
 
-- Forces ●●● freeform (SF 3): Declared at Phase 1, resolves at Phase 3 (1+3−1). Window: {1,2,3}. Consumes dice at 1, 3. Retains 5, 7, 9. Fast enough to leave three dice free — a straightforward lightning bolt that doesn't dominate the round.
+- Forces ●●● freeform (SF 4): Declared at Phase 1, resolves at Phase 4 (1+4−1). Window: {1,2,3,4}. Consumes dice at 1, 3. Retains 5, 7, 9. Still leaves three dice free — a straightforward lightning bolt that doesn't dominate the round.
 - Forces ●●● + Correspondence ●● freeform (SF 5): Declared at Phase 1, resolves at Phase 5 (1+5−1). Window: {1,2,3,4,5}. Consumes dice at 1, 3, 5. Retains 7 and 9. More expensive, but still leaves two dice. A freeform spatial/energy working at this cost is aggressive but viable.
 - Forces ●●● + Correspondence ●● as Rote (SF 2): Declared at Phase 1, resolves at Phase 2 (1+2−1). Window: {1,2}. Consumes only the Phase 1 die (no die at Phase 2). Retains Phases 3, 5, 7, 9 — four dice free. This is the Rote advantage made concrete: the same spatial lightning bolt that costs SF 5 improvised costs SF 2 as a Rote, resolving in Phase 2 instead of Phase 5 and freeing four dice instead of two.
-- Forces ●●● + Correspondence ●● + Mind ●●● freeform (SF 8): Declared at Phase 1, resolves at Phase 8 (1+8−1). Window: {1,2,3,4,5,6,7,8}. Consumes dice at 1, 3, 5, 7. Retains only Phase 9. A three-sphere freeform working eats nearly the entire round. As a Rote (SF 2, since highest Sphere is Forces/Mind ●●● = 3−1=2), this same working resolves at Phase 2 and costs only the Phase 1 die — transformative difference in action economy.
+- Forces ●●● + Correspondence ●● + Mind ●●● freeform (SF 6, highest 3 + 3 Spheres): Declared at Phase 1, resolves at Phase 6 (1+6−1). Window: {1,2,3,4,5,6}. Consumes dice at 1, 3, 5. Retains 7 and 9 — two dice. A three-sphere freeform working eats most of the round. As a Rote (SF 2, since highest Sphere is Forces/Mind ●●● = 3−1=2), this same working resolves at Phase 2 and costs only the Phase 1 die — transformative difference in action economy.
 
 The minimum SF for any spell — even a trivial Forces ● cantrip — is 1. SF 1 means the spell goes off in the declaring Phase: declare and resolve happen simultaneously in that Phase, consuming only that one die.
 
@@ -12171,29 +12219,29 @@ RESOLVE FORMULA: Resolve Phase = Declare Phase + SF − 1
   SF 3 → resolves 2 Phases later
   SF N → resolves N−1 Phases after declaration
 
-SINGLE-SPHERE SPELLS (Rote SF = Dots − 1, min 1. Freeform SF = Dots.)
+SINGLE-SPHERE SPELLS (Rote SF = Dots − 1, min 1. Freeform SF = Dots + 1.)
   Dots  | Rote SF | Rote delay | Freeform SF | FF delay | Example Effect
   ──────────────────────────────────────────────────────────────────────
-  1     |    1    |  0 Phases  |      1      | 0 Phases | Minor cantrip (Forces 1: detect EM)
-  2     |    1    |  0 Phases  |      2      | 1 Phase  | Moderate working (Life 2: heal bash)
-  3     |    2    |  1 Phase   |      3      | 2 Phases | Significant (Forces 3: lightning bolt)
-  4     |    3    |  2 Phases  |      4      | 3 Phases | Major working (Mind 4: full domination)
-  5     |    4    |  3 Phases  |      5      | 4 Phases | Master-level (Life 5: raise the dead)
+  1     |    1    |  0 Phases  |      2      | 1 Phase  | Minor cantrip (Forces 1: detect EM)
+  2     |    1    |  0 Phases  |      3      | 2 Phases | Moderate working (Life 2: heal bash)
+  3     |    2    |  1 Phase   |      4      | 3 Phases | Significant (Forces 3: lightning bolt)
+  4     |    3    |  2 Phases  |      5      | 4 Phases | Major working (Mind 4: full domination)
+  5     |    4    |  3 Phases  |      6      | 5 Phases | Master-level (Life 5: raise the dead)
 
 MULTI-SPHERE SPELLS
-  Rote SF = highest dot − 1 (min 1). Freeform SF = sum of ALL dots.
-  Spheres (config)         | Dot Sum | Rote SF | FF SF | Rote saves vs FF
+  Rote SF = highest dot − 1 (min 1). Freeform SF = highest dot + number of Spheres.
+  Spheres (config)         | #Sph | Rote SF | FF SF | Rote saves vs FF
   ─────────────────────────────────────────────────────────────────────────
-  Forces 2 + Corr 1        |    3    |    1    |   3   | 2 Phases
-  Forces 3 + Corr 2        |    5    |    2    |   5   | 3 Phases
-  Life 3 + Mind 2          |    5    |    2    |   5   | 3 Phases
-  Forces 4 + Life 3        |    7    |    3    |   7   | 4 Phases
-  Forces 5 + Corr 4        |    9    |    4    |   9   | 5 Phases
-  Life 5 + Mind 4 + Corr 3 |   12    |    4    |  12   | 8 Phases
+  Forces 2 + Corr 1        |   2  |    1    |   4   | 3 Phases
+  Forces 3 + Corr 2        |   2  |    2    |   5   | 3 Phases
+  Life 3 + Mind 2          |   2  |    2    |   5   | 3 Phases
+  Forces 4 + Life 3        |   2  |    3    |   6   | 3 Phases
+  Forces 5 + Corr 4        |   2  |    4    |   7   | 3 Phases
+  Life 5 + Mind 4 + Corr 3 |   3  |    4    |   8   | 4 Phases
 
 KEY: Rote advantage is substantial. A Forces 5 + Corr 4 spell as a Rote
-     resolves in SF 4 (3 Phases of delay); freeform takes SF 9 (8 Phases).
-     With 10 Phases per round, SF 9 declared early still fits in one round;
+     resolves in SF 4 (3 Phases of delay); freeform takes SF 7 (6 Phases).
+     With 10 Phases per round, SF 7 declared early still fits in one round;
      declared late it spills into the next. Rote SF 4 almost never spills.
 ```
 
@@ -12615,9 +12663,9 @@ MOVEMENT: SF 1 (move 1 zone). SF 2 (sprint 2 zones). Moving target: attacker -1 
 FULL AUTO: SF 3. Enhancement +2 to attack. Zone effect. Cap applies to small pools.
 
 SPELLCASTING PARADOX: Each working independent. Vulgar no witnesses: +1 die/Sphere lvl. Vulgar with Sleeper witnesses: +2 dice/Sphere lvl. Coincidental: +0.
-FREEFORM SF = sum of ALL Sphere dots  (Forces ●●● + Corr ●● = 3+2 = SF 5).
+FREEFORM SF = Difficulty: highest dot + number of Spheres  (Forces ●●● + Corr ●● = 3 + 2 Spheres = SF 5).
 ROTE SF    = highest single Sphere rating − 1 (Forces ●●● + Corr ●● Rote = SF 2).
-Single-sphere freeform (e.g. Forces ●●●) = SF 3 (dot sum). Rote: SF 2 (3−1=2, min 1).
+Single-sphere freeform (e.g. Forces ●●●) = SF 4 (Difficulty: highest 3 + 1 Sphere). Rote: SF 2 (3−1=2, min 1).
 CASTING POOL: Sphere Skill + Casting Attribute (NOT Arete/Enlightenment). Arete/Enlightenment = cap only.
 Spend Quintessence before rolling: 2 Quintessence grants Enhancement +1 (hits), maximum Enhancement +2 per cast.
 
@@ -14255,6 +14303,28 @@ Void damage is exceptional. It is not triggered by ordinary chronicle events. It
 - A Seeking that goes catastrophically wrong and shatters rather than illuminates — the Avatar turns on the mage
 - Surviving Full Quiet and returning without intervention — some part of the experience remains, permanently
 
+```
+VOID DAMAGE — ALL SOURCES AT A GLANCE
+-------------------------------------
+Void is the mind's Aggravated: rare, mostly Paradox-driven, and the only Quiet damage
+that can close the track into an instant Marauder Threshold. Keep this list at the table
+so a Void call is always a deliberate, recognizable moment — never a surprise.
+
+  SOURCE                                             VOID DEALT
+  Paradox Catastrophe (major backlash result)        2   (+ its other effects)
+  Each subjective day inside a Paradox Realm          1   per day (after the entry Trauma)
+  Sustained Outer God / Deep Umbra contact            1–3 (Storyguide call, by depth)
+  Direct contact with a Nephandi's manifested pattern 1–3 (their reality invades yours)
+  Witnessing a Convergence (colliding Paradox storms) 2–3 (catastrophic reality rupture)
+  A Seeking that shatters instead of illuminates      1–2 (the Avatar turns on the mage)
+  Surviving Full Quiet and returning un-aided         1   permanent residue of the episode
+  Deliberate psychological coup de grâce (see below)  closes the track directly
+
+Note the through-line: all but the last are Paradox, the Deep Umbra, or the Fallen —
+the same forces that deal Aggravated to the body. The Tapestry punishes the reckless mage
+twice over, in flesh and in mind.
+```
+
 ## Recovering from Quiet Track Damage
 
 Recovery from Quiet Track damage is deliberate, slow, and categorically different by damage type. The architecture of recovery reflects the architecture of the wound: Shock heals because the mind was built to eventually integrate ordinary horrors; Trauma heals with active engagement and human connection; Void barely heals, because it represents structural changes that the ordinary processes of psychological recovery were not designed to address.
@@ -14291,6 +14361,20 @@ Void damage is the hardest to heal and the most uncertain in its prognosis. The 
 - Permanent Void: The Storyguide may rule that specific Void boxes — those earned from the most extreme exposures, particularly extended Paradox Realm time or Outer God contact — cannot be cleared through any available means without a bespoke story arc of extraordinary intervention. Some mages carry permanent Void marks for the rest of their chronicle. This is not failure. It is consequence made flesh.
 > INLINE EXAMPLE — Void recovery: Maya carries 3 Void marks from her time in the Paradox Realm, all in the Distortion and Fracture bands. She is taking −1 die to Social/Empathy rolls (Distortion) and −1 die to all rolls (Fracture). Her cabal finds a Verbena Node in rural Scotland whose Resonance is listed in Tradition records as deeply compatible with Dreamspeaker Avatar types. Maya spends a full scene in meditative contact with the Node's essence — the Storyguide describes it as sitting in the center of an ancient stone circle while rain soaks through her clothes, listening to something very old speak to something very deep in her. Her player rolls Composure (3) + Enlightenment (4) = 7 dice, Difficulty 3. Three hits. One Void box clears — the leftmost Void mark, the one in the Distortion band. Maya's −1 Social/Empathy penalty is gone. She is still in the Fracture band with two remaining Void marks, but one of the three has been addressed. Two more story arcs of this kind of work — if they can find compatible Nodes, if she survives — might bring her back to the Distortion band. The Fracture-band Void marks may be permanent. She does not know yet.
 
+### The Mind Sphere and the Quiet Track
+
+Mind is to the Quiet Track what Life is to the Health track: the Sphere that diagnoses, stabilizes, and — at the highest levels — repairs the wound directly. The tiers below mirror the Life Sphere healing table in Chapter Seven, and they gather in one place the Mind capabilities already referenced throughout this appendix (grounding at Mind 2, Trauma restoration at Mind 3, Void repair at Mind 4+). As with Life and Aggravated, mundane skill can carry a mind a long way — Composure + Empathy grounding will stop an Unraveling Clock — but only Mind magic can actually clear the deepest damage, and only Mind 4+ can touch Void at all. A healed mind, like a healed body, carries a distinctive Quintessence signature that any Mind practitioner can read.
+
+| Mind Sphere Level | Quiet Track Capability |
+| --- | --- |
+| Mind 1 | Diagnose: perceive a subject's exact Quiet level, which band they are in, and the damage types filling their track (Shock, Trauma, Void), precisely as Life 1 reads a body's injuries. Reveals whether a mage is merely shaken, actively Unraveling, or already past saving. No healing. Touch or clear line of sight. |
+| Mind 2 | Ground and stabilize: stop a mage's Unraveling Clock, freezing them against the slide to Marauder — the mental equivalent of Life 2 stabilization, and the "real intervention" threshold. Roll Intellect + Mind (or Empathy + Mind) across a full scene of focused contact. Does not clear boxes; the mage stays in Full Quiet but no longer worsens. Below Mind 2, only mundane grounding (Composure + Empathy, Difficulty 2) will hold the line. |
+| Mind 3 | Heal Shock and Trauma: a working of psychological restoration clears up to 2 Trauma boxes (and any Shock) per in-game week. Mind casting pool, Difficulty 2, 3+ hits required. Generates Paradox as normal; a Cascade during treatment deals 1 Shock to the patient. Cannot touch Void. |
+| Mind 4 | Heal Void: reach into the fracture in the mage's perceptual pattern and knit it. Difficulty 3, 3+ hits, clears 1 Void box, and only one such working per story arc produces benefit. Requires the patient's willing cooperation and is exhausting to the caster — the mirror of Life 4's Aggravated healing. |
+| Mind 5 | Complete restoration of the Quiet Track in a single working — Shock, Trauma, and Void alike. With access to a compatible Node, a Mind 5 adept can attempt the rarest working in the repertoire: drawing a mage back across the Marauder Threshold itself (see The Marauder Threshold). Success is never guaranteed, and the cost — in Quintessence, in Paradox risk, in the caster's own Quiet — is enormous. |
+
+Emergency mental Tass exists as well, mirroring the Life Tass of the combat chapter: a Euthanatos memento-mori charm, an Akashic breathing-bead, a Chorister's litany-card — pre-charged Mind 2 objects that anyone with basic magical awareness can trigger to ground an Unraveling ally as a single action. Cabals who face the Deep Umbra learn to carry them next to their healing packets. The mind, like the body, is easier to save if someone thought ahead.
+
 ## Full Quiet — The Episode
 
 When the single Full Quiet box fills, the mage enters a Quiet episode. This is not merely a severe mechanical penalty — it is a narrative event, a story beat, a moment when the mage's internal reality has become more real to them than the external one. The Storyguide takes primary narrative authority over the mage's experience for the duration of the episode. The player remains at the table and can describe their character's internal experience, but the character's external actions are driven by the logic of the Quiet, not the player's intentions.
@@ -14299,9 +14383,67 @@ The nature of the Quiet episode is shaped by the damage types that filled the tr
 
 The physical body of a mage in Full Quiet is present but distracted. They can still walk, eat when food is placed in front of them, and respond to physical stimuli — but they respond to things no one else can see, they do not initiate meaningful contact with the external world, and they cannot take any voluntary action in the material reality that others share. Allies who try to speak to them may occasionally get through — especially allies with Mind magic, or with a deep enough personal connection that the mage's name carries weight in their interior reality.
 
+### The Closing Mark — Episode, Unraveling, or Marauder
+
+Full Quiet is the mind's exact counterpart to a closed Health track, and it resolves by the same logic: read the type of the single mark that filled the Full Quiet box — the *closing mark* — and that type determines which of three roads the mage is on. Shock is to the mind what Bashing is to the body; Trauma mirrors Lethal; Void mirrors Aggravated. The only structural difference is tempo. The body's Bleeding Out clock ticks in combat rounds because a dying body is a matter of seconds. The mind's clock ticks in **scenes**, because a collapse of the self is a matter of a story — it unfolds over days and encounters, not over the six seconds of a firefight. Everything else is parallel.
+
+**Closed by Shock — the Quiet Episode.** If the mark that fills the Full Quiet box is Shock, the mage suffers a Quiet episode that will pass. This is the mental equivalent of being knocked unconscious by Bashing: overwhelming in the moment, frightening to watch, but not a structural change. The mage becomes an NPC for the duration of the episode (see Resolving Full Quiet, below) and returns to the Fracture band once it resolves. As with a full Bashing track, further Shock arriving on an already-full track does not deepen the episode directly; it converts the oldest Shock to Trauma via the Overflow rule, which is how a purely Shock-driven crisis can, over time, curdle into something worse.
+
+**Closed by Trauma — Unraveling (the mind's Bleeding Out).** If the mark that closes the track is Trauma, the mage is not merely in an episode — they are *coming apart*, and without intervention they will not come back the same person. This is the direct analog of Bleeding Out. The instant the Trauma mark closes the track, set an **Unraveling Clock equal to the mage's Composure in scenes** (minimum 1). As with Stamina and the body, Composure is exactly the right stat: the same reserve that widens the Static band and lets a mage absorb more horror before penalties also determines how many scenes they can hold the fracturing self together at the very edge. Write the clock down in front of the players — like the Death Clock, it is a dramatic device, not a hidden number.
+
+At the **end of each scene** the mage remains un-grounded and Unraveling, two things happen together, mirroring the body's round-by-round decline:
+
+- The Unraveling Clock ticks down by one.
+- The **rightmost Trauma box on the track converts to Void** — the wound to the self hardening from its deepest point into a permanent structural fracture.
+
+The mage crosses the **Marauder Threshold** — the mind's death, described below — the moment the Unraveling Clock reaches **0**, or the moment the entire track has converted to Void, whichever comes first. Every scene spent Unraveling therefore does lasting harm even if the mage is ultimately saved: the Void marks accrued along the way remain after the crisis, exactly as the Aggravated boxes accrued during Bleeding Out remain after a body is stabilized.
+
+**Stopping the clock — grounding, a roll.** The Unraveling Clock can be frozen, and doing so is the mental counterpart of stabilizing a dying ally. It is called *grounding*: another character spends a full scene in genuine, focused connection with the Unraveling mage — talking them down, anchoring them to a shared memory, physically holding the space — and rolls **Composure + Empathy** (the helper's own pool) against **Difficulty 2**. Any **Mind 2+** magical effect designed to steady another's mind achieves the same automatically, where Mind is to the mind what Life is to the body. On a success the clock stops: the mage is still in Full Quiet (still an NPC, still needing to be brought all the way back through Resolving Full Quiet), but they are no longer sliding toward Marauder, and their remaining Trauma will stop converting to Void. On a failure the clock keeps ticking and the helper — or another ally — may try again next scene, if any scenes remain. Note the parallel to the Health track's difficulties: ordinary comfort and reassurance (the mental equivalent of stopping fresh Bleeding) is easy, but grounding a mind that is actively unraveling toward Marauderhood is Difficulty 2, because you are reaching for someone who is already halfway gone.
+
+**Closed by Void — the Marauder Threshold, immediately.** If the mark that closes the track is Void, there is no clock and no grounding roll. The mage crosses the Marauder Threshold at once. This is the precise mirror of an Aggravated-closed Health track killing outright: a Void-closed Quiet track ends the character as a player character on the spot. And as with Aggravated, the overwhelming source of Void is Paradox — so the mage who pushes too hard against the Tapestry now faces two symmetrical instant-loss outcomes, death of the body (Aggravated closes the Health track) and death of the self (Void closes the Quiet track). The Traditions do not agree on which is worse.
+
+**Forcing the threshold.** The physical rule lets an opponent deliberately finish a helpless Bleeding Out character; the mental rule has a darker analog. An enemy who deliberately feeds Void to an Unraveling mage — a Nephandus whispering unmaking truths, a Marauder pressing their own reality onto a cracking mind, a Paradox Realm the mage is trapped inside — can drive them across the Marauder Threshold ahead of the clock. This is a deliberate, monstrous choice, and the Storyguide should frame it as one. It is how the Fallen recruit.
+
+```
+SIDEBAR — THE PSYCHOLOGICAL COUP DE GRÂCE
+-----------------------------------------
+Just as a helpless, Bleeding Out body can be finished with a deliberate killing blow, a
+fracturing mind can be finished with a deliberate psychological one — and the victim does
+not even have to be Unraveling yet. An antagonist who has a mage in the FRACTURE band (the
+last band before Full Quiet) may spend a full scene of sustained, targeted assault on that
+mind to force the Full Quiet box closed at once, with none of the usual slow accumulation
+of Quiet damage. The assault can be magical (a Mind 3+ intrusion built to shatter rather
+than read), reality-based (a Nephandus's unmaking sermon, a Marauder flooding the mage with
+an incompatible world), or purely mundane and human (expert torture, gaslighting, sensory
+and social isolation — the Technocracy's specialty).
+
+Resolve it as an opposed roll: the attacker's Mind + Intellect (for magic) or Manipulation +
+a relevant Skill (for mundane cruelty) against the target's Composure + Resolve. If the
+attacker wins, the target's Quiet track closes immediately and the attacker chooses the
+closing mark within their means:
+  - VOID-aligned attackers (Nephandi, Marauders, Outer-God conduits) close it with Void —
+    an instant Marauder Threshold, no clock, no grounding. The mage is simply gone.
+  - Everyone else closes it with Trauma, starting the Unraveling Clock (Composure in scenes)
+    and leaving the cabal a narrow window to ground their friend before the mind sets.
+
+A grounded, high-Composure mage is genuinely hard to break this way, and the Fracture-band
+requirement means the target must already be badly worn down — you cannot coup de grâce a
+fresh mind. But a mage who is one Void mark deep and sitting in Fracture is one bad scene
+from being lost, on or off the battlefield.
+
+This is why a cabal must guard its fragile-minded members away from combat as fiercely as
+in it, and why a high-Mind or high-Composure antagonist is among the most frightening things
+they can face. Some enemies do not want you dead. They want you gone — still breathing, and
+no longer anyone's ally.
+```
+
+> INLINE EXAMPLE — Unraveling and a grounding save: Rhen (Composure 2) takes a Trauma mark that closes his Quiet track after a mission where he was forced to watch a friend die. He does not fall unconscious — he simply stops being present, murmuring to someone who is not there. Because the closing mark is Trauma, he is Unraveling: Unraveling Clock = 2 scenes. **End of the next scene**, still un-grounded as the cabal flees the site: clock → 1, and his rightmost Trauma box converts to Void — a permanent fracture now sits at the leading edge of his track. It is down to the wire. **Next scene**, safe in a Chantry safehouse, his cabalmate Anneth sits with him for the whole scene — not casting, just reaching him by name and by the memory of the friend they both lost. She rolls Composure 3 + Empathy 3 = 6 dice against Difficulty 2 and lands 3 hits. The Unraveling Clock **freezes**. Rhen is still in Full Quiet — still an NPC, still needing a proper rescue to wake — but he is no longer becoming a Marauder, and the one Void mark he took while Unraveling is the only permanent scar from the crisis. Anneth's scene of presence, one scene before the clock ran out, is the difference between a wounded friend and a lost one.
+
+> INLINE EXAMPLE — Void closes the track (mental death): Sera (Composure 1) is already at Fracture with her track one box from full when a Paradox Catastrophe during a desperate casting deals 2 Void. The first Void mark fills her last open box — a Void mark closing the track. There is no Unraveling Clock and no grounding roll: Sera crosses the Marauder Threshold instantly. Her player and the Storyguide have the conversation the rules demand, and Sera becomes an NPC — a Virtual Adept whose personal reality has overwritten the shared one, now wandering a city that reshapes itself around her certainty. This is the exact mirror of a mage dying the instant an Aggravated blow closes their Health track. The lesson is identical, too: Void, like Aggravated, does not give you a countdown, and Paradox is how you invite it.
+
 ### Resolving Full Quiet
 
-Full Quiet resolves through one of three paths:
+The paths below bring a mage *back* from Full Quiet. They apply to any episode that is not actively driving toward Marauder — that is, an episode closed by Shock, or a Trauma-closed episode whose Unraveling Clock has been frozen by a successful grounding. (A mage still Unraveling must be grounded first, or the clock will carry them past rescue before any of these can matter; a mage who has already crossed the Marauder Threshold is beyond them entirely — see The Marauder Threshold, below.) Full Quiet resolves through one of three paths:
 
 - Rescue: Another mage enters the Quiet directly, using Mind 4 magic to project into the mage's subjective reality. This requires a successful casting roll against Difficulty 3 and a scene of navigation through the interior Quiet landscape — which the Storyguide controls and which may itself carry Shock or Trauma costs to the rescuing mage. On success, the rescuer guides the Quiet mage back to a point of re-anchoring. The Full Quiet box clears and the mage wakes into the Fracture band.
 - Spontaneous resolution: A Quiet episode that is not fed by ongoing Void damage can resolve spontaneously over time — approximately one week per Void mark present when it began. A Shock-heavy Quiet might resolve in a week; a Void-heavy Quiet might take a month of the body being kept safe while the mind works through its own interior logic. Spontaneous resolution clears the Full Quiet box only. The damage that led there remains.
@@ -14310,7 +14452,9 @@ Regardless of resolution path, a mage who returns from Full Quiet begins recover
 
 ## The Marauder Threshold
 
-A mage who enters Full Quiet with a track filled primarily with Void damage — especially Void marks earned from Paradox Realm exposure, Outer God contact, or Nephandi pattern contamination — is at risk of crossing the Marauder Threshold. This is not a defined box or a mechanical trigger; it is a Storyguide judgment about whether this particular mage, with this particular damage, has undergone a change that Full Quiet merely revealed rather than caused.
+Crossing the Marauder Threshold is the death of the mage as a player character — the mind's exact equivalent of the body dying when Aggravated closes the Health track. There are now three defined ways a mage crosses it, mirroring the three roads to physical death (Death Clock, Aggravated-closed track, deliberate coup de grâce). A mage becomes a Marauder if (1) their Unraveling Clock reaches 0, (2) their Quiet track is closed by a fresh Void mark, or (3) an enemy deliberately forces Void onto them while they are Unraveling. A track full of Trauma, by itself, is not the threshold — it is Unraveling, and Unraveling is survivable if grounding arrives in time. This is the same design line as the body: Trauma buys a countdown and a chance; Void does not.
+
+Beyond those mechanical triggers, the older, softer reading still holds for edge cases the clock does not cover: a mage who enters Full Quiet with a track already saturated with Void — especially Void earned from Paradox Realm exposure, Outer God contact, or Nephandi pattern contamination — may be judged by the Storyguide to have already crossed, the episode merely revealing a change that had quietly finished happening. The clock formalizes the common case; this judgment covers the mage who was, in truth, gone before the last box ever filled.
 
 A Marauder is not a mage in Quiet. A mage in Quiet is lost but recoverable. A Marauder is a mage who has rebuilt a new, internally consistent relationship with reality — their own — and lost the capacity to operate within consensus reality in any meaningful way without that reality imposing itself on the world around them. The Tapestry around a Marauder bends. Things change in their presence, not because they intend it, but because their reality is louder than the shared one.
 
@@ -14650,7 +14794,7 @@ These rules apply throughout this encounter. Watch for Mechanical Notes that ref
 
 Before Round 1, everyone draws Action Dice (AD). Each participant rolls their Initiative pool (Athletics + Cunning) and takes that many Action Dice to spend during the round. Spending 1 AD allows you to take one action in the current Phase.
 
-Phases run from Phase 1 (highest priority) downward. Rote SF = highest Sphere dot − 1 (minimum 1); resolves at Phase 1 + SF. Freeform SF = sum of all Sphere dots; resolves at Phase 1 + SF. Regular attacks resolve in the Phase they are declared.
+Phases run from Phase 1 (highest priority) downward. Rote SF = highest Sphere dot − 1 (minimum 1); resolves at Phase 1 + SF. Freeform SF = Difficulty (highest Sphere dot + number of Spheres); resolves at Phase 1 + SF. Regular attacks resolve in the Phase they are declared.
 
 | Participant | Initiative Roll / Result |
 | --- | --- |
@@ -14780,7 +14924,7 @@ Fending check on UNIT-7 (7 dice, Diff 2): [10, 8, 8, 4, 3, 2, 1] = 4 hits, 2 net
 
 **STORYTELLER (Cross): “Cross is badly hurt. She’s not going to make it through a second round of this. She spends both her remaining AD on a desperate gambit: a Mind ●●● compulsion, targeting Sasha directly. She’s going to try to make him believe UNIT-7 is his ally.”**
 
-Mechanical note: This is improvised Mind 3 dynamic magic. SF = 3 (sum of 3 dots); declared Phase 3, resolves Phase 6 (next round would normally be Phase 6, so this effect does not resolve in Round 3 at all — it is still cooking). Cross’s pool: Mind 3 + Intellect 4 = 7 dice. She spends 1 Quintessence for +1 Enhancement = 8 dice. Difficulty: opposed roll (Sasha’s Resolve 4 + Composure 3 = 7 dice resistance). This is a future-Phase resolution — we note it and move on.
+Mechanical note: This is improvised Mind 3 dynamic magic. SF = 4 (Difficulty: Mind 3 + 1 Sphere); declared Phase 3, resolves Phase 6 (next round would normally be Phase 6, so this effect does not resolve in Round 3 at all — it is still cooking). Cross’s pool: Mind 3 + Intellect 4 = 7 dice. She spends 1 Quintessence for +1 Enhancement = 8 dice. Difficulty: opposed roll (Sasha’s Resolve 4 + Composure 3 = 7 dice resistance). This is a future-Phase resolution — we note it and move on.
 
 PARADOX NOTE: Cross is casting vulgar-adjacent (coercive mind control on a mage in a non-Sleeper environment — the Storyguide rules it as Vulgar since it fundamentally overrides autonomous will). Cross’s Paradox pool gains 2 dice. She has no Quintessence insulation. This will hurt her.
 
@@ -14796,7 +14940,7 @@ Sasha is at 9/10 Health boxes — CRITICAL band (−2 dice) — before this hit.
 
 **PLAYER: “He meets UNIT-7’s strike with both forearms crossed. At the moment of contact, the force peels sideways — not stopped, but redirected. The shelving behind him buckles instead of his spine.”**
 
-Mechanical note: Forces ● improvised (defensive). SF 1 (sum of 1 dot), resolves this Phase. Pool = Forces 2 + Resolve 4 = 6 dice, Difficulty 2. Sasha spends 1 Quintessence (drops to 3) and his last 2 AD. On 2 hits after Difficulty, the deflection reduces incoming damage by (hits) x 2 = up to 4 damage. Roll: [10, 8, 8, 4, 3, 2] = 4 hits, 2 net. Damage reduction: 2 x 2 = 4. Total damage to Sasha: 5 - 4 = 1. [Armored 2] absorbs the remaining 1. Net damage to Sasha: 0. He survives by the thinnest possible margin.
+Mechanical note: Forces ● improvised (defensive), triggered as a reactive Sphere Defense off a banked die, so it resolves immediately (a fresh Forces ● freeform cast would be SF 2 = Forces 1 + 1 Sphere). Pool = Forces 2 + Resolve 4 = 6 dice, Difficulty 2. Sasha spends 1 Quintessence (drops to 3) and his last 2 AD. On 2 hits after Difficulty, the deflection reduces incoming damage by (hits) x 2 = up to 4 damage. Roll: [10, 8, 8, 4, 3, 2] = 4 hits, 2 net. Damage reduction: 2 x 2 = 4. Total damage to Sasha: 5 - 4 = 1. [Armored 2] absorbs the remaining 1. Net damage to Sasha: 0. He survives by the thinnest possible margin.
 
 Paradox pool update: Sasha has now cast three times this scene (Iron Skin, Thunder Palm, Spatial Whisper) plus two improvised effects. His Paradox pool is at 4 dice. The Storyguide rules the scene is ending — Paradox fires.
 
@@ -15553,7 +15697,7 @@ Traditions: Nephandi (all sects), particularly Goatkids and HOBs. Spheres: Corre
 
 Mass media has been a gift to the Fallen. A speech, a broadcast, a viral post, a carefully engineered public event — any sufficiently large platform becomes a vector for this working. Where *Every Man Against His Brother* (see Mind section) ignites immediate violence, Rile the Herd cultivates something longer-burning: a simmering hostility, a pervasive attraction toward transgression, a lingering distrust that corrodes community bonds over weeks. The Nephandus rides the signal rather than fighting it. She does not create the anger; she finds the frequency at which it already resonates and amplifies it by a factor that feels entirely natural to everyone experiencing it.
 
-At the Sphere ●● level, the working functions through existing media — a game, a concert, a news broadcast, a social media presence — and is largely coincidental: the audience is simply reacting in ways that audiences, under enough pressure, do react. The Fallen practitioner casts while performing, broadcasting, or posting, weaving Correspondence ●● to carry the Effect across whatever distance separates her from the audience and Entropy ●● to nudge probabilities toward chaos and conflict. Mind ●● may be substituted for Entropy ●● if the desired effect is emotional ignition rather than probabilistic destabilization — the distinction matters: Entropy builds chaos in systems, Mind manipulates people. Most practitioners use whichever secondary Sphere they have higher mastery of. Alternatively, a mage with both can layer them (Correspondence ●●, Entropy ●●, Mind ●●) for a combined effect at Freeform SF 3, which both stokes chaos and directly amplifies hostility.
+At the Sphere ●● level, the working functions through existing media — a game, a concert, a news broadcast, a social media presence — and is largely coincidental: the audience is simply reacting in ways that audiences, under enough pressure, do react. The Fallen practitioner casts while performing, broadcasting, or posting, weaving Correspondence ●● to carry the Effect across whatever distance separates her from the audience and Entropy ●● to nudge probabilities toward chaos and conflict. Mind ●● may be substituted for Entropy ●● if the desired effect is emotional ignition rather than probabilistic destabilization — the distinction matters: Entropy builds chaos in systems, Mind manipulates people. Most practitioners use whichever secondary Sphere they have higher mastery of. Alternatively, a mage with both can layer them (Correspondence ●●, Entropy ●●, Mind ●●) for a combined effect at Freeform SF 5 (Difficulty: highest 2 + 3 Spheres), which both stokes chaos and directly amplifies hostility.
 
 With 6 or more hits, the Effect can be permanently woven into a creative work — the song that incites riots at every performance; the book that drives readers toward obsessive, destructive patterns; the image that, once seen, makes its viewer slightly more likely to dehumanize those who look different. The working is most potent the first time a given audience encounters it, and subsequent exposures produce lesser but cumulative effects. A character who wants to resist the emotional surge may roll Resolve + Composure against Difficulty 2 (base variant) or 3 (potent variant); success means they feel the pull but do not act on it. Most people never try to resist because they do not know there is anything to resist.
 
@@ -15639,7 +15783,7 @@ Because this working almost always requires extended ritual to accumulate the ne
 
 The working is documented because it explains certain historical mysteries: how particular arch-Nephandi disappeared from situations that should have been fatal, and why certain deep Umbral Realms bear the unmistakable Resonance signatures of long-term Fallen occupation.
 
-SF: 4 (rote). Freeform SF equivalent: 9 (sum of Sphere dots minus 1 = 10 - 1 = 9). Casting pool: Resolve + Spirit (primary, as Spirit determines the Umbral pathfinding component). Must accumulate 10+ hits; almost always an extended ritual.
+SF: 4 (rote). Freeform SF equivalent: 7 (highest Sphere 5 + 2 Spheres = 7). Casting pool: Resolve + Spirit (primary, as Spirit determines the Umbral pathfinding component). Must accumulate 10+ hits; almost always an extended ritual.
 
 Example — 10 hits (minimum success): The mage tears an exit and steps through. The gateway closes. The assembled opposition finds an empty ritual space and a Gauntlet scar that takes three weeks to fully heal. The mage arrives somewhere deep and dark and far away. Whether they are safe there is a different question.
 
@@ -15914,7 +16058,7 @@ The Entropy component is the key to the working's power and its terrible reputat
 
 Because the working is entirely conversational, it is always coincidental. No one observing the conversation sees anything supernatural. What they see is someone having a long, engaging discussion that seems to leave the other participant thoughtful and changed. This is, in the usual way of these things, more frightening than something visible.
 
-SF: 4 (rote). Freeform SF: 4 (highest Sphere 5 − 1 = 4 for rote purposes; freeform SF = Entropy 5 + Mind 3 − 1 = 7, but the rote advantage applies). Casting pool: Manipulation + Entropy, extended over social interaction.
+SF: 4 (rote). Freeform SF: 4 (highest Sphere 5 − 1 = 4 for rote purposes; freeform SF = highest Sphere 5 + 2 Spheres = 7, but the rote advantage applies). Casting pool: Manipulation + Entropy, extended over social interaction.
 
 Example — 3 hits across two conversations: The target, a junior Tradition mage, came in skeptical of Technocratic approaches and leaves mildly convinced that certain Union protocols have merit. Not a total conversion — but a crack. The Nephandus returns in a month to widen it.
 
@@ -19535,7 +19679,7 @@ ROTE vs. FREEFORM — WHICH TO USE?
     Paradox: treat as Coincidental one step more often than freeform would be.
     Best for: reliability, avoiding Paradox, high-stress situations.
   Freeform: improvised working.
-    Freeform SF        = sum of ALL Sphere dots used.
+    Freeform SF        = Difficulty (highest Sphere dot + number of Spheres).
     Freeform Difficulty = highest Sphere dot + number of Spheres involved.
     Paradox: full Paradox risk, no category shift.
     Best for: novel effects, flexible response, high Arete or no matching Rote.
@@ -19556,7 +19700,7 @@ CASTING FORMULA EXAMPLES
   Same working as a Rote:
     Rote SF = 3−1 = 2.  Difficulty = 3.  Paradox shifted one step toward Coincidental.
   Single-Sphere: Life ●●● Freeform:
-    SF = 3.  Difficulty = 3.  Pool = Life 3 + Attribute.
+    SF = 4.  Difficulty = 4.  Pool = Life 3 + Attribute.
 
 SUSTAINING ACTIVE EFFECTS
   Each effect you keep running: −1 die to ALL your other dice pools (stacks per effect).
@@ -19720,24 +19864,24 @@ WHEN TO USE: 6+ participants, or when spell-timing matters dramatically.
 
 SPEED FACTORS (SF) — Higher = Slower to resolve
   SF 1 — Fast: unarmed strike, pistol single shot, light blade, simple movement,
-          Forces 1 cantrip, drawing a weapon.
-  SF 2 — Moderate: two-handed melee, rifle single shot, burst fire, climbing,
-          Freeform spell totalling 2 dots (e.g. Forces 2 only); SF = 2. Rote: highest Sphere 3.
-          Rote using highest Sphere 2 (e.g. Forces 2 Rote): SF 1 (2−1=1 = matches pistol).
-  SF 3 — Slow: full auto fire, bolt-action reload+fire, heavy power attack,
-          Freeform: Forces 3 alone = SF 3. Rote: highest Sphere 4 (4−1=3).
-  SF 4+ — Very Slow: anti-materiel rifle, multi-Sphere freeform,
-          e.g. Forces 3 + Corr 2 Freeform = SF 5 (3+2). Rote highest Sphere 5 (5−1=4).
+          drawing a weapon; Sphere ● Rote (1−1 → SF 1), Forces ●● Rote (2−1 = 1).
+  SF 2 — Moderate: two-handed melee, rifle single shot, burst fire, climbing;
+          Freeform Sphere ● (e.g. Forces ●: highest 1 + 1 Sphere = SF 2);
+          Rote with highest Sphere ●●● (3−1 = 2).
+  SF 3 — Slow: full auto fire, bolt-action reload+fire, heavy power attack;
+          Freeform Sphere ●● (e.g. Forces ●●: 2 + 1 Sphere = SF 3); Rote highest Sphere ●●●● (4−1 = 3).
+  SF 4+ — Very Slow: anti-materiel rifle; single-Sphere Forces ●●● freeform (3 + 1 = SF 4);
+          multi-Sphere freeform, e.g. Forces ●●● + Corr ●● = SF 5 (highest 3 + 2 Spheres). Rote highest Sphere ●●●●● (5−1 = 4).
 
 SF WINDOW: Cast at Phase T resolves at Phase T+SF.
   ALL Action Dice that fall between Phase T and Phase T+SF (inclusive) are consumed.
   Example: SF 6, cast at Phase 1. Dice at Phases 1, 5, 6, 7 all consumed.
   (Phases 2,3,4 had no dice; 7 = 1+6.) You lose four dice, not six.
 
-SF LOOKUP (Freeform = sum of dots; Rote = highest dot − 1, min 1)
-  Single sphere: ●=SF1/2  ●●=SF2/3  ●●●=SF3/4  ●●●●=SF4/5  ●●●●●=SF5/6
-  Two spheres (e.g. Frc3+Cor2): Rote=SF3  Freeform=SF5 (3+2)
-  Three spheres (e.g. Frc3+Cor2+Lif2): Rote=SF3  Freeform=SF7 (3+2+2)
+SF LOOKUP (Freeform SF = Difficulty = highest dot + number of Spheres; Rote = highest dot − 1, min 1)
+  Single sphere (Rote/Freeform): ●=1/2  ●●=1/3  ●●●=2/4  ●●●●=3/5  ●●●●●=4/6
+  Two spheres (e.g. Frc3+Cor2): Rote=SF2  Freeform=SF5 (highest 3 + 2 Spheres)
+  Three spheres (e.g. Frc3+Cor2+Lif2): Rote=SF2  Freeform=SF6 (highest 3 + 3 Spheres)
 
 ROUND STRUCTURE
   1. DECLARE: everyone states their action simultaneously (before anyone acts).
@@ -19752,8 +19896,8 @@ KEY RULE: If you are HIT while your action is still pending (higher SF),
   reduced Paradox (1 die instead of full amount).
   PASS: your action completes normally despite being hit.
 
-ROTE SF     = highest Sphere dot rating used (faster than freeform).
-FREEFORM SF = sum of ALL Sphere dots used (slower than Rote SF; more Paradox risk).
+ROTE SF     = highest Sphere dot used − 1, min 1 (faster than freeform).
+FREEFORM SF = Difficulty: highest Sphere dot + number of Spheres (slower than Rote SF; more Paradox risk).
 ```
 
 # Appendix P: Character Sheet
@@ -21811,7 +21955,7 @@ The left-hand path in its most literal interpretation. Vamamarga uses transgress
 
 ## Key Fallen Rotes
 
-The following rotes are characteristic Nephandic workings. SF values follow the standard formula (highest Sphere rating - 1 for rotes; sum of Sphere dots for freeform). All are considered vulgar magic except where noted.
+The following rotes are characteristic Nephandic workings. SF values follow the standard formula (highest Sphere rating − 1 for rotes; highest Sphere dot + number of Spheres for freeform). All are considered vulgar magic except where noted.
 
 ### Shroud the Soul (Mind ● or Prime ●●; possibly Prime ●●●● for advanced version)
 
@@ -21841,7 +21985,7 @@ Casting pool: Cunning + Mind (SF 2).
 
 One of the more catastrophic Nephandic mass-working rotes. Conducted as a ritual — minimum one hour, multiple participants, always vulgar — the Plague Mass imprints a specific disease vector onto a local area: a neighborhood, a building, a water supply. The disease spreads naturally from that point. The Nephandus leaves before symptoms appear.
 
-SF 5 (freeform Life 3 + Entropy 2 + Prime 1 = 6 dots; rote reduces SF to 5). The ritual requires a sanctified (desecrated) space, biological material from the target population, and at minimum three mages or one mage with Arete/Enlightenment 5+. Paradox is severe and accumulates over the full casting time. This is why Plague Mass is rarely used: the Paradox load during a prolonged ritual builds catastrophically. Most Nephandi who attempt it do so in a location they never intend to return to.
+SF 2 (rote; highest Sphere 3 − 1 = 2). As freeform it would be SF 6 (Life 3 + Entropy 2 + Prime 1 → highest 3 + 3 Spheres). The ritual requires a sanctified (desecrated) space, biological material from the target population, and at minimum three mages or one mage with Arete/Enlightenment 5+. Paradox is severe and accumulates over the full casting time. This is why Plague Mass is rarely used: the Paradox load during a prolonged ritual builds catastrophically. Most Nephandi who attempt it do so in a location they never intend to return to.
 
 Casting pool: Resolve + Life (primary Sphere), with Entropy and Prime adding to hit targets.
 
@@ -21849,7 +21993,7 @@ Casting pool: Resolve + Life (primary Sphere), with Entropy and Prime adding to 
 
 The most terrible of Nephandic workings, and one that is never attempted lightly. Invoke the Caul opens a Caul in proximity to a specific target — a mage, a powerful mortal, or occasionally a significant location. The Caul attempts to invert whatever it touches: an Avatar is corrupted, a sacred space is desecrated, a Node is converted from a source of clean Quintessence to a source of Qlippothic essence. The target does not have to agree. They have to survive it.
 
-SF 9 (freeform: Spirit 5 + Prime 3 + Life 2 = 10 dots minus highest-1 = 9 for rote; as freeform the SF is 10). This is one of the highest SF workings in the game. Even for a Master with Arete/Enlightenment 10, the Paradox load is extreme. The ritual requires a prepared Qlippothic anchor site (see Descent Stage Three), physical proximity to the target, and is always spectacularly vulgar. Target mage may resist with Resolve + (Sphere most relevant to the nature of their Avatar) at Difficulty 4. Each success they score reduces the Caul's effect by one step. A mage who matches or exceeds the casting hits survives with their Avatar intact but traumatized — they gain a Sanity check at Difficulty 3.
+SF 4 (rote; highest Sphere 5 − 1 = 4). As freeform it would be SF 8 (Spirit 5 + Prime 3 + Life 2 → highest 5 + 3 Spheres). This is one of the highest SF workings in the game. Even for a Master with Arete/Enlightenment 10, the Paradox load is extreme. The ritual requires a prepared Qlippothic anchor site (see Descent Stage Three), physical proximity to the target, and is always spectacularly vulgar. Target mage may resist with Resolve + (Sphere most relevant to the nature of their Avatar) at Difficulty 4. Each success they score reduces the Caul's effect by one step. A mage who matches or exceeds the casting hits survives with their Avatar intact but traumatized — they gain a Sanity check at Difficulty 3.
 
 This rote should be a chronicle climax, not a standard encounter. The Storyguide who deploys it should make certain the players have the information they need to prevent it before it completes.
 
@@ -22584,17 +22728,17 @@ Fame cannot exceed 5 dots. Fame at equal or higher rating than Arcane negates Ar
 
 ### Familiar / Companion (Edge ●–●●● / Power ●●●●–●●●●●)
 
-A bound magical creature (Familiar) or dedicated Technocratic partner (Companion). The Familiar can hold up to 5 points of Paradox on behalf of the mage. Higher ratings indicate more capable, powerful, and loyal companions.
+A bound magical creature (Familiar) or dedicated Technocratic partner (Companion). A Familiar can hold Paradox on the mage's behalf — 1 point per dot of this Edge or Power. Higher ratings indicate more capable, powerful, and loyal companions. As a rule of thumb a Familiar should never outshine its mage: the Storyguide approves the final build, and the more powerful the companion, the more it behaves as a character with its own agenda rather than a convenient tool.
 
-```
-Familiar / Companion Dot Ratings
---------------------------------
-•   Small creature with limited abilities; basic assistance.
-••  Medium creature with useful tricks; moderate support.
-••• Substantial familiar with notable powers; meaningful aid.
-•••• Powerful bound entity; significant capabilities.
-••••• Near-legendary companion; major supernatural ally.
-```
+Use the following as a power budget when building or approving a Familiar. Health equals 2 + the Familiar's Stamina, as for any character, and the named Familiars in Appendix D (Section Fifteen) serve as ready benchmarks.
+
+| Rating | Attribute ceiling | Tricks / Powers | Casting | Paradox held | Typical role |
+| --- | --- | --- | --- | --- | --- |
+| ● | mostly 1–2 (one at 3) | 1 signature Tag | none | 1 | scout, alert, fetch |
+| ●● | up to 3 | 2 Tags or Tricks | none | 2 | modest utility, or backup in a fight |
+| ●●● | up to 4 | 2–3 Tricks | Enlightenment 2, one Sphere ●● | 3 | fights mooks, works minor magic, carries the bond |
+| ●●●● | up to 5 | several powers | Enlightenment 3, Spheres to ●●● | 4 | significant supernatural ally |
+| ●●●●● | 5 (one 6 signature) | broad powers | Enlightenment 4, multiple Spheres | 5 | co-protagonist-tier companion |
 
 Familiars are characters in their own right with needs, motivations, and personalities. If the Familiar is killed or the bond is broken, the Background is lost.
 
@@ -25178,7 +25322,19 @@ Arms and armor of surpassing workmanship, smelted by the Order from **Orichalcum
 
 ### Vatican Connections (Edge ●–●●● / Power ●●●●–●●●●●)
 
-Like Contacts, but specialized to the Holy See. Each dot calls on the Vatican's reach — a dot might mean local diocesan administrative help; five dots might summon a Society of Leopold strike team. Every favor carries strings, and failing to reciprocate has repercussions, sharply so if a Knight-Magus is careless enough to reveal supernatural ability to the wrong monsignor.
+Like Contacts, but specialized to the Holy See. Each dot calls on the Vatican's reach , from a helpful parish priest to the inner Curia.
+
+```
+Vatican Connections Dot Ratings
+-------------------------------
+•     A friendly local priest or diocesan clerk; minor administrative help and quiet access to parish records.
+••    A monsignor or curial official; documents expedited, doors opened within a city, modest discretion bought.
+•••   A bishop or a Curia department; regional influence, access to the Vatican archives, a favor with real institutional weight.
+••••  A cardinal or the head of a congregation; national-scale leverage, sensitive information, and protection from Church scrutiny.
+••••• The inner Curia and the Society of Leopold; you can call in a monster-hunting strike team, or move the Holy See itself on a matter.
+```
+
+Every favor carries strings, and failing to reciprocate has repercussions, sharply so if a Knight-Magus is careless enough to reveal supernatural ability to the wrong monsignor.
 
 ### Knight-Captain (Edge ●–●●● / Power ●●●●–●●●●●)
 
@@ -26052,6 +26208,8 @@ Awakened Template`<w:r><w:tab/></w:r>`{=openxml}15
 
 Backlash, Paradox`<w:r><w:tab/></w:r>`{=openxml}50
 
+Bleeding Out (dying rules; the Death Clock)`<w:r><w:tab/></w:r>`{=openxml}146
+
 Building a Dice Pool`<w:r><w:tab/></w:r>`{=openxml}7
 
 Building Your Own Craft, Tradition, or Convention (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}755
@@ -26615,6 +26773,12 @@ Penumbra`<w:r><w:tab/></w:r>`{=openxml}424
 Traveling the Otherworlds`<w:r><w:tab/></w:r>`{=openxml}432
 
 Umbrood`<w:r><w:tab/></w:r>`{=openxml}290
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Unraveling (Quiet Track dying state; the Unraveling Clock → Marauder Threshold) (Appendix K)`<w:r><w:tab/></w:r>`{=openxml}406
 
 :::
 
