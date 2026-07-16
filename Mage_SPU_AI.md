@@ -25,59 +25,57 @@ Chapter Six: The Nine Spheres`<w:r><w:tab/></w:r>`{=openxml}56
 
 Chapter Seven: Combat — Violence in the World of Mage`<w:r><w:tab/></w:r>`{=openxml}99
 
-Chapter Eight: Factions — The Ascension War`<w:r><w:tab/></w:r>`{=openxml}162
+Chapter Eight: Factions — The Ascension War`<w:r><w:tab/></w:r>`{=openxml}166
 
-Chapter Nine: Storyguide`<w:r><w:tab/></w:r>`{=openxml}175
+Chapter Nine: Storyguide`<w:r><w:tab/></w:r>`{=openxml}178
 
-Appendix A: Avatars`<w:r><w:tab/></w:r>`{=openxml}178
+Appendix A: Avatars`<w:r><w:tab/></w:r>`{=openxml}181
 
-Appendix B: Paradigm, Practice & Instruments`<w:r><w:tab/></w:r>`{=openxml}180
+Appendix B: Paradigm, Practice & Instruments`<w:r><w:tab/></w:r>`{=openxml}183
 
-Appendix C: Avatar Essences — The Shape of the Soul`<w:r><w:tab/></w:r>`{=openxml}185
+Appendix C: Avatar Essences — The Shape of the Soul`<w:r><w:tab/></w:r>`{=openxml}189
 
-Appendix D: Entities and Antagonists`<w:r><w:tab/></w:r>`{=openxml}204
+Appendix D: Entities and Antagonists`<w:r><w:tab/></w:r>`{=openxml}208
 
-Appendix E: Chantries — Sanctums of the Awakened`<w:r><w:tab/></w:r>`{=openxml}265
+Appendix E: Chantries — Sanctums of the Awakened`<w:r><w:tab/></w:r>`{=openxml}269
 
-Appendix F: The Nine Traditions — Deep Lore`<w:r><w:tab/></w:r>`{=openxml}284
+Appendix F: The Nine Traditions — Deep Lore`<w:r><w:tab/></w:r>`{=openxml}288
 
-Appendix G: The Technocratic Union — Deep Operations`<w:r><w:tab/></w:r>`{=openxml}298
+Appendix G: The Technocratic Union — Deep Operations`<w:r><w:tab/></w:r>`{=openxml}302
 
-Appendix H: The Phase Initiative System`<w:r><w:tab/></w:r>`{=openxml}329
+Appendix H: The Phase Initiative System`<w:r><w:tab/></w:r>`{=openxml}333
 
-Appendix I: The Armor System`<w:r><w:tab/></w:r>`{=openxml}355
+Appendix I: The Armor System`<w:r><w:tab/></w:r>`{=openxml}359
 
-Appendix J: Tags Reference`<w:r><w:tab/></w:r>`{=openxml}364
+Appendix J: Tags Reference`<w:r><w:tab/></w:r>`{=openxml}368
 
-Appendix K: Sanity — The Fraying Edge of the Awakened Mind`<w:r><w:tab/></w:r>`{=openxml}396
+Appendix K: Sanity — The Fraying Edge of the Awakened Mind`<w:r><w:tab/></w:r>`{=openxml}400
 
-Appendix L: Bringing It All Together — A Complete Example of Play`<w:r><w:tab/></w:r>`{=openxml}409
+Appendix L: Bringing It All Together — A Complete Example of Play`<w:r><w:tab/></w:r>`{=openxml}416
 
-Appendix M: The Cosmos — The Tellurian and Its Otherworlds`<w:r><w:tab/></w:r>`{=openxml}423
+Appendix M: The Cosmos — The Tellurian and Its Otherworlds`<w:r><w:tab/></w:r>`{=openxml}431
 
-Appendix N: Master Rotes — Recorded Workings of the Awakened`<w:r><w:tab/></w:r>`{=openxml}436
+Appendix N: Master Rotes — Recorded Workings of the Awakened`<w:r><w:tab/></w:r>`{=openxml}444
 
-Appendix O: Quick Reference — One-Page Cheat Sheets`<w:r><w:tab/></w:r>`{=openxml}589
+Appendix O: Quick Reference — One-Page Cheat Sheets`<w:r><w:tab/></w:r>`{=openxml}597
 
-Appendix P: Character Sheet`<w:r><w:tab/></w:r>`{=openxml}594
+Appendix P: Character Sheet`<w:r><w:tab/></w:r>`{=openxml}603
 
-Appendix Q: Quick Reference Card`<w:r><w:tab/></w:r>`{=openxml}594
+Appendix Q: Items and Gear`<w:r><w:tab/></w:r>`{=openxml}606
 
-Appendix R: Items and Gear`<w:r><w:tab/></w:r>`{=openxml}595
+Appendix R: Crafting`<w:r><w:tab/></w:r>`{=openxml}621
 
-Appendix S: Crafting`<w:r><w:tab/></w:r>`{=openxml}610
+Appendix S: Vehicles`<w:r><w:tab/></w:r>`{=openxml}643
 
-Appendix T: Vehicles`<w:r><w:tab/></w:r>`{=openxml}632
+Appendix T: The Nephandi — Descent, the Caul, and the Fallen`<w:r><w:tab/></w:r>`{=openxml}659
 
-Appendix U: The Nephandi — Descent, the Caul, and the Fallen`<w:r><w:tab/></w:r>`{=openxml}648
+Appendix U: Edges, Powers, and Wonders`<w:r><w:tab/></w:r>`{=openxml}670
 
-Appendix V: Edges, Powers, and Wonders`<w:r><w:tab/></w:r>`{=openxml}659
+Appendix V: Streamlining Combat — Speed Tiers and Group Rules for Large Fights`<w:r><w:tab/></w:r>`{=openxml}737
 
-Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights`<w:r><w:tab/></w:r>`{=openxml}724
+Appendix W: Disparate Crafts — Fractured Traditions`<w:r><w:tab/></w:r>`{=openxml}743
 
-Appendix X: Disparate Crafts — Fractured Traditions`<w:r><w:tab/></w:r>`{=openxml}730
-
-Index`<w:r><w:tab/></w:r>`{=openxml}759
+Index`<w:r><w:tab/></w:r>`{=openxml}771
 
 :::
 
@@ -145,21 +143,19 @@ Appendix O: Quick Reference — One-Page Cheat Sheets — Five printable sheets 
 
 Appendix P: Character Sheet — A complete, fillable character sheet formatted for Mage: The Ascension — Storypath Ultra Edition.
 
-Appendix Q: Quick Reference Card — A condensed single-card summary of the most frequently referenced rules.
+Appendix Q: Items and Gear — Rules and stat blocks for mundane weapons, armor, equipment, and Wonders: Periapts, Talismans, Devices, Fetishes, and Legendary Items.
 
-Appendix R: Items and Gear — Rules and stat blocks for mundane weapons, armor, equipment, and Wonders: Periapts, Talismans, Devices, Fetishes, and Legendary Items.
+Appendix R: Crafting — Rules for creating mundane items with Enlightened techniques and forging Wonders through magical crafting: Nodes, Fetish Binding, and the full Master Work system.
 
-Appendix S: Crafting — Rules for creating mundane items with Enlightened techniques and forging Wonders through magical crafting: Nodes, Fetish Binding, and the full Master Work system.
+Appendix S: Vehicles — Vehicle stat blocks, chase and pursuit rules, vehicle combat, and Mage-modified vehicle options.
 
-Appendix T: Vehicles — Vehicle stat blocks, chase and pursuit rules, vehicle combat, and Mage-modified vehicle options.
+Appendix T: The Nephandi — Descent, the Caul, and the Fallen — The three Paths of Falling, the Descent Track, Nephandic Paradigms and Practices, key Fallen Rotes, and the mechanical and narrative tools for running Nephandi as antagonists or player characters.
 
-Appendix U: The Nephandi — Descent, the Caul, and the Fallen — The three Paths of Falling, the Descent Track, Nephandic Paradigms and Practices, key Fallen Rotes, and the mechanical and narrative tools for running Nephandi as antagonists or player characters.
+Appendix U: Edges, Powers, and Wonders — The full catalogue of Edges and Powers (Universal, Physical, Mental, Social, Supernatural) plus the Backgrounds (as rated Edges and Powers), Selected Wonders, and Wonder Crafting reference tables. Character drawbacks live as compel-only Tags in Appendix J.
 
-Appendix V: Edges, Powers, and Wonders — The full catalogue of Edges and Powers (Universal, Physical, Mental, Social, Supernatural) plus the Backgrounds (as rated Edges and Powers), Selected Wonders, and Wonder Crafting reference tables. Character drawbacks live as compel-only Tags in Appendix J.
+Appendix V: Streamlining Combat — Speed Tiers and Group Rules for Large Fights — Optional tools for running fights with large numbers of non-named NPCs without a large bookkeeping count: the Speed Tier initiative system (a small set of colored dice replaces individual Initiative Pools for mooks, scaled to the fastest thing in the fight rather than headcount) and formal Group Rules for resolving mob attacks as a single Volley. For positioning and movement, see Appendix H.
 
-Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights — Optional tools for running fights with large numbers of non-named NPCs without a large bookkeeping count: the Speed Tier initiative system (a small set of colored dice replaces individual Initiative Pools for mooks, scaled to the fastest thing in the fight rather than headcount) and formal Group Rules for resolving mob attacks as a single Volley. For positioning and movement, see Appendix H.
-
-Appendix X: Disparate Crafts — Fractured Traditions — The Crafts of the Disparate Alliance converted to Storypath Ultra: the Ngoma, Templars, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans — each with affinity Spheres, a signature Craft Tag, Concepts, Edges, Powers, Tags, and rotes — plus a step-by-step toolkit for building your own Craft, Tradition, or Convention.
+Appendix W: Disparate Crafts — Fractured Traditions — The Crafts of the Disparate Alliance converted to Storypath Ultra: the Ngoma, Templars, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans — each with affinity Spheres, a signature Craft Tag, Concepts, Edges, Powers, Tags, and rotes — plus a step-by-step toolkit for building your own Craft, Tradition, or Convention.
 
 Index — A full alphabetical index of game terms, subsystems, rules concepts, and setting elements, with live hyperlinks to each relevant section.
 
@@ -427,7 +423,7 @@ Characters can earn or select tags during character creation and advancement. Th
 
 A character tag can be invoked when relevant just as an equipment tag can — to justify a bonus, explain a capability, or create a narrative hook. Tags can also be invoked against you: [Wanted by the Technocracy] means that Iteration X agents may recognize you.
 
-**Tags vs. Edges:** Tags are free-form descriptors — created on the fly, assigned by the Storyguide, or earned through play — that can be invoked for a bonus or compelled for a complication, and carry no build cost. Edges are different: a dot-rated advantage bought at character creation, always in effect when its situation arises. A character's *drawbacks* are simply compel-only Tags (never invoked, only compelled). So the persistent things you buy are Edges (and, above the three-dot band, Powers); the dynamic, situational things — including your weaknesses — are Tags. See Character Creation (Chapter Three) and Appendix V for Edges and Powers, and Appendix J for the full Tag catalogue.
+**Tags vs. Edges:** Tags are free-form descriptors — created on the fly, assigned by the Storyguide, or earned through play — that can be invoked for a bonus or compelled for a complication, and carry no build cost. Edges are different: a dot-rated advantage bought at character creation, always in effect when its situation arises. A character's *drawbacks* are simply compel-only Tags (never invoked, only compelled). So the persistent things you buy are Edges (and, above the three-dot band, Powers); the dynamic, situational things — including your weaknesses — are Tags. See Character Creation (Chapter Three) and Appendix U for Edges and Powers, and Appendix J for the full Tag catalogue.
 
 ## Initiative: The Spotlight System
 
@@ -859,11 +855,11 @@ EXAMPLE: Major Path gives 10 dots. You place 4 in Mental, 4 in Social, 2 in
 
 Step Five is where the character becomes fully individualized. Your Paths have established your core competencies; now you define the **Edges** — the advantages, resources, and personal connections that make this mage specifically yours — along with any **Powers** and the drawback **Tags** that give her texture.
 
-**Edges.** You have **5 Edge dots** to spend. One dot buys one dot of an Edge from Appendix V (the resources, standing, and knacks a mage holds — all Edges now). Your Paths have already granted you some Edges for free: your Contacts and your Path's Special Ability. The Storyguide may raise this to 7 dots for a more heroic chronicle or lower it to 3 for a grittier one; 5 is standard. Unspent dots are lost; you cannot bank them as experience.
+**Edges.** You have **5 Edge dots** to spend. One dot buys one dot of an Edge from Appendix U (the resources, standing, and knacks a mage holds — all Edges now). Your Paths have already granted you some Edges for free: your Contacts and your Path's Special Ability. The Storyguide may raise this to 7 dots for a more heroic chronicle or lower it to 3 for a grittier one; 5 is standard. Unspent dots are lost; you cannot bank them as experience.
 
 You may trade an Edge dot for any one of the following instead: 1 additional starting Rote (beyond the three from Step Four); +1 dot to a Bond (maximum 3 at creation); or 2 points of starting Quintessence (maximum equal to your Arete).
 
-**Powers.** With the Storyguide's approval, you may begin play with a single Power (Appendix V), paid for from starting experience at its flat cost (listed in the Power's entry; 5 experience points where none is stated). Powers are gated because each — a bound guardian spirit, true immortality, faith that turns back the Fallen — redefines what the character fundamentally is. Most starting characters take none.
+**Powers.** With the Storyguide's approval, you may begin play with a single Power (Appendix U), paid for from starting experience at its flat cost (listed in the Power's entry; 5 experience points where none is stated). Powers are gated because each — a bound guardian spirit, true immortality, faith that turns back the Fallen — redefines what the character fundamentally is. Most starting characters take none.
 
 **Drawback Tags.** Take any compel-only Tags from Appendix J that suit your concept — a Phobia, an Addiction, a Vow, a lingering Enemy. They cost nothing and refund nothing; their worth is the Momentum they hand you when the Storyguide compels them. A character with a few well-chosen drawback Tags is richer to play than one with none.
 
@@ -3275,7 +3271,7 @@ The mage can reshape the Penumbra itself, create permanent spirit realms (Horizo
 > 
 > Pool: Spirit ●●● (3) + Resolve ●●●● (4) = 7 dice.  SF: 3.  Difficulty: 4 (uncooperative spirit of moderate power).
 > Roll: [10, 10, 8, 7, 6, 5, 4] = 5 hits, 1 net above Difficulty.  The binding holds.
-> Result: The spirit is bound and cannot act freely for [hits] days.  Ahanu may negotiate its release or have it bound into a fetish vessel (see Appendix S: Crafting).
+> Result: The spirit is bound and cannot act freely for [hits] days.  Ahanu may negotiate its release or have it bound into a fetish vessel (see Appendix R: Crafting).
 > VULGAR — spirit fire visibly constrained in a binding circle.  With no Sleeper witnesses (the building is temporarily cleared): 1 Paradox die.
 
 > SPIRIT ●●●● FREEFORM — UMBRA STEP
@@ -5529,11 +5525,11 @@ Violence in the World of Mage is always a cost. The question is who pays, and ho
 
 ## Worked Example — Combat with a Tagged Wonder (Jovian Thundergloves)
 
-This example demonstrates a character using a named Wonder from Appendix V in combat, showing the full invoke/compel cycle and Phase Initiative interaction.
+This example demonstrates a character using a named Wonder from Appendix U in combat, showing the full invoke/compel cycle and Phase Initiative interaction.
 
 **The Setup:** Barnabas (Sons of Ether, Arete ●●●, Forces ●●●, Correspondence ●●) has acquired Kid Kimota's Jovian Thundergloves (●●●, Tags: [Enchanted], [Ranged], [Stunning], [Aggravated], [Loud]). He is confronting an NWO extraction team in a parking garage — three agents in body armor, plus a fourth in a vehicle. His Verbena ally Esperanza is behind him. His goal: clear the path.
 
-**The Gloves' Stats (Appendix V):** Enhancement +2 to Forces-based ranged attacks. Lightning discharge, Aggravated damage. Activation: speak the trigger word and strike a grounded surface. Range: 15 meters. Quintessence cost: 1 per activation.
+**The Gloves' Stats (Appendix U):** Enhancement +2 to Forces-based ranged attacks. Lightning discharge, Aggravated damage. Activation: speak the trigger word and strike a grounded surface. Range: 15 meters. Quintessence cost: 1 per activation.
 
 ---
 
@@ -5871,7 +5867,7 @@ The Disparates are mages who never joined the Traditions, either by choice or by
 | Solificati | Alchemists; Matter and Prime. They were once part of the Order of Hermes and left in a doctrinal dispute. Their gold transmutation actually works. |
 | Taftâni | Fire-mages of the Middle East; Forces and Prime. They walk through flame and read the future in smoke. |
 
-For the full Disparate Alliance — eleven Crafts converted to Storypath Ultra (Ngoma, Knights of the Temple of Solomon, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans), each with affinity Spheres, a signature Craft Tag, Concepts, Edges, Powers, Tags, and rotes — and for a step-by-step toolkit on building your own Craft, Tradition, or Convention, see Appendix X: Disparate Crafts — Fractured Traditions.
+For the full Disparate Alliance — eleven Crafts converted to Storypath Ultra (Ngoma, Knights of the Temple of Solomon, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans), each with affinity Spheres, a signature Craft Tag, Concepts, Edges, Powers, Tags, and rotes — and for a step-by-step toolkit on building your own Craft, Tradition, or Convention, see Appendix W: Disparate Crafts — Fractured Traditions.
 
 ## The Ascension War in Play
 
@@ -8656,7 +8652,7 @@ TRICK — Rapid Growth [passive]: If killed by non-fire means, 50% chance to reg
 
 ## Section Fifteen: Named Familiars and Additional Animals
 
-Familiars use the same SPU format as all entities. Casting Rolls for familiars with magical ability use Enlightenment + Casting Attribute vs. Difficulty as normal. Animal attacks use Might + Close Combat + Enhancement modifier. For how powerful a Familiar may be at each dot rating, see the Familiar / Companion entry in Appendix V: Edges, Powers, and Wonders.
+Familiars use the same SPU format as all entities. Casting Rolls for familiars with magical ability use Enlightenment + Casting Attribute vs. Difficulty as normal. Animal attacks use Might + Close Combat + Enhancement modifier. For how powerful a Familiar may be at each dot rating, see the Familiar / Companion entry in Appendix U: Edges, Powers, and Wonders.
 
 ```
 Daqqanoenyent (Uncle Whirlwind) — Dreamspeaker Familiar
@@ -11331,7 +11327,7 @@ HARDPOINTS: Vehicle can mount 1 Hardpoint per 5 pts. of Background Cost (rounded
 
 ### Section Four: Cyberware and Biotech
 
-Cybernetic and biological enhancements modify a character's physical form. Each dot of the Enhancement Background requires either 1 permanent Paradox point or 1 Genetic Tag (see Appendix V: Edges, Powers, and Wonders — Genetic Tags section). Non-Technocracy cybernetics automatically impose 1 Genetic Tag per dot due to inferior quality control. Cyberware uses Enlightenment-based activation in most cases. Biomods are always-on passive systems requiring no activation roll. All enhancements impose the Construct social disadvantage at 3+ dots of Enhancement.
+Cybernetic and biological enhancements modify a character's physical form. Each dot of the Enhancement Background requires either 1 permanent Paradox point or 1 Genetic Tag (see Appendix U: Edges, Powers, and Wonders — Genetic Tags section). Non-Technocracy cybernetics automatically impose 1 Genetic Tag per dot due to inferior quality control. Cyberware uses Enlightenment-based activation in most cases. Biomods are always-on passive systems requiring no activation roll. All enhancements impose the Construct social disadvantage at 3+ dots of Enhancement.
 
 #### Cyberware
 
@@ -11489,7 +11485,7 @@ Other factions (Society of Ether, Virtual Adepts, some Nephandi) produce their o
 
 ---
 
-Cross-references: Appendix S (Items and Gear) for additional Wonders and equipment stat blocks. Appendix F (The Nine Traditions) and Chapter 8 (Factions and the Social Game) for factional context. Chapter Ten (Chantries) for base Chantry rules that the Construct creation system above expands.
+Cross-references: Appendix R (Items and Gear) for additional Wonders and equipment stat blocks. Appendix F (The Nine Traditions) and Chapter 8 (Factions and the Social Game) for factional context. Chapter Ten (Chantries) for base Chantry rules that the Construct creation system above expands.
 
 ---
 
@@ -12157,7 +12153,7 @@ COVER: Costs an Action Die to enter. Light -1, Solid -2, Near-total -3 to attack
 >
 > Dex is at Medium range from a Syndicate gunman across a parking garage. On his Phase, he spends a Standard Move (SF 1) to shift to Short range, ducking behind a support pillar in the same action (the pillar counts as his destination, so this single die pays for both the move and entering cover). He is now at Short range, benefiting from Solid cover (−2 dice to the gunman's attacks) and the Moving Target penalty (−1 die, since he shifted a Range Band this round) — the gunman's shotgun (effective at Short) still threatens him, but at a combined −3 dice penalty. Two Phases later, Dex spends a Rush as part of his own attack, closing from Short to Close and tackling the gunman directly, accepting the Rush's +1 Difficulty Complication because he judges ending the fight in a grapple is worth it.
 
-For running many identical, non-named NPCs moving and acting together without tracking each one's Range Band individually, see Appendix W's Speed Tier System and Group Rules — those tools apply on top of the positioning rules above, they do not replace them.
+For running many identical, non-named NPCs moving and acting together without tracking each one's Range Band individually, see Appendix V's Speed Tier System and Group Rules — those tools apply on top of the positioning rules above, they do not replace them.
 
 ## Rates of Fire
 
@@ -13087,7 +13083,7 @@ Magical Tags describe properties of spells, magical effects, magical items, and 
 
 ## Craft Tags — Factional Signature Tags
 
-Introduced in Appendix X (Disparate Crafts — Fractured Traditions), each of these is a Magical Tag carried by members of a specific Craft. Full invoke/compel text lives in that appendix; the list below is a quick reference. In every case, *invoke* to add Enhancement (or lower Difficulty) on the noted workings, and *compel* when the noted obligation, rivalry, or flaw bites.
+Introduced in Appendix W (Disparate Crafts — Fractured Traditions), each of these is a Magical Tag carried by members of a specific Craft. Full invoke/compel text lives in that appendix; the list below is a quick reference. In every case, *invoke* to add Enhancement (or lower Difficulty) on the noted workings, and *compel* when the noted obligation, rivalry, or flaw bites.
 
 - **Held by the Ancestors** (Ngoma) — invoke on Spirit/Prime invocation, remembrance, and ancestor-bargaining; compel when honoring the dead demands the slow, costly path.
 - **Sworn of the Temple** (Knights of the Temple of Solomon) — invoke on faith-framed protection and smiting and on oaths of duty; compel when the Order's articles forbid the easy path.
@@ -13098,16 +13094,16 @@ Introduced in Appendix X (Disparate Crafts — Fractured Traditions), each of th
 - **All Things Are One** (Ahl-i-Batin) — invoke on Correspondence/Mind/Time connection and on genuine cooperation; compel when unity blinds the Batini to a real conflict of interest.
 - **Selective Obscurity** (Ahl-i-Batin) — invoke to be forgotten; compel when the mage needs to be remembered and cannot be.
 - **Keeper of Mana** (Kahu) — invoke on reverent mana-work and on sheltering one's ohana; compel through kapu.
-- **Kapu** (Kahu) — compel-only ancestral prohibition (see the Kapu flaw options in Appendix X).
+- **Kapu** (Kahu) — compel-only ancestral prohibition (see the Kapu flaw options in Appendix W).
 - **Daughter of the Hunt** (Sisters of Hippolyta) — invoke on Life/Spirit/Mind protection, healing, and the hunt for a predator; compel when sisterhood or the Verbena rivalry complicates the moment.
 - **Reader of the Hidden Order** (Wu Lung) — invoke on geomancy, astrology, medicine, and god-channeling, and on reading a situation's structure; compel along the Yellow/Azure sect fault-line.
 - **Seven Made One** (Bata'a) — invoke on Clan-Sphere workings and Ring Shout rites; compel through les Mystères' demands and a Chwal's divided will.
 - **The Great Work** (Solificati) — invoke on transmutation, refinement, and laboratory work; compel when the pursuit of the Work pulls the alchemist from the crisis at hand.
 - **Streetwise Survivor** (Orphans) — invoke on disguised coincidental magic and low-profile survival; compel when isolation or an untrained gap shows.
 - **It's Just an App** (Orphans) — invoke to reframe a working as ordinary technology (halving botch Paradox per the Technomancer Edge).
-- **The Map Is the Territory**, **Living Map**, **Ward Anchor** (the example Cartographers' Compact) — sample Tags from Appendix X's "build your own Craft" worked example.
+- **The Map Is the Territory**, **Living Map**, **Ward Anchor** (the example Cartographers' Compact) — sample Tags from Appendix W's "build your own Craft" worked example.
 
-New **wonder and weapon Tags** referenced across Appendices X, V, and R — [Bane Weapon: Undead & Shapechangers], [Bane Weapon: Supernatural], [Bound Spirit: Djinni], [Nigh-Indestructible], [Autonomous], [Mana Reservoir], [Sèvitè: +N Clan Sphere], and [Conjure-Staff] — are priced by the tag-value hierarchy in "Tag Design and Pricing" (below) and built through the crafting rules in Appendix S.
+New **wonder and weapon Tags** referenced across Appendices W, U, and Q — [Bane Weapon: Undead & Shapechangers], [Bane Weapon: Supernatural], [Bound Spirit: Djinni], [Nigh-Indestructible], [Autonomous], [Mana Reservoir], [Sèvitè: +N Clan Sphere], and [Conjure-Staff] — are priced by the tag-value hierarchy in "Tag Design and Pricing" (below) and built through the crafting rules in Appendix R.
 
 ## Phase Initiative System Tags
 
@@ -13123,11 +13119,11 @@ These armor tags are taken from the Storypath Ultra core rules and supplement th
 
 ## Tool Tags
 
-Tools are items that are neither weapons nor armor — they exist to help characters do things other than fighting. Tool tags modify Enhancement, define scope, or grant special capabilities to non-combat items. See Appendix R for specific tool stat blocks and Appendix S for crafting tools as part of the Wonder system.
+Tools are items that are neither weapons nor armor — they exist to help characters do things other than fighting. Tool tags modify Enhancement, define scope, or grant special capabilities to non-combat items. See Appendix Q for specific tool stat blocks and Appendix R for crafting tools as part of the Wonder system.
 
 ## Vehicle Tags
 
-Vehicle tags define the specific capabilities of a vehicle beyond its base size, speed, handling, and injury ratings. Each vehicle can carry up to its Size in tags; iconic or Enlightened vehicles may carry more. See Appendix T for complete vehicle stat blocks and chase rules.
+Vehicle tags define the specific capabilities of a vehicle beyond its base size, speed, handling, and injury ratings. Each vehicle can carry up to its Size in tags; iconic or Enlightened vehicles may carry more. See Appendix S for complete vehicle stat blocks and chase rules.
 
 ## Damage Type Tags
 
@@ -13141,7 +13137,7 @@ These tags describe properties of magical items (Wonders) and are applied during
 
 ## Item Flaw Tags
 
-Flaw tags appear on items as a result of failed milestone rolls during Wonder crafting (see Appendix S). Unlike standard tags, Flaws can only be compelled against the item's wielder — never invoked for advantage. They represent instabilities, spiritual resentments, or structural weaknesses baked into the item during creation. Flaws can be removed during crafting with the Quick Fix Trick (2 hits), but Flaws that survive to the final milestone become permanent features of the Wonder.
+Flaw tags appear on items as a result of failed milestone rolls during Wonder crafting (see Appendix R). Unlike standard tags, Flaws can only be compelled against the item's wielder — never invoked for advantage. They represent instabilities, spiritual resentments, or structural weaknesses baked into the item during creation. Flaws can be removed during crafting with the Quick Fix Trick (2 hits), but Flaws that survive to the final milestone become permanent features of the Wonder.
 
 ## Tag Design and Pricing — Getting the Scope Right
 
@@ -14670,12 +14666,12 @@ Step Five -- Full Reference
 5 EDGE DOTS -- all characters begin with 5 (Storyguide may set 3 for grit or 7 for heroism)
 
 WHAT AN EDGE DOT BUYS:
-  1 dot  = 1 dot of any Edge (Appendix V) -- a knack, a resource (Resources, a
+  1 dot  = 1 dot of any Edge (Appendix U) -- a knack, a resource (Resources, a
            Chantry, a Node, Allies, Contacts), or standing. Edges run ● to ●●●.
   trade  = instead of an Edge dot you may take: 1 extra Rote; +1 to a Bond (max 3);
            or 2 starting Quintessence (max = Arete).
 
-POWERS (Appendix V):
+POWERS (Appendix U):
   Bought from starting experience at a flat cost, and only with Storyguide approval.
   Reserved for the genuinely supernatural (bound spirit, immortality, True Faith).
 
@@ -19902,21 +19898,21 @@ FREEFORM SF = Difficulty: highest Sphere dot + number of Spheres (slower than Ro
 
 # Appendix P: Character Sheet
 
-## Overview
+This appendix provides a complete, fillable, and printable character sheet for Mage: The Ascension — Storypath Ultra Edition. It is laid out across two pages and captures every trait the Storypath Ultra rules use.
 
-Appendix P contains a full two-page fillable character sheet formatted for Mage: The Ascension — Storypath Ultra Edition. The sheet includes fields for all Attributes, Skills, Paths, Spheres, Health Track (four bands: Bruised, Injured, Wounded, Incapacitated), Quiet Track (three bands: Stressed, Fractured, Broken), Paradox Pool, Arete/Enlightenment rating, Quintessence/Banality, Avatar rating, Paradigm/Practice/Instruments, XP log, and a dedicated section for Wonders and Focus Tags. The visual design uses bubble-dot notation for all dot-rated traits.
+Page one records identity and the trait spread: Character Name, Player, and Chronicle; Tradition/Convention/Craft, Major Path, and Arete/Enlightenment; Concept and Paradigm; the two Minor Paths; the nine Attributes across the Mental, Physical, and Social Arenas; the sixteen Skills; the nine Spheres (each capped by Arete); and the Resonance, Avatar Essence, Affinity Sphere, and Focus (Paradigm • Practice • Instruments) traits.
 
-> **Agent note:** This appendix is a graphical layout artifact. Rule definitions for all traits on this sheet appear in their respective chapters. For Attributes and Skills see Chapter 3 (Character Creation); for Health Track mechanics see Chapter 7 (Combat); for Quiet Track see Appendix K; for Paradox Pool see Chapter 5 (Paradox); for Arete/Enlightenment see Chapter 3.
+Page two records the play-facing tracks and resources: the Health Track (bands: Bruised — no penalty; Impaired — −1 die; Critical — −2 dice; Incapacitated), Willpower (permanent dots and current rating), Quintessence and the Paradox Pool, and the five-box Quiet Track (Static, Distortion, Fracture, Unraveling, Full Quiet); followed by Edges, Powers & Tags; Bonds & Contacts; the three starting Rotes; Derived Stats; Experience & Advancement; Wonders, Foci & Gear; and space for Cabal/Chantry and Nature/Demeanor.
 
-# Appendix Q: Quick Reference Card
+The sheet is shown below filled in for Rosamund Ashby, the Verbena Blood-and-Bone Witch used as the worked example throughout this book, so that every field has a concrete illustration. A blank, interactive version is also distributed as an HTML file (Mage_SPU_Character_Sheet.html) whose dots and tracks fill in when clicked and which prints cleanly.
 
-## Overview
+![Character sheet — page one](Appendix_P_sheet_1.png){width=6.5in}
 
-Appendix Q is a single-page condensed reference card intended for printing and use at the table. It covers: the core dice pool formula, hit thresholds and difficulty ratings, the botch condition, the Spotlight Initiative sequence, the five basic combat actions, Damage Type effects (Bashing/Lethal/Aggravated/Unsoakable), the Paradox trigger table, and the Sphere Difficulty ladder (Coincidental through Vulgar+Witness). All values are identical to those in Appendices F and O. See Appendix O (Text Quick Reference Sheets) for the full machine-readable version of these rules.
+![Character sheet — page two](Appendix_P_sheet_2.png){width=6.5in}
 
----
+> **Storyguide note:** All trait definitions live in their home chapters — Attributes and Skills in Chapter Three (Character Creation); Spheres in Chapter Six; the Health Track in Chapter Seven (Combat); the Quiet Track in Chapter Five and Appendix K; the Paradox Pool in Chapter Five; and Arete/Enlightenment in Chapter Three. This sheet is the single page where they all come together.
 
-# Appendix R: Items and Gear
+# Appendix Q: Items and Gear
 
 ---
 
@@ -19937,7 +19933,7 @@ BACKGROUND COST IS REAL COST. An item rated ●●●●● costs 13–15 Backgr
 
 BALANCE IS CHRONICLE-LOCAL. Some items here (the Alanson R-25 Hardsuit, the Portable Hellgate, the Madness Grenade) are deliberately at the edge of what works in a normal chronicle. Before adding them to a game, ask whether the story you want to tell benefits from that level of power. The answer is sometimes yes. The item's compels are designed to create as much dramatic weight as its invokes. Ensure your table is comfortable with both before play.
 
-For custom items built using the Crafting rules in Appendix S: the same principle applies. If you cannot write a compelling Compel for a tag you are adding, remove the tag.
+For custom items built using the Crafting rules in Appendix R: the same principle applies. If you cannot write a compelling Compel for a tag you are adding, remove the tag.
 
 ---
 
@@ -20002,7 +19998,7 @@ Cross-reference: For detailed guidance on tag pricing and scope, including the "
 
 Mundane items are the equipment of the unAwakened world — firearms, blades, protective clothing, tools of trade and survival. They carry no magical charge and generate no Paradox. They are governed entirely by the SPU tag system: each item provides Enhancement to relevant actions and carries tags that define its specific capabilities and limitations.
 
-A mundane item's tags were determined when it was designed and manufactured. A mage can carry a pistol without any magical implication; it fires bullets through wholly physical means. The interesting question is what happens when a mage combines a mundane item with magic — a topic addressed in the Crafting appendix (Appendix S). For now, these items stand on their own mechanical merits.
+A mundane item's tags were determined when it was designed and manufactured. A mage can carry a pistol without any magical implication; it fires bullets through wholly physical means. The interesting question is what happens when a mage combines a mundane item with magic — a topic addressed in the Crafting appendix (Appendix R). For now, these items stand on their own mechanical merits.
 
 ### Mundane Weapons
 
@@ -20330,7 +20326,7 @@ Compel: "Rappelling requires both hands. You cannot hold the climbing rope and r
 
 ## Quick Reference: Items by Function
 
-This table groups items from Appendix R (mundane gear) and Appendix V (Wonders) by primary use case. Background point costs are noted for Wonders. All mundane items are available to any character with appropriate Resources or Contacts.
+This table groups items from Appendix Q (mundane gear) and Appendix U (Wonders) by primary use case. Background point costs are noted for Wonders. All mundane items are available to any character with appropriate Resources or Contacts.
 
 **WEAPONS — MELEE**
 
@@ -20341,8 +20337,8 @@ This table groups items from Appendix R (mundane gear) and Appendix V (Wonders) 
 | Reach / control | Spear / Staff | [Reach], [Versatile], [Blunt/Stabbing Damage] | SF 1; choose damage type per use |
 | Blunt / stun | Baseball Bat / Club | [Brutal], [Stunning], [Blunt Damage] | SF 1; can spend 2 hits to stun |
 | Concealable thrown | Throwing Knives / Shuriken | [Concealable], [Thrown], [Returning], [Edged Damage] | SF 1; returns on miss |
-| Magical melee (offensive) | Dümerang Blade (●●●) | [Enchanted], [Reach], [Aggravated], [Returning] | Appendix V; 7 pts Background |
-| Magical melee (heavy) | Gallu's Lash (●●●●) | [Enchanted], [Brutal], [Aggravated], [Wounding], [Spirit-Touching] | Appendix V; 11 pts Background |
+| Magical melee (offensive) | Dümerang Blade (●●●) | [Enchanted], [Reach], [Aggravated], [Returning] | Appendix U; 7 pts Background |
+| Magical melee (heavy) | Gallu's Lash (●●●●) | [Enchanted], [Brutal], [Aggravated], [Wounding], [Spirit-Touching] | Appendix U; 11 pts Background |
 
 **WEAPONS — RANGED**
 
@@ -20355,12 +20351,12 @@ This table groups items from Appendix R (mundane gear) and Appendix V (Wonders) 
 | Precision / anti-armor | Sniper Rifle | [Long Range], [Deadly], [Piercing], [Ballistic Damage] | SF 2 (setup required) |
 | Non-lethal / stun | Taser / Stun Gun | [Concealable], [Stunning], [Versatile] | SF 1 |
 | Silent ranged | Crossbow | [Silent], [Piercing], [Ballistic Damage] | SF 2; reload between shots |
-| Magical ranged (lightning) | Kid Kimota's Jovian Thundergloves (●●●) | [Enchanted], [Damage], [Ranged], [Stunning], [Aggravated] | Appendix V; 7 pts Background |
-| Magical area (chaos) | Madness Grenade (●●●●) | [Enchanted], [Area], [Mental], [Damage] | Appendix V; 11 pts; chronicle-altering |
-| Technocracy munitions | LIAM — Loitering Assault Munition (●●●) | [Enchanted], [Automatic], [Area], [Technological] | Appendix V; 7 pts |
-| Technocracy crowd control | MP-34 Multipurpose Pacification Gas (●●) | [Enchanted], [Area], [Stunning], [Technological] | Appendix V; 4 pts |
-| Anti-spirit ranged | PAWS Taser (●●) | [Enchanted], [Stunning], [Spirit-Touching], [Technological] | Appendix V; 4 pts |
-| Neutralizer (magic-dampening) | Universal Neutralizer Device — UND (●●●) | [Enchanted], [Technological], [Countermeasure] | Appendix V; 7 pts |
+| Magical ranged (lightning) | Kid Kimota's Jovian Thundergloves (●●●) | [Enchanted], [Damage], [Ranged], [Stunning], [Aggravated] | Appendix U; 7 pts Background |
+| Magical area (chaos) | Madness Grenade (●●●●) | [Enchanted], [Area], [Mental], [Damage] | Appendix U; 11 pts; chronicle-altering |
+| Technocracy munitions | LIAM — Loitering Assault Munition (●●●) | [Enchanted], [Automatic], [Area], [Technological] | Appendix U; 7 pts |
+| Technocracy crowd control | MP-34 Multipurpose Pacification Gas (●●) | [Enchanted], [Area], [Stunning], [Technological] | Appendix U; 4 pts |
+| Anti-spirit ranged | PAWS Taser (●●) | [Enchanted], [Stunning], [Spirit-Touching], [Technological] | Appendix U; 4 pts |
+| Neutralizer (magic-dampening) | Universal Neutralizer Device — UND (●●●) | [Enchanted], [Technological], [Countermeasure] | Appendix U; 7 pts |
 
 **DEFENSIVE — ARMOR**
 
@@ -20371,10 +20367,10 @@ This table groups items from Appendix R (mundane gear) and Appendix V (Wonders) 
 | Law enforcement | Police Riot Gear | [Ballistic], [Rigid], [Heavy], [Imposing] | Soak 3 |
 | Military full kit | Military Body Armor (Plate Carrier) | [Ballistic], [Rigid], [Heavy], [Reinforced], [Imposing] | Soak 4 |
 | Motorcycle / flexible heavy | Motorcycle Leathers | [Flexible], [Natural], [Rigid (partial)] | Soak 2; not Ballistic-rated |
-| Magical concealable (Matter) | Bulletproof Hoodie (●●●) | [Flexible], [Natural], [Concealable], [Enchanted], [Ballistic] | Appendix V; 7 pts; Soak 4 |
-| Magical social armor | Falconi & Associates Business Attire (●●●●) | [Enchanted], [Ballistic], [Concealable], [Social Enhancement], [Resonant] | Appendix V; 11 pts |
-| Full tactical Wonder | Alanson R-25 Hardsuit (•••••) | [Enchanted], [Ballistic], [Heavy], [Sealed], [Imposing], [Technological], + HIPAU module | Appendix V; 13+ pts; chronicle-defining |
-| Magical perception defense | Trushades (●●) | [Enchanted], [Concealable], [Technological], [Protective] | Appendix V; Mind ●● defense vs. illusion/possession |
+| Magical concealable (Matter) | Bulletproof Hoodie (●●●) | [Flexible], [Natural], [Concealable], [Enchanted], [Ballistic] | Appendix U; 7 pts; Soak 4 |
+| Magical social armor | Falconi & Associates Business Attire (●●●●) | [Enchanted], [Ballistic], [Concealable], [Social Enhancement], [Resonant] | Appendix U; 11 pts |
+| Full tactical Wonder | Alanson R-25 Hardsuit (•••••) | [Enchanted], [Ballistic], [Heavy], [Sealed], [Imposing], [Technological], + HIPAU module | Appendix U; 13+ pts; chronicle-defining |
+| Magical perception defense | Trushades (●●) | [Enchanted], [Concealable], [Technological], [Protective] | Appendix U; Mind ●● defense vs. illusion/possession |
 
 **QUINTESSENCE — STORAGE AND MANAGEMENT**
 
@@ -20383,7 +20379,7 @@ This table groups items from Appendix R (mundane gear) and Appendix V (Wonders) 
 | Personal battery | Periapt (Personal) | [Enchanted], [Concealable] | 5 / 10 / 15 (●–●●●) | Standard mage carry |
 | High-capacity personal | Kismet Bindi | [Enchanted], [Resonant], [Concealable] | 20 (Quintessence or Paradox) | Risk: Paradox storage |
 | Technocracy large-scale | SPECM Matrix | [Enchanted], [Technological] | 10 / 50 / 100 (●–•••••) | Scales from pocket to trailer |
-| Shared pool (group ritual) | Dragon Pearls (●●●) | [Enchanted], [Resonant], [Linking] | 30 (linked to group) | Appendix V; 7 pts each; group synergy |
+| Shared pool (group ritual) | Dragon Pearls (●●●) | [Enchanted], [Resonant], [Linking] | 30 (linked to group) | Appendix U; 7 pts each; group synergy |
 
 **UTILITY — TOOLS AND ENHANCEMENT**
 
@@ -20396,45 +20392,45 @@ This table groups items from Appendix R (mundane gear) and Appendix V (Wonders) 
 | Magical research | Occult Library | [Huge], [Exceptional] | +2 Enhancement on Occult; not portable |
 | Surveillance | Surveillance Package | [Concealable], [Multiuse], [Technological] | Remote cameras, audio, GPS |
 | Mobility | Climbing Gear | [Rugged], [Expendable] | Enables vertical movement |
-| Technocracy intel | VDAS Goggles (●●●) | [Enchanted], [Concealable], [Technological], [Sensory] | Appendix V; electromagnetic spectrum vision |
-| Technocracy field tool | Bafflejack (●●) | [Enchanted], [Technological], [Subtle] | Appendix V; reality-stabilizing dampener field |
-| Learning acceleration | Sleepteacher (●●●) | [Enchanted], [Technological], [Lasting] | Appendix V; teaches Skills during sleep |
-| Skill transfer (instant) | Pre-Designed Proficiency Packages — PPP (●●●) | [Enchanted], [Technological], [Expendable] | Appendix V; one-use Skill download |
-| Tracking / disruption | TMBL-WD Tumble-Weed (●●●) | [Enchanted], [Technological], [Stealthy], [Area] | Appendix V; autonomous surveillance drone |
-| Magical research text | Grand Book of Shadows (●●●●) | [Enchanted], [Huge], [Resonant], [Teaching] | Appendix V; teaches Sphere Rotes |
-| Technocracy computer | Rod Logic Computer (●●●●) | [Enchanted], [Technological], [Exceptional], [Fast] | Appendix V; hypertech processing |
+| Technocracy intel | VDAS Goggles (●●●) | [Enchanted], [Concealable], [Technological], [Sensory] | Appendix U; electromagnetic spectrum vision |
+| Technocracy field tool | Bafflejack (●●) | [Enchanted], [Technological], [Subtle] | Appendix U; reality-stabilizing dampener field |
+| Learning acceleration | Sleepteacher (●●●) | [Enchanted], [Technological], [Lasting] | Appendix U; teaches Skills during sleep |
+| Skill transfer (instant) | Pre-Designed Proficiency Packages — PPP (●●●) | [Enchanted], [Technological], [Expendable] | Appendix U; one-use Skill download |
+| Tracking / disruption | TMBL-WD Tumble-Weed (●●●) | [Enchanted], [Technological], [Stealthy], [Area] | Appendix U; autonomous surveillance drone |
+| Magical research text | Grand Book of Shadows (●●●●) | [Enchanted], [Huge], [Resonant], [Teaching] | Appendix U; teaches Sphere Rotes |
+| Technocracy computer | Rod Logic Computer (●●●●) | [Enchanted], [Technological], [Exceptional], [Fast] | Appendix U; hypertech processing |
 
 **SOCIAL AND INFLUENCE**
 
 | Function | Item | Tags | Notes |
 | --- | --- | --- | --- |
-| Authority / identity | PP-2 Omni-Badge (●●) | [Enchanted], [Concealable], [Social Enhancement] | Appendix V; projects any official identity |
-| Luxury / intimidation | Falconi Attire (●●●●) | [Enchanted], [Concealable], [Social Enhancement], [Ballistic] | Appendix V; see Defensive above |
-| Social poison / leverage | Bond Fine Tobacco Products (●●) | [Enchanted], [Concealable], [Social Enhancement] | Appendix V; social bonding and subtle compulsion |
-| Memory/mind manipulation | NOT — Neuro-Optical Transmitter (●●●) | [Enchanted], [Mental], [Technological] | Appendix V; memory alteration device |
-| Ideological subversion | Mightier Pen (●●●) | [Enchanted], [Lasting], [Mental], [Spreading] | Appendix V; written words carry Mind influence |
-| False identity (spirits) | False Face (●●●) | [Enchanted], [Concealable], [Social Enhancement], [Spirit-Touching] | Appendix V; spirit-mask for identity change |
+| Authority / identity | PP-2 Omni-Badge (●●) | [Enchanted], [Concealable], [Social Enhancement] | Appendix U; projects any official identity |
+| Luxury / intimidation | Falconi Attire (●●●●) | [Enchanted], [Concealable], [Social Enhancement], [Ballistic] | Appendix U; see Defensive above |
+| Social poison / leverage | Bond Fine Tobacco Products (●●) | [Enchanted], [Concealable], [Social Enhancement] | Appendix U; social bonding and subtle compulsion |
+| Memory/mind manipulation | NOT — Neuro-Optical Transmitter (●●●) | [Enchanted], [Mental], [Technological] | Appendix U; memory alteration device |
+| Ideological subversion | Mightier Pen (●●●) | [Enchanted], [Lasting], [Mental], [Spreading] | Appendix U; written words carry Mind influence |
+| False identity (spirits) | False Face (●●●) | [Enchanted], [Concealable], [Social Enhancement], [Spirit-Touching] | Appendix U; spirit-mask for identity change |
 
 **ANTI-SUPERNATURAL**
 
 | Function | Item | Tags | Notes |
 | --- | --- | --- | --- |
-| Anti-spirit direct | PAWS Taser (●●) | [Enchanted], [Stunning], [Spirit-Touching], [Technological] | Appendix V; stuns materialized spirits |
-| Anti-spirit area | Imphepho Wierook (●●) | [Enchanted], [Area], [Spirit-Touching], [Expendable] | Appendix V; Dreamspeaker incense |
-| Warding / binding | Candle of Communion (●●) | [Enchanted], [Warding], [Spirit-Touching] | Appendix V; creates Spirit ward on burn |
-| Magic dampening | UND — Universal Neutralizer (●●●) | [Enchanted], [Technological], [Countermeasure] | Appendix V; suppresses magical effects |
-| Dimensional | NIMBY-50 (●●●●) | [Enchanted], [Technological], [Area], [Dimensional] | Appendix V; seals local area against spirit intrusion |
-| Combat mind defense | Antaratma (●●●) | [Enchanted], [Warding], [Mental], [Resonant] | Appendix V; blocks Mind intrusion |
+| Anti-spirit direct | PAWS Taser (●●) | [Enchanted], [Stunning], [Spirit-Touching], [Technological] | Appendix U; stuns materialized spirits |
+| Anti-spirit area | Imphepho Wierook (●●) | [Enchanted], [Area], [Spirit-Touching], [Expendable] | Appendix U; Dreamspeaker incense |
+| Warding / binding | Candle of Communion (●●) | [Enchanted], [Warding], [Spirit-Touching] | Appendix U; creates Spirit ward on burn |
+| Magic dampening | UND — Universal Neutralizer (●●●) | [Enchanted], [Technological], [Countermeasure] | Appendix U; suppresses magical effects |
+| Dimensional | NIMBY-50 (●●●●) | [Enchanted], [Technological], [Area], [Dimensional] | Appendix U; seals local area against spirit intrusion |
+| Combat mind defense | Antaratma (●●●) | [Enchanted], [Warding], [Mental], [Resonant] | Appendix U; blocks Mind intrusion |
 
 **EMERGENCY AND HEALING**
 
 | Function | Item | Tags | Notes |
 | --- | --- | --- | --- |
 | Basic medical | Field Medicine Kit | [Expendable], [Rugged] | Mundane; stabilizes wounded |
-| Combat stimulant | Erg Indigo (●●) | [Enchanted], [Expendable], [Boost] | Appendix V; restores actions in crisis |
-| Auto-resurrection | Rebooter Self-Retrieval Bio-Printer (●●●●●) | [Enchanted], [Technological], [Lasting] | Appendix V; 15 pts; chronicle-defining |
-| Alchemy healing | Mama Cybele's Tea Collection (●●●) | [Enchanted], [Expendable], [Healing], [Resonant] | Appendix V; assorted healing & effect teas |
-| Biotech support | HIPSTer / HIPSDTer (●●●●) | [Enchanted], [Technological], [Healing], [Lasting] | Appendix V; continuous biotech medical suite |
+| Combat stimulant | Erg Indigo (●●) | [Enchanted], [Expendable], [Boost] | Appendix U; restores actions in crisis |
+| Auto-resurrection | Rebooter Self-Retrieval Bio-Printer (●●●●●) | [Enchanted], [Technological], [Lasting] | Appendix U; 15 pts; chronicle-defining |
+| Alchemy healing | Mama Cybele's Tea Collection (●●●) | [Enchanted], [Expendable], [Healing], [Resonant] | Appendix U; assorted healing & effect teas |
+| Biotech support | HIPSTer / HIPSDTer (●●●●) | [Enchanted], [Technological], [Healing], [Lasting] | Appendix U; continuous biotech medical suite |
 
 **LEGENDARY — CHRONICLE-DEFINING WONDERS (●●●●●)**
 
@@ -20451,14 +20447,14 @@ These items cost 13–15 Background points each and should be treated as chronic
 
 **CROSS-REFERENCE NOTES:**
 
-- All Wonders listed here are detailed in Appendix V: Edges, Powers, and Wonders (starting page "Selected Wonders" section).
+- All Wonders listed here are detailed in Appendix U: Edges, Powers, and Wonders (starting page "Selected Wonders" section).
 - All tags used above are defined in Appendix J: Tags Reference.
-- Crafting rules for building custom items at any rank: Appendix S: Crafting.
-- The Periapt and SPECM entries apply to any Quintessence storage item; see Appendix V for specific variant stat blocks.
+- Crafting rules for building custom items at any rank: Appendix R: Crafting.
+- The Periapt and SPECM entries apply to any Quintessence storage item; see Appendix U for specific variant stat blocks.
 
 ---
 
-# Appendix S: Crafting
+# Appendix R: Crafting
 
 A mage who can reshape reality should also be able to shape the objects within it. Crafting in Mage: The Ascension Storypath Ultra Edition covers two distinct practices: mundane crafting, the creation of ordinary items using skill and materials, and Enlightened crafting, the construction of Wonders — objects imbued with persistent magical power. The rules differ significantly because the underlying processes differ significantly. A blacksmith hammers metal; a Verbena mage who is also a blacksmith hammers metal while her will and her magic flow into the steel simultaneously.
 
@@ -20476,7 +20472,7 @@ Mundane crafting uses a single action, not the milestone system of Enlightened c
 
 Choose the most appropriate Attribute from Cunning, Intellect, or Dexterity and pair it with a relevant Ability (Crafts, Medicine, Science, Technology, or another that fits the context). The base Difficulty is 1. Each hit on the roll can be used to:
 
-- Apply one tag to the item (from the standard tag list in Appendix J and Appendix R)
+- Apply one tag to the item (from the standard tag list in Appendix J and Appendix Q)
 - Increase the item's Enhancement by +1 (maximum +1 for standard mundane items; Master Work items may reach Enhancement +2 — see below)
 - Improve quality in a narrative sense — the item is more beautiful, more durable, faster to use — without mechanical implication
 ```
@@ -20718,7 +20714,7 @@ Creating a Wonder does not generate significant Paradox during the crafting proc
 
 However, the completed Wonder is a permanent node of magical potential in the world. When the Wonder is used in a Witnessed context, the Paradox implications of the Effect apply normally. A Talisman that produces a Forces ●●● lightning bolt is Vulgar every time it fires in front of Sleepers. The mage who wields it generates Paradox with each Witnessed use even if they have only Arete ● — the Effect happens regardless of the wielder's personal casting power, and the Consensus responds accordingly.
 
-Certain Wonders carry permanent embedded Paradox: items that violate the Consensus simply by existing (like the Totem Tattoo, which is a permanently Vulgar magical alteration of a living body) accumulate a flat Paradox rating that applies at all times. These items are described individually in Appendix R.
+Certain Wonders carry permanent embedded Paradox: items that violate the Consensus simply by existing (like the Totem Tattoo, which is a permanently Vulgar magical alteration of a living body) accumulate a flat Paradox rating that applies at all times. These items are described individually in Appendix Q.
 
 ### Paradox Triggers for Crafted Items — Quick Reference
 
@@ -21156,7 +21152,7 @@ The table below summarises every crafting track in this appendix. Storyguides ma
 
 ---
 
-# Appendix T: Vehicles
+# Appendix S: Vehicles
 
 Vehicles in Mage: The Ascension are rarely just transportation. A motorcycle is freedom and mobility in the Ascension War. A nondescript panel van is a surveillance platform, a mobile Chantry, or a getaway vehicle. A stolen ambulance is cover and emergency medical capacity simultaneously. A Technocratic Construct's field team always has a vehicle, and that vehicle is almost certainly not mundane.
 
@@ -21204,7 +21200,7 @@ Magical mitigation: a mage with active Forces ●● can cushion a crash as a re
 
 ## Mundane Vehicles
 
-These are the vehicles of everyday life in the modern world. Any character can access them through purchase, rental, theft, or borrowing. None carry supernatural properties, though any of them can be enchanted using the crafting rules in Appendix S.
+These are the vehicles of everyday life in the modern world. Any character can access them through purchase, rental, theft, or borrowing. None carry supernatural properties, though any of them can be enchanted using the crafting rules in Appendix R.
 
 ### Ground Vehicles
 
@@ -21374,7 +21370,7 @@ Compel: "Submersible but very slow. Their surface craft are already at the desti
 
 ## Mage-Modified Vehicles
 
-Any mundane vehicle can become something more through Enlightened crafting. A mage with appropriate Spheres can enchant a vehicle exactly as they would enchant armor or a weapon — through the milestone system described in Appendix S. Vehicle enchantments tend to be Cutting-Edge or Groundbreaking rank because the scope of changes mages typically want to make (invisible, indestructible, self-repairing, dimensionally accessible) push against Mundane rank limits quickly.
+Any mundane vehicle can become something more through Enlightened crafting. A mage with appropriate Spheres can enchant a vehicle exactly as they would enchant armor or a weapon — through the milestone system described in Appendix R. Vehicle enchantments tend to be Cutting-Edge or Groundbreaking rank because the scope of changes mages typically want to make (invisible, indestructible, self-repairing, dimensionally accessible) push against Mundane rank limits quickly.
 
 Vehicle enchantments also generate more Paradox in practice than armor or weapon enchantments. A Bulletproof Hoodie that is Matter-enchanted does not draw attention when it stops a bullet — the mage still got shot, still shows the reaction, still moves normally. But a car that becomes invisible, a motorcycle that parks itself in impossible spaces, or a van that sprouts additional rooms inside — these are obvious violations of the Consensus the moment a Sleeper witnesses them. Vehicle enchantments should be designed with coincidental appearance in mind.
 
@@ -21768,7 +21764,7 @@ VEHICLE INJURY:
   Enchanted self-repairing vehicles: restore injury as specified by enchantment.
 ```
 
-# Appendix U: The Nephandi — Descent, the Caul, and the Fallen
+# Appendix T: The Nephandi — Descent, the Caul, and the Fallen
 
 *Source material: M20 Book of the Fallen*
 
@@ -22085,7 +22081,7 @@ The Nephandi in this appendix are frameworks, not scripts. Every chronicle's Nep
 
 See also: Appendix D (Entities and Antagonists) for named Nephandic antagonist stat blocks including The Caller, Garrick Browne, Kate and Lucas Reid, Ichthion Lord of Spasms, and the Goetic Demons. See Appendix K (Sanity) for the Void damage rules referenced in the Paradox section. See Chapter Five (Paradox) for the core Paradox dice system.
 
-# Appendix V: Edges, Powers, and Wonders
+# Appendix U: Edges, Powers, and Wonders
 
 This appendix catalogs the persistent advantages a character can hold — **Edges** and **Powers** — together with the **Wonders** she can wield. Drawbacks are not listed here: in this system a disadvantage is a compel-only Tag, and those live with the rest of the Tags in Appendix J.
 
@@ -23024,7 +23020,7 @@ Your belief in a divine principle is so absolute that it generates genuine super
 
 Wonders are objects imbued with persistent magical power by Awakened minds. Unlike mundane items, Wonders carry Sphere-based enchantments that produce real supernatural effects independent of the wielder's own magical skill. A non-Awakened person can use a Wonder — many Wonders are designed precisely to extend magical capability to Sleeper allies or to operate autonomously. The wielder need not possess the Sphere the Wonder contains; they simply need to know how to activate it.
 
-Wonders come in several types, each reflecting a different approach to magical item creation. The type determines not just the flavor of the item but also its mechanical properties: how it activates, what Spheres are embedded in it, whether it contains a spirit, and how it interacts with Paradox. Full crafting rules for Wonders — including the milestone system, item rank limits, how Flaws are introduced, and how to enchant existing mundane items — are in Appendix S: Crafting. This appendix presents finished items ready for use in chronicles; Appendix S explains how to build them from scratch.
+Wonders come in several types, each reflecting a different approach to magical item creation. The type determines not just the flavor of the item but also its mechanical properties: how it activates, what Spheres are embedded in it, whether it contains a spirit, and how it interacts with Paradox. Full crafting rules for Wonders — including the milestone system, item rank limits, how Flaws are introduced, and how to enchant existing mundane items — are in Appendix R: Crafting. This appendix presents finished items ready for use in chronicles; Appendix R explains how to build them from scratch.
 
 All Wonders carry at least one magical tag — Enchanted is the baseline, present on every Wonder. Additional tags reflect specific properties. Tags cross-reference Appendix J.
 
@@ -23053,7 +23049,7 @@ Quintessence Stored: ● = 5  |  ●● = 10  |  ●●● = 15
 Tags: [Enchanted], [Concealable]
 Background Cost: 1 / 2 / 3 pts.
 
-A small personal Quintessence reservoir — a polished stone, a locket, a carved bone pendant. Concealable by design. The mage draws from it as a free action at any point, transferring stored Quintessence to their personal pool. Periapts do not recharge automatically; they must be recharged at a Node or Vertex (see Appendix S) or by spending a scene in deep ritual.
+A small personal Quintessence reservoir — a polished stone, a locket, a carved bone pendant. Concealable by design. The mage draws from it as a free action at any point, transferring stored Quintessence to their personal pool. Periapts do not recharge automatically; they must be recharged at a Node or Vertex (see Appendix R) or by spending a scene in deep ritual.
 
 Invoke: "Periapt — I draw 3 Quintessence before the ritual begins. Full pool."
 Compel: "The Periapt is depleted. You have what you carry in your own Avatar, nothing more."
@@ -23423,7 +23419,7 @@ Compel: "She does not remember what happened in the last three weeks. Including 
 ## Selected Wonders
 
 
-This section presents a curated selection of finished Wonders spanning the full range of Awakened practice — from traditional Talismans and Fetishes to Technocratic Devices and Gadgets, to items associated with darker paths. Each Wonder is presented in full, ready for immediate use. Crafting rules for building new Wonders from scratch are in Appendix S: Crafting.
+This section presents a curated selection of finished Wonders spanning the full range of Awakened practice — from traditional Talismans and Fetishes to Technocratic Devices and Gadgets, to items associated with darker paths. Each Wonder is presented in full, ready for immediate use. Crafting rules for building new Wonders from scratch are in Appendix R: Crafting.
 
 ### Creating Wonders
 
@@ -23607,7 +23603,7 @@ Background Cost scales with capacity: 5 pts. (10 QE), 10 pts. (25 QE), 20 pts. (
 ---
 
 
-The following entries represent a curated selection of finished Wonders from across the traditions, conventions, and darker corners of the Awakened world. Each entry is ready for use as written. For crafting rules that let players and Storyguides create new Wonders, see Appendix S: Crafting.
+The following entries represent a curated selection of finished Wonders from across the traditions, conventions, and darker corners of the Awakened world. Each entry is ready for use as written. For crafting rules that let players and Storyguides create new Wonders, see Appendix R: Crafting.
 
 ---
 
@@ -24510,7 +24506,7 @@ A New World Order product, available through Syndicate social channels to operat
 
 ### The Rich Bastard's Treasures
 
-The Wonders below are drawn from the traditions of wealthy willworkers. They share an economic quirk absent from most Wonders: each carries a **Resources prerequisite** representing the cost of acquiring it, and the largest carry an ongoing **Upkeep** in Resources. If a mage's Resources fall below an item's Upkeep, they keep the Wonder but face additional Storyguide-imposed tasks to maintain it — a yacht still needs a crew. This is a wealth-gated acquisition model that sits alongside the standard point-buy in Appendix S.
+The Wonders below are drawn from the traditions of wealthy willworkers. They share an economic quirk absent from most Wonders: each carries a **Resources prerequisite** representing the cost of acquiring it, and the largest carry an ongoing **Upkeep** in Resources. If a mage's Resources fall below an item's Upkeep, they keep the Wonder but face additional Storyguide-imposed tasks to maintain it — a yacht still needs a crew. This is a wealth-gated acquisition model that sits alongside the standard point-buy in Appendix R.
 
 #### Doissetep's Treasures
 
@@ -24863,7 +24859,7 @@ The wealthy do not do their own dirty work. Each of the following can be engaged
 
 ### Wonders from the Enlightened Grimoire
 
-A selection of crafted wonders drawn from the *Enlightened Grimoire*. Unlike the wealth-gated treasures above, these are built through the ordinary Wonder-crafting process (Appendix S); the Sphere requirements note what must be woven into each during creation.
+A selection of crafted wonders drawn from the *Enlightened Grimoire*. Unlike the wealth-gated treasures above, these are built through the ordinary Wonder-crafting process (Appendix R); the Sphere requirements note what must be woven into each during creation.
 
 ```
 Primium Weapon or Plate
@@ -24873,7 +24869,7 @@ Sphere Requirements: Matter 5 / Prime 3 (to smelt; 15 successes + 1 Quintessence
 Effect: the near-perfect alchemical gold-silver alloy of the Technocracy
 ```
 
-A weapon or armor of Primium deals Aggravated damage and radiates permanent countermagick — two dice per crafting hit (maximum ten dice) rolled against any magical effect within roughly two yards. The Templars' Orichalcum (Appendix X) follows identical rules.
+A weapon or armor of Primium deals Aggravated damage and radiates permanent countermagick — two dice per crafting hit (maximum ten dice) rolled against any magical effect within roughly two yards. The Templars' Orichalcum (Appendix W) follows identical rules.
 
 ---
 
@@ -24985,7 +24981,7 @@ The Storyguide determines when a Wonder is complete based on total hits accumula
 
 ---
 
-# Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights
+# Appendix V: Streamlining Combat — Speed Tiers and Group Rules for Large Fights
 
 ## Why This Appendix Exists
 
@@ -25190,7 +25186,7 @@ MOVEMENT AND POSITIONING: See Appendix H's "Movement in Combat" section for
 
 ---
 
-# Appendix X: Disparate Crafts — Fractured Traditions
+# Appendix W: Disparate Crafts — Fractured Traditions
 
 The Nine Traditions are not the only mages who never bowed to the Technocracy, and the Technocracy is not the only faction that organizes the Awakened into disciplined bodies. Between and beneath the great powers of the Ascension War live the **Disparate Crafts** — metaphysical societies that survived on their own terms, nurtured their own people, and, until very recently, wanted nothing to do with a war for the future of Reality. Some are older than the Order of Hermes. Some are younger than the internet. Together, in the twenty-first century, a fragile and quarrelsome number of them have formed the **Disparate Alliance**: not a faction that seeks to remake the world, but a mutual-aid pact of the overlooked, agreeing to protect their own and, where it costs them nothing, each other.
 
@@ -25346,7 +25342,7 @@ Access to the Order's offshore and digital wealth. **Every dot grants two dots o
 
 ### Wonders & Items
 
-**Orichalcum arms and armor** (see the Background above) are the Order's signature Wonder — a magical alloy the Templars have tinkered with since the fourteenth century, born of faith and a debt of Ahl-i-Batin alchemy. Templar lore also whispers of the **Grail** and the treasures of Montsalvat; the Storyguide may seed one as a Legendary Item (Appendix R) at the heart of a chronicle.
+**Orichalcum arms and armor** (see the Background above) are the Order's signature Wonder — a magical alloy the Templars have tinkered with since the fourteenth century, born of faith and a debt of Ahl-i-Batin alchemy. Templar lore also whispers of the **Grail** and the treasures of Montsalvat; the Storyguide may seed one as a Legendary Item (Appendix Q) at the heart of a chronicle.
 
 ## Taftâni
 
@@ -25881,7 +25877,7 @@ The **Solificati** — the Crown'd Ones, the Children of Knowledge — are alche
 
 All Solificati use the **Alchemy** practice, frequently augmented by the Art of Desire, Craftwork, Dominion, Elementalism, Invigoration, Medicine-work, and Weird Science — and, among the tech-entranced, Hypertech, Witchcraft, and Yoga. Common Instruments: artwork and symbolic texts, books, brews and concoctions, cups and vessels, drugs and poisons, the classical elements, energy, food and drink, formulae and mathematics, gems and stones, herbs and plants, labs and gear, and sacred languages (Latin, Arabic, Hebrew, Mandarin, Greek, Ancient Egyptian). Taoist and Tantric alchemists add eye contact, prayer, sacred iconography, and sex; rave-scene alchemists add computers, dance, devices, fashion, group rites, music, ordeals, nanotech, and brain–computer interfaces.
 
-> RULES FOR TOOLS. A refined tool becomes a **standard** or **personalized** Instrument (see Appendix B). An Instrument holds no innate power — it only focuses the alchemist's own will. A substance invested with magic of its very own is not an Instrument but a **Wonder** (see Appendix S). This distinction is the whole difference between a Solificati's lab-kit and a Solificati's masterwork.
+> RULES FOR TOOLS. A refined tool becomes a **standard** or **personalized** Instrument (see Appendix B). An Instrument holds no innate power — it only focuses the alchemist's own will. A substance invested with magic of its very own is not an Instrument but a **Wonder** (see Appendix R). This distinction is the whole difference between a Solificati's lab-kit and a Solificati's masterwork.
 
 ### Affinity Spheres
 
@@ -25931,7 +25927,7 @@ The alchemist chooses the Attribute (Strength, Dexterity, Stamina, or a Social o
 
 ### Wonders & Items
 
-The Solificati Wonder is the invested substance — the elixir, powder, or potion that carries its own magic and works in anyone's hand, as distinct from the Instrument that only works in the alchemist's. A named personalized Instrument from the source is the **Changing Stone**, kept for Transmutations. Build elixir-Wonders through the crafting rules of Appendix S, tagging each with its effect and its Duration.
+The Solificati Wonder is the invested substance — the elixir, powder, or potion that carries its own magic and works in anyone's hand, as distinct from the Instrument that only works in the alchemist's. A named personalized Instrument from the source is the **Changing Stone**, kept for Transmutations. Build elixir-Wonders through the crafting rules of Appendix R, tagging each with its effect and its Duration.
 
 ---
 
@@ -26053,7 +26049,7 @@ Deliverable: 2–3 affinity Spheres, or a per-sub-group Sphere table.
 
 Choose a **Practice** from Appendix B (Craftwork, Dominion, Faith, High Ritual, Shamanism, Witchcraft, and so on) — or name a new one if the culture demands it, as the Hollow Ones do with Chaos Magick. Then list **culturally grounded Instruments**: the specific, evocative objects and acts through which members focus will. Every Craft above ties its Instruments tightly to its culture; do the same. Finally — and this is the step new designers skip — consider a **taboo**: an Instrument or action that is *forbidden*, the way the Kahu must never work through lava rock, human bone, or sand. A taboo is free flavor that pays for itself as a compellable Tag.
 
-Remember the Solificati "Rules for Tools" distinction: an **Instrument** holds no power of its own (it focuses the mage); a thing invested with its own magic is a **Wonder** (Appendix S). Keep the two straight when you write the Craft's gear.
+Remember the Solificati "Rules for Tools" distinction: an **Instrument** holds no power of its own (it focuses the mage); a thing invested with its own magic is a **Wonder** (Appendix R). Keep the two straight when you write the Craft's gear.
 
 > **Worked example.** Practice: **Craftwork** (the drafting of a map *is* the working) with a **High Ritual** streak for large surveys. Instruments: surveyor's theodolite and total station, drafting pens and ink, GPS units and drones, old portolan charts, the act of walking a boundary ("beating the bounds"), true place-names. **Taboo:** a Cartographer may never knowingly draw a *deliberate falsehood* onto a working map — to lie on the map is to lie to the territory, and the territory answers such lies with Paradox. That taboo becomes the Craft's signature Flaw and its best compel.
 
@@ -26075,7 +26071,7 @@ This is the heart of the SPU conversion and the step where old-edition instincts
 
 - A Merit that grants a **flat dice bonus** ("Enhancement +1 to X") → an invoke of the Craft Tag (or a narrow specialty Tag) worth **Enhancement +1 or +2** on X.
 - A Merit that **lowers difficulty** ("−1 difficulty to Y") → a **−1 Difficulty** invoke, or fold it into the faction rule.
-- A Flaw that imposes a **penalty or obligation** → a **compel** on the Craft Tag, or a standalone **[Flaw Tag]** that can *only* be compelled (never invoked), exactly as item Flaws work in Appendix S.
+- A Flaw that imposes a **penalty or obligation** → a **compel** on the Craft Tag, or a standalone **[Flaw Tag]** that can *only* be compelled (never invoked), exactly as item Flaws work in Appendix R.
 - A **Background** that grants access, materiel, or allies (Vatican Connections, Web of Faith, Sèvitè) → keep it a Background, but give any wielded object a Wonder **Tag** so it behaves consistently in play.
 - A **paradox-facing** trait (Taftâni *Paradox Mitigation*, Orphan *Technomancer*) → express it against the Paradox Pool of Chapter Five: a free vulgar working, a softened Backlash step, or halved Paradox on a botch. This is where a Craft can be genuinely distinctive — see the Taftâni entry and its Weaver's Die optional rule.
 
@@ -26095,7 +26091,7 @@ Deliverable: 3–6 rotes in Appendix N format.
 
 ### Step 7 — Wonders, Backgrounds, and Table Integration
 
-Finally, give the Craft any **unique Wonders** (invested items — build them in Appendix S, tag them in Appendix J), any **unique Backgrounds** (access, materiel, or spirit-allies the way the Templars, Batini, and Bata'a have them), and a short note on **how the Craft sits at the table**: its protectorate, its place in (or out of) the Alliance, its rivals and cousins among the existing factions, and the one story tension it exists to dramatize.
+Finally, give the Craft any **unique Wonders** (invested items — build them in Appendix R, tag them in Appendix J), any **unique Backgrounds** (access, materiel, or spirit-allies the way the Templars, Batini, and Bata'a have them), and a short note on **how the Craft sits at the table**: its protectorate, its place in (or out of) the Alliance, its rivals and cousins among the existing factions, and the one story tension it exists to dramatize.
 
 > **Worked example.** Wonder: the **True Chart**, a personalized map-Instrument elevated to a Wonder, carrying **[Living Map]** (it updates itself as the mapped territory changes) and **[Ward Anchor]** (it stores one *Beat the Bounds* working for later release). Background: **Survey Rights** (1–5) — legal, guild, or clandestine access to survey a given territory, from a single building to a national mapping agency. Table note: the Compact's protectorate is *the dispossessed of the map* — the redlined, the erased, the borderland. Their cousins are the Ahl-i-Batin (both work Correspondence and secrecy) and their rivals are any faction that maps to control rather than to liberate — which, sooner or later, means the Technocracy. Central tension: **a true map is a weapon, and weapons get taken.**
 
@@ -26212,7 +26208,7 @@ Bleeding Out (dying rules; the Death Clock)`<w:r><w:tab/></w:r>`{=openxml}146
 
 Building a Dice Pool`<w:r><w:tab/></w:r>`{=openxml}7
 
-Building Your Own Craft, Tradition, or Convention (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}755
+Building Your Own Craft, Tradition, or Convention (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}755
 
 :::
 
@@ -26270,9 +26266,9 @@ Correspondence (Sphere)`<w:r><w:tab/></w:r>`{=openxml}56
 
 Counter-Magic`<w:r><w:tab/></w:r>`{=openxml}31
 
-Craft creation toolkit (Appendix X)
+Craft creation toolkit (Appendix W)
 
-Craft Tags — factional signature Tags (Appendix J; Appendix X)`<w:r><w:tab/></w:r>`{=openxml}365
+Craft Tags — factional signature Tags (Appendix J; Appendix W)`<w:r><w:tab/></w:r>`{=openxml}365
 
 :::
 
@@ -26296,7 +26292,7 @@ Disparate Crafts`<w:r><w:tab/></w:r>`{=openxml}169
 
 ::: {custom-style="IndexSubEntry"}
 
-Disparate Alliance & the eleven Crafts — Fractured Traditions (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}169
+Disparate Alliance & the eleven Crafts — Fractured Traditions (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}169
 
 :::
 
@@ -26374,7 +26370,7 @@ Gauntlet`<w:r><w:tab/></w:r>`{=openxml}89
 
 Gauntlet (Cosmos)`<w:r><w:tab/></w:r>`{=openxml}89
 
-Group Rules — the Volley, mob attack resolution (Appendix W)
+Group Rules — the Volley, mob attack resolution (Appendix V)
 
 :::
 
@@ -26468,7 +26464,7 @@ Matter (Sphere)`<w:r><w:tab/></w:r>`{=openxml}75
 
 Mind (Sphere)`<w:r><w:tab/></w:r>`{=openxml}79
 
-Mobs and Speed Tiers (Appendix W)
+Mobs and Speed Tiers (Appendix V)
 
 Momentum`<w:r><w:tab/></w:r>`{=openxml}10
 
@@ -26636,9 +26632,9 @@ Spell SF = highest sphere (Rote)`<w:r><w:tab/></w:r>`{=openxml}334
 
 ::: {custom-style="IndexEntry"}
 
-Speed Tiers, colored-dice initiative for NPCs (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}103
+Speed Tiers, colored-dice initiative for NPCs (Appendix V)`<w:r><w:tab/></w:r>`{=openxml}103
 
-Streamlining Combat (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}724
+Streamlining Combat (Appendix V)`<w:r><w:tab/></w:r>`{=openxml}724
 
 Seekings`<w:r><w:tab/></w:r>`{=openxml}22
 
@@ -26786,7 +26782,7 @@ Unraveling (Quiet Track dying state; the Unraveling Clock → Marauder Threshold
 
 ::: {custom-style="IndexEntry"}
 
-Volley (Group Rules, mob attack resolution) (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}250
+Volley (Group Rules, mob attack resolution) (Appendix V)`<w:r><w:tab/></w:r>`{=openxml}250
 
 Vulgar Magic`<w:r><w:tab/></w:r>`{=openxml}31
 
@@ -26802,9 +26798,9 @@ Weapons`<w:r><w:tab/></w:r>`{=openxml}119
 
 Wonders in Combat`<w:r><w:tab/></w:r>`{=openxml}141
 
-Wonders — Rich Bastard's Treasures & Enlightened Grimoire wonders (Appendix V)`<w:r><w:tab/></w:r>`{=openxml}141
+Wonders — Rich Bastard's Treasures & Enlightened Grimoire wonders (Appendix U)`<w:r><w:tab/></w:r>`{=openxml}141
 
-Appendix W: Streamlining Combat — Speed Tiers and Group Rules for Large Fights`<w:r><w:tab/></w:r>`{=openxml}724
+Appendix V: Streamlining Combat — Speed Tiers and Group Rules for Large Fights`<w:r><w:tab/></w:r>`{=openxml}724
 
 Worked Examples`<w:r><w:tab/></w:r>`{=openxml}37
 
@@ -26824,18 +26820,18 @@ Paradox Sequence`<w:r><w:tab/></w:r>`{=openxml}50
 
 ::: {custom-style="IndexEntry"}
 
-Disparate Crafts — Fractured Traditions (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}169
+Disparate Crafts — Fractured Traditions (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}169
 
 :::
 
 ::: {custom-style="IndexSubEntry"}
 
-Ngoma, Knights of the Temple of Solomon, Taftâni, Hollow Ones (Forerunners) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}733
+Ngoma, Knights of the Temple of Solomon, Taftâni, Hollow Ones (Forerunners) (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}733
 
-Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung (Middlers) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}741
+Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung (Middlers) (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}741
 
-Bata'a, Solificati, Orphans (Outsiders) (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}753
+Bata'a, Solificati, Orphans (Outsiders) (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}753
 
-Building Your Own Craft, Tradition, or Convention (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}755
+Building Your Own Craft, Tradition, or Convention (Appendix W)`<w:r><w:tab/></w:r>`{=openxml}755
 
 :::
