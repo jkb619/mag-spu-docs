@@ -25,57 +25,59 @@ Chapter Six: The Nine Spheres`<w:r><w:tab/></w:r>`{=openxml}56
 
 Chapter Seven: Combat — Violence in the World of Mage`<w:r><w:tab/></w:r>`{=openxml}99
 
-Chapter Eight: Factions — The Ascension War`<w:r><w:tab/></w:r>`{=openxml}166
+Chapter Eight: Factions — The Ascension War`<w:r><w:tab/></w:r>`{=openxml}168
 
-Chapter Nine: Storyguide`<w:r><w:tab/></w:r>`{=openxml}178
+Chapter Nine: Storyguide`<w:r><w:tab/></w:r>`{=openxml}180
 
-Appendix A: Avatars`<w:r><w:tab/></w:r>`{=openxml}181
+Appendix A: Avatars`<w:r><w:tab/></w:r>`{=openxml}183
 
-Appendix B: Paradigm, Practice & Instruments`<w:r><w:tab/></w:r>`{=openxml}183
+Appendix B: Paradigm, Practice & Instruments`<w:r><w:tab/></w:r>`{=openxml}186
 
-Appendix C: Avatar Essences — The Shape of the Soul`<w:r><w:tab/></w:r>`{=openxml}189
+Appendix C: Avatar Essences — The Shape of the Soul`<w:r><w:tab/></w:r>`{=openxml}191
 
-Appendix D: Entities and Antagonists`<w:r><w:tab/></w:r>`{=openxml}208
+Appendix D: Entities and Antagonists`<w:r><w:tab/></w:r>`{=openxml}210
 
-Appendix E: Chantries — Sanctums of the Awakened`<w:r><w:tab/></w:r>`{=openxml}269
+Appendix E: Chantries — Sanctums of the Awakened`<w:r><w:tab/></w:r>`{=openxml}271
 
-Appendix F: The Nine Traditions — Deep Lore`<w:r><w:tab/></w:r>`{=openxml}288
+Appendix F: The Nine Traditions — Deep Lore`<w:r><w:tab/></w:r>`{=openxml}291
 
-Appendix G: The Technocratic Union — Deep Operations`<w:r><w:tab/></w:r>`{=openxml}302
+Appendix G: The Technocratic Union — Deep Operations`<w:r><w:tab/></w:r>`{=openxml}304
 
-Appendix H: The Phase Initiative System`<w:r><w:tab/></w:r>`{=openxml}333
+Appendix H: The Phase Initiative System`<w:r><w:tab/></w:r>`{=openxml}335
 
-Appendix I: The Armor System`<w:r><w:tab/></w:r>`{=openxml}359
+Appendix I: The Armor System`<w:r><w:tab/></w:r>`{=openxml}362
 
-Appendix J: Tags Reference`<w:r><w:tab/></w:r>`{=openxml}368
+Appendix J: Tags Reference`<w:r><w:tab/></w:r>`{=openxml}370
 
-Appendix K: Sanity — The Fraying Edge of the Awakened Mind`<w:r><w:tab/></w:r>`{=openxml}400
+Appendix K: Sanity — The Fraying Edge of the Awakened Mind`<w:r><w:tab/></w:r>`{=openxml}402
 
-Appendix L: Bringing It All Together — A Complete Example of Play`<w:r><w:tab/></w:r>`{=openxml}416
+Appendix L: Bringing It All Together — A Complete Example of Play`<w:r><w:tab/></w:r>`{=openxml}419
 
-Appendix M: The Cosmos — The Tellurian and Its Otherworlds`<w:r><w:tab/></w:r>`{=openxml}431
+Appendix M: The Cosmos — The Tellurian and Its Otherworlds`<w:r><w:tab/></w:r>`{=openxml}433
 
-Appendix N: Master Rotes — Recorded Workings of the Awakened`<w:r><w:tab/></w:r>`{=openxml}444
+Appendix N: Master Rotes — Recorded Workings of the Awakened`<w:r><w:tab/></w:r>`{=openxml}446
 
-Appendix O: Quick Reference — One-Page Cheat Sheets`<w:r><w:tab/></w:r>`{=openxml}597
+Appendix O: Quick Reference — One-Page Cheat Sheets`<w:r><w:tab/></w:r>`{=openxml}599
 
-Appendix P: Character Sheet`<w:r><w:tab/></w:r>`{=openxml}603
+Appendix P: Character Sheet`<w:r><w:tab/></w:r>`{=openxml}605
 
-Appendix Q: Items and Gear`<w:r><w:tab/></w:r>`{=openxml}606
+Appendix Q: Items and Gear`<w:r><w:tab/></w:r>`{=openxml}608
 
-Appendix R: Crafting`<w:r><w:tab/></w:r>`{=openxml}621
+Appendix R: Crafting`<w:r><w:tab/></w:r>`{=openxml}623
 
-Appendix S: Vehicles`<w:r><w:tab/></w:r>`{=openxml}643
+Appendix S: Vehicles`<w:r><w:tab/></w:r>`{=openxml}645
 
-Appendix T: The Nephandi — Descent, the Caul, and the Fallen`<w:r><w:tab/></w:r>`{=openxml}659
+Appendix T: The Nephandi — Descent, the Caul, and the Fallen`<w:r><w:tab/></w:r>`{=openxml}661
 
-Appendix U: Edges, Powers, and Wonders`<w:r><w:tab/></w:r>`{=openxml}670
+Appendix U: Edges, Powers, and Wonders`<w:r><w:tab/></w:r>`{=openxml}672
 
-Appendix V: Streamlining Combat — Speed Tiers and Group Rules for Large Fights`<w:r><w:tab/></w:r>`{=openxml}737
+Appendix V: Streamlining Combat — Speed Tiers and Group Rules for Large Fights`<w:r><w:tab/></w:r>`{=openxml}739
 
-Appendix W: Disparate Crafts — Fractured Traditions`<w:r><w:tab/></w:r>`{=openxml}743
+Appendix W: Disparate Crafts — Fractured Traditions`<w:r><w:tab/></w:r>`{=openxml}745
 
-Index`<w:r><w:tab/></w:r>`{=openxml}771
+Appendix X: Scale — Titanic Entities and Cosmic Threats`<w:r><w:tab/></w:r>`{=openxml}773
+
+Index`<w:r><w:tab/></w:r>`{=openxml}782
 
 :::
 
@@ -156,6 +158,8 @@ Appendix U: Edges, Powers, and Wonders — The full catalogue of Edges and Power
 Appendix V: Streamlining Combat — Speed Tiers and Group Rules for Large Fights — Optional tools for running fights with large numbers of non-named NPCs without a large bookkeeping count: the Speed Tier initiative system (a small set of colored dice replaces individual Initiative Pools for mooks, scaled to the fastest thing in the fight rather than headcount) and formal Group Rules for resolving mob attacks as a single Volley. For positioning and movement, see Appendix H.
 
 Appendix W: Disparate Crafts — Fractured Traditions — The Crafts of the Disparate Alliance converted to Storypath Ultra: the Ngoma, Templars, Taftâni, Hollow Ones, Ahl-i-Batin, Kahu, Sisters of Hippolyta, Wu Lung, Bata'a, Solificati, and the trad-less Orphans — each with affinity Spheres, a signature Craft Tag, Concepts, Edges, Powers, Tags, and rotes — plus a step-by-step toolkit for building your own Craft, Tradition, or Convention.
+
+Appendix X: Scale — Titanic Entities and Cosmic Threats — The full subsystem for running things too large to fight normally: the Scale ladder and the bridgeable Scale Gap introduced in Chapter Seven, expanded with Vulnerable Tags, the Dormancy/Banishment Clock that replaces the Health track for Titanic and Cosmic beings, and the ways a cabal can raise its own Scale, wield a bane, or ritually bridge the gap. Includes Cthulhu statted as a Cosmic-Scale (Scale 5) worked example with a full combat walkthrough, plus example Scale ratings and Vulnerable Tags for other Great Old Ones, Incarna avatars, Horizon Realm guardians, and massive Paradox spirits.
 
 Index — A full alphabetical index of game terms, subsystems, rules concepts, and setting elements, with live hyperlinks to each relevant section.
 
@@ -4076,6 +4080,53 @@ A character dies the instant either of two things happens: their Death Clock rea
 There are, then, exactly three roads to death in this system, and it is worth stating them plainly so no table argues the point mid-crisis. A character dies if (1) their Bleeding Out Death Clock reaches 0, (2) their track is closed by a fresh box of Aggravated, or (3) an opponent deliberately finishes them while they are Incapacitated and helpless. A track full of Lethal, by itself, is not death — it is Bleeding Out, and Bleeding Out is survivable if help arrives in time. This is the deliberate design line of the whole system: Lethal buys a countdown and a chance; Aggravated does not.
 
 Player character death should be a dramatic moment, not an arithmetic surprise. The Storyguide should always signal clearly when death is a realistic possibility: describe the severity of wounds, call out the Death Clock aloud each Round it ticks, remind players of their current track state, and let the fiction carry the weight of what is happening. The clock exists precisely so that death never arrives silently — by the time it reaches 0, every player at the table has watched it count down and has had the chance to act. Death in Mage is meaningful. It ends a character's story at the table, but it does not end their story in the world — former players can choose to have their character's death have lasting narrative consequences, and mages who die with significant Paradox pools have a tendency to make their exits spectacular.
+
+---
+
+## Scale — Confronting the Titanic
+
+Not everything in the World of Darkness is built to human measure. A mage can trade knife-strikes with another mage, wrestle a Bane spirit into a bottle, or shoot a Technocratic agent off a rooftop, and the rules so far handle all of it, because every one of those combatants exists at roughly the same magnitude. But the setting also contains things that do not: the avatar of an Incarna striding out of the Deep Umbra, a Paradox storm given a thousand-eyed body, a dragon the length of a city block, a Horizon Realm's guardian, and — at the far, reality-breaking end — a Great Old One like Cthulhu, a living contradiction whose body is measured in the hundreds of meters and whose mere presence rewrites what is possible around it. You cannot punch these things to death. The Health track was never meant to model them, and a Storyguide who tries to run one as "a person with eighty boxes" produces either an instant party-kill or an afternoon of joyless arithmetic.
+
+**Scale** is the trait that fixes this. Scale rates the sheer magnitude of a thing — not merely its physical size, but its ontological weight: how much reality it displaces, how much force it can shrug off simply by being what it is. Every character, creature, object, and hazard has a Scale rating. The overwhelming majority of the game happens at **Scale 1**, and unless a statblock says otherwise, everything is Scale 1. You only ever consult Scale when two things of *different* Scale interact.
+
+**The Scale Ladder**
+
+| Scale | Tier | What Belongs Here |
+| --- | --- | --- |
+| 1 | Personal | The default. A human, a mage, a wolf, a hitman, a motorcycle, a Bane spirit made flesh. All standard statblocks in this book. |
+| 2 | Large | Shrugs off personal-scale force as an afterthought. A rhinoceros, a car crash, a small mob acting as one body, a lesser war-spirit, a Bygone beast. |
+| 3 | Huge | Building-sized or crowd-sized. A dragon, a rampaging Nephandic engine, a manifest Paradox storm, a tank, a landslide. |
+| 4 | Titanic | The mind struggles to file it as a single object. An Incarna's avatar, a kaiju, a Horizon Realm guardian, a hurricane wearing a face. |
+| 5 | Cosmic | A walking violation of local reality. A Great Old One. Not large — *impossible*. Its body is an argument against the world. |
+
+Scale is open-ended above 5 for chronicle-ending entities, but Scale 5 is already "the campaign is about surviving this."
+
+**The Scale Gap.** When a thing of one Scale acts on a thing of another, subtract the lower Scale from the higher. That difference is the **Scale Gap**, and it is the only number that matters. A Gap of 0 (both parties within one Scale of each other) means you ignore Scale entirely and resolve the action with the normal rules. A Gap opens the door to the rules below.
+
+**When something smaller tries to harm or compel something larger:**
+
+| Gap | The larger entity is… | Effect on the smaller actor |
+| --- | --- | --- |
+| 1 | Formidable | The larger gains Enhancement equal to the Gap on all defense and resistance rolls; the smaller adds the Gap to its Difficulty. Damage still lands, but blunted. |
+| 2 | Overwhelming | As above (Enhancement +2, Difficulty +2). In addition, unbridged personal-scale damage can no longer close the larger entity's Health track — at most it fills boxes to zero and refills, or imposes Complications. |
+| 3+ | Untouchable | Unbridged force does nothing. A smaller actor cannot deal direct damage or directly compel the entity at all. It can only impose Complications (on the entity or the scene) and target the entity's **Vulnerable Tags** with appropriate high magic. This is trying to stab a mountain. |
+
+**When something larger strikes something smaller,** the arithmetic runs the other way and it is brutal. The larger entity adds the Gap as Enhancement to its attacks, and those attacks gain the **[Scale]** tag: they hit an area rather than a target, ignore ordinary cover, and are treated as a damage type one step more severe (Bashing becomes Lethal, Lethal becomes Aggravated). A Scale-5 entity that simply *steps* on a Scale-1 mage is not an attack roll — it is a description of a death, unless that mage has already done something clever about the Gap. This asymmetry is the point: bigness is genuinely dangerous, and the only honest answer to it is not to trade blows.
+
+**Bridging the Gap.** Scale is a wall, but it is a wall with doors. A smaller actor can temporarily erase or shrink the Gap for a specific action, and finding that door is what a fight against a Titanic thing is actually *about*. There are four ways through:
+
+- **Match Scale with magic.** Spend a vulgar working to raise your own effective Scale — Life to grow monstrous, Forces to become a living storm, Prime to burn as raw Quintessence, Correspondence to be everywhere the enemy is at once. Each step of Scale you bridge is a serious working (relevant Sphere ●●●● +, a Willpower spend, and Paradox — see below). Bridge enough steps and the Gap closes to 0 for as long as you sustain the effect.
+- **Bring the right lever.** If you hold the entity's specific vulnerability — a bane, its True Name, a resonance key, a ritual built against it — the Gap is treated as **0** for actions that use that lever, no matter how vast the entity. This is why lore, preparation, and the Quest matter more than raw Arete. The mage who knows what Cthulhu *is* can hurt him; the mage who merely hits hard cannot.
+- **Perform a ritual.** A prepared, collaborative ritual (multiple casters, extended casting) can bridge several steps at once and sustain the bridge for the whole scene. Against Cosmic-Scale entities this is the *only* reliable road, and it is almost always how such a thing is banished or forced dormant rather than "killed."
+- **Turn its own Scale against it.** Drop the building on it, collapse the bridge it stands on, lure it into a trap sized to it, let its own momentum do the work. The environment can carry a Scale the mage's body never could.
+
+**Durability by tier.** Scale 1–3 entities still use ordinary **Health tracks** — they simply enjoy the Gap modifiers above (Enhancement on defense, immunity of their track to unbridged small-scale damage at Gap 2+). But **Scale 4 and 5 entities do not use a Health track at all.** You will never fill eighty boxes. Instead they are defined by a set of **Vulnerable Tags** — the handful of metaphysical or anatomical structures that can actually be affected — and a **Dormancy Clock** (or Banishment Clock) that fills as the cabal strips those Tags and stacks Complications, ending the manifestation when it completes. The full subsystem for Titanic and Cosmic entities, including Cthulhu statted as a worked example and Scale values for other Great Old Ones, Incarna, and Horizon guardians, lives in Appendix X.
+
+**Scale and Paradox.** Bridging your own Scale upward is about the most vulgar thing a mage can do — you are visibly becoming something the Masses know cannot exist. Every step of Scale you bridge with vulgar magic adds Paradox dice to your pool for that working (see Paradox Dice and the Botch Threshold, Chapter Five). Worse, the presence of a Scale-5 reality-violator is itself a Paradox amplifier: within the reach of such an entity, *all* vulgar magic adds extra Paradox dice, and the Catastrophe results of a backlash are stepped up in severity, because reality is already screaming. Fighting a god is dangerous even when you are winning.
+
+> INLINE EXAMPLE — Bridging to hurt a war-spirit: A manifest Paradox war-spirit (Scale 3) is tearing through a Chantry. Dex, a Virtual Adept (Scale 1), opens fire with a charged coil pistol — Gap 3, Untouchable. His shots simply wash over it; the Storyguide narrates rounds sparking off a body that is barely there. So Dex changes the problem. He spends a Major Action on Forces ●●●● + Prime ●●●, becoming a roaring column of directed lightning two stories tall — a vulgar working that bridges two steps of Scale (paid with a Willpower and a fat handful of added Paradox dice). His effective Scale is now 3. Gap 0. *Now* his next attack resolves normally, and the war-spirit can actually be hurt — for exactly as long as Dex can sustain being a lightning-storm and survive the Paradox he just invited.
+
+> INLINE EXAMPLE — Being stepped on: In the same fight, a Scale-1 Technocratic agent breaks cover and sprints past the war-spirit's leg. The Storyguide does not roll an attack. The spirit's tread carries the [Scale] tag against a Gap of 2: the agent is caught in an area, cover is irrelevant, and the Bashing of a footfall is stepped up to Lethal — then amplified by the Gap. The agent is simply gone. The lesson for the players watching is immediate and correct: *do not stand where the big thing is going to be.*
 
 ---
 
@@ -26113,6 +26164,213 @@ The Orphans refuse to be a Craft, and their survival wisdom doubles as design gu
 
 ---
 
+# Appendix X: Scale — Titanic Entities and Cosmic Threats
+
+Chapter Seven introduced **Scale** as a core rule: every entity has a Scale rating, the difference between two Scales is the **Scale Gap**, a large enough Gap makes unbridged force useless, and a smaller actor gets through the Gap either by **bridging** it (raising their own Scale, wielding a bane, or performing a ritual) or by targeting the larger entity's **Vulnerable Tags**. That is enough to run a fight against a rhino, a dragon, or a war-spirit. This appendix is for the things at the top of the ladder — the **Titanic (Scale 4)** and **Cosmic (Scale 5)** entities that break the Health track entirely — and for the Storyguide who has to actually run one at the table without it becoming a party-wipe or a spreadsheet.
+
+Everything here is optional depth layered on the Chapter Seven rule. If your chronicle never features anything larger than a Bygone dragon, you never need this appendix. But the moment a Great Old One, an Incarna's avatar, or a Horizon Realm's guardian walks onstage, this is how you run it.
+
+## The Core Idea: You Do Not Reduce It to Zero, You Take It Apart
+
+A Scale 1–3 creature has a Health track and dies when the track closes (see Chapter Seven). A **Scale 4 or 5 entity has no Health track at all.** There is no number to grind down. Trying to model Cthulhu as "a person with eighty boxes" is exactly the failure this system exists to prevent: it produces either an anticlimactic pile of dice or an afternoon of bookkeeping, and either way it makes the unkillable feel like arithmetic.
+
+Instead, a Titanic entity is defined by three things:
+
+1. **Its Scale and [Scale] aura** — how the Gap punishes anyone who tries to fight it head-on, and how devastating its own blows are.
+2. **A short list of Vulnerable Tags** — the three-to-five metaphysical or anatomical structures that are the *only* things a cabal can actually affect. These are the handholds. Everything the players do meaningfully is aimed at these.
+3. **A Dormancy Clock (or Banishment Clock)** — a segmented clock that fills as the cabal strips Vulnerable Tags and stacks Complications. When it completes, the manifestation ends: the entity is banished, forced back into slumber, or destroyed *for this manifestation*, depending on your chronicle's metaphysics. This clock is the win condition, and it is what gives players the visible, earned sense of progress that a Health track normally provides — without pretending you can punch a god to death.
+
+You defeat a Titanic entity not by emptying a track but by dismantling the structures that hold it in the world. This is deeply in the spirit of Mage: the answer to a cosmic horror is preparation, lore, clever use of Spheres, and ritual — not damage output.
+
+## Reading a Titanic Statblock
+
+A Scale 4–5 statblock replaces the usual `Health / Armor / Initiative` line with the following elements.
+
+**Scale and [Scale] Aura.** The entity's Scale rating, and a reminder of what the Gap does (Chapter Seven). Its attacks carry the **[Scale]** tag: they strike an area, ignore ordinary cover, step their damage type up by one (Bashing→Lethal→Aggravated), and add the Gap as Enhancement. Against a Scale-1 cabal this is not so much an attack as a description of who dies unless they have done something about the Gap first.
+
+**Vulnerable Tags.** Each Vulnerable Tag lists three things:
+
+- **Strip condition** — the Sphere(s) and approach that can affect it, and the **Difficulty** to do so. Some Tags can only be reached by a specific Sphere; that is the whole point of a "vulnerable" Tag. Note that a cabal does **not** need to bridge the Scale Gap to target a Vulnerable Tag — targeting the Tags is precisely the option the Gap leaves open at Gap 3+. Bridging Scale is only required if the cabal wants to deal *direct force* to the entity instead.
+- **Extended?** — Big Tags are stripped over an **extended casting** (Chapter Four): the caster accumulates net hits across multiple rolls until they reach the Tag's threshold, at which point the Tag is Suppressed.
+- **Effect when Suppressed** — the concrete change in the scene. A Suppressed Vulnerable Tag always *does something visible* — the entity slows, its Call weakens, part of it becomes briefly vulnerable, the local Paradox aura drops. This is the feedback that tells players their plan is working.
+
+**Dormancy Clock.** The size of the clock (in segments) and what fills it:
+
+- Fully Suppressing a Vulnerable Tag fills a set number of segments (typically **2**).
+- Landing a **Major Complication** on the entity (a severed limb flailing as a hazard, a bound portion, a moment of confusion) fills **1** segment.
+- The **culminating ritual** — the banishment, the forced dormancy, the sealing — completes the clock automatically once enough of it is already filled (see each entity).
+
+When the Dormancy Clock fills, the Storyguide narrates the end of the manifestation. The entity is not "dead" in the sense a person is dead; it has been evicted from the scene, and what that costs it (and the world) is a chronicle question.
+
+**What counts as a Major Complication (for filling the clock).** So that clock-filling is not pure Storyguide whim, a Complication earns its segment only if it materially changes the entity's situation for longer than an instant. Any of the following qualifies:
+
+- Turning part of the entity into a **persistent environmental hazard** — a severed tentacle-mass flailing, a rain of shed crystal shards, a gout of burning ichor — that will trouble it or the scene for more than the round it was created.
+- **Forcing the entity to spend its action reasserting a Tag** instead of acting (once reassertion costs its action — see below).
+- **Breaking its line-of-effect, or shutting down one of its signature abilities** for a meaningful stretch of the fight rather than a single beat.
+- A successful **Sphere Defense that turns one of its own powers back on it** in a way that actually lands.
+- A **ritual or environmental action that directly wounds its anchor** or destabilizes its manifestation's hold on the material world.
+
+A momentary inconvenience the entity simply shrugs off next round does *not* fill a segment. The test is simple: *did this cost the entity something it will still feel next round?* If yes, mark the segment; if no, it was just color.
+
+**Reasserting Tags (regeneration, done right).** A Titanic entity is not static while the cabal works — but how freely it heals depends on whether the cabal has yet drawn blood:
+
+- **While no Vulnerable Tag has been fully Suppressed** — the entity is at full coherence — it reasserts **for free.** Once per round it may erase a cabal's *partial* strip-progress against any Tag (the accumulated net hits of an unfinished extended casting) **without spending its action**, and still attack that round. The opening of the fight should feel nearly hopeless by design: the thing knits every wound shut as fast as you open it, and keeps swinging while it does. The only way through is to push a Tag past its threshold faster than it can close it.
+- **Once any Vulnerable Tag has been fully Suppressed** — the cabal has proven the thing *can* be hurt — reasserting **costs the entity its action** for that round. From here the fight becomes a real exchange: every round it spends restoring a Tag is a round it is not attacking, and every round it attacks is a round its wounds stay open.
+
+Two things never change. First, reasserting a *partially* stripped Tag **resets that unfinished progress** (the wound closes), which is why a cabal must usually push a Tag past its threshold in a concentrated burst rather than dribbling a few hits into it across many rounds. Second, **Dormancy Clock segments never un-fill** — a fully Suppressed Tag that the entity later reasserts still leaves its 2 clock segments filled, and Complication segments are permanent too. Between scenes, a Titanic entity restores all Suppressed Tags unless the cabal took a permanent measure (a bane driven home, a True Name spoken, a completed sealing).
+
+**Optional — The Entity Notices.** The moment the cabal fully Suppresses its *first* Vulnerable Tag, the entity registers them as a genuine threat rather than ambient noise. From that point it acts with intent: it prioritizes the characters doing the real work, turns its [Central Eye] or Call on the ritualists, and — if it has minions — peels them off to guard its remaining Vulnerable Tags. Switch this optional rule on to kill the "we quietly chip away while it ignores us" problem: the fight's danger ramps up at exactly the moment the cabal earns the god's attention, which is also the moment they can feel themselves starting to win.
+
+**Global Degradation (optional).** For a more attritional feel, the Storyguide may rule that as Vulnerable Tags fall, the entity suffers escalating global penalties — e.g., −2 to all actions once half its Tags are Suppressed, and a forced retreat toward its anchor once only one remains. Use this if your table enjoys watching the monster visibly weaken; skip it if you prefer the horror of a thing that fights at full strength until the instant it is banished.
+
+## Bridging the Gap, In Depth
+
+Chapter Seven names the four doors through the Scale wall. Here is how each actually resolves at the table.
+
+**Raising your own Scale.** A vulgar working that makes you, for a time, something of a magnitude to matter. Each **step** of Scale bridged requires the relevant Sphere at ●●●● or higher, costs **1 Willpower**, and adds **Paradox dice equal to the number of steps bridged** to that working's pool (on top of any Paradox aura the entity projects). The effect must be *sustained* (Chapter Four's concentration rules): the round you stop being a storm, the Gap slams back open. Life (grow monstrous), Forces (become storm, fire, or gravity), Prime (burn as raw Quintessence), Matter (become a mountain of animate substance), and Correspondence (be everywhere the enemy is) are the classic bridging Spheres. Bridging is how you deal *direct force* to the entity — it does not, by itself, strip Vulnerable Tags. **Bridging is also strictly personal:** it reduces the effective Gap only for *your own* actions. Allies who have not bridged still face the full Gap on everything they attempt, and the entity's [Scale] attacks still land on unbridged characters at full force — one mage becoming a storm does nothing to shelter the rest of the cabal from being stepped on.
+
+**Wielding a bane / the right lever.** If the cabal holds the entity's specific vulnerability — a bane substance, its True Name, a resonance key, a purpose-built ritual — then for actions using that lever the **Gap is treated as 0**, regardless of how vast the entity is. A vial of the right ichor, a name learned at terrible cost, a ward keyed to this exact Old One: any of these turns "impossible" into "merely very hard." This is why the smartest cabals spend more of the story *researching* the entity than fighting it. A bane also typically **halves the Difficulty** to strip the specific Vulnerable Tag it is keyed to, or lets a Suppressed Tag be removed *permanently* rather than merely suppressed.
+
+**Ritual.** A prepared, collaborative ritual (multiple casters contributing, extended casting, often hours of preparation) can bridge several Scale steps at once and sustain the bridge for a whole scene without per-round concentration from every participant. Against Cosmic-Scale entities the ritual **is** the plan — the banishment or sealing that completes the Dormancy Clock is almost always a ritual, and the rest of the fight exists to buy the ritualists time and to strip the Tags that lower the ritual's Difficulty.
+
+**Turning its Scale against it.** The environment can carry a Scale a mortal body cannot. Collapse the cathedral on it, sever the bridge it stands on, flood the caisson, lure it through a gate sized to it and slam the gate. Resolve these as high-Difficulty scene actions or as Complications imposed on the entity; a well-set environmental trap can fill Dormancy Clock segments directly, and against a Scale-5 entity it may be the only Scale-appropriate "weapon" the cabal can bring to bear at all.
+
+## Scale and Paradox — The Amplifier
+
+The presence of a high-Scale reality-violator is a Paradox amplifier, and this is a feature, not a bug: it is what makes fighting a god *cost* something even when the cabal is winning. Fold it into the Paradox engine from Chapter Five as follows.
+
+- **Bridging Paradox.** As above, raising your own Scale adds Paradox dice equal to the steps bridged.
+- **Aura Paradox.** A Scale-5 entity (and some Scale-4 entities) projects a Paradox aura — usually tied to its [Non-Euclidean Core] Vulnerable Tag. While the aura is active, *every* vulgar working within its reach adds **+3 Paradox dice** to the pool, and any **Catastrophe** result on the Paradox dice is stepped up one level of severity (a would-be minor backlash becomes a serious one; a serious one becomes a Nova-tier event). Reality is already screaming near the thing; the mages are shouting into a hurricane.
+- **The pressure this creates.** The cabal wants to end the fight fast, because every round they cast vulgar magic near the entity they are stacking Paradox dice they cannot safely clear. This is the intended tension: the longer you fight a god, the more likely your own power turns on you. Suppressing the [Non-Euclidean Core] Tag shuts the aura off — which is why a smart cabal targets it early, to make the rest of the fight survivable.
+
+## Building Your Own Titanic Threat
+
+To stat a new Titanic or Cosmic entity:
+
+1. **Pick its Scale.** 4 for "the mind can't file it as one object"; 5 for "a walking violation of reality." Reserve 6+ for the thing the entire chronicle is about.
+2. **Write 3–5 Vulnerable Tags.** These are the only handholds, so make them evocative and make each one gated behind a *different* Sphere or approach — this forces a cabal to be broad, not just to spam their best trick. Give each a Difficulty (4–6 for Titanic; 5–7 for Cosmic) and a concrete Suppressed effect.
+3. **Set the Dormancy Clock.** 6 segments for a Titanic entity, 8 for a Cosmic one is a good default. Decide what the culminating ritual is and how much of the clock must be filled before it can be attempted.
+4. **Choose the bane/lever.** Every Titanic thing should have at least one — the door the cabal can find through research. A fight with no lever is a fight with no story.
+5. **Set the Paradox aura** (Cosmic entities and reality-warping Titanics) and any Sanity/Quiet hook (see Appendix K).
+
+## Example Scale Ratings
+
+| Entity | Scale | Notes |
+| --- | --- | --- |
+| Cthulhu | 5 | Cosmic. Full worked statblock below. |
+| A Greater Old One / Outer God avatar (Nyarlathotep-type) | 5 | Cosmic, but often manifests as a deceptively small "mask" — its true Scale only revealing itself when threatened. |
+| An Incarna's avatar (a Celestine's herald, a manifest Umbrood lord) | 4 | Titanic. Vulnerable Tags tend to be its Name, its purpose, and its anchor to its Realm. |
+| A Horizon Realm Guardian | 4 | Titanic. Often bound to the Realm — its [Anchor] Tag is the Realm itself; unmake the binding and the Guardian follows. |
+| A manifest Great Paradox Storm | 4 | Titanic. No bane exists; you cannot kill weather. The lever is almost always *drawing off* its charge (Prime) or opening it a path to discharge harmlessly. |
+| A Nephandic Labyrinth Engine | 3–4 | At 3 it has a Health track and is a hard bridge-tier fight; at 4 it is Titanic. Its Vulnerable Tag is usually the mad-genius pattern at its heart. |
+| A Bygone dragon | 3 | Huge, not Titanic — it has a Health track. A perfect first taste of Scale (see "Scaling Down," below). |
+| A rampaging war-golem / kaiju | 3–4 | Bridge-tier at 3; Titanic at 4. |
+
+## Cthulhu — Worked Statblock (Cosmic, Scale 5)
+
+> *He is not a monster to be slain. He is a place you have wandered into, a weather that has noticed you, an argument the world is losing. The only victories available are "he sleeps again" and "we were not here when he woke."*
+
+**Scale 5 (Cosmic).** Gap against a standard Scale-1 cabal is **4** — Untouchable. No unbridged attack, mundane or magical, does anything to him. His own attacks carry **[Scale]** with Enhancement +4 and step their damage type up by one.
+
+**Health track:** none. See Vulnerable Tags and the Dormancy Clock.
+
+**Attributes / Pools (for his own actions):** treat all rolls at a flat **12 dice** unless a Vulnerable Tag reduces them; Initiative always acts first (he moves with impossible, dreadful slowness that is nonetheless *earlier* than mortal time). Armor is irrelevant — he has no Health track to protect.
+
+**Signature Actions:**
+
+- **[Titanic Sweep]** — a tentacle the size of a rail bridge. [Scale] area attack, Bashing stepped up to Lethal, Enhancement +4. Everything in a Close-to-Short band area is hit; cover is meaningless. Against Scale 1 this is lethal-to-fatal on contact.
+- **The Call** — not a physical attack. At the start of each scene, and whenever his [Central Eye] focuses on a specific character, every mortal mind present makes a Sanity resistance roll (**Composure + Resolve**, or per Appendix K) against **Difficulty 5**. Failure advances that character's **Quiet track** (toward Unraveling — see Chapter Five and the Death & Dying clocks) and, for Sleepers, can cause immediate collapse. This is his primary "attack" on a prepared cabal: he unmakes minds, not bodies.
+
+**Vulnerable Tags (the only handholds):**
+
+- **[Dream Anchor]** — the metaphysical root tying him to R'lyeh and the Deep Umbra. *Strip:* Spirit ●●●● + Correspondence (locating and severing the sympathetic link), or a dedicated banishment ritual, vs **Difficulty 5**, **extended** (4 net hits). *Suppressed:* his hold on the material world frays — his Speed drops, he can no longer reassert other Tags for one round, and the Dormancy Clock thereafter fills at +1 segment per source. This is the keystone Tag; suppress it and everything else becomes possible.
+- **[Primary Mass]** — the bulk of his physical presence and the source of [Titanic Sweep]. *Strip:* either **bridge Scale and deal Aggravated damage**, or Forces/Matter ●●●●● vs **Difficulty 4**. *Suppressed:* he loses [Titanic Sweep] and all area [Scale] strikes for the scene; a section of him goes slack and dissolves.
+- **[Central Eye / Awareness]** — the seat of the Call and of his terrible attention. *Strip:* Mind ●●●●● vs **Difficulty 5**, or blind it via Forces/Correspondence. *Suppressed:* the Call weakens (Sanity rolls against it drop to Difficulty 3), and he loses his Enhancement from awareness, striking blindly.
+- **[Non-Euclidean Core]** — the part of him that simply violates local reality, and the source of his Paradox aura. *Strip:* Prime ●●●●● combined with a paradigm-anchoring working (reasserting consensus), vs **Difficulty 6**. *Suppressed:* the Paradox aura switches **off** — vulgar magic stops drawing +3 Paradox dice and Catastrophes stop being amplified — and for the rest of the scene direct force can reach him even at range. Suppressing this Tag is what makes the endgame survivable.
+
+**Paradox Aura (from [Non-Euclidean Core], active until that Tag is Suppressed):** every vulgar working within Extreme range gains **+3 Paradox dice**, and every Catastrophe result is stepped up one severity. See "Scale and Paradox," above.
+
+**Dormancy Clock: 8 segments.** Each fully Suppressed Vulnerable Tag fills **2** segments; each Major Complication landed on him fills **1**. The **Banishment Ritual** (a collaborative Spirit + Prime + Correspondence working, base Difficulty 7, reduced by 1 for each Vulnerable Tag currently Suppressed) can be attempted once **6** segments are filled; on success it completes the clock and he sinks back beneath the Pacific. Without the ritual, filling all 8 segments through Tags and Complications alone also forces dormancy — but doing that against his reassertion is nearly impossible, which is the point: the ritual is the plan.
+
+**Bane / Lever:** the specific resonance-key of R'lyeh's geometry, recoverable only through the kind of doomed scholarship that Mage chronicles are made of. A cabal that possesses it treats the Gap as **0** for the Banishment Ritual and may Suppress [Dream Anchor] *permanently* rather than temporarily — which, given that [Dream Anchor] is the keystone, effectively wins the fight if they can survive long enough to use it.
+
+## Worked Combat Example — A Cabal Against Cthulhu
+
+*Four mages — Dex (Virtual Adept, Correspondence/Mind), Sister Yewande (Euthanatos, Entropy/Spirit), Brother Kenji (Akashic Brotherhood, Mind), and Aurelia (Order of Hermes, Prime/Forces) — have chased a partial manifestation of Cthulhu to a drowned coastline. They are all Scale 1. The Gap is 4. This is how the fight actually resolves at the table.*
+
+**The opening — the Call.** The scene begins with the Call. Every mage rolls Composure + Resolve vs Difficulty 5. Dex and Aurelia pass. Yewande gets 1 hit — a fail — and marks a segment on her Quiet track; the Storyguide narrates the geometry of the shoreline starting to *make a kind of sense* to her that it should not. Kenji, anticipating this, has already acted (see below).
+
+**Kenji raises a shield (defensive, vs the Call).** Kenji spends his action on Mind ●●●●● to raise a lattice of disciplined attention over the cabal. Mechanically this grants the whole cabal **Enhancement +2** on all Sanity rolls against the Call for the scene (and, because the [Central Eye] is not yet Suppressed, this is the only thing keeping the group sane). It is a vulgar working near the [Non-Euclidean Core] — so it draws **+3 Paradox dice**. Kenji's pool: Intellect 4 + Mind 5 = 9 dice, plus 3 Paradox dice = a 12-die roll where the 3 Paradox dice are watched separately (Chapter Five). He gets 6 hits on his 9 casting dice — the shield holds — and the Paradox dice come up without a Catastrophe this time. The cabal exhales.
+
+**Dex attacks the keystone — a fully resolved roll.** Dex goes for **[Dream Anchor]**. He does *not* need to bridge Scale to target a Vulnerable Tag — that is the door the Gap leaves open. He has spent the previous scene establishing a sympathetic link to R'lyeh's geometry (a prepared advantage), which the Storyguide rules grants **Enhancement +2**. His pool is Intellect 4 + Correspondence 5 = **9 dice**; this is an **extended** strip needing **4 net hits** total at **Difficulty 5**.
+
+- He rolls 9 dice and gets **5 hits**. Because he cleared the ≥1-hit gate, his Enhancement applies: +2 hits → **7 hits** vs Difficulty 5 → **2 net hits**. The [Dream Anchor] sub-total is now 2 of the required 4. Not yet Suppressed — but visibly fraying.
+- The working is vulgar and inside the Paradox aura: **+3 Paradox dice.** This time the Paradox dice throw a **Catastrophe**, *stepped up one severity by the aura.* The Storyguide narrates a rip in local space: Dex's own Correspondence turns on him, and he is yanked half-into a non-space for a round — he takes 3 Aggravated and is [Disoriented], unable to act next round. This is the cost of fighting a god: he made real progress *and* paid for it.
+
+**Yewande imposes a Major Complication.** Sister Yewande uses Entropy ●●●●● + Spirit ●●●● to speak a "death of this manifestation" into the probability of the scene — not damage, but a Major Complication ("the western tentacle-mass is rotting off him in great sloughing sheets, an environmental hazard and a wound to his coherence"). She beats the Complication's Difficulty and lands it: **+1 segment** on the Dormancy Clock. She, too, draws aura Paradox, but reads her dice clean.
+
+**Aurelia goes for the aura itself.** Recognizing that the Paradox aura will eventually kill them, Aurelia begins the extended strip of **[Non-Euclidean Core]** with Prime ●●●●● (Difficulty 6). It will take her two or three rounds, but when it lands the aura shuts off and the back half of the fight stops being a game of Paradox roulette.
+
+**Cthulhu acts — and this is why the opening feels hopeless.** No Vulnerable Tag has been fully Suppressed yet, so he is still at **full coherence** and reasserts **for free.** Seeing [Dream Anchor] fraying, he knits it whole again *without spending his action* — Dex's 2 accumulated net hits are wiped, the sympathetic link sealed — **and he still attacks**, a [Titanic Sweep] that forces the cabal to scatter for cover. He heals and swings in the same round. This is the designed horror of the first act: you cannot dribble hits into him, because he closes every partial wound between rounds while continuing to hit back. The only path through is to overwhelm a single Tag's threshold in one concentrated burst before he gets his free reassertion.
+
+**The breakthrough — and the rules change.** Two rounds later the cabal changes tactics: Kenji, Dex, and Aurelia all throw everything at **[Dream Anchor]** in a single round, and their combined net hits blow past the 4-hit threshold before Cthulhu's turn. The Tag is **Suppressed** — the first real wound. Three things happen at once: the Dormancy Clock takes **+2 segments**; his Speed drops and he cannot reassert other Tags for a round (the keystone Tag's Suppressed effect); and, most importantly, **he is no longer at full coherence.** From now on reasserting *costs him his action.* If the "Entity Notices" rule is in play, this is also the moment he turns his full attention on the cabal — but it no longer matters as much, because now every round he spends healing is a round he cannot attack.
+
+**Several rounds on.** With the free-reassert gone, the fight becomes a real exchange and the cabal grinds forward. When Cthulhu spends an action reasserting a Tag, nobody gets stepped on that round; when he attacks, his wounds stay open. Aurelia Suppresses **[Non-Euclidean Core]** (**+2 segments**; the aura dies, and the survivors feel the Paradox pressure lift like a held breath released). Yewande lands a second Major Complication — the sloughing tentacle-mass is now a persistent hazard, so it qualifies (**+1**). The Dormancy Clock reads **6 of 8** — and with two Vulnerable Tags Suppressed, the **Banishment Ritual's Difficulty has dropped from 7 to 5.**
+
+**The ending — the ritual, not the HP.** All four mages spend a round feeding a collaborative Spirit + Prime + Correspondence Banishment Ritual. With [Dream Anchor] and [Non-Euclidean Core] already Suppressed, the Difficulty is 5 and the aura no longer poisons their dice. They clear it. The Dormancy Clock completes.
+
+**Storyguide narration:** *"The dreaming pressure that has been pushing against the inside of your skulls for a quarter of an hour simply — stops. The vast wrong geometry of him folds along lines your eyes refuse to follow, smaller and smaller, until the drowned coast is only a drowned coast, and the sea closes over a shape that was never quite there. He is not dead. Nothing you did could kill him. But he sleeps, and you were not, in the end, where he was when he woke."*
+
+Note what did the work: not a single point of "damage to Cthulhu's HP," because he has none. The cabal won by suppressing the metaphysical structures holding him in the world and completing a ritual — while surviving his Call and his Paradox aura long enough to do it. That is a Mage victory against a god.
+
+## Second Worked Example — A Bane Shortcut Against a Horizon Guardian (Scale 4)
+
+*A three-mage cabal must get past the Guardian of a Horizon Realm — a Titanic construct of living crystal and bound lightning (Scale 4, Gap 3 against the cabal).* Its Vulnerable Tags are **[Realm Anchor]** (it is bound to the Realm; Difficulty 5, Spirit/Prime), **[Lightning Lattice]** (its offense; Difficulty 4, Forces), and **[Warden's Charge]** (the command that animates it; Difficulty 6, Mind).
+
+The cabal did their homework and arrived with the **Warden's true sigil** — a bane keyed directly to [Warden's Charge]. **Round one:** the Guardian's [Lightning Lattice] discharges (a [Scale] area strike, Enhancement +3, stepping Lethal to Aggravated) and the cabal scatters, one mage badly burned — a pointed reminder that without their preparation this fight would be a grinding, probably lethal slog against a Gap-3 construct they cannot out-muscle. **Round two:** the cabal's Mind-mage presents and asserts the sigil. Because it is the entity's true lever, the Gap is treated as **0** for that action and the bane **halves** [Warden's Charge]'s Difficulty from 6 to 3. One good Mind roll clears the threshold and Suppresses [Warden's Charge] outright — and because that Tag is the command animating the whole construct, its Suppression drops the Guardian inert for the scene. The cabal never touches [Lightning Lattice] or [Realm Anchor]; they simply switch the thing off.
+
+Total elapsed combat: two rounds, one of them just eating a hit while they set up. Contrast this deliberately with the Cthulhu fight above: same underlying rules, opposite texture. Cthulhu is a war of attrition against a reality-violator where the ritual is everything and the Paradox aura is a clock counting down on the cabal's sanity; the Guardian is a *puzzle with a key*, and a prepared cabal that found the key ends it almost instantly. This is the reward for research over firepower — the cabal *solved* the Guardian rather than surviving it — and it shows the same Scale/Tags/Clock machinery producing a magical-construct heist rather than a cosmic-horror last stand.
+
+## Scaling Down — Using Scale for Merely-Large Foes (Scale 2–3)
+
+Not every application of Scale is a cosmic-horror set piece. Scale 2–3 creatures **keep their Health tracks** and simply apply the Gap modifiers from Chapter Seven — this is the everyday face of the rule and a good way to introduce it before a Titanic entity ever appears.
+
+> INLINE EXAMPLE — A dragon (Scale 3): A Bygone dragon (Gap 2 against the Scale-1 cabal) still has a Health track. When the cabal's Forces-mage blasts it, the dragon gets **Enhancement +2** on its defense, and because the Gap is 2, unbridged personal-scale damage **cannot close its track** — the mage can chip its boxes toward zero but never finish it while unbridged. So the party's Life-mage spends a round on Life ●●●● to grow their frontline fighter to the size of a bear (bridging one step: Gap now 1, and the track-closing restriction lifts), while the Forces-mage bridges to become a firestorm (Gap 0) and can now land a killing blow normally. The dragon's own bite carries [Scale] with Enhancement +2 and steps Lethal up to Aggravated — so nobody wants to be bitten. It is a hard fight, but a *fight*, with a Health track and a real finish — the bridge-tier experience, one full step below the Tags-and-Clock world of the Titanic entities above.
+
+## Mixed-Scale Fights — Minions and a Titan at Once
+
+Many set pieces put a Titanic or Cosmic entity onstage alongside a swarm of ordinary servitors — cultists, summoned Banes, Technocratic troops, lesser spirits. Run the two layers on their own rules and do not blend them:
+
+- **Minions use normal combat.** They are Scale 1–2 like anything else: Health tracks, ordinary attack and damage, resolved with the standard Chapter Seven rules (or the Speed Tier and Group Rules of Appendix V if there are a lot of them). They do *not* borrow the big entity's Scale.
+- **The Titanic entity uses Tags + the Dormancy Clock.** It never acquires a Health track just because minions are on the board, and the minions never acquire its [Scale] protection.
+- **Minions can matter to the big fight.** A minion's action can set up a **Complication** on the entity (herding it onto bad footing, exposing a Vulnerable Tag, cutting a support) — or, on the other side, *defend* a Tag: a ring of cultists chanting to shore up the [Dream Anchor] can **raise that Tag's strip Difficulty** until they are cleared. This is often the whole reason the minions are present — they are the entity's immune system, and dealing with them is how the cabal reaches the Tags.
+- **The entity's [Scale] attacks ignore minion-scale positioning.** Cover, careful spacing, and clever formation mean nothing to a [Titanic Sweep]; it hits its whole area regardless of who is standing behind what. Friendly minions caught in that area die just as easily as the cabal — a fact a sharp cabal will happily engineer by staying close to the servitors when the big swing comes.
+
+## Storyguide Notes
+
+```
+PACING A TITANIC OR COSMIC ENCOUNTER
+------------------------------------
+Aim for 3–5 rounds of meaningful action once the entity is fully engaged. If the fight
+runs longer than that without the cabal Suppressing at least one Vulnerable Tag or
+landing multiple Complications, the Paradox aura will likely turn lethal on its own —
+a valid ending, but rarely the one anyone wanted. Design each entity's Tags and
+Complications so that a well-prepared cabal can Suppress one or two Tags in the first
+two rounds; then let the culminating ritual (or a decisive final Complication) close the
+encounter. If nothing is landing by round three, escalate the aura and make the danger
+explicit in the fiction — the scene should now clearly read as do-or-die, not stalemate.
+```
+
+Three principles keep Scale fun rather than punishing.
+
+First, **telegraph the Gap.** The very first time the cabal's best attack washes off a Titanic entity with no effect, say so plainly and immediately, and in the same breath remind them the door exists: "Your lightning splashes across it and does nothing — this is not something you can shoot. You'll need to be *bigger*, or find what it actually *is*." Never let a player burn three rounds discovering that the rules have quietly turned their character off. The Gap should read as a puzzle, never as a punishment.
+
+Second, **a fight with no lever is not a fight.** Every Titanic entity you expect the cabal to overcome must have at least one findable door — a bane, a Tag reachable by a Sphere someone has, a ritual, an environmental trap. If you genuinely want an entity to be *unbeatable* right now, that is a legitimate choice — but then the scene is about *survival and escape*, not victory, and you should frame it that way. "You cannot win this; you can only get out alive" is a fine scene. "You can win this but I hid the only way and won't tell you" is not.
+
+Third, **make progress visible.** Call the Dormancy Clock aloud as it fills. Narrate every Suppressed Tag as a concrete change — a tentacle-mass sloughing away, the Call dimming, the Paradox pressure lifting. The whole reason this system exists instead of a Health track is to give players earned, legible progress against something too large to punch. Show them the clock. Let them feel it fill.
+
+---
+
 # Index
 This index covers the primary game terms, subsystems, rules concepts, and setting elements found in this book. Each entry is on its own line; the entry and its page number are connected by a leader line. Entries with sub-entries list specific sub-topics for that term, indented beneath the main entry.
 
@@ -26606,6 +26864,30 @@ Recovering Sanity`<w:r><w:tab/></w:r>`{=openxml}396
 
 ::: {custom-style="IndexEntry"}
 
+Scale (magnitude of an entity)`<w:r><w:tab/></w:r>`{=openxml}120
+
+:::
+
+::: {custom-style="IndexSubEntry"}
+
+Scale Ladder (Personal to Cosmic)`<w:r><w:tab/></w:r>`{=openxml}120
+
+Scale Gap (effect on interaction)`<w:r><w:tab/></w:r>`{=openxml}120
+
+Bridging the Gap`<w:r><w:tab/></w:r>`{=openxml}120
+
+Titanic & Cosmic Entities (Appendix X)`<w:r><w:tab/></w:r>`{=openxml}773
+
+Vulnerable Tags`<w:r><w:tab/></w:r>`{=openxml}773
+
+Dormancy / Banishment Clock`<w:r><w:tab/></w:r>`{=openxml}773
+
+Cthulhu (worked statblock)`<w:r><w:tab/></w:r>`{=openxml}778
+
+:::
+
+::: {custom-style="IndexEntry"}
+
 Sanity Tags`<w:r><w:tab/></w:r>`{=openxml}11
 
 Scenes`<w:r><w:tab/></w:r>`{=openxml}10
@@ -26705,6 +26987,12 @@ Magical Tags`<w:r><w:tab/></w:r>`{=openxml}365
 Sanity Tags`<w:r><w:tab/></w:r>`{=openxml}11
 
 Weapon Tags`<w:r><w:tab/></w:r>`{=openxml}364
+
+:::
+
+::: {custom-style="IndexEntry"}
+
+Titanic & Cosmic Entities (Scale 4–5, Appendix X)`<w:r><w:tab/></w:r>`{=openxml}773
 
 :::
 
