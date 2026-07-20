@@ -542,9 +542,116 @@ Before touching a single number, decide on a character concept in a single sente
 > "Rosamund is a Verbena hedge-witch from rural Wales who heals the sick with blood and bone and cannot understand why the Traditions fear her methods."
 > "Vikram is a Virtual Adept who cracked reality's source code at sixteen and has been high on possibility ever since — the Consensual reality is a bug, not a feature."
 
+### Nature and Demeanor
+
+Every mage carries two faces. There is the face the world sees — the confident negotiator, the eccentric professor, the harmless barista — and there is the truth underneath it, the engine that actually drives the character when the masks come off. Storypath Ultra calls the first face the **Demeanor** and the second the **Nature**. Choosing them is the second half of the Concept step, and unlike everything else on the sheet, they cost nothing but thought.
+
+**Demeanor is your mask.** It is how your character presents to the world, and it is pure roleplaying flavor — it carries no mechanics whatsoever. A Demeanor can be swapped out the moment your character decides to behave differently: the Loner who puts on a Bon Vivant's grin to work a party, the Monster who wears a Caregiver's warmth to get close to a target. Pick a Demeanor if it helps you play the character. Change it whenever the story moves. Nothing on your sheet needs to be erased.
+
+**Nature is who you actually are.** It is the core drive named in the Willpower rules (see *Willpower*, this chapter) — the thing your character reaches for when nobody is watching and nothing is easy. Nature is hard to change; it takes a genuinely life-shifting event to shift it, and the Storyguide should treat such a change as a real story beat. Because Nature runs so deep, it is the one archetype that carries mechanical weight, and in this game it does so as a **Tag**.
+
+#### Your Nature Is a Tag
+
+At character creation, choose one Nature from the list below (or build your own, see *Designing Your Own Nature*). Write it on your sheet in the Nature/Demeanor space as a Tag. Like every Tag in Chapter Two, your Nature has a bright side you can lean on and a shadow the Storyguide can lean on — but a Nature also carries a third property no ordinary Tag has: it refreshes your Willpower when you live it out. The three faces of a Nature Tag work as follows.
+
+```
+THE NATURE TAG — THREE FACES
+----------------------------
+STRENGTH (you Invoke it):
+Each Nature names a Strength — the inner spark that keeps the character
+going when things get hard. Spend 1 Momentum to invoke your Nature's
+Strength for Enhancement +1 (an automatic hit, applied after the roll and
+only if the roll already lands at least one hit) on any roll where that
+Strength genuinely applies. As with all Tags, you may invoke your Nature
+once per Spotlight, and Enhancement from every source is capped at +5.
+You may instead claim an automatic success on a lesser task that clearly
+falls within the Strength's wheelhouse. The Storyguide may grant the
+invocation for free when the fiction powerfully calls for it.
+
+WEAKNESS (the Storyguide Compels it):
+Each Nature names a Weakness — the flaw that shadows the Strength. The
+Storyguide may Compel your Nature's Weakness, introducing a complication
+that arises naturally from that flaw, in exchange for giving you 1
+Momentum. This is not a punishment; it is an invitation to richer drama.
+You may refuse a Compel by spending 1 Momentum to push back, keeping the
+simpler story. If you accept, you take the Momentum and play out the
+complication. (These are exactly the Tag invoke/compel rules from Chapter
+Two, applied to the deepest Tag on your sheet.)
+
+FULFILLMENT (you recover Willpower):
+Each Nature names a Fulfillment condition — the specific circumstance
+under which acting in true accordance with your Nature refreshes your
+will. When you spend a scene fulfilling that condition, recover 1
+Willpower. This is the "act in accordance with your Nature" recovery
+listed in the Willpower rules, made concrete. It refreshes spent
+Willpower only; it never raises your permanent rating. No more than once
+per scene, and a given scene's fulfillment should cost the character
+something real — a Fulfillment that is trivially easy to trigger is being
+read too generously. Tables that prefer a lighter touch may award 1
+Momentum instead of Willpower.
+```
+
+Three things worth stressing. First, the Strength and the Weakness are two ends of the same trait — the Crusader's Zeal that carries her through a burning building is the same Zeal that refuses a sensible compromise an hour later. Good play leans into both. Second, none of this is mandatory in a given scene; a Nature simply sits on the sheet until the fiction touches it. Third, a Nature never overrides player choice. The Storyguide *offers* a Compel; the player always decides whether to take the Momentum or spend one to wave it off.
+
+> **Example — Invoking a Strength (social):**
+> Miriam's Nature is **Caregiver** (Strength [Kindness], Weakness [Insecurity]). A frightened Sleeper witness will not talk to the cabal. Miriam sits with her, makes tea, and asks nothing. The player rolls Empathy + Composure to earn the woman's trust and spends 1 Momentum to invoke [Kindness] for Enhancement +1. The roll lands 2 hits; the Enhancement makes it 3. The witness opens up completely.
+>
+> Later that same scene, Miriam succeeds in calming and sheltering the terrified woman through a Marauder's rampage. That fulfills the Caregiver's Fulfillment condition — protecting someone who genuinely needs it — so she recovers 1 Willpower.
+
+> **Example — Accepting a Compel (drama):**
+> Thomas's Nature is **Crusader** (Strength [Zeal], Weakness [Fanaticism]). The cabal has negotiated a fragile truce with a Hermetic elder Thomas privately considers corrupt. As the elder extends his hand, the Storyguide offers a Compel on [Fanaticism]: "You can't bring yourself to shake it — your convictions won't let you legitimize this man. Take a Momentum." Thomas's player weighs refusing (spend 1 Momentum, shake the hand, keep the peace) against accepting. He accepts, pockets the Momentum, and lets Thomas coldly withdraw his hand — souring the truce and setting up three sessions of consequences. That is the Weakness doing exactly what it should.
+
+> **Example — Invoking a Strength in combat:**
+> Rosamund's Nature is **Guardian** (Strength [Courage], Weakness [Self-Sacrifice]) — the same Rosamund Ashby whose sheet appears later in this chapter. She is [Impaired] (−1 die) and out of Quintessence when a Technocratic HIT Mark lunges at a downed Sleeper the cabal swore to protect. Rosamund throws herself into its path — an Athletics + Might roll, Difficulty 3, to body-check the machine off its line. Her pool is thin, so she spends 1 Momentum to invoke [Courage] for Enhancement +1, the Guardian's refusal to let the helpless fall. The dice give 2 hits; the invocation makes 3, clearing the Difficulty. She knocks the charge wide. If she brings that Sleeper out of the fight alive, the scene fulfills the Guardian's Fulfillment condition and she recovers 1 Willpower.
+
+> **Example — A Compel in combat:**
+> Kenji's Nature is **Visionary** (Strength [Inspiration], Weakness [Pride]) — the Akashic pregen from earlier in this chapter. Mid-duel with a Technocratic cyborg whose fighting style he has never seen, the smart move is to disengage and regroup with his cabal. The Storyguide offers a Compel on [Pride]: "You could fall back — but you *have* to understand this technique, and you're certain you can read it if you stay one more exchange. Take a Momentum." Kenji's player can refuse (spend 1 Momentum, retreat cleanly) or accept. He accepts, pockets the Momentum, stays in — and eats a heavy blow for the privilege of watching the cyborg's guard finally drop. On a different turn Kenji's player could instead *invoke* [Inspiration] for Enhancement +1 when a flash of insight reveals an opponent's opening — the same Nature, its bright and shadow faces both alive in one fight.
+
+#### Designing Your Own Nature
+
+The list below is a starting deck, not a cage. To build a Nature that is not listed, define three things and you have a complete, legal Nature Tag: a **Strength** (the virtue you can invoke for Enhancement), a **Weakness** (the paired flaw the Storyguide can compel for Momentum), and a **Fulfillment** condition (the circumstance under which living your Nature recovers 1 Willpower). Keep the Strength and Weakness two faces of one coin, and scope the Fulfillment so that satisfying it costs the character something. A Nature whose Fulfillment triggers every scene is too loose; one that could go whole chronicles without firing is too tight. "Once in a meaningful scene, at a real cost" is the target register.
+
+#### The Natures
+
+Each entry gives the driving idea, the **Strength** you can Invoke, the **Weakness** the Storyguide may Compel, and the **Fulfillment** that recovers 1 Willpower. These are drawn from the full range of Awakened personalities; none of them assumes wealth or worldly power (for those concepts, see the optional *Wealth and Power Archetypes* that follow).
+
+- **Activist** — *The world is broken; step up and fix it.* **Strength [Driven]:** invoke when decisive action against injustice or danger powers a roll. **Weakness [Outrage]:** compel when your fury makes it impossible to rest, stay quiet, or accept an imperfect peace. **Fulfillment:** recover 1 Willpower when you confront abuse, right a real wrong, or expose a genuine conspiracy and bring it down.
+- **Architect** — *Structure is the antidote to chaos; build things meant to outlast you.* **Strength [Dedicated Purpose]:** invoke when creating, designing, or fortifying something to endure. **Weakness [Obsession]:** compel when your fixation on your own design blinds you to other ways of doing things. **Fulfillment:** recover 1 Willpower when you create or secure something of lasting value.
+- **Artist** — *Reality is a canvas; magic is how you paint the truth.* **Strength [Expression]:** invoke when channeling feeling or observation into a form others can grasp. **Weakness [Lost in Your Own Head]:** compel when your vision becomes so private that no one can follow it. **Fulfillment:** recover 1 Willpower when you create a work in your medium that communicates a sublime truth to its intended audience.
+- **Benefactor** — *It's a cruel world; you make it easier.* **Strength [Altruism]:** invoke when giving aid, guidance, or protection to someone in need. **Weakness [Obligation]:** compel when you insert yourself where you aren't wanted, or resent the debts you feel others owe you. **Fulfillment:** recover 1 Willpower when you provide help someone *desperately* needs.
+- **Bon Vivant** — *Better to laugh your way to hell than crawl to the grave.* **Strength [Joie de Vivre]:** invoke when your irrepressible love of life carries you (and others) through a dark moment. **Weakness [Superficiality]:** compel when your fun-seeking trivializes something that deserves to be taken seriously. **Fulfillment:** recover 1 Willpower when you have a truly great time and bring other people along for the ride.
+- **Caregiver** — *When people need you, you're there.* **Strength [Kindness]:** invoke when protecting, comforting, or nurturing someone. **Weakness [Insecurity]:** compel when your need to be needed lets others take advantage of you. **Fulfillment:** recover 1 Willpower when you protect, comfort, or nurture someone who truly needs it.
+- **Conformist** — *Every team needs the player who holds the center.* **Strength [Cooperation]:** invoke when reliably backing a group effort or plan. **Weakness [Compliance]:** compel when you defer to the group rather than doing what you know is right. **Fulfillment:** recover 1 Willpower when you support an effort that succeeds because you were there to back it up.
+- **Contrary** — *For every rule there must be an exception, and you are it.* **Strength [Insight]:** invoke when your inversion of an assumption reveals a deeper truth. **Weakness [Subversion]:** compel when your reflexive contrariness becomes intrusive or destructive. **Fulfillment:** recover 1 Willpower when overturning an expectation makes people realize how false that expectation was.
+- **Crusader** — *People need a hero; you strive for a better world.* **Strength [Zeal]:** invoke when your conviction propels you through a challenge others would flinch from. **Weakness [Fanaticism]:** compel when your certainty leaves no room for compromise. **Fulfillment:** recover 1 Willpower when you accomplish a great deed in the name of your higher goal, especially when it costs you.
+- **Director** — *When things need doing, you run the show.* **Strength [Leadership]:** invoke when organizing, motivating, or commanding a group under pressure. **Weakness [Intolerance]:** compel when your need for control drives you and everyone else to distraction. **Fulfillment:** recover 1 Willpower when you lead a group to accomplish a genuinely challenging task.
+- **Entertainer** — *Life sucks; you're here to brighten it.* **Strength [Showmanship]:** invoke when your performance lifts, distracts, or moves an audience. **Weakness [Ego]:** compel when your need to be the star gets in the way. **Fulfillment:** recover 1 Willpower when your work makes a real difference in the mood or lives of the people around you.
+- **Guardian** — *Someone must protect those who can't protect themselves.* **Strength [Courage]:** invoke when standing between danger and the vulnerable. **Weakness [Self-Sacrifice]:** compel when you throw yourself into harm's way past the point of good sense. **Fulfillment:** recover 1 Willpower when you directly save a weaker group or person from assured destruction.
+- **Hacker** — *Every system is a locked vault, and you have the keys.* **Strength [Imagination]:** invoke when seeing a system not as it is but as it could be. **Weakness [Perversity]:** compel when you take apart something that wasn't broken and shouldn't have been touched. **Fulfillment:** recover 1 Willpower when you find the real flaw in an important system or device, or improve something that was supposedly already well-made.
+- **Heretic** — *Whatever the crowd calls orthodox is, to you, a table waiting to be flipped.* **Strength [Integrity]:** invoke when you refuse the demanded creed on principle. **Weakness [Iconoclasm]:** compel when your defiance of accepted belief endangers you or those around you. **Fulfillment:** recover 1 Willpower when you challenge a commonly held conviction and actually change minds about it.
+- **Idealist** — *Cowards accept what is; you know how much better it could be.* **Strength [Conviction]:** invoke when your near-unshakable faith in your ideal shapes events. **Weakness [Dogmatism]:** compel when you're blind to any flaw in your ideal. **Fulfillment:** recover 1 Willpower when your beliefs are tested to the breaking point and do not fail.
+- **Innovator** — *There's always a better way, and you'll find it.* **Strength [Creativity]:** invoke when improving on an existing method, tool, or tradition. **Weakness [Restless Unorthodoxy]:** compel when your improvements read as heresy to your sect or allies. **Fulfillment:** recover 1 Willpower when your inspiration yields a helpful new breakthrough.
+- **Kid** — *Young in years or young at heart, you make people want to look after you.* **Strength [Innocence]:** invoke when your sense of wonder or apparent helplessness earns you protection and goodwill. **Weakness [Immaturity]:** compel when you trust too easily, act too rashly, or slide from charming to bratty. **Fulfillment:** recover 1 Willpower when you draw out the nurturing side of someone who normally doesn't care much for anyone.
+- **Loner** — *Everything you need, you carry inside yourself.* **Strength [Self-Reliance]:** invoke when you accomplish alone what others would need a team for. **Weakness [Disconnection]:** compel when your walls cut you off from empathy or help you actually need. **Fulfillment:** recover 1 Willpower when you achieve a meaningful goal with no one's help — especially when it also benefits others.
+- **Machine** — *Flesh is weak; you are not.* **Strength [Relentless Discipline]:** invoke when you push past exhaustion, pain, or fear to exacting standards. **Weakness [Burn-Out]:** compel when you deny your own limits until they break — and unsettle everyone around you. **Fulfillment:** recover 1 Willpower when you transcend the limits of flesh to do something no one else managed.
+- **Mad Scientist** — *Science is no field for cowards; dare the unthinkable.* **Strength [Vision]:** invoke when sheer determination pushes your work past the established norms. **Weakness [Instability]:** compel when your genius tips over into something reckless or unhinged. **Fulfillment:** recover 1 Willpower when a bizarre stroke of ingenuity that shouldn't work somehow does — pulled off without triggering Paradox (a Coincidental effect through improbable "science," not a naked spell).
+- **Martyr** — *It's your glory to give yourself for the greater good.* **Strength [Sacrifice]:** invoke when your willingness to suffer for a cause carries the moment. **Weakness [Self-Deprecation]:** compel when your martyrdom gets on others' nerves or gets you exploited. **Fulfillment:** recover 1 Willpower when you make a real positive difference for someone by giving deeply of yourself.
+- **Mentor** — *You have knowledge others need, so you give it freely.* **Strength [Dedication]:** invoke when your investment in a student's growth shapes the scene. **Weakness [Pedantry]:** compel when you lecture where you should simply act or listen. **Fulfillment:** recover 1 Willpower when your guidance helps a pupil accomplish something that had been beyond their reach.
+- **Monster** — *Heaven has no glory without the threat of Hell; you are the agent of infamy.* **Strength [Reveals Dark Truths]:** invoke when your willingness to embody the unthinkable strips away comfortable lies. **Weakness [Depravity]:** compel when your cruelty overtakes your judgment. **Fulfillment:** recover 1 Willpower by performing a spectacular act of heartlessness and ruin. *(An overtly villainous Nature, natural for Nephandi and for characters walking that edge; discuss its place with your Storyguide.)*
+- **Prophet** — *You bear a sacred message to a wounded world.* **Strength [Insight]:** invoke when you perceive the hidden — secrets, omens, the shape of what's coming. **Weakness [Ruthlessness]:** compel when your certainty makes you impatient, defiant, and dangerous to your own followers. **Fulfillment:** recover 1 Willpower when you speak truth to power and inspire a genuine change.
+- **Rogue** — *You make rebellion look good and give no precious fuck for authority.* **Strength [Defiance]:** invoke when your refusal to bow carries you through. **Weakness [Selfishness]:** compel when your devotion to your own individuality blinds you to others' concerns. **Fulfillment:** recover 1 Willpower when you score a victory against oppressive authority.
+- **Romantic** — *In an ugly world, you seek and find beauty — even tragic beauty.* **Strength [Passion]:** invoke when you plunge in where others hesitate. **Weakness [Recklessness]:** compel when your excesses hurt the people caught up in them. **Fulfillment:** recover 1 Willpower when you throw yourself into a gloriously ruinous affair, or reveal life's howling beauty to a soul who had shut it out.
+- **Sensualist** — *Sensation is your drug; perception is the first thing every Sphere teaches.* **Strength [Receptiveness]:** invoke when your openness to experience makes you the first to notice, feel, or connect. **Weakness [Hedonism]:** compel when indulgence drags you (and others) into something stupid or dangerous. **Fulfillment:** recover 1 Willpower when you revel in a potent, *novel* sensual experience — especially one you share.
+- **Survivor** — *Nothing stops you.* **Strength [Perseverance]:** invoke when you do what needs doing with whatever's at hand. **Weakness [Callousness]:** compel when the walls you built to keep going leave you unable to feel. **Fulfillment:** recover 1 Willpower when you survive a dire situation through stubborn cunning and a refusal to give in.
+- **Traditionalist** — *The old ways are best; you preserve the wisdom of the past.* **Strength [Consistency]:** invoke when your dependable, time-tested approach steadies a situation. **Weakness [Rigidity]:** compel when your refusal to adapt threatens to undo you. **Fulfillment:** recover 1 Willpower when your efforts prove the value of the old-fashioned ways.
+- **Trickster** — *The world is your plaything; better to be the setup than the punchline.* **Strength [Cleverness]:** invoke when your flair and misdirection upend the expected order. **Weakness [Untrustworthiness]:** compel when your own scheme backfires or the smart ones stop believing you. **Fulfillment:** recover 1 Willpower when a clever plan of yours yields a big gain for you and your companions, or a big loss for your enemies.
+- **Vigilante** — *The law is a farce; true justice comes only from those willing to take it up.* **Strength [Retribution]:** invoke when your relentless pursuit of a corrupt power drives you on. **Weakness [Ruthlessness]:** compel when the hunt poisons your cause and blurs the line between you and your quarry. **Fulfillment:** recover 1 Willpower when you inflict a major reckoning on a target bigger than any single person — an organization, a conspiracy, a corrupt sect.
+- **Visionary** — *Beyond ordinary perception there is something more, and you see it.* **Strength [Inspiration]:** invoke when you perceive what others can't or won't. **Weakness [Pride]:** compel when your stubborn search for your truth curdles into arrogance. **Fulfillment:** recover 1 Willpower when you convince others your vision is worth their devotion, or turn that vision into practical reality.
+- **Zealot** — *A true believer will do anything for the cause; moderation is weakness.* **Strength [Conviction]:** invoke when steadfast belief stands with you where nothing else will. **Weakness [Extremity]:** compel when your zeal inspires acts most would find abhorrent. **Fulfillment:** recover 1 Willpower when your deeply held beliefs are proved right through your behavior.
+
 ### Optional: Wealth and Power Archetypes
 
-Some players like to anchor a concept to a driving disposition. The following archetypes — drawn from the world of wealthy and powerful mages — each pair a virtue with the vice that shadows it, and each names the circumstance under which the character **recovers a point of Willpower** (Storyguides may instead award a point of Momentum for a table that prefers it). They are entirely optional flavor.
+The Natures above cover the broad range of Awakened personalities. For characters whose whole concept turns on money, dominion, or empire, the following optional archetypes offer a specialized alternative set — drawn from the world of wealthy and powerful mages. Each pairs a virtue with the vice that shadows it and names the circumstance under which the character **recovers a point of Willpower** (Storyguides may instead award a point of Momentum). Treat them exactly like the Natures above — the virtue is a Strength you can Invoke, the vice a Weakness the Storyguide can Compel — or use them as entirely optional flavor.
 
 - **Archivist** (Diligence / Obsession) — an obsessive collector and categorizer of knowledge. *Recover Willpower when previously-gathered information proves instrumental to answering a colleague's question or advancing their goal.*
 - **Bravo** (Self-Assured / Arrogance) — a professional thrill-seeker who takes risks on others' behalf. *Recover Willpower when praised or rewarded for completing a significantly risky task for someone else.*
@@ -763,7 +870,7 @@ WILLPOWER AND RESISTANCE:
 When resisting mental influence, social coercion, supernatural compulsion, or Paradox-induced Quiet progression, a mage may spend 1 Willpower to gain Enhancement +1 on the resistance roll. This stacks with other bonuses, up to the +5 Enhancement cap.
 
 RECOVERY:
-• Spend a scene acting in accordance with your Nature (the core drive that defines your character): recover 1 Willpower.
+• Spend a scene acting in accordance with your Nature — fulfilling the Fulfillment condition of the Nature Tag chosen in Step One (see Nature and Demeanor): recover 1 Willpower. No more than once per scene.
 • Complete a full night of uninterrupted sleep: recover 1d3 Willpower.
 • Complete a major story arc that resolves one of your core Bonds or advances a personal goal: recover to full.
 • Successfully complete a Seeking: recover to full.
@@ -867,6 +974,8 @@ You may trade an Edge dot for any one of the following instead: 1 additional sta
 
 **Drawback Tags.** Take any compel-only Tags from Appendix J that suit your concept — a Phobia, an Addiction, a Vow, a lingering Enemy. They cost nothing and refund nothing; their worth is the Momentum they hand you when the Storyguide compels them. A character with a few well-chosen drawback Tags is richer to play than one with none.
 
+**Nature and Demeanor.** Finally, if you have not already, lock in the **Nature** you chose back in Step One (see *Nature and Demeanor*) and write it on your sheet as a Tag — it is the one Tag every character carries, and the source of your everyday Willpower recovery. Note its Strength (which you Invoke), its Weakness (which the Storyguide Compels), and its Fulfillment condition (which restores 1 Willpower). Optionally jot a **Demeanor** — the mask you wear in public. Demeanor is pure flavor and carries no mechanics; you can change it any time the story calls for it.
+
 Edge dots cannot be spent on Attributes, Skills, or Sphere ratings, which are fixed by your Paths and Tradition.
 
 An Edge is a dot-rated, always-on advantage: once bought, it simply applies whenever its situation arises. That makes Edges different from the drawback Tags above (which only ever complicate, never help) and from the scene Tags a Storyguide assigns on the fly. When an Edge grants a bonus, note its dots and the circumstance it covers; when an Edge represents a resource — Resources, a Node, a Chantry, a Wonder — its rating measures how much of that resource you command, and a Wonder taken this way costs Edge dots equal to its rating.
@@ -948,6 +1057,7 @@ Rosamund Ashby — Blood-and-Bone Witch
 -------------------------------------
 CONCEPT: Verbena hedge-witch; healer and guardian of the natural world; fears that the Traditions' bureaucracy is as bad as the Technocracy's sterility.
 ENLIGHTENMENT: 2
+NATURE: Guardian — invoke [Courage]; Storyguide compels [Self-Sacrifice]. Fulfillment: recover 1 Willpower when she saves a weaker being from certain destruction.  |  DEMEANOR: Caregiver
 
 PATHS:
   Major Path — The Blood-and-Bone Witch: Skills: Esoterica 3, Medicine 2, Survival 1. Attributes: Resolve 3, Stamina 2, Composure 2, Presence 2, Might 1.
@@ -1012,6 +1122,7 @@ KENJI WATANABE — Akashic Brotherhood
 CONCEPT: Martial artist who Awakened to Do (the Way) through combat near-death experience.
 TRADITION: Akashic Brotherhood  |  PATH: The Eight-Fold Way (Mind/Life specialists)
 ARETE: 2  |  WILLPOWER: 4  |  QUINTESSENCE: 4  |  PARADOX POOL: 0
+NATURE: Visionary — invoke [Inspiration]; compel [Pride]. Fulfillment: recover 1 Willpower when his insight becomes a truth others accept or act on.  |  DEMEANOR: Traditionalist
 
 ATTRIBUTES
   Might 4      Dexterity 4     Stamina 3
@@ -1065,6 +1176,7 @@ MIRIAM COLE — Verbena
 CONCEPT: Appalachian hedge witch and midwife; heals, blesses, and reads the land.
 TRADITION: Verbena  |  PATH: The Root and Branch (Life/Prime hedge witchcraft)
 ARETE: 2  |  WILLPOWER: 3  |  QUINTESSENCE: 5  |  PARADOX POOL: 0
+NATURE: Caregiver — invoke [Kindness]; compel [Insecurity]. Fulfillment: recover 1 Willpower when she protects, comforts, or nurtures someone who truly needs it.  |  DEMEANOR: Benefactor
 
 ATTRIBUTES
   Might 2      Dexterity 2     Stamina 3
@@ -1119,6 +1231,7 @@ DEX NGUYEN — Virtual Adepts
 CONCEPT: Freelance security consultant who debugs consensus reality.
 TRADITION: Virtual Adepts  |  PATH: The Signal Path (Correspondence/Mind specialists)
 ARETE: 2  |  WILLPOWER: 3  |  QUINTESSENCE: 4  |  PARADOX POOL: 0
+NATURE: Hacker — invoke [Imagination]; compel [Perversity]. Fulfillment: recover 1 Willpower when he finds the real flaw in a system or improves something thought well-made.  |  DEMEANOR: Trickster
 
 ATTRIBUTES
   Might 2      Dexterity 3     Stamina 2
@@ -14597,6 +14710,7 @@ Mind ●●●○ (3)    Life ●●○○ (2)    Forces ●●○○ (2)    Cor
 DERIVED STATISTICS
 Health: 7 + Stamina 3 = 10 boxes  (Bruised ×5 | Impaired ×2, −1 die | Critical ×2, −2 dice | Incap ×1)
 Willpower: 7 (Resolve 4 + 3)  —  current pool: 7
+Nature: Idealist — invoke [Conviction]; Storyguide compels [Dogmatism]. Fulfillment: recover 1 Willpower when his beliefs are tested to the breaking point and do not fail.  |  Demeanor: Loner
 Quintessence: 6 (Avatar ●●● + 3)  —  current: 5
 Initiative Dice: Athletics 3 + Cunning 3 = 6
 Arete: ●●●● (4)  —  Sphere cap, not a dice pool
@@ -15009,13 +15123,25 @@ Paradox and Sanity: Per the Sanity system (Appendix J), a Moderate Backlash that
 
 *The [Unsettled] tag persists until Sasha spends a scene in quiet meditation at the Chantry Node, recovers to full Quintessence, and the Storyguide determines the psychological wound has been processed. Until then: Invoke [Unsettled] when his raw edge provides instinctive insight. Compel [Unsettled] when the creeping wrongness makes him hesitate or act erratically.*
 
+## Part Seven-and-a-Half: Nature in Play — Recovering Willpower
+
+The encounter cost Sasha 1 Willpower (the critical dodge in Round 2). Here is how he gets it back — and how his **Nature** shaped the fight in the first place.
+
+Recall Sasha's Nature is **Idealist** (Strength [Conviction], Weakness [Dogmatism], Fulfillment: *his beliefs are tested to the breaking point yet do not fail*). This is not the same thing as his Avatar's **Pattern Essence** — the Essence is what his Avatar wants (order, structure, patient mastery) and drives Seekings and Essence Compels; the Nature is who Sasha is at the core, and it drives his everyday Willpower economy. A mage carries both, and both can be Invoked and Compelled independently.
+
+> **The test.** In Round 3, Cross's dying gambit was a Mind ●●● compulsion trying to make Sasha *believe UNIT-7 was his ally* — a direct assault on his grip on the truth. That is precisely the crucible the Idealist lives for: a belief pushed to the breaking point. The compulsion was still resolving when Paradox ended the fight, and Sasha never wavered from what he knew to be real.
+>
+> *Storyguide ruling:* "Your conviction was tested about as hard as it can be — someone tried to rewrite what you believe — and it held. That's your Nature's Fulfillment. Recover 1 Willpower." Sasha goes from 6 back to 7. Note that this is capped at once per scene, and it did not raise his permanent rating (7); it only refilled the point he had spent.
+
+> **Invoke vs. Compel, in this fight.** Sasha's player could have leaned on his Nature *during* the combat, too. Invoking [Conviction] (1 Momentum) would have granted Enhancement +1 on the Resolve + Composure roll resisting Cross's compulsion — a natural use of an Idealist's Strength against a direct challenge to his beliefs. Conversely, the Storyguide could have offered a Compel on [Dogmatism] at the moment Sasha chose whether to improvise the Forces blackout: "The disciplined answer is to hold your line and fight clean — improvising a dirty power-cut offends your sense of how this is *supposed* to be done. Take a Momentum to do it the hard, honorable way instead." Sasha's player would then decide between the Momentum (and the rigid path) or spending 1 Momentum to refuse and keep the clever option. Neither the Invoke nor the Compel fired in the transcript above — but every round offered a place where the Nature Tag could have.
+
 ## Part Eight: Quick Reference -- Sasha’s Character Sheet Post-Encounter
 
 ```
 Sasha Volkov — End-of-Session State
 -----------------------------------
 HEALTH: 9/10 boxes filled — CRITICAL band (−2 dice) — survived via Forces deflection
-WILLPOWER: 6 / 7 (spent 1 in Round 2 for the critical dodge)
+WILLPOWER: 7 / 7 (spent 1 in Round 2 for the critical dodge; recovered 1 at scene's end via his Nature's Fulfillment — see Part Seven-and-a-Half)
 QUINTESSENCE: 3 / 6 (spent 2 during encounter)
 PARADOX POOL: 0 (cleared — backlash has fired)
 SANITY: 7 / 10  |  Status Tag: [Unsettled]
@@ -15035,6 +15161,7 @@ MECHANICAL LESSONS FROM THIS ENCOUNTER
 4. Phase Initiative rewards preparation. Casting Iron Skin early (Round 1, Phase 1) meant it was active for Round 2. Reactive casting is always later.
 5. Tags are the texture of the fight. [Armored 2], [Bloodied], [Stun], [Low Visibility], [Unsettled] — each one changed what was possible.
 6. Paradox accumulates and fires. Four dice from five castings produced a Moderate Backlash. The Forces Sphere loss is not permanent, but it is significant and will affect future choices.
+7. Nature drives Willpower recovery. Sasha's Idealist Nature turned Cross's compulsion — a direct test of his convictions — into a Fulfillment trigger, refunding the Willpower he had spent. Playing your Nature is not just flavor; it is how you keep the resource that powers everything else. Note that Nature is distinct from Avatar Essence: both can be Invoked and Compelled, but only the Nature refreshes Willpower.
 ```
 
 ---
@@ -26735,6 +26862,10 @@ Movement in Combat (Range Bands, Reflexive Step, Standard Move, Sprint, Rush, Co
 ### N
 
 ::: {custom-style="IndexEntry"}
+
+Nature and Demeanor`<w:r><w:tab/></w:r>`{=openxml}15
+
+Natures (as a Tag: Strength, Weakness, Fulfillment)`<w:r><w:tab/></w:r>`{=openxml}15
 
 Near Umbra`<w:r><w:tab/></w:r>`{=openxml}425
 
