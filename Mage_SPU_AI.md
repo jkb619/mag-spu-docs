@@ -1130,9 +1130,9 @@ ATTRIBUTES
   Intellect 2  Cunning 3       Resolve 3
 
 SKILLS
-  Close Combat 4   Athletics 3   Stealth 2
-  Awareness 3      Medicine 2    Enigmas 2
-  Occult 2         Empathy 2
+  Close Combat 4   Athletics 3   Larceny 2
+  Culture 3        Medicine 2    Enigmas 2
+  Esoterica 2      Empathy 2
 
 SPHERES
   Life 2   Mind 1
@@ -1160,7 +1160,7 @@ TYPICAL SPELLS
 
 HOW TO PLAY KENJI: In combat, declare your action early — Close Combat with high Might and Dexterity means you are almost always the most dangerous person in the room. Use Enhanced Body on round one if you expect a prolonged fight. Still the Mind is excellent when facing Quiet Track damage or supernatural fear. Read Intent is situational but can be decisive: learn exactly what the enemy plans before it happens.
 
-Outside combat, Kenji is introspective and observant. Lean on Awareness (3) and Empathy (2) for social reads. His Code is strict: he does not use lethal force unless genuinely necessary, and he prefers resolution over escalation. When the Storyguide puts him in a situation with no clean solution, play into that tension — it is where Akashic characters shine.
+Outside combat, Kenji is introspective and observant. Lean on Culture (3) and Empathy (2) for social reads. His Code is strict: he does not use lethal force unless genuinely necessary, and he prefers resolution over escalation. When the Storyguide puts him in a situation with no clean solution, play into that tension — it is where Akashic characters shine.
 
 ### Character 2: Miriam Cole — The Verbena Hedge Witch
 
@@ -1184,9 +1184,9 @@ ATTRIBUTES
   Intellect 3  Cunning 3       Resolve 3
 
 SKILLS
-  Medicine 4   Empathy 3    Occult 3
-  Survival 3   Awareness 3  Persuasion 2
-  Academics 2
+  Medicine 4   Empathy 3    Esoterica 3
+  Survival 3   Enigmas 3    Persuasion 2
+  Culture 2
 
 SPHERES
   Life 2   Prime 1
@@ -1194,7 +1194,7 @@ SPHERES
 
 TAGS
   [Healing Hands] — Invoke: Enhancement +1 on any Medicine or Life-based healing roll.
-  [Read the Land] — Invoke: Enhancement +1 to Awareness or Survival checks in natural settings.
+  [Read the Land] — Invoke: Enhancement +1 to Enigmas or Survival checks in natural settings.
   [Green Blessing] — Invoke: once per scene, treat one failed Medicine roll as one hit.
 
 HEALTH: 5   (Stamina 3 + 2)
@@ -1239,8 +1239,8 @@ ATTRIBUTES
   Intellect 4  Cunning 4       Resolve 3
 
 SKILLS
-  Technology 4  Academics 3   Awareness 3
-  Stealth 3     Persuasion 2  Occult 2
+  Technology 4  Science 3     Enigmas 3
+  Larceny 3     Persuasion 2  Esoterica 2
   Empathy 2
 
 SPHERES
@@ -1248,8 +1248,8 @@ SPHERES
   Casting Attribute: Correspondence = Cunning. Mind = Resolve.
 
 TAGS
-  [Signal Ghost] — Invoke: Enhancement +1 to Stealth or any attempt to go undetected digitally.
-  [Pattern Recognition] — Invoke: Enhancement +1 to Academics or Awareness when analysing data.
+  [Signal Ghost] — Invoke: Enhancement +1 to Larceny or any attempt to go undetected digitally.
+  [Pattern Recognition] — Invoke: Enhancement +1 to Science or Enigmas when analysing data.
   [Social Engineer] — Invoke: Enhancement +1 to Persuasion or Manipulation using false pretenses.
 
 HEALTH: 4   (Stamina 2 + 2)
@@ -1273,7 +1273,7 @@ TYPICAL SPELLS
 
 HOW TO PLAY DEX: Dex's power is information. Before any mission, ask the Storyguide if you can spend 10-15 minutes of in-game time running reconnaissance with Distant Reach — learning the layout, identifying threats, counting guards. That information pays dividends for the entire party.
 
-In social situations, Pattern Recognition plus high Academics lets Dex pick up on contradictions and deceptions faster than almost anyone. Reframe is not a win button — it shifts mood, not commands action — but used subtly it can turn a hostile NPC toward neutrality before a confrontation starts. Dex is physically fragile (Health 4, no Armor). Keep him out of direct melee and use Stealth (3) with [Signal Ghost] to avoid situations where his frailty matters.
+In social situations, Pattern Recognition plus high Science lets Dex pick up on contradictions and deceptions faster than almost anyone. Reframe is not a win button — it shifts mood, not commands action — but used subtly it can turn a hostile NPC toward neutrality before a confrontation starts. Dex is physically fragile (Health 4, no Armor). Keep him out of direct melee and use Larceny (3) with [Signal Ghost] to avoid situations where his frailty matters.
 
 # Chapter Four: Magic — The Tapestry of Reality
 
@@ -5792,7 +5792,7 @@ Celestial Chorus — Tradition Path
 Major Path Name: The Voice of the Divine
 Associated Skills: Esoterica, Leadership, Persuasion, Empathy, Medicine, Culture
 Associated Attributes: Presence, Resolve, Composure
-Special Ability: Litany of Healing — When casting a Life effect to heal, the Chorus mage may treat every Complication on the roll as one severity lower.
+Special Ability: Divine Resonance — Once per scene, may spend 1 Momentum to add Enhancement equal to their Prime or Spirit Sphere rating (maximum +3) to any social roll made to inspire faith, resolve conflict, or bring peace.
 Primary Sphere: Prime
 ```
 
@@ -5824,7 +5824,7 @@ Dreamspeakers — Tradition Path
 Major Path Name: The Walker Between
 Associated Skills: Esoterica, Survival, Medicine, Empathy, Enigmas, Culture
 Associated Attributes: Composure, Resolve, Cunning
-Special Ability: Spirit Ear — The Dreamspeaker hears and understands all spirits without needing Spirit 2. Communication is free (though cooperation still requires skill).
+Special Ability: Spirit Sight — Passively aware of Spirit activity in the local area; no roll needed to sense whether spirits are present within line of sight. Detecting their nature or intent still requires an Esoterica or Empathy roll.
 Primary Sphere: Spirit
 ```
 
@@ -5856,7 +5856,7 @@ Order of Hermes — Tradition Path
 Major Path Name: The Hermetic Scholar
 Associated Skills: Esoterica, Culture, Science, Enigmas, Leadership, Artistry
 Associated Attributes: Intellect, Resolve, Cunning
-Special Ability: Hermetic Formulation — When casting any Rote, the Order mage gains Enhancement +2 (instead of the standard +1). Their preparation is meticulous.
+Special Ability: Hermetic Memory — Once per scene, may perfectly recall any written text, formula, or diagram they have personally studied, with no roll required.
 Primary Sphere: Prime
 ```
 
@@ -5904,7 +5904,7 @@ Virtual Adepts — Tradition Path
 Major Path Name: The Reality Hacker
 Associated Skills: Technology, Science, Enigmas, Larceny, Ranged Combat, Pilot
 Associated Attributes: Cunning, Intellect, Dexterity
-Special Ability: Root Access — Once per session, the Adept may treat any electronic system as a magical focus, using it as a sympathetic link to any digital infrastructure it is connected to (at Correspondence 2+, this means surveillance-free access to connected networks).
+Special Ability: Root Access — Once per scene, may spend 1 Momentum to execute a Correspondence effect (up to SF 1 / Correspondence 1 scope) through any networked system they have previously accessed, with no roll required.
 Primary Sphere: Correspondence
 ```
 
@@ -6045,278 +6045,330 @@ The Ascension War is not primarily a military conflict. It is a propaganda war, 
 
 ## Tradition Path Tables — Skills and Attributes
 
-Each Tradition is associated with a Major Path and two Minor Paths. The tables below show exactly what each Path provides. See Chapter Three — Designing and Customizing Paths for full Path design rules and how to create custom Paths.
+Each Tradition is associated with a Major Path and two Minor Paths. The tables below are the authoritative, complete mechanical package for each Path — everything a player needs to build the character out of the box. See Chapter Three — Designing and Customizing Paths for the full Path design rules and how to create or adapt custom Paths.
 
-HOW TO READ THESE TABLES: Each Major Path row shows: Attribute Arenas with dot totals summing to 10, a Skill list with suggested allocation summing to 6 (distribute freely among the listed Skills — no more than 3 in any single Skill), a Special Ability, and suggested Contact types. Each Minor Path row shows Attribute dots summing to 4 and Skill dots summing to 3 (no more than 2 in any single Skill). All dot counts are player-allocated; the suggested allocations are examples, not requirements.
+HOW TO READ THESE TABLES: Every Path is fully specified. Each Major Path row gives Attribute Arenas totaling 10 dots, a Skill list (drawn only from the sixteen core Skills in Chapter Two) with a suggested allocation summing to 6 (distribute freely among the listed Skills — no more than 3 in any single Skill), a Special Ability, three Contacts, a Bond at rating 2, and the Path's Sphere Affinity. Each Minor Path row gives 4 Attribute dots, 3 Skill dots (no more than 2 in any single Skill), one Contact, and a Bond at rating 1. All dot counts are player-allocated; the suggested allocations are examples, not requirements. The Major Path names match the summary table in Chapter Three and the Tradition write-ups earlier in this chapter.
 
 ### Akashic Brotherhood — Path Associations
 
 | Path Type | Full Path Details |
 | --- | --- |
-| Major Path: The Way of the Body | ATTRIBUTES (10 dots): Physical 6 (Might, Dexterity, Stamina) \| Mental 2 (Resolve) \| Social 2 (Composure)
+| Major Path: The Warrior-Philosopher | ATTRIBUTES (10 dots): Physical 6 (Might, Dexterity, Stamina) \| Mental 2 (Resolve) \| Social 2 (Composure)
 SKILLS (6 dots — distribute freely, max 3 in one):
-Available: Close Combat, Athletics, Integrity, Awareness
-Suggested: Close Combat ●●●, Athletics ●●, Integrity ●
+Available: Close Combat, Athletics, Esoterica, Empathy
+Suggested: Close Combat ●●●, Athletics ●●, Esoterica ●
 SPECIAL ABILITY: Do — Once per scene, when making an unarmed strike, the mage may substitute any one Sphere rating for Might or Dexterity in the attack pool.
 CONTACTS (3): senior Do practitioner, street medic, Chantry gatekeeper
+BOND (2): a martial mentor, a sacred dojo, or the ideal of the Record
 SPHERE AFFINITY: Mind, Life |
 | Minor Path A: The Way of the Mind | ATTRIBUTES (4 dots): Mental 2 (Resolve, Cunning) \| Social 2 (Composure)
-SKILLS (3 dots — max 2 in one): Esoterica, Occult, Medicine
-Suggested: Esoterica ●●, Occult ●
-CONTACT (1): meditation instructor or occult scholar |
+SKILLS (3 dots — max 2 in one): Esoterica, Enigmas, Medicine
+Suggested: Esoterica ●●, Enigmas ●
+CONTACT (1): meditation instructor or occult scholar
+BOND (1): a teacher or a meditative discipline |
 | Minor Path B: The Way of the Teacher | ATTRIBUTES (4 dots): Social 4 (Presence, Manipulation)
-SKILLS (3 dots — max 2 in one): Persuasion, Academics, Culture
+SKILLS (3 dots — max 2 in one): Persuasion, Culture, Leadership
 Suggested: Persuasion ●●, Culture ●
-CONTACT (1): former student or community elder |
+CONTACT (1): former student or community elder
+BOND (1): a student or a school |
 
 ### Celestial Chorus — Path Associations
 
 | Path Type | Full Path Details |
 | --- | --- |
-| Major Path: The Path of the Devoted | ATTRIBUTES (10 dots): Social 6 (Presence, Composure) \| Mental 3 (Resolve) \| Physical 1 (Stamina)
+| Major Path: The Voice of the Divine | ATTRIBUTES (10 dots): Social 6 (Presence, Composure) \| Mental 3 (Resolve) \| Physical 1 (Stamina)
 SKILLS (6 dots — distribute freely, max 3 in one):
-Available: Integrity, Persuasion, Esoterica, Occult
-Suggested: Integrity ●●●, Persuasion ●●, Esoterica ●
+Available: Leadership, Persuasion, Esoterica, Empathy
+Suggested: Leadership ●●●, Persuasion ●●, Esoterica ●
 SPECIAL ABILITY: Divine Resonance — Once per scene, may spend 1 Momentum to add Enhancement equal to their Prime or Spirit Sphere rating (maximum +3) to any social roll made to inspire faith, resolve conflict, or bring peace.
 CONTACTS (3): diocesan priest or interfaith chaplain, choir master or cantor, shelter or relief worker
+BOND (2): a congregation, a mentor in faith, or the Divine Whole itself
 SPHERE AFFINITY: Prime, Spirit |
 | Minor Path A: The Path of the Shepherd | ATTRIBUTES (4 dots): Social 4 (Presence, Manipulation)
 SKILLS (3 dots — max 2 in one): Medicine, Persuasion, Culture
 Suggested: Medicine ●●, Persuasion ●
-CONTACT (1): congregation member or community organizer |
+CONTACT (1): congregation member or community organizer
+BOND (1): a flock or a parish |
 | Minor Path B: The Path of the Scholar | ATTRIBUTES (4 dots): Mental 4 (Intellect, Resolve)
-SKILLS (3 dots — max 2 in one): Academics, Occult, Esoterica
-Suggested: Academics ●●, Occult ●
-CONTACT (1): seminary librarian or religious historian |
+SKILLS (3 dots — max 2 in one): Culture, Esoterica, Enigmas
+Suggested: Culture ●●, Esoterica ●
+CONTACT (1): seminary librarian or religious historian
+BOND (1): a library or a teacher |
 
 ### Cult of Ecstasy — Path Associations
 
 | Path Type | Full Path Details |
 | --- | --- |
-| Major Path: The Path of Sensation | ATTRIBUTES (10 dots): Social 5 (Presence, Composure) \| Mental 3 (Cunning, Resolve) \| Physical 2 (Dexterity)
+| Major Path: The Seeker of the Bleeding Edge | ATTRIBUTES (10 dots): Social 5 (Presence, Composure) \| Mental 3 (Cunning, Resolve) \| Physical 2 (Dexterity)
 SKILLS (6 dots — distribute freely, max 3 in one):
-Available: Culture, Persuasion, Awareness, Esoterica
-Suggested: Culture ●●●, Persuasion ●●, Awareness ●
-SPECIAL ABILITY: Visions — Once per scene, may spend 1 Momentum to see a flash of Time magic — a brief glimpse of immediate past or future, granting Enhancement +1 to the next action taken.
+Available: Artistry, Persuasion, Esoterica, Empathy
+Suggested: Artistry ●●●, Persuasion ●●, Empathy ●
+SPECIAL ABILITY: Burn the Veil — Once per session, when in a state of genuine emotional or physical extremity, the Cultist may waive the Paradox dice from one Vulgar casting.
 CONTACTS (3): underground event promoter, pharmaceutical researcher or chemist, spiritual retreat facilitator
+BOND (2): a lover, a scene or subculture, or a transcendent experience
 SPHERE AFFINITY: Time, Mind |
 | Minor Path A: The Path of the Artist | ATTRIBUTES (4 dots): Social 4 (Presence, Manipulation)
-SKILLS (3 dots — max 2 in one): Culture, Esoterica, Academics
-Suggested: Culture ●●, Esoterica ●
-CONTACT (1): gallery owner or arts patron |
+SKILLS (3 dots — max 2 in one): Artistry, Culture, Esoterica
+Suggested: Artistry ●●, Culture ●
+CONTACT (1): gallery owner or arts patron
+BOND (1): a muse or a medium |
 | Minor Path B: The Path of the Survivor | ATTRIBUTES (4 dots): Physical 2 (Stamina) \| Social 2 (Composure)
-SKILLS (3 dots — max 2 in one): Survival, Athletics, Awareness
+SKILLS (3 dots — max 2 in one): Survival, Athletics, Empathy
 Suggested: Survival ●●, Athletics ●
-CONTACT (1): harm reduction worker or street medic |
+CONTACT (1): harm reduction worker or street medic
+BOND (1): a crew that kept you alive |
 
 ### Dreamspeakers — Path Associations
 
 | Path Type | Full Path Details |
 | --- | --- |
-| Major Path: The Path of the Speaker | ATTRIBUTES (10 dots): Social 5 (Composure, Presence) \| Mental 3 (Resolve) \| Physical 2 (Stamina)
+| Major Path: The Walker Between | ATTRIBUTES (10 dots): Social 5 (Composure, Presence) \| Mental 3 (Resolve) \| Physical 2 (Stamina)
 SKILLS (6 dots — distribute freely, max 3 in one):
-Available: Occult, Esoterica, Awareness, Survival
-Suggested: Occult ●●●, Esoterica ●●, Survival ●
-SPECIAL ABILITY: Spirit Sight — Passively aware of Spirit activity in the local area. No roll needed to sense whether spirits are present within line of sight. Detecting their nature or intent still requires an Occult or Awareness roll.
+Available: Esoterica, Survival, Empathy, Medicine
+Suggested: Esoterica ●●●, Survival ●●, Empathy ●
+SPECIAL ABILITY: Spirit Sight — Passively aware of Spirit activity in the local area; no roll needed to sense whether spirits are present within line of sight. Detecting their nature or intent still requires an Esoterica or Empathy roll.
 CONTACTS (3): tribal or community elder, park ranger or wilderness guide, anthropology or ethnobotany academic
+BOND (2): an ancestor, a spirit ally, or a sacred land
 SPHERE AFFINITY: Spirit, Life |
 | Minor Path A: The Path of the Healer | ATTRIBUTES (4 dots): Physical 2 (Stamina) \| Mental 2 (Resolve)
-SKILLS (3 dots — max 2 in one): Medicine, Survival, Integrity
+SKILLS (3 dots — max 2 in one): Medicine, Survival, Empathy
 Suggested: Medicine ●●, Survival ●
-CONTACT (1): herbalist or community healer |
+CONTACT (1): herbalist or community healer
+BOND (1): a patient community |
 | Minor Path B: The Path of the Warrior | ATTRIBUTES (4 dots): Physical 4 (Might, Dexterity)
 SKILLS (3 dots — max 2 in one): Athletics, Close Combat, Survival
 Suggested: Athletics ●●, Close Combat ●
-CONTACT (1): warrior society member or martial elder |
+CONTACT (1): warrior society member or martial elder
+BOND (1): a warrior society |
 
 ### Euthanatos — Path Associations
 
 | Path Type | Full Path Details |
 | --- | --- |
-| Major Path: The Path of the Good Death | ATTRIBUTES (10 dots): Mental 6 (Resolve, Cunning, Intellect) \| Social 2 (Composure) \| Physical 2 (Stamina)
+| Major Path: The Good Death | ATTRIBUTES (10 dots): Mental 6 (Resolve, Cunning, Intellect) \| Social 2 (Composure) \| Physical 2 (Stamina)
 SKILLS (6 dots — distribute freely, max 3 in one):
-Available: Esoterica, Occult, Integrity, Awareness
-Suggested: Esoterica ●●●, Occult ●●, Awareness ●
-SPECIAL ABILITY: Death Sense — Passively aware of the proximity of death. No roll needed to know whether any being within sight is terminally ill, marked for death, or already dying. Identifying the cause or timing requires a roll.
-CONTACTS (3): hospice nurse or palliative care worker, forensic pathologist or coroner, grief counselor or mortician
+Available: Esoterica, Medicine, Enigmas, Close Combat
+Suggested: Esoterica ●●●, Medicine ●●, Enigmas ●
+SPECIAL ABILITY: Read the Thread — Once per scene, the Euthanatos may ask the Storyguide one yes-or-no question about whether a target will die within the next 24 hours, and receive an honest answer.
+CONTACTS (3): hospice nurse or palliative-care worker, forensic pathologist or coroner, grief counselor or mortician
+BOND (2): a mentor in the Good Death, an ancestor-line, or the Wheel itself
 SPHERE AFFINITY: Entropy, Life |
 | Minor Path A: The Path of the Assassin | ATTRIBUTES (4 dots): Physical 2 (Dexterity) \| Mental 2 (Cunning)
-SKILLS (3 dots — max 2 in one): Close Combat, Stealth, Athletics
-Suggested: Close Combat ●●, Stealth ●
-CONTACT (1): fence or underworld fixer |
+SKILLS (3 dots — max 2 in one): Close Combat, Larceny, Athletics
+Suggested: Close Combat ●●, Larceny ●
+CONTACT (1): fence or underworld fixer
+BOND (1): a handler or a code |
 | Minor Path B: The Path of the Philosopher | ATTRIBUTES (4 dots): Mental 4 (Intellect, Resolve)
-SKILLS (3 dots — max 2 in one): Academics, Occult, Medicine
-Suggested: Academics ●●, Occult ●
-CONTACT (1): comparative religion scholar or antiquarian |
+SKILLS (3 dots — max 2 in one): Culture, Esoterica, Medicine
+Suggested: Culture ●●, Esoterica ●
+CONTACT (1): comparative-religion scholar or antiquarian
+BOND (1): a teacher or a text |
 
 ### Order of Hermes — Path Associations
 
 | Path Type | Full Path Details |
 | --- | --- |
-| Major Path: The Path of the Scholar-Mage | ATTRIBUTES (10 dots): Mental 6 (Intellect, Resolve, Cunning) \| Physical 2 (Stamina) \| Social 2 (Presence)
+| Major Path: The Hermetic Scholar | ATTRIBUTES (10 dots): Mental 6 (Intellect, Resolve, Cunning) \| Physical 2 (Stamina) \| Social 2 (Presence)
 SKILLS (6 dots — distribute freely, max 3 in one):
-Available: Esoterica, Academics, Occult, Science
-Suggested: Esoterica ●●●, Academics ●●, Occult ●
+Available: Esoterica, Culture, Science, Enigmas
+Suggested: Esoterica ●●●, Culture ●●, Enigmas ●
 SPECIAL ABILITY: Hermetic Memory — Once per scene, may perfectly recall any written text, formula, or diagram they have personally studied, with no roll required.
 CONTACTS (3): academic or Chantry archivist, antiquarian bookseller, rival from another Hermetic House
+BOND (2): a House, a mentor magus, or a grimoire
 SPHERE AFFINITY: Forces, Prime |
 | Minor Path A: The Path of the Duelist | ATTRIBUTES (4 dots): Physical 2 (Dexterity) \| Mental 2 (Resolve)
-SKILLS (3 dots — max 2 in one): Close Combat, Athletics, Integrity
+SKILLS (3 dots — max 2 in one): Close Combat, Athletics, Empathy
 Suggested: Close Combat ●●, Athletics ●
-CONTACT (1): fencing instructor or dueling circle contact |
+CONTACT (1): fencing instructor or dueling-circle contact
+BOND (1): a rival or a mentor-at-arms |
 | Minor Path B: The Path of the Courtier | ATTRIBUTES (4 dots): Social 4 (Presence, Manipulation)
-SKILLS (3 dots — max 2 in one): Persuasion, Culture, Academics
+SKILLS (3 dots — max 2 in one): Persuasion, Culture, Leadership
 Suggested: Persuasion ●●, Culture ●
-CONTACT (1): noble patron or political ally |
+CONTACT (1): noble patron or political ally
+BOND (1): a patron or a court |
 
 ### Sons of Ether — Path Associations
 
 | Path Type | Full Path Details |
 | --- | --- |
-| Major Path: The Path of the Inventor | ATTRIBUTES (10 dots): Mental 5 (Intellect, Cunning) \| Physical 3 (Dexterity, Stamina) \| Social 2 (Presence)
+| Major Path: The Mad Genius | ATTRIBUTES (10 dots): Mental 5 (Intellect, Cunning) \| Physical 3 (Dexterity, Stamina) \| Social 2 (Presence)
 SKILLS (6 dots — distribute freely, max 3 in one):
-Available: Esoterica, Technology, Academics, Science
-Suggested: Esoterica ●●●, Technology ●●, Academics ●
-SPECIAL ABILITY: Prototype Intuition — Once per session, may declare any device in their possession has a previously unspecified capability. The capability must be scientifically plausible within their paradigm and must not exceed their Matter or Forces Sphere rating in complexity.
+Available: Science, Technology, Enigmas, Artistry
+Suggested: Science ●●●, Technology ●●, Enigmas ●
+SPECIAL ABILITY: Inspired Device — Once per session, the Etherite may create a single-use Wonder with a Power of up to their highest Sphere rating, requiring only 15 minutes and their laboratory tools. The device works once, spectacularly.
 CONTACTS (3): university lab technician or parts supplier, fellow eccentric inventor, skeptical engineer who owes them a favor
+BOND (2): a laboratory, a rival genius, or a grand theory
 SPHERE AFFINITY: Matter, Forces |
 | Minor Path A: The Path of the Explorer | ATTRIBUTES (4 dots): Physical 2 (Stamina) \| Mental 2 (Cunning)
-SKILLS (3 dots — max 2 in one): Survival, Athletics, Awareness
+SKILLS (3 dots — max 2 in one): Survival, Athletics, Pilot
 Suggested: Survival ●●, Athletics ●
-CONTACT (1): expedition outfitter or remote station operator |
+CONTACT (1): expedition outfitter or remote-station operator
+BOND (1): a crew or an unexplored frontier |
 | Minor Path B: The Path of the Engineer | ATTRIBUTES (4 dots): Mental 2 (Intellect) \| Physical 2 (Dexterity)
-SKILLS (3 dots — max 2 in one): Technology, Academics, Medicine
-Suggested: Technology ●●, Medicine ●
-CONTACT (1): machine shop contact or technical supplier |
+SKILLS (3 dots — max 2 in one): Technology, Science, Medicine
+Suggested: Technology ●●, Science ●
+CONTACT (1): machine-shop contact or technical supplier
+BOND (1): a workshop or a mentor |
 
 ### Verbena — Path Associations
 
 | Path Type | Full Path Details |
 | --- | --- |
-| Major Path: The Path of the Blood | ATTRIBUTES (10 dots): Physical 4 (Stamina, Might) \| Social 3 (Presence) \| Mental 3 (Resolve)
+| Major Path: The Blood-and-Bone Witch | ATTRIBUTES (10 dots): Physical 4 (Stamina, Might) \| Social 3 (Presence) \| Mental 3 (Resolve)
 SKILLS (6 dots — distribute freely, max 3 in one):
-Available: Occult, Survival, Esoterica, Medicine
-Suggested: Occult ●●●, Survival ●●, Esoterica ●
-SPECIAL ABILITY: The Witch's Mark — Once per scene, may spend 1 Momentum to diagnose any natural illness or wound by touch with no roll required.
+Available: Esoterica, Medicine, Survival, Empathy
+Suggested: Esoterica ●●●, Medicine ●●, Survival ●
+SPECIAL ABILITY: The Witch's Mark — Once per scene, the Verbena may diagnose any natural illness or wound by touch, with no roll required.
 CONTACTS (3): herbalist or hedge-witch neighbor, midwife or birth worker, folklore scholar or local historian
+BOND (2): a coven, a sacred grove, or a bloodline
 SPHERE AFFINITY: Life, Prime |
 | Minor Path A: The Path of the Witch | ATTRIBUTES (4 dots): Social 4 (Composure, Manipulation)
-SKILLS (3 dots — max 2 in one): Persuasion, Occult, Esoterica
-Suggested: Persuasion ●●, Occult ●
-CONTACT (1): coven elder or local spirit-worker |
+SKILLS (3 dots — max 2 in one): Persuasion, Esoterica, Empathy
+Suggested: Persuasion ●●, Esoterica ●
+CONTACT (1): coven elder or local spirit-worker
+BOND (1): a coven-sister or a familiar |
 | Minor Path B: The Path of the Warrior | ATTRIBUTES (4 dots): Physical 4 (Might, Stamina)
 SKILLS (3 dots — max 2 in one): Close Combat, Athletics, Survival
 Suggested: Close Combat ●●, Athletics ●
-CONTACT (1): hunter or wilderness guide |
+CONTACT (1): hunter or wilderness guide
+BOND (1): a hunting band or a wild place |
 
 ### Virtual Adepts — Path Associations
 
 | Path Type | Full Path Details |
 | --- | --- |
-| Major Path: The Path of the Hacker | ATTRIBUTES (10 dots): Mental 5 (Intellect, Cunning) \| Physical 3 (Dexterity) \| Social 2 (Composure)
+| Major Path: The Reality Hacker | ATTRIBUTES (10 dots): Mental 5 (Intellect, Cunning) \| Physical 3 (Dexterity) \| Social 2 (Composure)
 SKILLS (6 dots — distribute freely, max 3 in one):
-Available: Technology, Esoterica, Academics, Awareness
-Suggested: Technology ●●●, Esoterica ●●, Academics ●
-SPECIAL ABILITY: Root Access — Once per scene, may spend 1 Momentum to execute a Correspondence effect through any networked system they have previously accessed, with no roll required for effects at SF 1 (Correspondence 1 scope).
+Available: Technology, Science, Enigmas, Larceny
+Suggested: Technology ●●●, Science ●●, Enigmas ●
+SPECIAL ABILITY: Root Access — Once per scene, may spend 1 Momentum to execute a Correspondence effect (up to SF 1 / Correspondence 1 scope) through any networked system they have previously accessed, with no roll required.
 CONTACTS (3): network security contractor, darknet marketplace contact, open-source developer community member
+BOND (2): a crew, a mentor hacker, or the Digital Web itself
 SPHERE AFFINITY: Correspondence, Mind |
 | Minor Path A: The Path of the Ghost | ATTRIBUTES (4 dots): Mental 2 (Cunning) \| Social 2 (Composure)
-SKILLS (3 dots — max 2 in one): Stealth, Athletics, Awareness
-Suggested: Stealth ●●, Athletics ●
-CONTACT (1): security researcher or greyhat contact |
+SKILLS (3 dots — max 2 in one): Larceny, Athletics, Empathy
+Suggested: Larceny ●●, Athletics ●
+CONTACT (1): security researcher or greyhat contact
+BOND (1): a safehouse or an alias |
 | Minor Path B: The Path of the Provocateur | ATTRIBUTES (4 dots): Social 4 (Presence, Manipulation)
-SKILLS (3 dots — max 2 in one): Persuasion, Culture, Academics
+SKILLS (3 dots — max 2 in one): Persuasion, Culture, Technology
 Suggested: Persuasion ●●, Culture ●
-CONTACT (1): journalist or activist organizer |
+CONTACT (1): journalist or activist organizer
+BOND (1): a movement or a platform |
 
 ### Technocratic Union — Convention Path Associations
 
-Technocracy agents are built on Convention Paths rather than Tradition Paths. The five Conventions each function as the equivalent of a Tradition in the Union. Each Convention Major Path follows the same template: 6 Skill dots, 10 Attribute dots by Arena, 3 Contacts, and a Special Ability.
+Technocracy agents are built on Convention Paths rather than Tradition Paths. The five Conventions each function as the equivalent of a Tradition in the Union. Each Convention Major Path follows the same complete template: 10 Attribute dots by Arena, 6 Skill dots (from the sixteen core Skills), a Special Ability, three Contacts, a Bond at 2, and a Sphere Affinity.
 
-| Convention (Major Path) | Attributes \| Skills (6 dots) \| Special Ability \| Sphere Affinity |
+| Convention (Major Path) | Full Path Details |
 | --- | --- |
 | Iteration X
-The Path of the Living Weapon | ATTRIBUTES (10 dots): Physical 6 (Might, Stamina, Dexterity) \| Mental 2 (Resolve) \| Social 2 (Composure)
-SKILLS: Close Combat, Athletics, Technology
-Suggested: Close Combat ●●●, Athletics ●●, Technology ●
-SPECIAL ABILITY: Augmented Reflex — Once per scene, add Enhancement equal to the Iteration X implant rating (+1 to +3) to a single Physical action.
-CONTACTS: military or security superior, black-market cyberware tech, physical therapy specialist
+The Living Weapon | ATTRIBUTES (10 dots): Physical 6 (Might, Stamina, Dexterity) \| Mental 2 (Resolve) \| Social 2 (Composure)
+SKILLS (6 dots — max 3 in one): Close Combat, Ranged Combat, Technology, Athletics
+Suggested: Close Combat ●●●, Ranged Combat ●●, Athletics ●
+SPECIAL ABILITY: Cybernetic Enhancement — The Iterator begins with 2 cybernetic enhancements, each an equipment-level upgrade with 2–3 Tags (e.g., [Targeting System: Enhancement +1 on Ranged Combat], [Reinforced Frame: Armor 1]). Additional enhancements can be acquired through advancement.
+CONTACTS (3): military or security superior, black-market cyberware tech, physical-therapy specialist
+BOND (2): a handler, a unit, or the Union's mission
 SPHERE AFFINITY: Forces, Matter |
 | NWO
-The Path of the Invisible Hand | ATTRIBUTES (10 dots): Social 6 (Manipulation, Presence) \| Mental 3 (Cunning, Resolve) \| Physical 1 (Composure is Social — see note*)
-SKILLS: Persuasion, Awareness, Esoterica
-Suggested: Persuasion ●●●, Awareness ●●, Esoterica ●
-SPECIAL ABILITY: Pattern Recognition — Once per scene, may spend 1 Momentum to identify the single most exploitable social vulnerability of a target NPC after at least one round of interaction.
-CONTACTS: field handler or supervisor, deep-cover journalist, government bureaucrat who owes a favor
+The Invisible Hand | ATTRIBUTES (10 dots): Social 6 (Manipulation, Presence) \| Mental 3 (Cunning, Resolve) \| Physical 1 (Stamina)
+SKILLS (6 dots — max 3 in one): Persuasion, Leadership, Culture, Empathy
+Suggested: Persuasion ●●●, Leadership ●●, Empathy ●
+SPECIAL ABILITY: Narrative Control — Once per session, the agent may retroactively establish a cover story for any event that has already occurred, as long as no player character directly contradicts it publicly within the same session. Mundane records reflect the new narrative.
+CONTACTS (3): field handler or supervisor, deep-cover journalist, government bureaucrat who owes a favor
+BOND (2): a handler, an agency, or a controlled narrative
 SPHERE AFFINITY: Mind, Correspondence |
 | Progenitors
-The Path of the Architect of Life | ATTRIBUTES (10 dots): Mental 6 (Intellect, Resolve) \| Physical 2 (Stamina) \| Social 2 (Presence)
-SKILLS: Academics, Medicine, Esoterica
-Suggested: Academics ●●●, Medicine ●●, Esoterica ●
-SPECIAL ABILITY: Biological Intuition — Once per scene, may spend 1 Momentum to diagnose any biological organism's condition — illness, genetic anomaly, Awakened nature — with no roll required.
-CONTACTS: biotech research assistant, pharmaceutical supply contact, biosafety inspector
+The Architect of Life | ATTRIBUTES (10 dots): Mental 6 (Intellect, Resolve) \| Physical 2 (Stamina) \| Social 2 (Presence)
+SKILLS (6 dots — max 3 in one): Medicine, Science, Enigmas, Technology
+Suggested: Medicine ●●●, Science ●●, Enigmas ●
+SPECIAL ABILITY: Living Lab — The Progenitor may perform any Life Sphere effect on a willing or restrained subject without a Casting Roll, provided they have 15 minutes and their laboratory equipment. The effect is Coincidental (framed as medicine).
+CONTACTS (3): biotech research assistant, pharmaceutical supply contact, biosafety inspector
+BOND (2): a lab, a mentor scientist, or a program
 SPHERE AFFINITY: Life, Prime |
 | Syndicate
-The Path of the Markets That Move | ATTRIBUTES (10 dots): Social 6 (Presence, Manipulation) \| Mental 3 (Cunning, Intellect) \| Physical 1 (Stamina)
-SKILLS: Persuasion, Culture, Academics
-Suggested: Persuasion ●●●, Culture ●●, Academics ●
-SPECIAL ABILITY: Leverage Assessment — Once per scene, may spend 1 Momentum to learn one financial or social leverage point another character holds over a named NPC.
-CONTACTS: corporate legal contact, financial analyst, mid-level government regulator
+The Markets That Move the World | ATTRIBUTES (10 dots): Social 6 (Presence, Manipulation) \| Mental 3 (Cunning, Intellect) \| Physical 1 (Stamina)
+SKILLS (6 dots — max 3 in one): Persuasion, Leadership, Culture, Larceny
+Suggested: Persuasion ●●●, Leadership ●●, Culture ●
+SPECIAL ABILITY: Deep Pockets — Once per session, the agent may acquire any mundane resource (money, equipment, personnel, information) at a quantity appropriate to their Enlightenment rating, without a roll and without a paper trail.
+CONTACTS (3): corporate legal contact, financial analyst, mid-level government regulator
+BOND (2): a firm, a patron, or a portfolio
 SPHERE AFFINITY: Entropy, Mind |
 | Void Engineers
-The Path of the Pioneer | ATTRIBUTES (10 dots): Mental 5 (Intellect, Resolve) \| Physical 3 (Stamina, Dexterity) \| Social 2 (Composure)
-SKILLS: Technology, Awareness, Survival
-Suggested: Technology ●●●, Awareness ●●, Survival ●
-SPECIAL ABILITY: Void Bearing — Passively adapted to hostile environments. May ignore Minor Complications from vacuum, zero-G, or extreme pressure. Does not protect against damage — only eliminates environmental penalty dice.
-CONTACTS: deep-space station technician, xenobiology researcher, military logistics contact
+The Pioneer Beyond the Horizon | ATTRIBUTES (10 dots): Mental 5 (Intellect, Resolve) \| Physical 3 (Stamina, Dexterity) \| Social 2 (Composure)
+SKILLS (6 dots — max 3 in one): Pilot, Science, Technology, Survival
+Suggested: Pilot ●●●, Science ●●, Survival ●
+SPECIAL ABILITY: Deep Universe Training — The Void Engineer ignores Gauntlet ratings when attempting to perceive or enter the Deep Umbra; in standard spirit realms, they gain Enhancement +1 on all Spirit-related rolls.
+CONTACTS (3): deep-space station technician, xenobiology researcher, military logistics contact
+BOND (2): a crew, a vessel, or the Deep Universe itself
 SPHERE AFFINITY: Correspondence, Forces |
 
 ### Technocratic Union — Convention Minor Paths
 
-Minor Paths within Technocratic Conventions follow the same SPU Minor Path template: 4 Attribute dots, 3 Skill dots (no more than 2 in any single Skill), and 1 Contact. They represent specialists who support a Convention’s primary agents without holding a full Convention Path.
+Minor Paths within Technocratic Conventions follow the same SPU Minor Path template: 4 Attribute dots, 3 Skill dots (from the sixteen core Skills, no more than 2 in any single Skill), one Contact, and a Bond at rating 1. They represent specialists who support a Convention's primary agents without holding a full Convention Path.
 
-| Convention / Minor Path | Attributes (4 dots) \| Skills (3 dots) \| Contact |
+| Convention / Minor Path | Full Path Details |
 | --- | --- |
 | Iteration X
-Augmentation Specialist | ATTRIBUTES (4 dots): Physical 3 \| Mental 1
-SKILLS (3 dots): Close Combat ●●, Athletics ●
-CONTACT (1): military cybernetics contractor |
+Augmentation Specialist | ATTRIBUTES (4 dots): Physical 3 (Might, Stamina) \| Mental 1 (Resolve)
+SKILLS (3 dots — max 2 in one): Close Combat, Athletics, Technology
+Suggested: Close Combat ●●, Athletics ●
+CONTACT (1): military cybernetics contractor
+BOND (1): a fabrication team |
 | Iteration X
-Systems Integrator | ATTRIBUTES (4 dots): Mental 3 \| Physical 1
-SKILLS (3 dots): Technology ●●, Academics ●
-CONTACT (1): corporate hardware vendor |
+Systems Integrator | ATTRIBUTES (4 dots): Mental 3 (Intellect) \| Physical 1 (Dexterity)
+SKILLS (3 dots — max 2 in one): Technology, Science, Enigmas
+Suggested: Technology ●●, Science ●
+CONTACT (1): corporate hardware vendor
+BOND (1): a design bureau |
 | NWO
-Observer | ATTRIBUTES (4 dots): Mental 3 \| Social 1
-SKILLS (3 dots): Awareness ●●, Stealth ●
-CONTACT (1): surveillance network administrator |
+Observer | ATTRIBUTES (4 dots): Mental 3 (Cunning) \| Social 1 (Composure)
+SKILLS (3 dots — max 2 in one): Larceny, Empathy, Enigmas
+Suggested: Larceny ●●, Empathy ●
+CONTACT (1): surveillance network administrator
+BOND (1): a watch-list |
 | NWO
-Handler | ATTRIBUTES (4 dots): Social 3 \| Mental 1
-SKILLS (3 dots): Persuasion ●●, Empathy ●
-CONTACT (1): field asset liaison |
+Handler | ATTRIBUTES (4 dots): Social 3 (Manipulation) \| Mental 1 (Cunning)
+SKILLS (3 dots — max 2 in one): Persuasion, Empathy, Leadership
+Suggested: Persuasion ●●, Empathy ●
+CONTACT (1): field asset liaison
+BOND (1): a stable of assets |
 | Progenitors
-Lab Technician | ATTRIBUTES (4 dots): Mental 3 \| Physical 1
-SKILLS (3 dots): Medicine ●●, Academics ●
-CONTACT (1): biotech supply chain manager |
+Lab Technician | ATTRIBUTES (4 dots): Mental 3 (Intellect) \| Physical 1 (Dexterity)
+SKILLS (3 dots — max 2 in one): Medicine, Science, Technology
+Suggested: Medicine ●●, Science ●
+CONTACT (1): biotech supply-chain manager
+BOND (1): a lab |
 | Progenitors
-Field Researcher | ATTRIBUTES (4 dots): Physical 2 \| Mental 2
-SKILLS (3 dots): Survival ●●, Medicine ●
-CONTACT (1): remote research station coordinator |
+Field Researcher | ATTRIBUTES (4 dots): Physical 2 (Stamina) \| Mental 2 (Cunning)
+SKILLS (3 dots — max 2 in one): Survival, Medicine, Science
+Suggested: Survival ●●, Medicine ●
+CONTACT (1): remote research-station coordinator
+BOND (1): a field station |
 | Syndicate
-Market Analyst | ATTRIBUTES (4 dots): Mental 3 \| Social 1
-SKILLS (3 dots): Academics ●●, Awareness ●
-CONTACT (1): financial intelligence broker |
+Market Analyst | ATTRIBUTES (4 dots): Mental 3 (Intellect) \| Social 1 (Composure)
+SKILLS (3 dots — max 2 in one): Enigmas, Culture, Persuasion
+Suggested: Enigmas ●●, Culture ●
+CONTACT (1): financial intelligence broker
+BOND (1): a trading desk |
 | Syndicate
-Fixer | ATTRIBUTES (4 dots): Social 3 \| Mental 1
-SKILLS (3 dots): Persuasion ●●, Culture ●
-CONTACT (1): underground logistics contact |
+Fixer | ATTRIBUTES (4 dots): Social 3 (Manipulation) \| Mental 1 (Cunning)
+SKILLS (3 dots — max 2 in one): Persuasion, Culture, Larceny
+Suggested: Persuasion ●●, Culture ●
+CONTACT (1): underground logistics contact
+BOND (1): a network of favors |
 | Void Engineers
-Survey Scout | ATTRIBUTES (4 dots): Physical 2 \| Mental 2
-SKILLS (3 dots): Survival ●●, Awareness ●
-CONTACT (1): frontier mapping station operator |
+Survey Scout | ATTRIBUTES (4 dots): Physical 2 (Dexterity) \| Mental 2 (Cunning)
+SKILLS (3 dots — max 2 in one): Survival, Pilot, Science
+Suggested: Survival ●●, Pilot ●
+CONTACT (1): frontier mapping-station operator
+BOND (1): a survey team |
 | Void Engineers
-Systems Engineer | ATTRIBUTES (4 dots): Mental 3 \| Physical 1
-SKILLS (3 dots): Technology ●●, Academics ●
-CONTACT (1): deep-space hardware depot manager |
+Systems Engineer | ATTRIBUTES (4 dots): Mental 3 (Intellect) \| Physical 1 (Dexterity)
+SKILLS (3 dots — max 2 in one): Technology, Science, Pilot
+Suggested: Technology ●●, Science ●
+CONTACT (1): deep-space hardware depot manager
+BOND (1): a maintenance crew |
 
 # Chapter Nine: Storyguide
 
@@ -14699,7 +14751,7 @@ Intellect ●●●○○ (3)    Cunning ●●●○○ (3)    Resolve ●●�
 
 SKILLS
 Close Combat ●●●●○ (4)    Athletics ●●●○○ (3)    Esoterica ●●●○○ (3)
-Awareness ●●●○○ (3)    Occult ●●○○○ (2)    Integrity ●●○○○ (2)
+Empathy ●●●○○ (3)    Enigmas ●●○○○ (2)    Culture ●●○○○ (2)
 Survival ●●○○○ (2)    Medicine ●○○○○ (1)
 
 ARETE ●●●●○ (4)  —  caps all Sphere ratings at ●●●●
@@ -14742,7 +14794,7 @@ Sasha Volkov -- Step Five: 5 Edge Dots
 EDGE POOL: 5 dots
 
 EDGE 1 -- Combat Veteran (Edge ●●●)
-  INVOKE: Enhancement +1 on any combat-adjacent Awareness or initiative roll (spotting ambushes, reading enemy positioning, assessing threat priority). Once per scene.
+  INVOKE: Enhancement +1 on any combat-adjacent Empathy or initiative roll (spotting ambushes, reading enemy positioning, assessing threat priority). Once per scene.
   COMPEL: Storyguide may trigger a "soldier first, mage second" reflex -- Sasha defaults to close combat or direct action instead of a more elegant magical solution. Costs 1 Momentum to override.
   Why Sasha has it: Seven years of post-Awakening life have not erased fifteen years of military muscle memory. When the shooting starts, his body knows what to do before his mind catches up.
 
@@ -14767,9 +14819,9 @@ Here is the precise mechanical effect of each Edge during the Cold Storage encou
 > 
 > PLAYER: "I want to invoke Combat Veteran. Sasha is assessing UNIT-7's attack pattern and Cross's positioning before he commits to a Phase."
 > 
-> STORYGUIDE: "That's exactly the kind of threat-assessment Combat Veteran covers. Enhancement +1 on your Awareness roll to read the tactical situation."
+> STORYGUIDE: "That's exactly the kind of threat-assessment Combat Veteran covers. Enhancement +1 on your Empathy roll to read the tactical situation."
 > 
-> Roll: Awareness 3 + Cunning 3 = 6 dice. Roll [10, 8, 4, 3, 2, 1] = 3 hits, +1 Enhancement (Combat Veteran) = 4 hits. Difficulty 1 → 3 net. The Storyguide reveals UNIT-7's priority target (Cross, not Sasha), the NWO agent's suppressed weapon, and the freezer unit as cover. This information directly shapes Sasha's Round 1 plan.
+> Roll: Empathy 3 + Cunning 3 = 6 dice. Roll [10, 8, 4, 3, 2, 1] = 3 hits, +1 Enhancement (Combat Veteran) = 4 hits. Difficulty 1 → 3 net. The Storyguide reveals UNIT-7's priority target (Cross, not Sasha), the NWO agent's suppressed weapon, and the freezer unit as cover. This information directly shapes Sasha's Round 1 plan.
 > 
 > Note: [Combat Veteran] is now spent for this scene. The Invoke is once-per-scene, not once-per-round. The player chose the right moment.
 
@@ -14791,7 +14843,7 @@ Here is the precise mechanical effect of each Edge during the Cold Storage encou
 > 
 > INVOKE (player-triggered): "I want to invoke [Unsettled]. Sasha's psychological edge gives him a kind of hyper-clarity -- he can feel the wrongness in the room, which means he can feel what is wrong about Cross's cover story when she starts talking."
 > 
-> STORYGUIDE: "I'll allow it. Enhancement +1 on your Integrity roll to detect her deception. The universe is whispering to you. Just not comfortably."
+> STORYGUIDE: "I'll allow it. Enhancement +1 on your Empathy roll to detect her deception. The universe is whispering to you. Just not comfortably."
 > 
 > COMPEL (Storyguide-triggered, next session): "Sasha, I'm Compelling [Unsettled]. You've been in the Chantry for three hours and you can't sit still. Every sound makes you flinch. Sifu Chowdhury has noticed. She wants to talk, and you know exactly what she wants to say -- that you're running too hot. Do you spend 1 Momentum to push through it, or do you accept the Compel and let that conversation happen?"
 > 
@@ -14877,7 +14929,7 @@ MEMBERS: 4 mages (Sasha + 3 others)
 
 CHANTRY TRAITS
 Node Rating: ●● (2) — 2 Quintessence per hour for any resident, up to 2 per day
-Library Rating: ●●● (3) — Enhancement +1 to Occult and Esoterica research rolls
+Library Rating: ●●● (3) — Enhancement +1 to Enigmas and Esoterica research rolls
 Warding Rating: ●● (2) — Enhancement +1 to detect supernatural intrusion
 
 CHANTRY ADVANTAGES
@@ -15043,7 +15095,7 @@ Paradox pool note: Sasha now has 3 Paradox dice accumulated (the improvised effe
 
 **STORYTELLER: “The warehouse goes dark. Emergency lighting flickers on at 20% intensity — barely enough to see the floor. UNIT-7 switches to thermal without missing a beat. Cross, however, loses visual targeting. She’s firing at thermal blurs.”**
 
-Mechanical note: Environmental tag applied: [Low Visibility]. For Cross: all Firearms rolls suffer -2 dice (firing at thermal blurs without imaging hardware). UNIT-7: unaffected (thermal imaging, [Construct] tag). Sasha: his Awareness 3 and Akashic training mean he fights by feel and sound — the Storyguide rules [Low Visibility] does not penalize him for Close Combat actions, only for ranged targeting. This is a significant tactical win.
+Mechanical note: Environmental tag applied: [Low Visibility]. For Cross: all Firearms rolls suffer -2 dice (firing at thermal blurs without imaging hardware). UNIT-7: unaffected (thermal imaging, [Construct] tag). Sasha: his Empathy 3 and Akashic training mean he fights by feel and sound — the Storyguide rules [Low Visibility] does not penalize him for Close Combat actions, only for ranged targeting. This is a significant tactical win.
 
 Round 3 Initiative:
 
