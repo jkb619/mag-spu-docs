@@ -1888,8 +1888,7 @@ Rotes can be lost. If a mage's Grimoire is destroyed and they have not memorized
 
 ---
 
-SIDEBAR — When to Use a Rote vs. Freeform Casting
-====================================================
+### Sidebar — When to Use a Rote vs. Freeform Casting
 
 One of the most common questions new mages ask their Mentors — and new players ask their Storyguides — is: "When should I cast a Rote instead of just improvising?" The answer depends on the situation, and experienced mages learn to read those situations instinctively.
 
@@ -13273,29 +13272,115 @@ A note on variable Tags: some Tags carry a numeric value (Soak X, Sturdy X, Enha
 
 Combat Action Tags describe properties of a specific attack or defensive action at the moment it occurs, rather than permanent properties of a weapon or armor. They arise from how an attack is made, what power is behind it, or what effect it is intended to achieve. These Tags are applied to individual attacks and interact with weapon and armor Tags to determine outcomes.
 
+- **[Armor-Piercing]** — the action strips 1+ Armor Point from the target's armor (degrading it) rather than being fully soaked; see Appendix I.
+- **[Knockback]** — a hit drives the target back one band of range; invoke to break contact, disrupt a caster, or clear a ledge.
+- **[Knockdown]** — a hit leaves the target **[Prone]** (see Character Condition Tags).
+- **[Stunning]** — a hit that dazes; on a success the target gains **[Stunned]** and loses their next action.
+- **[Shock]** — an electrical or concussive jolt; may apply **[Staggered]** and disrupt electronics.
+- **[Wounding]** — the attack inflicts a lasting injury beyond its damage (commonly **[Bleeding]** or a broken limb).
+- **[Non-Lethal]** — the action deals Bashing rather than Lethal by intent; invoke to subdue without killing.
+- **[Devastating]** — an overwhelming blow; invoke to add Enhancement, but such attacks are usually **[Loud]** and hard to conceal.
+- **[Precise]** — a carefully placed strike; invoke for a called shot or to bypass cover, usually at higher Difficulty.
+- **[Counter]** — a defensive action that converts a failed enemy attack into an opening; invoke to riposte on a successful defense.
+- **[Suppressing]** — fire meant to pin rather than hit; compel targets to stay in cover and lose actions.
+- **[Charge]** — closing the gap into the blow; invoke for Enhancement on the strike, but the attacker is exposed afterward (compel).
+
 ## Weapon Tags
 
-Weapon Tags are permanent properties of a specific weapon that apply whenever that weapon is used. They describe the weapon's design, construction, and intended use. Multiple Tags on one weapon are common; a weapon's Tag set tells you what it is good at, what it is bad at, and where interesting narrative moments around it might arise.
+Weapon Tags are permanent properties of a specific weapon that apply whenever that weapon is used. They describe the weapon's design, construction, and intended use. Multiple Tags on one weapon are common; a weapon's Tag set tells you what it is good at, what it is bad at, and where interesting narrative moments around it might arise. (Damage-type tags are listed separately under *Damage Type Tags*.)
+
+- **[Concealable]** — small enough to hide on the body; invoke to draw unseen or pass a search, compel because it is short-ranged and light.
+- **[Reach]** / **[Reaching]** — strikes from one band farther than normal; invoke to hit first or keep an enemy at bay, compel in cramped quarters.
+- **[Brutal]** — inflicts visibly dramatic wounds; invoke to terrify or demoralize, compel because the aftermath is grisly and hard to explain.
+- **[Fast]** — quick to wield; invoke for initiative or a follow-up, often lowering Speed Factor by 1.
+- **[Heavy]** — powerful but cumbersome; invoke for extra damage, compel for slowness or fatigue.
+- **[Two-Handed]** — requires both hands; frees no hand for anything else (compel).
+- **[Versatile]** — usable in more than one mode (e.g., one- or two-handed, blunt or stabbing — choose at time of use).
+- **[Silent]** — makes little noise; invoke to attack without raising an alarm.
+- **[Loud]** — unavoidably noisy (most firearms, explosions); compel to draw witnesses or Paradox pressure.
+- **[Autofire]** — expends many rounds; invoke to spray adjacent targets or add Enhancement against one, drawing down **[Reload]**.
+- **[Reload X]** — the weapon holds X bursts/shots before it must be reloaded (an action); compel when it runs dry at the worst moment.
+- **[Long Range]** — effective well beyond normal range bands; invoke to engage before the enemy can close.
+- **[Thrown]** — a melee weapon that can be hurled as a Short-range attack.
+- **[Returning]** — a thrown or bound weapon comes back to the wielder's hand (a Wonder property).
+- **[Deadly]** — designed to kill; upgrades damage severity, compel because its intent is unmistakable.
+- **[Guided]** / **[Automatic]** — technological targeting or self-operation; invoke for Enhancement, compel via jamming or **[EMP-Proof]** countermeasures.
+- **[Surgical Grip]** — ergonomically precise; invoke for fine control or called shots.
+- **[Fragile]** — likely to break under stress; compel when strained or parried hard.
+- **[Rugged]** — built to endure abuse; resists breakage and the elements.
 
 ## Armor Tags — Intrinsic Properties
 
 Intrinsic armor Tags are permanent properties of the armor itself, present from the moment it is worn. They define what the armor is made of, how it was constructed, and what it was designed to do. Unlike condition Tags (which appear as armor is damaged), intrinsic Tags remain constant unless the armor is fundamentally altered. Most armor carries three to six intrinsic Tags.
 
+- **[Rigid]** — hard-shell protection; strong Soak against blunt and ballistic force, compel for stiffness and reduced agility.
+- **[Flexible]** — soft or articulated; invoke to move, hide, or act freely while armored.
+- **[Concealed]** — can be worn unseen under clothing; invoke to avoid notice.
+- **[Reinforced]** — reinforced at key points; adds Soak or an extra Armor Point.
+- **[Fireproof]** — resists heat and flame; invoke against fire, **[Elemental]**, and thermal attacks.
+- **[EMP-Proof]** — shielded against electromagnetic and electronic disruption.
+- **[Sealed]** — airtight; invoke against gas, vacuum, and environmental hazards.
+- **[Barrier]** — projects or forms a protective barrier beyond the wearer (a Wonder/Sphere property).
+- **[Rugged]** — hard-wearing; shrugs off weather and rough handling.
+- **[Natural]** — the armor is part of the body or looks like ordinary clothing; invoke to conceal that it is armor at all.
+
 ## Armor Condition Tags
 
 Condition Tags are not part of the armor's original construction — they appear as the armor's Armor Points are depleted through combat. Each condition Tag reduces the armor's effective Soak and creates an invocable vulnerability that enemies can exploit. Condition Tags are removed by successful repair. See Appendix I for the full armor system.
+
+- **[Cracked]** — the shell is fractured; enemies may invoke to place hits through the gap, and the armor's Soak drops by 1.
+- **[Compromised]** — a fastening or seam has failed; the armor shifts and no longer covers reliably.
+- **[Breached]** — a section is destroyed; that location offers no Soak until repaired.
+- **[Sundered]** — the armor is effectively destroyed and provides no further protection until rebuilt.
 
 ## Character Condition Tags
 
 Character Condition Tags are states applied to a character as a result of injury, magical effects, environmental hazards, or combat outcomes. They modify what the character can do and how effectively they can do it. Most condition Tags have a defined duration or can be removed by specific actions. In the Phase System, some condition Tags specifically affect the initiative pool.
 
+- **[Bloodied]** — wounded and visibly hurt (the Impaired band); compel for pain, fear, or leaving a trail.
+- **[Bleeding]** — losing blood each round until treated (Medicine + Intellect, Diff 2); see Death & Dying.
+- **[Stunned]** — dazed; loses the next action entirely. Resolves after one round or with a Stamina + Resolve roll.
+- **[Staggered]** — knocked off-balance; −1 die until the character re-grounds (a Minor Action).
+- **[Prone]** — knocked down; ranged attackers gain advantage, melee attackers gain Enhancement; standing costs an action.
+- **[Blinded]** — cannot see; all sight-based actions suffer heavily and targeting is at high Difficulty.
+- **[Broken Arm]** / **[Broken Limb]** — a targeted injury; the limb cannot be used until healed.
+- **[Prone to Quiet]** / **[Rattled]** — see Willpower and Sanity; **[Rattled]** (0 Willpower) compels hesitation and avoidance.
+- **[Shaken]** / **[Frightened]** / **[Terrified]** — escalating fear states; compel to flinch, flee, or freeze.
+- **[Noise-Shocked]** — deafened and disoriented by a blast; sound-based actions and communication suffer.
+- **[Strained]** — out of Quintessence (see Chapter Three); compel via unreliable magic and fatigue.
+- **[Unsettled]** / **[Fractured]** / **[Unraveling]** / **[Quiet]** — the Sanity/Quiet track states (Appendix K, Chapter Five); each compels escalating psychological instability.
+
 ## Environmental and Situational Tags
 
 Environmental and Situational Tags describe conditions of the scene rather than any individual character. They apply to everyone present and can be invoked by anyone whose action would benefit from the condition, or compelled against anyone whose action the condition would hinder. These Tags are established at the start of a scene or arise dynamically as events unfold.
 
+- **[Low Visibility]** — darkness, smoke, or fog; invoke to hide or evade, compel against ranged targeting.
+- **[Crowd of Witnesses]** / **[Witnesses]** — Sleepers are watching; compel to raise Paradox pressure on vulgar magic and complicate open action.
+- **[Concealment]** / **[Cover]** — intervening terrain; invoke to reduce incoming ranged hits.
+- **[Loud]** — an environment full of noise; invoke to move or speak unheard, compel against communication.
+- **[Dangerous]** — the footing or surroundings are hazardous (fire, ledges, live wires); compel to punish careless movement.
+- **[Electronic Interference]** — the area disrupts electronics and comms; compels **[Technological]** gear.
+- **[Cramped]** / **[Confined]** — tight quarters; compel against **[Reach]**, **[Two-Handed]**, and large actions.
+- **[Spreading Fire]** — an escalating blaze; grows each round and compels everyone present.
+
 ## Magical Tags
 
 Magical Tags describe properties of spells, magical effects, magical items, and the characters who wield them. They govern the Consensus's response to magic, the relationship between mages and their Resonance, and the specific nature of supernatural effects. Most Magical Tags interact directly with the Paradox system.
+
+- **[Vulgar]** — the effect visibly breaks consensus reality; compel to add Paradox dice, especially with **[Witnesses]**.
+- **[Subtle]** / **[Coincidental]** — the effect can pass as coincidence; invoke to avoid Paradox and suspicion.
+- **[Lasting]** — the effect persists beyond the scene without concentration (a duration property of many workings and Wonders).
+- **[Sustained]** — the effect lasts only while the mage maintains focus; compel when concentration is broken.
+- **[Ritual]** — the working requires extended casting time and preparation; invoke for power, compel for the time it demands.
+- **[Resonant]** — carries the mage's magical signature (often noted as [Resonant (Verbena)] etc.); compel to let others track or identify the caster.
+- **[Enchanted]** — the base tag every Wonder carries: the item holds a persistent magical effect (see Item & Wonder Tags).
+- **[Warding]** / **[Warded]** — a protective boundary against intrusion or magic; invoke to block, compel when the ward also hinders the caster.
+- **[Consecrated]** — a sanctified area or object; boosts aligned magic and hinders the hostile (see Chantries).
+- **[Paradox Magnet]** — draws extra Paradox; compel to escalate backlash.
+- **[Anti-Supernatural]** / **[Bane]** — especially effective against supernatural targets (see Bane Weapon under Item & Wonder Tags).
+- **[Umbral]** — pertains to or exists in the Umbra/spirit worlds (see Appendix M).
+- **[Dimensional]** — crosses or manipulates dimensional boundaries.
+- **[Corrupt]** / **[Nephandic]** — tainted by the Fallen; compel to attract or empower dark forces (antagonist-flavored).
 
 ## Craft Tags — Factional Signature Tags
 
@@ -13323,23 +13408,63 @@ New **wonder and weapon Tags** referenced across Appendices W, U, and Q — [Ban
 
 ## Phase Initiative System Tags
 
-These Tags are specific to the Phase Initiative System described in Appendix F. They modify how a character interacts with the Phase structure and are applied through abilities, circumstances, or armor properties.
+These Tags are specific to the Phase Initiative System described in Appendix H. They modify how a character interacts with the Phase structure and are applied through abilities, circumstances, or armor properties.
+
+- **[Fast]** — the character or weapon acts earlier; add Action Dice or lower Speed Factor by 1.
+- **[Slow]** / **[Heavy]** — acts later; raises Speed Factor or spends an extra Action Die.
+- **[Ambidextrous]** — reduces the Divided Attention penalty for acting with both hands from −2 to −1.
+- **[Combat Veteran]** — invoke once per scene for Enhancement on a threat-assessment or initiative roll.
+- **[Rattled]** / **[Stunned]** / **[Staggered]** — condition tags (above) that subtract Action Dice or cost the character their Phase.
 
 ## SPU Core Weapon Tags
 
 The following tags are drawn directly from the Storypath Ultra core rules and apply to weapons in this game. They are distinct from the narrative weapon tags listed earlier (Brutal, Concealable, Reach, etc.), which describe a weapon's character and history. These SPU core tags describe specific mechanical capabilities — Tricks unlocked, structural interactions, and targeted effects. Both sets apply to the same weapons; a knife can be simultaneously Concealable (narrative tag) and Piercing (SPU core tag).
 
+- **[Piercing]** — strips 1 Armor Point per hit, degrading the target's armor rather than bypassing bands (see Appendix I).
+- **[Stun]** — the wielder may spend hits/Tricks to inflict **[Stunned]** instead of extra damage.
+- **[Spread]** / **[Autofire]** — may split an attack across multiple close targets, or concentrate for Enhancement against one.
+- **[Reach]** — engages at one greater range band (mechanical counterpart of the narrative Reach tag).
+- **[Ranged]** — attacks at a distance using Ranged Combat; range bands apply.
+- **[Thrown]** — may be thrown for a Short-range Ranged Combat attack.
+- **[Two-Handed]** — needs both hands; unlocks heavier-damage Tricks.
+- **[Reload X]** — must be reloaded after X uses (a Minor Action).
+
 ## SPU Core Armor Tags
 
 These armor tags are taken from the Storypath Ultra core rules and supplement the conversion-specific intrinsic armor tags listed earlier. They describe physical construction properties and specific defensive capabilities.
 
+- **[Ballistic]** — rated Soak applies against **[Ballistic Damage]** (firearms); otherwise that Soak does not apply.
+- **[Rigid]** — hard armor; full Soak against **[Blunt]** and **[Ballistic]**, less effective against **[Edged]** thrusts.
+- **[Flexible]** — soft armor; imposes no movement penalty but offers less Soak against heavy impact.
+- **[Sturdy]** — carries extra Armor Points, taking longer to degrade under **[Piercing]** attacks.
+- **[Concealable]** — can be worn hidden (mechanical counterpart of the narrative tag).
+
 ## Tool Tags
 
-Tools are items that are neither weapons nor armor — they exist to help characters do things other than fighting. Tool tags modify Enhancement, define scope, or grant special capabilities to non-combat items. See Appendix Q for specific tool stat blocks and Appendix R for crafting tools as part of the Wonder system.
+Tools are items that are neither weapons nor armor — they exist to help characters do things other than fighting. Tool tags modify Enhancement, define scope, or grant special capabilities to non-combat items. See Appendix Q for specific tool stat blocks and Appendix R for crafting tools as part of the Wonder system. Storypath Ultra sorts most equipment benefits into a handful of general tag types:
+
+- **[Enhancement]** — the tool adds automatic hits to a specific kind of task (its defining benefit).
+- **[Boost]** — extends the reach, scale, or potency of an action beyond the ordinary.
+- **[Control]** — grants command over a system, vehicle, or process.
+- **[Sensory]** / **[Perceptual]** — extends or sharpens perception (optics, sensors, scrying aids).
+- **[Interaction]** — aids social or informational tasks (records, disguises, credentials).
+- **[Movement]** / **[Transport]** — carries or moves people or cargo.
+- **[Communication]** / **[Networked]** — links people or systems across distance.
+- **[Consumable]** / **[Expendable]** / **[Single-Use]** / **[Multiuse]** — how many times the item can be used before it is spent.
+- **[Educational]** / **[Teaching]** — the tool or resource can impart a skill or fact.
 
 ## Vehicle Tags
 
 Vehicle tags define the specific capabilities of a vehicle beyond its base size, speed, handling, and injury ratings. Each vehicle can carry up to its Size in tags; iconic or Enlightened vehicles may carry more. See Appendix S for complete vehicle stat blocks and chase rules.
+
+- **[Fast]** — high top speed; invoke in chases and to open distance.
+- **[Rugged]** — built to survive crashes and rough terrain; invoke against collision damage.
+- **[Transport]** — carries many passengers or heavy cargo.
+- **[Armored]** — carries vehicle Soak against attacks on the vehicle itself.
+- **[EMP-Proof]** — shielded against electronic and Forces-based disruption.
+- **[Amphibious]** / **[All-Terrain]** — operates across water or difficult ground.
+- **[Stealthed]** — hard to detect visually or electronically; invoke to avoid notice.
+- **[Enchanted]** — a mage-modified vehicle bearing a persistent magical effect (see Appendix S, Appendix R).
 
 ## Damage Type Tags
 
@@ -13347,13 +13472,39 @@ Damage type tags indicate what kind of energy or force a weapon delivers and wha
 
 Each weapon receives one free damage type tag and may acquire additional damage tags up to its tag limit. Each armor receives one free damage type tag (representing its primary protection rating) and may acquire additional tags up to its tag limit. This system is most important for games where opponents regularly wear armor — it gives mages a reason to think about which Sphere effect best defeats a given target's protection.
 
+- **[Ballistic Damage]** — bullets and high-velocity projectiles; soaked only by **[Ballistic]** armor.
+- **[Edged Damage]** — cutting and slashing; soaked by armor rated against blades.
+- **[Blunt Damage]** / **[Stabbing Damage]** — crushing impact or thrusting; **[Rigid]** armor excels against blunt force.
+- **[Elemental Damage]** — fire, cold, acid, and the like; only armor with the matching **[Elemental]**/**[Fireproof]** rating soaks it.
+- **[Electrical Damage]** — shock and current; disrupts electronics and unshielded targets.
+- **[Aggravated]** — supernatural harm (Paradox, spirit claws, true fire, direct Prime); heals slowly and is soaked only by specialized protection.
+
 ## Item and Wonder Tags
 
 These tags describe properties of magical items (Wonders) and are applied during or after the crafting process. They distinguish magical items from mundane ones, define how an item interacts with the Consensus, and describe the nature of any spirit or awareness the item possesses. All Wonders automatically gain the Enchanted tag at minimum.
 
+- **[Enchanted]** — the baseline Wonder tag: the item holds a persistent magical effect and registers to Sphere sight.
+- **[Attuned]** / **[Bound (to bearer)]** — keyed to one owner; invoke for full power, compel when another tries to use it.
+- **[Intelligent]** / **[Autonomous]** — the item has an awareness or can act on its own; invoke for its aid, compel for its own agenda.
+- **[Resonant]** — carries a detectable magical signature; compel to let others track it.
+- **[Mana Reservoir]** — stores Quintessence the bearer can draw on.
+- **[Consumable]** / **[Single-Use]** / **[Multiuse]** / **[Expendable]** — how many activations the Wonder holds.
+- **[Indestructible]** / **[Nigh-Indestructible]** / **[Unbreakable]** — resists or ignores destruction.
+- **[Bane Weapon: X]** — deals **[Aggravated]** damage to the named kind of supernatural creature.
+- **[Legendary]** — a unique, story-defining artifact (••••• Wonder); powerful, attention-drawing, and costly in Background points.
+- **[Consensus-Protecting]** — the item helps its magic pass as coincidence, easing Paradox.
+
 ## Item Flaw Tags
 
 Flaw tags appear on items as a result of failed milestone rolls during Wonder crafting (see Appendix R). Unlike standard tags, Flaws can only be compelled against the item's wielder — never invoked for advantage. They represent instabilities, spiritual resentments, or structural weaknesses baked into the item during creation. Flaws can be removed during crafting with the Quick Fix Trick (2 hits), but Flaws that survive to the final milestone become permanent features of the Wonder.
+
+- **[Fragile]** — breaks easily under stress; compel to shatter or jam at a bad moment.
+- **[Unstable]** — the effect misfires or fluctuates; compel for unpredictable results.
+- **[Jinxed]** — the item attracts bad luck for its wielder; compel to sour nearby rolls.
+- **[Paradox Magnet]** — draws extra Paradox when used vulgarly.
+- **[Conspicuous]** — the item is obvious to magical or mundane senses; compel to blow the wielder's cover.
+- **[Blood-Hungry]** / **[Bizarre Hunger]** — the Wonder demands a price (blood, Quintessence, a behavior) to function.
+- **[Corrupting]** — prolonged use taints the bearer; compel toward the item's dark influence.
 
 ## Tag Design and Pricing — Getting the Scope Right
 
@@ -13586,7 +13737,7 @@ Every tag must have a viable compel. This is not optional — a tag without a ge
 **The compel structure:** A compel takes the tag's defining quality and finds a situation where that same quality creates a problem. The quality does not change — only the context around it makes it a problem rather than an asset.
 
 | Tag | What makes it an asset | What makes it a problem (compel) |
-|---|---|---|
+| --- | --- | --- |
 | [Precise] | Enhancement +1 on careful, targeted actions | You cannot respond to a situation that requires broad, improvised action — the need for precision becomes paralysis |
 | [Loud] | Devastating presence; enemies know you are serious | You announce your position; Sleepers call the police; ambush impossible |
 | [Known to the Consilium] | Opens doors, grants credibility | Creates accountability; cannot operate anonymously; rivals know where to find you |
@@ -13617,7 +13768,7 @@ Follow these steps in order when creating a new tag.
 **Step 4 — Apply the cost hierarchy.** Count tag slots:
 
 | What the tag delivers | Slot cost |
-|---|---|
+| --- | --- |
 | Passive: +1 Enhancement to one specific action type | 1 slot |
 | Passive: any benefit covering two action types | 2 slots |
 | Invoke: Enhancement +1 to one specific action type | 1 slot |
@@ -14350,6 +14501,157 @@ Subtract 2 dice from social rolls in situations where naturalness, spontaneous h
 ---
 
 ---
+
+## Alphabetical Tag Index
+
+Every reusable Tag catalogued in this appendix, listed alphabetically with the category (or categories) it belongs to. Character Nature Tags are defined in Chapter Three (*Nature and Demeanor*), Avatar Essence Tags in Appendix C, and the full Drawback/Complication Tags below; one-off item- and Wonder-specific Tags are defined in their stat blocks in Appendices Q, R, S, U, and W.
+
+- **Aggravated** — Damage Type Tags
+- **All-Terrain** — Vehicle Tags
+- **Ambidextrous** — Phase Initiative System Tags
+- **Amphibious** — Vehicle Tags
+- **Anti-Supernatural** — Magical Tags
+- **Armor-Piercing** — Combat Action Tags
+- **Armored** — Vehicle Tags
+- **Attuned** — Item and Wonder Tags
+- **Autofire** — SPU Core Weapon Tags • Weapon Tags
+- **Automatic** — Weapon Tags
+- **Autonomous** — Item and Wonder Tags
+- **Ballistic** — SPU Core Armor Tags
+- **Ballistic Damage** — Damage Type Tags
+- **Bane** — Magical Tags
+- **Bane Weapon: X** — Item and Wonder Tags
+- **Barrier** — Armor Tags
+- **Bizarre Hunger** — Item Flaw Tags
+- **Bleeding** — Character Condition Tags
+- **Blinded** — Character Condition Tags
+- **Blood-Hungry** — Item Flaw Tags
+- **Bloodied** — Character Condition Tags
+- **Blunt Damage** — Damage Type Tags
+- **Boost** — Tool Tags
+- **Bound (to bearer)** — Item and Wonder Tags
+- **Breached** — Armor Condition Tags
+- **Broken Arm** — Character Condition Tags
+- **Broken Limb** — Character Condition Tags
+- **Brutal** — Weapon Tags
+- **Charge** — Combat Action Tags
+- **Coincidental** — Magical Tags
+- **Combat Veteran** — Phase Initiative System Tags
+- **Communication** — Tool Tags
+- **Compromised** — Armor Condition Tags
+- **Concealable** — SPU Core Armor Tags • Weapon Tags
+- **Concealed** — Armor Tags
+- **Concealment** — Environmental and Situational Tags
+- **Confined** — Environmental and Situational Tags
+- **Consecrated** — Magical Tags
+- **Consensus-Protecting** — Item and Wonder Tags
+- **Conspicuous** — Item Flaw Tags
+- **Consumable** — Item and Wonder Tags • Tool Tags
+- **Control** — Tool Tags
+- **Corrupt** — Magical Tags
+- **Corrupting** — Item Flaw Tags
+- **Counter** — Combat Action Tags
+- **Cover** — Environmental and Situational Tags
+- **Cracked** — Armor Condition Tags
+- **Cramped** — Environmental and Situational Tags
+- **Crowd of Witnesses** — Environmental and Situational Tags
+- **Dangerous** — Environmental and Situational Tags
+- **Deadly** — Weapon Tags
+- **Devastating** — Combat Action Tags
+- **Dimensional** — Magical Tags
+- **Edged Damage** — Damage Type Tags
+- **Educational** — Tool Tags
+- **Electrical Damage** — Damage Type Tags
+- **Electronic Interference** — Environmental and Situational Tags
+- **Elemental Damage** — Damage Type Tags
+- **EMP-Proof** — Armor Tags • Vehicle Tags
+- **Enchanted** — Item and Wonder Tags • Magical Tags • Vehicle Tags
+- **Enhancement** — Tool Tags
+- **Expendable** — Item and Wonder Tags • Tool Tags
+- **Fast** — Phase Initiative System Tags • Vehicle Tags • Weapon Tags
+- **Fireproof** — Armor Tags
+- **Flexible** — Armor Tags • SPU Core Armor Tags
+- **Fractured** — Character Condition Tags
+- **Fragile** — Item Flaw Tags • Weapon Tags
+- **Frightened** — Character Condition Tags
+- **Guided** — Weapon Tags
+- **Heavy** — Phase Initiative System Tags • Weapon Tags
+- **Indestructible** — Item and Wonder Tags
+- **Intelligent** — Item and Wonder Tags
+- **Interaction** — Tool Tags
+- **Jinxed** — Item Flaw Tags
+- **Knockback** — Combat Action Tags
+- **Knockdown** — Combat Action Tags
+- **Lasting** — Magical Tags
+- **Legendary** — Item and Wonder Tags
+- **Long Range** — Weapon Tags
+- **Loud** — Environmental and Situational Tags • Weapon Tags
+- **Low Visibility** — Environmental and Situational Tags
+- **Mana Reservoir** — Item and Wonder Tags
+- **Movement** — Tool Tags
+- **Multiuse** — Item and Wonder Tags • Tool Tags
+- **Natural** — Armor Tags
+- **Nephandic** — Magical Tags
+- **Networked** — Tool Tags
+- **Nigh-Indestructible** — Item and Wonder Tags
+- **Noise-Shocked** — Character Condition Tags
+- **Non-Lethal** — Combat Action Tags
+- **Paradox Magnet** — Item Flaw Tags • Magical Tags
+- **Perceptual** — Tool Tags
+- **Piercing** — SPU Core Weapon Tags
+- **Precise** — Combat Action Tags
+- **Prone** — Character Condition Tags
+- **Prone to Quiet** — Character Condition Tags
+- **Quiet** — Character Condition Tags
+- **Ranged** — SPU Core Weapon Tags
+- **Rattled** — Character Condition Tags • Phase Initiative System Tags
+- **Reach** — SPU Core Weapon Tags • Weapon Tags
+- **Reaching** — Weapon Tags
+- **Reinforced** — Armor Tags
+- **Reload X** — SPU Core Weapon Tags • Weapon Tags
+- **Resonant** — Item and Wonder Tags • Magical Tags
+- **Returning** — Weapon Tags
+- **Rigid** — Armor Tags • SPU Core Armor Tags
+- **Ritual** — Magical Tags
+- **Rugged** — Armor Tags • Vehicle Tags • Weapon Tags
+- **Sealed** — Armor Tags
+- **Sensory** — Tool Tags
+- **Shaken** — Character Condition Tags
+- **Shock** — Combat Action Tags
+- **Silent** — Weapon Tags
+- **Single-Use** — Item and Wonder Tags • Tool Tags
+- **Slow** — Phase Initiative System Tags
+- **Spread** — SPU Core Weapon Tags
+- **Spreading Fire** — Environmental and Situational Tags
+- **Stabbing Damage** — Damage Type Tags
+- **Staggered** — Character Condition Tags • Phase Initiative System Tags
+- **Stealthed** — Vehicle Tags
+- **Strained** — Character Condition Tags
+- **Stun** — SPU Core Weapon Tags
+- **Stunned** — Character Condition Tags • Phase Initiative System Tags
+- **Stunning** — Combat Action Tags
+- **Sturdy** — SPU Core Armor Tags
+- **Subtle** — Magical Tags
+- **Sundered** — Armor Condition Tags
+- **Suppressing** — Combat Action Tags
+- **Surgical Grip** — Weapon Tags
+- **Sustained** — Magical Tags
+- **Teaching** — Tool Tags
+- **Terrified** — Character Condition Tags
+- **Thrown** — SPU Core Weapon Tags • Weapon Tags
+- **Transport** — Tool Tags • Vehicle Tags
+- **Two-Handed** — SPU Core Weapon Tags • Weapon Tags
+- **Umbral** — Magical Tags
+- **Unbreakable** — Item and Wonder Tags
+- **Unraveling** — Character Condition Tags
+- **Unsettled** — Character Condition Tags
+- **Unstable** — Item Flaw Tags
+- **Versatile** — Weapon Tags
+- **Vulgar** — Magical Tags
+- **Warded** — Magical Tags
+- **Warding** — Magical Tags
+- **Witnesses** — Environmental and Situational Tags
+- **Wounding** — Combat Action Tags
 
 # Appendix K: Sanity — The Fraying Edge of the Awakened Mind
 
@@ -20130,15 +20432,23 @@ FREEFORM SF = Difficulty: highest Sphere dot + number of Spheres (slower than Ro
 
 This appendix provides a complete, fillable, and printable character sheet for Mage: The Ascension — Storypath Ultra Edition. It is laid out across two pages and captures every trait the Storypath Ultra rules use.
 
-Page one records identity and the trait spread: Character Name, Player, and Chronicle; Tradition/Convention/Craft, Major Path, and Arete/Enlightenment; Concept and Paradigm; the two Minor Paths; the nine Attributes across the Mental, Physical, and Social Arenas; the sixteen Skills; the nine Spheres (each capped by Arete); and the Resonance, Avatar Essence, Affinity Sphere, and Focus (Paradigm • Practice • Instruments) traits.
+Page one records identity and the trait spread: Character Name, Player, and Chronicle; Tradition/Convention/Craft, Major Path, and Arete/Enlightenment; Concept and Paradigm; the two Minor Paths; the nine Attributes across the Mental, Physical, and Social Arenas; the sixteen Skills; the nine Spheres (each capped by Arete); the Resonance, Avatar Essence, Affinity Sphere, and Focus (Paradigm • Practice • Instruments) traits; and — at the foot of the page — the **Nature & Demeanor** block. Because Nature is a Tag in this edition (see *Nature and Demeanor*, Chapter Three), that block has its own dedicated space: the Nature itself, its **Strength** (which you Invoke), its **Weakness** (which the Storyguide Compels), its **Fulfillment** condition (which recovers 1 Willpower), and a line for the flavor-only Demeanor.
 
-Page two records the play-facing tracks and resources: the Health Track (bands: Bruised — no penalty; Impaired — −1 die; Critical — −2 dice; Incapacitated), Willpower (permanent dots and current rating), Quintessence and the Paradox Pool, and the five-box Quiet Track (Static, Distortion, Fracture, Unraveling, Full Quiet); followed by Edges, Powers & Tags; Bonds & Contacts; the three starting Rotes; Derived Stats; Experience & Advancement; Wonders, Foci & Gear; and space for Cabal/Chantry and Nature/Demeanor.
+Page two records the play-facing tracks and resources: the Health Track (bands: Bruised — no penalty; Impaired — −1 die; Critical — −2 dice; Incapacitated), Willpower (permanent dots and current rating), Quintessence and the Paradox Pool, and the five-box Quiet Track (Static, Distortion, Fracture, Unraveling, Full Quiet); followed by Edges, Powers & Tags; Bonds & Contacts; the three starting Rotes; Derived Stats; Experience & Advancement; Wonders, Foci & Gear; and a full-width Cabal/Chantry line.
 
-The sheet is shown below filled in for Rosamund Ashby, the Verbena Blood-and-Bone Witch used as the worked example throughout this book, so that every field has a concrete illustration. A blank, interactive version is also distributed as an HTML file (Mage_SPU_Character_Sheet.html) whose dots and tracks fill in when clicked and which prints cleanly.
+The sheet is shown first filled in for Rosamund Ashby, the Verbena Blood-and-Bone Witch used as the worked example throughout this book, so that every field — including the new Nature Tag block (her Nature is Guardian, Demeanor Caregiver) — has a concrete illustration.
 
-![Character sheet — page one](Appendix_P_sheet_1.png){width=6.5in}
+![Filled example — page one](Appendix_P_sheet_1.png){width=6.5in}
 
-![Character sheet — page two](Appendix_P_sheet_2.png){width=6.5in}
+![Filled example — page two](Appendix_P_sheet_2.png){width=6.5in}
+
+## Blank Character Sheet
+
+A blank version of both pages follows, ready to photocopy or print for players to fill in by hand. The same sheet is also distributed digitally in two forms: an interactive, click-to-fill HTML sheet (Mage_SPU_Character_Sheet.html, shown pre-filled as Rosamund) and a blank interactive HTML sheet (Mage_SPU_Blank_Character_Sheet.html), plus a print-ready blank PDF (Mage_SPU_Blank_Character_Sheet.pdf). The dots and tracks in the HTML versions fill in when clicked, and every version prints cleanly.
+
+![Blank character sheet — page one](Appendix_P_blank_1.png){width=6.5in}
+
+![Blank character sheet — page two](Appendix_P_blank_2.png){width=6.5in}
 
 > **Storyguide note:** All trait definitions live in their home chapters — Attributes and Skills in Chapter Three (Character Creation); Spheres in Chapter Six; the Health Track in Chapter Seven (Combat); the Quiet Track in Chapter Five and Appendix K; the Paradox Pool in Chapter Five; and Arete/Enlightenment in Chapter Three. This sheet is the single page where they all come together.
 
@@ -20146,8 +20456,7 @@ The sheet is shown below filled in for Rosamund Ashby, the Verbena Blood-and-Bon
 
 ---
 
-DESIGNER NOTE — BALANCE AND INTENT
-=====================================
+## Designer Note — Balance and Intent
 
 Every item in this appendix was built with the same underlying design philosophy: tags must cut both ways. An item that can only be invoked — never compelled — is a mechanical advantage with no dramatic cost, and that is bad game design. Every Enhancement an item grants should be matchable by a complication the Storyguide can introduce.
 
@@ -24619,7 +24928,7 @@ Grotesquely oversized weapons — titanic swords, massive axes, reaper scythes, 
 Damage values:
 
 | Weapon | Difficulty | Damage | Type |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Titanic Sword | 5 | Strength + 8 | Lethal |
 | Massive Axe | 6 | Strength + 9 | Lethal |
 | Reaper Scythe | 7 | Strength + 9 | Lethal |
